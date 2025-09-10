@@ -1,3 +1,5 @@
+#### Paragraphe 1 : 
+
 Uniquement étude des relations individuelles de travail. L'autre aspect, ce sont les relations collectives (second semestre).
 
 Dans les relations individuelles, c’est un **contrat**, un contrat spécial. Il n’est pas étudié avec les contrats spéciaux, car la spécificité de ce contrat est très marquée.
@@ -59,7 +61,7 @@ On pourrait faire travailler quelqu’un sans contrat de travail, via un **contr
 - Dans le contrat de travail, l’un travaille pour l’autre, mais surtout, il y a **subordination juridique**.
 - Si constatée, la relation doit être requalifiée en **contrat de travail**.
 
-### Exemple : Uber
+**Exemple : Uber**
 Au lieu d’embaucher des chauffeurs (contrat de travail), on leur propose un contrat d’indépendant (location de véhicule, prestations). Cela permet de contourner les obligations du droit du travail.
 
 Mais si un lien de **subordination** est prouvé → requalification en contrat de travail.

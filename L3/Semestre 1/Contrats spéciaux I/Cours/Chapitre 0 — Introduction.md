@@ -435,8 +435,6 @@ Un groupe de travail chargé de proposer une refonte du Code civil en matière d
 
 Cette commission a travaillé **deux ans et demi**, au terme desquels elle a remis au garde des sceaux un avant-projet de réforme du droit des contrats spéciaux.
 
-# X
-
 Deux questions principales
 1. **La qualification du contrat (la plus importante)** :  
     En droit français, on applique le régime correspondant à la qualification des faits. Lorsqu’un contrat pose un litige, il faut d’abord **qualifier le contrat**, c’est-à-dire le faire entrer dans une catégorie abstraite. C’est l’étape la plus complexe. Une fois la qualification posée, on déroule le régime applicable.
@@ -447,245 +445,278 @@ Deux questions principales
 
 #### Paragraphe 1 : La qualification du contrat
 
-c une qiestion fondamentale en droit des contrats. on prend un contrat donné de la vie concrete et on se demande dans quelle catégorie il rentre. Ex transfert de prpriété moyennat un prix c'est la vente. Puis il suffit de connatire le regime du contrat de ventre pour l'appliquer.
+C’est une question fondamentale en droit des contrats. On prend un contrat donné de la vie concrète et on se demande dans quelle catégorie il rentre. Exemple : transfert de propriété moyennant un prix, c’est la vente. Puis il suffit de connaître le régime du contrat de vente pour l’appliquer.
 
-il fonctionne la plupart du temps bien tant que y'a un contrat asssez simpel. Ils ne posent pas de difficulté.
+Cela fonctionne la plupart du temps tant que le contrat est assez simple. Il ne pose pas de difficulté.
 
-Mais dans la praitque la ifficulté vient decontrats compelxes issus de la liberté contractuelle. Elle ne cesse depui des siècles de créer des nouveaux contrats. Contrats sui generis : ce sont des contrats qui sont un genre en soi. Ils constituent une categoire en eux meme carte entre dans aucune categorie preexistente u'on connait. 
+Mais dans la pratique, la difficulté vient des contrats complexes issus de la liberté contractuelle. Celle-ci ne cesse depuis des siècles de créer de nouveaux contrats. **Contrats sui generis** : ce sont des contrats qui sont un genre en soi. Ils constituent une catégorie en eux-mêmes, car ils n’entrent dans aucune catégorie préexistante que l’on connaît.
 
-des contrats comelxes sont crées tt les joruspar la pratique des affaires, pratique notariale. 
+Des contrats complexes sont créés tous les jours par la pratique des affaires ou la pratique notariale.
 
-ca crée pas qq chso de totalement nouveau. La noveuauté proivnet d ela combinaison nouvelle d'lemetns constituis d'un contrat donné.
+Cela ne crée pas quelque chose de totalement nouveau. La nouveauté provient de la **combinaison nouvelle** d’éléments constitutifs d’un contrat donné.
 
-Ex la location-vente (le crédit-bail) : c un melenge d'une periode de location (ex le leasing), un etablissmetn bancaire achete le vehicule et nous le loue. Pendant cette periode d elocaiton on paie un loyer. Au terme de cette periode y'a une option d'achat. Y'a une promesse de ente qui dit que si on veut devenir proprio du vehicule, on paie un dernier loyer qui vaudra acquisition du vehicule.
+Exemple : la **location-vente** (le crédit-bail). C’est un mélange d’une période de location (ex. le leasing) : un établissement bancaire achète le véhicule et nous le loue. Pendant cette période de location, on paie un loyer. Au terme de cette période, il y a une option d’achat : une promesse de vente qui prévoit que, si l’on veut devenir propriétaire du véhicule, il suffit de payer un dernier loyer qui vaut acquisition du véhicule.
 
-c donc un contart de locaiton et un contrat de vente successivement. C la combinaision des deux qui crée la novueauté. ce crédit bial est codifié dans le code desmarchés financiers (au départ un contrat sui generis, ou contrat innomé càd qui n'a pas de nim legal meme si nom en pratique).
+C’est donc successivement un contrat de location et un contrat de vente. C’est la combinaison des deux qui crée la nouveauté. Ce crédit-bail est codifié dans le Code des marchés financiers (au départ, c’était un contrat **sui generis**, ou contrat **innomé**, c’est-à-dire sans nom légal, même si un nom existait en pratique).
 
-ex le contrat de dépot vente : c'est l'idée du depot en vue d'une vente. Si qqn veut acheter le meuble, entrepris enous appelel pas pour venir signer la vente, car on leur a donné un mandat; Y'a donc du depot, de la vente, et surtout du mandat. On donne mandat à l'entreprise un mandat pour vendre une meuble à tel fourchette de prix à qqn qui voudra l'acheter. Y'a donc.3 qualificaitns posibles.
+Exemple : le **contrat de dépôt-vente**. C’est l’idée du dépôt en vue d’une vente. Si quelqu’un veut acheter le meuble, l’entreprise ne nous appelle pas pour venir signer la vente, car on lui a donné un mandat. Il y a donc du dépôt, de la vente, et surtout du mandat : on donne à l’entreprise un mandat pour vendre un meuble dans une certaine fourchette de prix. → Trois qualifications possibles.
 
-la cour de cassatio dit toiujours que ce n'est pas un contrat, mais sans dire ce que c'est. 
+La Cour de cassation dit toujours que ce n’est **pas un contrat de dépôt**, mais sans dire ce que c’est.
 
-ex contrat de coffre fort : contrat par lequel on conclue avec une banque la mise a disposition 'un cofre fort dna sla salle des coffrs de la banque, on peut mettre ce qu'on veut dedans. le banquier nous ouvre la salle des coffre, vous enferme, on ouvre notre coffre. ça ressemble à du dépot mais ce n'est pas du dépot, parce que le contrat de depot est un contrat reel, qui suppose la remise de la chose déposée entre les maisn du dépositaires.  dans le coffre fort on remet pas l'objet au banquier, c'est secret. mais dans contrat de depot on recherche la sécurité. 
+Exemple : le **contrat de coffre-fort**. Contrat par lequel on conclut avec une banque la mise à disposition d’un coffre-fort dans la salle des coffres. On peut y mettre ce qu’on veut. Le banquier ouvre la salle, nous enferme, et nous ouvrons notre coffre. Cela ressemble à un dépôt, mais ce n’en est pas un, car le dépôt est un contrat réel qui suppose la remise de la chose déposée entre les mains du dépositaire. Ici, l’objet n’est pas remis au banquier, c’est secret. Mais dans le dépôt, ce que l’on recherche, c’est la sécurité.
 
-mais c un contrat de louage : on mis a dispositon ce coffre comme quand on met a dispositon un logement ou une voiture, et moyennat un prix.
+C’est en réalité un contrat de **louage** : on met à disposition un coffre, comme on met à disposition un logement ou une voiture, moyennant un prix.
 
-pour qu'il y ait une locaiton il faut que le locataire puisse ser de la chose louée, comme bon lui semble. sauf que pour y acceder on doti le faire aux horaires de la banque.
+Pour qu’il y ait location, il faut que le locataire puisse se servir de la chose louée comme bon lui semble. Or, ici, l’accès se fait uniquement aux horaires de la banque.
 
-2005 cour de cassation a été saisie d'un litige entre le crédit lyonnais et l'un de ses clients qui disposait d'un coffre au siege du crédit lyonnais à paris. Sauf que incendie. La salle des coffres a été rendue innacessible par un arrêté prefectorale. 
+En 2005, la Cour de cassation a été saisie d’un litige entre le Crédit Lyonnais et un client disposant d’un coffre-fort au siège de la banque à Paris. Un incendie rend la salle des coffres inaccessible par arrêté préfectoral.
 
-le client voulati acceder à sa sale des coffres car il avait des titres financiers, et les fallait en papier pour aovir des dividendes.
+Le client voulait accéder à son coffre, car il y avait des titres financiers nécessaires pour percevoir des dividendes.
 
-il a attaqué le crédit lyonnais en responsabilité, il voulait une indemnité. crédit lyonnais invoquait la force majeure mais surtout l'article 1722 qui concerne le contrat de bail. Ce texte dit que lorsqu'il est impossible de jouir de la chose louée, le contrat de bail s'éteint sans indemnités. 
+Il attaque le Crédit Lyonnais en responsabilité, et demande une indemnité. La banque invoque la force majeure, mais aussi l’article **1722** du Code civil, qui concerne le bail : lorsqu’il est impossible de jouir de la chose louée, le contrat s’éteint sans indemnités.
 
-cour de cassaiton en 2005 a rejeté l'argumetn au motif que le contrat de coffre fort n'est pas une location. "le contrat de cofre fort est exclusif de laqualificaiton de location" il exclu la qualfiication de location.
+La Cour de cassation (2005) rejette l’argument : le contrat de coffre-fort **n’est pas une location**. → « Le contrat de coffre-fort est exclusif de la qualification de location ».
 
-elle a réitéré ce genre d'analyse en 2022/2023 a propos du contrat de séjour en ehpad. Voici une Personne agée, met le feu à sa chambre et tout l'ehpad part en fumée. l'ehpad agit en responsabiltié contre son occupant, et invoque un texte du droit du bail qui est l'article 1733 qui prévoit en substance que le locataire est resonsable de l'incendie d ela chose louée. en droit commun du bail le locataire est reponsable de l'incendie de la chose louée et peut quasiment jamais s'exonerer de sa responsabilté. Regle tres severe car on considere qu'un locataire doit s'assurer, et des lors c son assurance qui paie. Mais le résident de l'ehpad n'est pas assuré, parce que le résident de l'ehpad considerait qui'l n'aviat pas conclu un contrat de bail, alors qu ehepad considerait que c'était une location.
+La Cour a réitéré ce type d’analyse en **2022/2023**, à propos du **contrat de séjour en EHPAD**. Exemple : une personne âgée met le feu à sa chambre, tout l’EHPAD brûle. L’établissement agit en responsabilité contre le résident, invoquant l’article **1733** (contrat de bail), qui prévoit que le locataire est responsable de l’incendie de la chose louée. Règle sévère, car on considère que le locataire doit être assuré, et que c’est son assurance qui paie. Mais le résident n’était pas assuré, car il considérait ne pas avoir conclu un bail.
 
-la cour de cassation a dit que "le contrat de séjour en ehpad est exclusif de la qualfiication du louage" donc 1733 ne s'applique pas.
+La Cour de cassation a jugé que **le contrat de séjour en EHPAD est exclusif de la qualification de bail**. → 1733 ne s’applique pas.
 
-idem : on va au restaurant, quelle est la nature juridique de ce contrat ? y'a transfert de propriété des plats, , y'a du service en cuisine, a table, de la mise a dispotiion de table; prestation de depot si on remet veste a uu restaurant.
+Autre exemple : **aller au restaurant**. Quelle est la nature juridique du contrat ?
+- transfert de propriété des plats,
+- service de cuisine et de table,
+- mise à disposition d’une table,
+- prestation de dépôt si l’on confie son manteau.
 
-c la meme regle de l'acessoir et du principal : le premeir c d'invoquer la regle de l'accessoire, pour identifier la rpesation principael, on neglice ce qu iest accessoire. On simplifie la réalité. 
+→ Règle de l’**accessoire et du principal** : on identifie la prestation principale et on néglige ce qui est accessoire. Cela simplifie la réalité. Mais ici, pas de principal évident : sans service → vente à emporter, sans nourriture → simple prestation de service.
 
-le contrat doit pouvori exister rien qu'avec le principal, en negligeant le principal. ici y'a ni accessoire ni principal. Si pas de service vente a emporter, si pas de nourriture c que du service.
+La règle de l’accessoire a donc des limites. Elle fonctionne seulement lorsqu’il y a un véritable élément secondaire, négligeable.
 
-cette regle de l'aceessoire a des limites. Elle va fonctionne lorsqu'on a vraimetn un element accessoire au sens de secondaire, de negligeable, on peut le negliger, l'ignorer. Le droit ne se preoccupe pas de choses insignifiantes. .
+**Pothier (XVIIIe siècle)** : on commande un costume sur mesure, on fournit le tissu → uniquement service. Même si le tailleur fournit fil et boutons, cela reste un contrat de service, car l’essentiel est son travail.
 
-Pothier au 18e siecle: on deande a tailleur de nous faire faire un cosutme sur mesure, on fourni le cousstume, il lfaut que du service. IL dit que le simpel fait que le serveur fournisse le fil et les boutons ne transforme pas les contrats en vente, car l'essentiel c el travail de couturier.
+→ Pendant des siècles, la règle de l’accessoire fut le réflexe des juristes face aux contrats complexes, quitte à déformer la réalité.
 
-la regle de l'accessire a été pendant des siecles le reflexe des juristes face à un contrat complexe, en retenant que cet element principal, quitte à deformer la realité. 
+**Planiol (XXe siècle)** critique : cette méthode fait « violence aux faits ». Il propose les **qualifications mixtes** : un contrat peut être à la fois vente et service.
 
-marcel planiol des le début du 20e siecle avait critiqué cette methode en disant qu'elle fait "violence aux faits".
+Mais cela n’a pas séduit, car appliquer plusieurs régimes juridiques à la fois entraîne des **contradictions** (antinomies). Exemple : la vente est consensuelle (simple échange des consentements), le dépôt est réel (remise matérielle d’une chose). Quid du dépôt-vente ? On ne sait pas.
 
-il proposait des qualfiication mites càd des doubles ou triples qualfiication. Un contrat qui presente un aspect vente et service sera a laf ois un contrat de vente et de service.
+→ Pendant deux siècles, on s’est contenté de solutions approximatives. Même la Cour de cassation avoue ne pas savoir qualifier certains contrats complexes.
 
-ssaufq ue ce que proposait planiol n'a pas séduit, notamment parce que lorsqu'on cherche à applquer plusiers regimes juridqiues cumulativement, il arrive invitablement des contraditions, des antinomies. ca veut dire que trop de droits, tropo de regles jurdiques pou run seul et meme contrat.
+Les parties peuvent elles-mêmes qualifier leur contrat (ex. écrire « contrat de location de coffre-fort »). Mais selon l’article 12 CPC, le juge doit **restituer la qualification exacte**, sans s’arrêter à celle donnée par les parties.
 
-ex la vente est un contrat consensuel qui se forme par le suel ecjange du consement, le depot es tun contrat reel qui se forme par la remise materielle d'une chose. Le dépot vente c quoi? On ne sait pas.
+La porte de sortie : le **sui generis**. On exclut les qualifications mixtes, et on qualifie seulement « contrat sui generis ». Certains auteurs critiquent : un « refus paresseux d’analyse » (Malorie). Mais parfois, on ne peut pas faire autrement.
 
-pendant 2 siecles on c'est contenté de ces solutions approximatives, la cour de cassation elle meme ne sait aps comment qualifier un contrat complexe. 
+→ Régime ? Ce n’est pas du « non-droit » : ces contrats obéissent au **droit commun des contrats**. La plupart du temps, cela suffit pour résoudre les problèmes. Exemple : intoxication alimentaire au restaurant → indemnisation sur le fondement du droit commun.
 
-si les parties qualifient un contrat de location : on peut mettre contrat d elocation de coffre fot, les parrties elles meme de uqalifier leru contrat. Mai sle juge art 12 du CPC il appartient au juge de restituer la qualfiication exacte au faits sans s'arreter à celles donnés par les parties .
+Jusqu’en 1897, la Cour de cassation refusait de qualifier les contrats où un prestataire fournissait **à la fois son travail et sa matière** (ex. tailleur qui fournit tissu + couture). Vente ou service ? Elle restait silencieuse → application du droit commun.
 
-la port de sortie pourrait etre le sui generis. Il n'entre dans aucune categorie, et on exclu les qualifications mixtes. C'est l'échec de la qualification, on le qualifie seulemetn e contrat. Malorinennes disait que c'est "un refus paresseux d'analys". sauf que a un mometn donné plus d etechniques de qualfiiaiton poru le faire rentrer dans une catéogire. 
+Avant la qualification, il faut d’abord rechercher **ce qu’ont voulu les parties** : transfert de propriété ? jouissance ?
 
-quel est le regime de ces contrats sui generis? c pas du non droit, on est d'abord ans un cntrat qui obeis au droit commun des contrats.
+Si c’est clair, pas de souci. Si c’est obscur → **interprétation** (articles 1188 s. C. civ.). On recherche la **commune intention des parties**. Les clauses s’interprètent de manière cohérente. Si aucune intention commune (ex. contrat d’adhésion), on recourt à une interprétation raisonnable.
 
-la plupart du temps ça suffit à  resoudr eles questions, les problemes qui se posent. ex le contrat de restauration : restaurateur conamnié à indemniser client pour intoxicaiton condamné sur la ase du droit commun des contrats.
+L’interprétation relève du **fait**, donc du juge du fond. Une fois décidée, elle s’impose, sauf cas exceptionnel : la Cour de cassation contrôle uniquement la **dénaturation** d’une clause claire et précise.
 
-jusq'ne 1897 la cassation a eviter de qualifier le contra tpar lequel un prestataire de service fornissait pour relaiser un bien sà la fois osn travaile t son materieux. ex du tailleur à qui on commande on tissus ,il fournit le tissus et son travail. y'a a la fois un transfert de prpréité de la matiere, mais aussi un service humain. Pdt un siecle la cassaiton a dit qu'llel savait pas. elle a donc appliqué le droit commun.
+Une fois le contrat interprété, on procède à la **qualification** (question de droit). Ici, la Cour de cassation est compétente.
 
-avant la qualification, y'a uen question prealalble qui se pose. Pour qualifier un contrat il faut rechercher ce qu'on voulu les aprties. Voulu tarnsfere. la propriété? la jouissance? 
+**Trois techniques de qualification :**
 
-si claire pas de soucis, masi si obscur,  il fau tinterpreter le contrat. pour ça plusieurs regles dans le code civil, 1188 et suivants. Il faut de façon generale rechercher la commune intention des parties, les cluases s'interperetent de maniere coherente lesunes par rapport aux autres etc. Si pas de commune intention des parteis (contrats d'adhésion) on fait appel à une interpretaion raisonnable. 
+1. Qualification **unitaire** (le contrat entre dans une seule catégorie → à privilégier).
+2. Qualification **mixte** (Planiol).
+3. Absence de qualification (contrat **sui generis**).
 
-l'intepretation releve du fait qui releve du pouvoir d'appréciation souverian du juge du fond. mais ue fosiq ue la cour d'appel a jugé, l'inteprreation s'impose à elle, sauf si la cass accepte accepte in extremsi de controler l adenaturation des clauses claires et précises.
+**Les techniques :**
 
-c lorsque les juges du fond ont manifestatment trahi le sens d'une clause du contrat. 
+La règle de l’accessoire et du principal : on cherche à identifier le **principal**, qui va retenir l’attention, au détriment de la ou des prestations **accessoires** que l’on va négliger.
 
-une fois qu'on a interpreter le contrat, on part sur la qualficiation qui est une quesiton de droti (on passe du fait au droit) et la la cassation est compétete.
+Comment met-on en œuvre cette règle ?  
+Les juristes ont développé une première approche de la règle de l’accessoire inspirée des économistes et des mathématiques, appelée **l’accessoire mathématique / accessoire quantitatif**.
 
-3 techniques de qualfiication :
-1. une qualification unitaire qui fait rentrer le contrat dans une suele catégorie (à privilegier)
-2. une qualfiicaiton mixte (comme le suggerait planiol)
-3. absence d qualifcation (contrat sui generis)
+La règle, appliquée au moins jusqu’en 1985, consiste à estimer la valeur des différentes prestations contractuelles et à retenir celle qui vaut plus cher que l’autre.
 
-**les techniqus :**
+Venue au début du XIXe siècle, cette approche s’inspire des travaux de certains économistes qui ont recherché l’origine de la valeur des choses, par exemple **Adam Smith, dans _La richesse des nations_**. Ils expliquent que ce qui fait la valeur d’une chose, ce sont deux éléments : la valeur de la matière première et la valeur ajoutée par le travail.
 
-la regle de l'accesoire et du princiapl, on cherche à identifier le princial qui va retenir l'attention au detrient de la ou des rpestatiosn principales qu'on va negliger. Comment on met en oeuvre cette regle ? les juristes ont developpé une premeir approche de la regle de l'accesoire inpirée des economistes, des matjematiques, appelé l'accessorie mathematique/accesoire quantitatif. regle apploqué au moins 150, cosniste à estimer la valeur es differente s prestatiosn contractuelles et à retenir la prestation qui vaut plus cher que l'autre. venue au début du 19e siecle travaux de certains economistes qui ont rechercher l'origine de la valeur des coses, ex Adam smith "la riechese des natiosn". ils expliquent que ce qui fait la valeur du'ne chose c'est 2 valeurs : la valeur de la matirèe prmeier, et la valeur de la matiere ajoutée par le travail. Les juristes qui avaient connaisance de ces theories ont été inspirés par ces theories economqiues pour tenter de les transposer en droit, et notammetn adns le contrat d'entreprise avec foruniture de mateire. c le contra tpa rlequel un entrepreneur presataire de service foruni à laf ois son travail pour realiser un bien, mais foruni egalmeent la matiere premiere. pendant plus d'un sielce et demi, la doctrine et la cassation otn appliqué la tehroei de l'accesoire quantitatif. Si la matiere vaut plsu cher que le travaial c une vente à  titre pricipal, si c le travail c le contrat d'netreprise, c du service. ce critère a le mérite d'etre relativement simple. mais meme contrat où on forunit des matieres dont la valeur est très mauvaise, on va dir e que c du contrat d'netreprise. Mais si bois précieux, on dira que la aleur de la matiere est superieur a la main d'oeuvre. Alors que au fond aucune difference entre les eux contrats. ce raisonnement a été applqiue aux contrats de reparation atutomobile. si la piece vaut plsu cher que la main d'ouvre c une vente, sinon c du contrat de service. Enjeux c que si contrat est une vente alors garantie des vices cachés, mais pas de garantie de vice caché sur la peice du garagiste si c pas une vente. il a fallu attendr 1985 pour que evoluto intellecuellle s'opere. Ajd il peut etre necor eutile dans des hypotheses comme le fil et les boutons. 
+Les juristes, qui avaient connaissance de ces théories, ont tenté de les transposer en droit, notamment dans le **contrat d’entreprise avec fourniture de matière**. C’est le contrat par lequel un entrepreneur prestataire de service fournit à la fois son travail pour réaliser un bien, mais également la matière première.
 
-approche plsu fine de la regle de l'accesooire en abandonnant l'aspect quantitatif au profit d'un accessoire qualitiatif : l'accessoir est toujours au service du proncipal, qui est un but. C'est celel relation moyen/but. 
+Pendant plus d’un siècle et demi, la doctrine et la Cour de cassation ont appliqué la théorie de l’accessoire quantitatif :
+- **si la matière vaut plus cher que le travail**, le contrat est une **vente** à titre principal,
+- **si le travail vaut plus cher**, c’est un **contrat d’entreprise** (donc un contrat de service).
 
-moyen = accessoire ; but = principal
+Ce critère avait le mérite d’être relativement simple. Mais il menait parfois à des incohérences : dans un même contrat, si l’on fournit une matière de mauvaise qualité, on dira que c’est un contrat d’entreprise ; mais si l’on fournit du bois précieux, on dira que la valeur de la matière est supérieure à celle de la main-d’œuvre, et donc que c’est une vente… alors qu’au fond, il n’y a aucune différence entre les deux contrats.
 
-la roeu de secours est au service du heciule, pas l'inverse. 
+Ce raisonnement a aussi été appliqué aux **contrats de réparation automobile** :
+- si la pièce vaut plus cher que la main-d’œuvre, c’est une vente,
+- sinon, c’est un contrat de service.
 
-la tecnique de qualfiication cii consiste à rechercher quel est le but poursuivi par les parties. Pour en déduire que cette finaltié constitue la prestation principale, et donc par contre coup, les autres prestations ne sont que les accessoires. 
+L’enjeu est important : si le contrat est une vente, alors il y a **garantie des vices cachés** ; mais il n’y a pas de garantie des vices cachés sur la pièce du garagiste si ce n’est pas une vente.
 
-on a loué une place pour un spectacle : y'a un contrat de presation de service (le psectacle) et aussi un siege mis a disposition.
+Il a fallu attendre **1985** pour qu’une évolution intellectuelle s’opère. Aujourd’hui, il peut encore être utile dans certaines hypothèses (par exemple, le fil et les boutons).
 
-contrat de réparation : piece détachié et main d'oeuvre, c quoi l'élément principal?  la pièce est aussi importante que la main d'oeuvre. 
+Une approche plus fine de la règle de l’accessoire a vu le jour, en abandonnant l’aspect quantitatif au profit d’un **accessoire qualitatif** : l’accessoire est toujours au service du principal, qui est le but. C’est la relation **moyen/but** :
 
-le contrat de déménagement : les demenageurs arrivent emabllent tout, transportent jusqu'au camion, camion jusq'ua nouvelle maison, et deballe tout.
+- le **moyen = accessoire** ;
+- le **but = principal**.
 
-est-st que c un contrat de transport? car en cas d'avarie (déterioraiton des choses transportées) le destinataire a un délais de 3 jours apres l'arrivée pour signaler les dommages. 
+Exemple : la roue de secours est au service du véhicule, pas l’inverse.
 
-avant 98, la cour de cassation appliquait la regle de l'accesoire et du principal Si il y a plus de déplacement donc de transports que de manutention, c un transport. A l'invesre, si plus de manutaion que de transport c aps un trasport masi un contrat de service. mais comment savoir ? 
+La technique de qualification consiste donc à rechercher quel est le **but poursuivi par les parties**, pour en déduire que cette finalité constitue la prestation principale. Par contre-coup, les autres prestations ne sont que les accessoires.
 
-en 1998, elle a procédé à un revirement en décidant que le contart de déménagement n'était pas un contrat de transport de façon générale mais un contrat d'entreprise parce qu'il contietn dans tous les cas des prestations autre, en plus, à celles du transport càd celle du deplacement. 
+Exemple :
+- On loue une place pour un spectacle : il y a un contrat de prestation de service (le spectacle) et aussi un siège mis à disposition.
+- Contrat de réparation : pièce détachée et main-d’œuvre – lequel est principal ? La pièce est aussi importante que la main-d’œuvre.
+- Contrat de déménagement : les déménageurs emballent tout, transportent jusqu’au camion, amènent à la nouvelle maison et déballent.
 
-ici elle dit que ce n'est pas seulement un contrat de transport, on applique les regles du contrat d'netreprise, parce que toutes les presations du déménageur que ce soit le déplacmeent ou la manutenttion forme un service global de demenagement, qui est constitué de plusieurs prestations dont aucune n'est superieur àl'autre. 
+Est-ce un contrat de transport ? Car en cas d’avarie (détérioration des choses transportées), le destinataire a un délai de trois jours après l’arrivée pour signaler les dommages.
 
-on reconnati que des fois pas de prestation princiapel, pas de prestation accesoire, u'a un ensmebl ede prestation qui mis ensemble permet d'atteindre un but voulu par les parties. ce but, cette finalité recherché par les parties, c un service global, qui comprend plusiuer sprestations. Au restaurant c pour avoir un service global. 
+Avant **1998**, la Cour de cassation appliquait la règle de l’accessoire et du principal :
+- s’il y a plus de déplacement (transport) que de manutention, c’est un **contrat de transport**,
+- à l’inverse, si plus de manutention que de transport, ce n’est pas un transport mais un **contrat de service**.
 
-ça rentre donc dnas les contrats d'entreprise.
+Mais comment mesurer cela ?
 
-autre contrat : contrat l'hotellerie, on loue chambre d'hotel. tendance est de dir eà titre principal c de la location d'une chambre. mais difference avec location saisoniere : a hotel y'a servie en chambre, on nettoie, etc.
+En **1998**, elle a procédé à un **revirement** en décidant que le contrat de déménagement n’était **pas** un contrat de transport, mais un **contrat d’entreprise**, car il contient toujours des prestations autres que le transport (comme la manutention).
 
-c donc un contrat de service dans lequel y'a une mise à disposition 'une chambre, transfert de propriete de savon, pret /location de serviette.
+Elle a donc considéré que toutes les prestations du déménageur – déplacement et manutention – forment un **service global de déménagement**, constitué de plusieurs prestations dont aucune n’est supérieure à l’autre.
 
-arret 2024 : contrat par lequel une personne prorpiétaire d'un grand local à usage de bureaux, de type coworing était "loué" à plusieurs personnes avec touteu ne serie de presatitonannexes. Une cuisine, connexion internet, entretient de la salle, qui était assurée par le propriétaire. 
+On reconnaît ainsi que, parfois, il n’y a pas de prestation principale ni d’accessoire, mais un ensemble de prestations qui, mises ensemble, permettent d’atteindre le but voulu par les parties. Ce but constitue un **service global**.
 
-probleme de savoir si ce contrat devait etre qulfiié de location : si oui pas bon pour lebialleur, et a obtenu gain de cause deant cour de cassation (cour d'appel aviat dit que le principal c'était la locaiton).  Donc ce n'est pas de la location.  C odncun contrat de service global par lequel tte une serie de prestation et un espace de coworking ou on pourra travailler.
+Exemple : au restaurant, on recherche un service global. Cela entre donc dans la catégorie des **contrats d’entreprise**.
 
-exemples de uqalification mixtes :(très rare) 
-- epoque du premeir texte sur les clauses abusives 1978 qui prévoyaient une seule clause abusive dans les contrats de vente (clause limitative de resosanbiltié entre profesioneles et consomateur). les faits (1990): c epoque des apparels photos argentiques dans lesuqels on met une pellicule vierge , on sort la photo avec la pelicule a l'inteirur, qu'on apporte a deelooper au laboratoire photographiqeu. lorsqu'il recupere ses photos, laboratoire a perdu les pellicules. contrat disait qu'en cas de perte on a droit a une pelicule vierge pour indemnisation. le client agit en justice, laboratoire s'abrite derreire sa clause limitative de repsonsabiltié. sauf que on est pas dans la vente, or la seule clause abusive a l'époque c'était dans le contrat de vente. à époque lorsqu'on apportiat une pellicule à developper une photographie dans une pochette, et en plus une pellicule vierge. C sur cette base que la cour de cassation a considéré que c'était un contrat mixte, à la fois le service du dev photo, et la vente de la pellicule.Donc on a appliqué les clauses abusives dans le contrat. 
-- 2001 : contrat d'entrainemetn hippique. Le propriéaire du'n cheval confie son chevalà un centre hippique. le centre doit entrainer le cheval il es tlogé nourri. un matin le cheval est retrouvé mort dans son boxe, sans savoir pouruqoi. le propriétaire du cheval agit en responsabiltié contractuelle contre le club hippique, maisq uel contrat? y'a 2 contrats posisbiel : un contrat de dépot. La faute du club hippique est alors présumée en droit du depot le depoistiare est présumé fautif s'il perd la chose. L'autre qualification est le contart de service (un contrat d'entreprise), dans ce cas la faute n'est pas présumée, il faut la prouver. en 2001 la cour de cassation a retenu eune qualfiicaiton mixte car elle le pouvait au regard des circonstnaces d'espece. le cheval étant mort dans son boxe et non pas à l'entrainment, c durant la phase de dépot qu'il est mort ( c un decoupage, une mixité chronologique).  C donc la phase de dépot, donc faute présumée. Mais 2 ans plus tard on savait pas si le cheval était mort lros de entrainemetn ou au box, elle pouvait pas chosir qualfiicaiton mixte et chosiir. Elle a chosiis un contrat d'entraenmetn, car but était d'améliorer les perf du cheval. Le boxe la nourriture etc c quu'ne prestation au service de l'entraiement (la garde c'est du moyen au service du but qu'est l'entrainement).
+Autres contrats :
 
+- **Contrat d’hôtellerie** : on loue une chambre d’hôtel. La tendance est de dire qu’à titre principal, c’est une location d’une chambre. Mais, à la différence d’une location saisonnière, l’hôtelier assure aussi un service (ménage, service en chambre, etc.). C’est donc un **contrat de service**, qui comprend la mise à disposition d’une chambre, le transfert de propriété de savon, le prêt/location de serviettes.
+- **Arrêt 2024** : un contrat par lequel une personne, propriétaire d’un grand local à usage de bureaux (type coworking), le « louait » à plusieurs personnes avec toute une série de prestations annexes (cuisine, connexion internet, entretien de la salle, assurés par le propriétaire).
 
-#### Paragraphe 2 : 
+Problème : savoir si ce contrat devait être qualifié de **location**. Si oui, ce n’était pas avantageux pour le bailleur. La Cour de cassation a donné raison au bailleur (contrairement à la cour d’appel qui avait retenu la location).
 
-une fois qu'on a aqualifié ces contrats complexes, si on les qualifie de contart de prestation de service (contrat d'entreprise) ou dans cide civil contrat de loaug eou d'ouvrage, on cherche le réigme. Mais le regime est extrememtn lacunaire.
+Elle a jugé que ce n’était pas une location, mais bien un **contrat de service global**, comprenant l’espace de coworking et l’ensemble des prestations complémentaires.
 
-y'a4 ou 5 articles qui n'apportent rien. alors qu'on a une 100aine article sur la vente 60aine sur la location, 5 sur le service.
+**Exemples de qualifications mixtes (très rares) :**
 
-a l'époque les contrats de service pas aussi répendu qu'aujourd'hui, ajd on est dans une société de service. Ce qui rend diffiicle edification d'un regime des contrats de service c que les services sont divers et variés. Serivc eà la personne (soin medical), coiffure, nettoyage, pressige, servie entretietn menager, service de reparaion automobile, demenagement, construction.
+- **Époque du premier texte sur les clauses abusives (1978)** : il ne prévoyait qu’une seule clause abusive dans les contrats de vente (clause limitative de responsabilité entre professionnel et consommateur).  
+    **Faits (1990)** : à l’époque des appareils photo argentiques, on insérait une pellicule vierge, puis on déposait cette pellicule au laboratoire photographique pour développement. Lors de la récupération, le laboratoire avait perdu les pellicules. Le contrat prévoyait qu’en cas de perte, le client n’aurait droit qu’à une pellicule vierge en indemnisation. Le client agit en justice, et le laboratoire s’abrite derrière cette clause limitative de responsabilité.  
+    Problème : on n’était pas dans la vente, or la seule clause abusive de l’époque concernait la vente. Mais, en pratique, lorsqu’on déposait une pellicule à développer, on remettait la pellicule à développer **et** on achetait une pellicule vierge. C’est sur cette base que la Cour de cassation a considéré que c’était un **contrat mixte** : à la fois service (développement photo) et vente (pellicule vierge). Donc on a pu appliquer les clauses abusives.
 
-commetn construire un regme de droit commun de tous ces contrats ? regles applicables aux contrats medicals, transports aeriens, construction maison? 
+- **2001 : contrat d’entraînement hippique.**  
+    Le propriétaire d’un cheval le confie à un centre hippique. Le centre doit entraîner le cheval, le loger et le nourrir. Un matin, le cheval est retrouvé mort dans son box, sans cause identifiée. Le propriétaire agit en responsabilité contractuelle contre le club hippique. Mais quel contrat ?  
+    Deux qualifications possibles :
 
-avant projet de reforme du droi des contrats propose une 30aine d'articles sur le droti commun du contrat d'entreprise.
+1. **Contrat de dépôt** : dans ce cas, la faute du dépositaire est **présumée** en cas de perte de la chose.
+2. **Contrat de service (contrat d’entreprise)** : ici, la faute n’est pas présumée, il faut la prouver.
 
-au delà de ces articles, se pose la question de la complexité des ocntrats, celle qu'avait relevé Planiol (si un contrat organise à la fois u transfert de propriete et prestaiton humaine) on prend les deux régimes pour chacun.
+En 2001, la Cour de cassation a retenu une **qualification mixte**, en fonction des circonstances : le cheval étant mort dans son box (et non à l’entraînement), c’est durant la phase de dépôt qu’il est décédé → faute présumée.  
+Mais deux ans plus tard, dans une autre affaire où l’on ne savait pas si le cheval était mort à l’entraînement ou au box, la Cour ne pouvait pas retenir la mixité et a choisi la qualification de **contrat d’entraînement**, car le but était d’améliorer les performances du cheval. Le logement, la nourriture, la garde n’étaient que des moyens au service de ce but.
 
-on est pas dans les contrats mixtes comme le voyait Planiol, on appliquait tout. C'est la proposition de avant projet de réforme. Disposition novatrice dans ce projet c article 1757 de avant projet de réforme : c'est la "rose des vents". Pour l'exeuciton d'un contrat, qu'il soit nommé ou innomé (contrats sui generis), des prestations relevant habituellemetn d'autres contrats nommés doivent être accomplis, ces prestatiosn obeissent "en tant que de raisons aux régimes correspondants".
+Une fois que l’on a qualifié ces contrats complexes comme des **contrats de prestation de service** (contrats d’entreprise, ou dans le Code civil contrats de louage d’ouvrage), reste la question du régime.
 
-si la source du ltiige c le transfert de propriété : on va regarder du côté de la vente, càd du coté du contrat dans lequel cette prestation est habituellemetn connue, et on va emprunter par analogie aux regles de la vente les regles qui peuvent trouver à s'appliquer dans ce contrat.
+Problème : le régime est extrêmement **lacunaire**.
+- Une centaine d’articles sur la **vente**,
+- une soixantaine sur la **location**,
+- seulement **4 ou 5 articles** sur les contrats de service (qui n’apportent presque rien).
 
-on va emprunter au droit d ela vente le transffert de propriété solo consensu, et tout ce qui découle naturelement de ce tansfert, ex la garantie de vice caché. Cohérent de penser que lrosquu'n transfertr de propriété est réalisé, que ce soit dans le care dvente ou autre contrat, que y'a oblgiaiton pour ancien prooriétaire de garatir cette chose contre les vices cachés, et obligaiton de délivrer la chose qu'ila. vendu. Y'a des suies naturelles au transfert d epropriét..
+À l’époque, les contrats de service n’étaient pas aussi répandus qu’aujourd’hui. Or nous vivons désormais dans une **société de services**.
 
-c'es ce qu'a fait ordonnace de 2016 lorsqu'elle a créé un regime de transfert de propriété.
+Difficulté : comment construire un régime de droit commun applicable à des prestations aussi diverses que les services à la personne (soins médicaux, coiffure, nettoyage, pressing, entretien ménager), les services techniques (réparation automobile, déménagement, construction), ou encore les services complexes (transport aérien, etc.) ?
 
-article 1757 "Lorsque l’ouvrage requiert, pour sa parfaite exécution, des prestations relevant habituellement d’autres contrats nommés, telles que la mise à disposition, la garde, la conservation, le déplacement 28 d’un bien ou la conclusion d’actes juridiques, ces prestations obéissent, en tant que de raison, aux règles particulières régissant ces contrats. Il en va de même s’agissant du transfert de propriété quand la réalisation de l’ouvrage emporte un tel effet."
+L’**avant-projet de réforme du droit des contrats** proposait une trentaine d’articles sur le droit commun du contrat d’entreprise.
 
-article 1153 et suivant s: toute slres regles de la rpesentations sont emrpuntés aux contrats de mandat, car c ce contra tpar lqeul une personen represent eune autre dans accomplissment d'una cte juridique. Iic on parle pas d emandat mais d'autres opérations, autre contrats sans avoir à les qualifier de contrat de mandat.
+Au-delà, se pose la question de la **complexité des contrats**, déjà relevée par **Planiol** : si un contrat organise à la fois un transfert de propriété et une prestation de service, doit-on appliquer les deux régimes ?  
+Planiol proposait d’appliquer **tout**.
 
-idée de la rose des vents est de permettre aux juges de ne pas avoir à le qualifier, de le faire rentrer de force dans une catégorie car ce serait trahir la réalité. On prend les 2/3 articels qui sont necessaires au reglemetn de la solution.
+L’avant-projet de réforme reprend cette idée dans une disposition novatrice : **article 1757** (surnommé « la rose des vents ») :
 
-plus de 70 ans que la cour de cassation ajugé dans un cas bien particulier : contrat de garagiste, on depose vehicule pour réparation. Milieu d'aprem le garagiste appel, voiture prête on peut recuperrer. On passse le lendemain,tout à bruler, avec voiture et garage.
+> « Lorsque l’ouvrage requiert, pour sa parfaite exécution, des prestations relevant habituellement d’autres contrats nommés, telles que la mise à disposition, la garde, la conservation, le déplacement d’un bien ou la conclusion d’actes juridiques, ces prestations obéissent, en tant que de raison, aux règles particulières régissant ces contrats. Il en va de même s’agissant du transfert de propriété quand la réalisation de l’ouvrage emporte un tel effet. »
 
-garagiste demande de payer la reparation. On attaque le garagiste sur quel fondement ? si on attaque sur fondement fontrat de reparation, on a réparé la voiture, on peut iren repprochjer. Ici c pas usr le contrat de reparation en tant que tel qu'on petu l'attaquer, masi c sur ce qui c'est greffé en plus, cad uen prestation de garde. Le garagiste a réparé, masi pour réparer il a gardé le véhicule, ca evoque le contrat de dépot, mais on pourrait pas qualifier à titre principal le contrat de garagiste un contrat de depot. 
+Exemple :
+- Si le litige porte sur le **transfert de propriété**, on applique par analogie les règles de la vente (transfert solo consensu, garantie des vices cachés, obligation de délivrance).
+- Si le litige porte sur la **garde** ou la **conservation**, on emprunte au **dépôt**.
 
-la prestation de depot, de garde est accessore, elle est pas le prncipal du contrat, elle petu pas emporter la qualification.
+De même, les articles **1153 et suivants** sur la représentation sont empruntés au contrat de mandat, même si l’on n’est pas en présence d’un mandat au sens strict.
 
-si des regles doivent s'applqier, c les regles du depot.
+**Idée de la rose des vents** : permettre au juge de ne pas enfermer artificiellement un contrat dans une catégorie, mais de puiser dans les régimes existants ce qui est pertinent pour résoudre le litige.
 
-cassation depuis années 1950 accepte parfois de décider que le garagiste sans être un dépositaire (car pas un contrat de dépot) peut petre tenu des obligations d'un dépositaire.  on va donc par analogue appliqueles articles du contrat de dépot.
+Un exemple classique illustre cette approche :
+- Contrat de garagiste. On dépose son véhicule pour réparation.  
+    Le garagiste appelle : la voiture est prête. Mais, le lendemain, tout a brûlé dans l’incendie du garage, y compris le véhicule.
 
-c'est le "en tant que de raison". 
+Le garagiste demande le paiement de la réparation. Peut-on l’attaquer ?
+- Si on se place uniquement sur le contrat de réparation → rien à reprocher, il a réparé.
+- Mais, pour réparer, il a aussi **gardé** le véhicule → cette garde évoque le contrat de dépôt.
 
-on va donc pas otmber dans les catégories mixtes de planiol, car tout se confronte. C'est de la dentelle contractuelle.
+Or, le contrat du garagiste n’est pas un contrat de dépôt à titre principal. Mais la prestation de garde, accessoire, peut faire jouer les **obligations du dépositaire**.
 
-si cassation dit pour ehpad que c pas un bail, analyser ce que ça pourrai tpetre. 
+Depuis les années 1950, la Cour de cassation accepte que le garagiste, sans être un dépositaire au sens strict, puisse être tenu des obligations du dépôt. On applique donc **par analogie** les règles du contrat de dépôt (« en tant que de raison »).
 
-### Paragraphe 2 : La classification des contrats spéciaux
+C’est une forme de **dentelle contractuelle**.
 
-on trouve d'abord l'oppositon entre les contrats portants sur les choses et les contrat sporant sur les services, on retrouve cette sua divisio dans certains ouvrages.
+Dernier exemple : si la Cour de cassation juge qu’un contrat d’EHPAD n’est pas un bail, il faudra analyser quelle qualification et quelles règles spécifiques lui appliquer.
 
-intuitivement y'a bien des contrats qui se rapprtent à des choses (vente lcation) et service (contrats de constructio,, service, madnat)
+#### Paragraphe 2 : La classification des contrats spéciaux
 
-on se heurte à une dfficulté : où ranger les contrats porta,ts sur des serices portants sur des choses ? Y'a de socntrats de servic edont les services se rapportentà une chose (ex réparation de voture).
+On trouve d'abord l’**opposition** entre les contrats portant sur les choses et les contrats portant sur les services. On retrouve cette **summa divisio** dans certains ouvrages.
 
-e contrat de depot c un contrat de service ou usur une chose? C un conrat de garde sur la conservation d'une chose.
+Intuitivement, il y a bien des contrats qui se rapportent à des choses (vente, location) et d’autres aux services (contrats de construction, de service, mandat).
 
-autre plan : contrats translatifs de prpriété et contrats non translatifs. 
+On se heurte à une difficulté : où ranger les contrats portant sur des services **en lien avec** des choses ? Il existe des contrats de service dont les prestations se rapportent à une chose (ex. réparation de voiture).
 
-sur contrats translatifs y'a une logique qui rassemble ces diff contrasts (vente donation echante), ils organisnet el transfert d epropriété d'une chose. Maison met tout le reste dans l'auter catéogire snas aucune logqieu : prêt mandat entreprise etc. Categorie fermée mais l'autre est très ouverte.
+Le contrat de dépôt est-il un contrat de service ou un contrat sur une chose ? C’est un contrat de garde portant sur la conservation d’une chose.
 
-et y'a porosité entre les deux. Selon la nature de la chose, on a des contrats à prori non translatifs qui le deviennent. On passe du'ne cateogeir.à l'autre. Ex le prêt : on prete voiture poru weekned, contrat non translatif de propriéé. Mais si au lieu de voiture on pre^tre 1000 euros, ces 1000 euros nosu apparitennet, mais obligé de le rendre. LE pret de somme d'argent est translatif de propriété. prêt à banque cet argent nous appartient. Obligaiton de remobusement masi un tarnsfert de propriété.
+Autre plan : **contrats translatifs de propriété** et **contrats non translatifs**.
 
-Pk transfert de propriété pour argent et pas voiture ou logement ? Car argent est uen chose fongible, elle se confond dans le patrimoine avec des choses identiques. Des que cet argent nosu est prêté, cet argent fondigle se melange avec le reste et on en devient necessairemetn propriétaire.
+Dans les contrats translatifs, il existe une logique qui rassemble ces différents contrats (vente, donation, échange). Ils organisent le transfert de propriété d’une chose. Mais on met tout le reste dans l’autre catégorie sans aucune logique : prêt, mandat, entreprise, etc. La première catégorie est **fermée**, tandis que l’autre est **très ouverte**.
 
-le prêt peut tantot etr elogé dans contrats non translatifs que dans contrats translatifs. Frontiere esst pas parfaitement etanche.
-`
-classificaiton qui revient souvent : inspirée du droit romain (on fait du neuf avec du veux). en droti romain il existait 3 catégories d'obligations contractuelles :
-1. obligation de Dare (donner) qui signifie transferer la proprieté(contratts translatif de propriété)
-2. obligation de Praestare (obligation de mise à dispositon une chose)
-3. obligation de Facere (oblgiaiton de faire au sens d'actiivté, de travail humain).
+Et il existe une **porosité** entre les deux. Selon la nature de la chose, certains contrats a priori non translatifs le deviennent. On passe d’une catégorie à l’autre. Exemple : le prêt. On prête une voiture pour le week-end, contrat non translatif de propriété. Mais si, au lieu d’une voiture, on prête 1000 euros, ces 1000 euros nous appartiennent, mais on est obligé de les rendre. Le **prêt de somme d’argent** est translatif de propriété : l’argent appartient à l’emprunteur, avec obligation de remboursement.
 
-mais olbligation de faire comprend les deux derniers. 
+Pourquoi transfert de propriété pour l’argent et non pour une voiture ou un logement ? Parce que l’argent est une **chose fongible** : il se confond dans le patrimoine avec des choses identiques. Dès que cet argent nous est prêté, il se mélange avec le reste et nous en devenons nécessairement propriétaires.
 
-est-ce qu'on peut en cas d'inexecution contracutelle de forcerà  faire ?
-ancien articel 1242 qui disposait que les oblgiaitosn de fiar ene cas d'inexecution se resolvent en domage interets, sous entneud pas d'execution forcée. 
+Le prêt peut donc tantôt être logé dans les contrats non translatifs, tantôt dans les contrats translatifs. La frontière n’est pas parfaitement étanche.
 
-mais y'a des decennie sque jurispruidence appliquaiet pas ce texxte à la lettre. 
+Classification qui revient souvent : inspirée du droit romain (on fait du neuf avec du vieux). En droit romain, il existait trois catégories d’obligations contractuelles :
 
-L'exceptione st l'atteinte excessive à la liberté individuelle. Sous l'mepire d eancien article on lui faisiat dire l'inverse de ce qui était écrit. Car par principe il peut fair el'objet d'une execution forcée, sauf si atteinte à la liberté indiviudelle, càd lorsque le l'obligaiton de faire implique l'activité humaine, l'obligaiton de Facere qui implique le travail humain. On petu pas obliger à faire cours, à se produire sur scène.
+1. Obligation de **Dare** (donner), qui signifie transférer la propriété (contrats translatifs de propriété).
+2. Obligation de **Praestare** (mettre une chose à disposition).
+3. Obligation de **Facere** (faire au sens d’activité, de travail humain).
 
-mais si on achete voirure chez un concessionaire, il refuse de nous donenr les clés, on peut le forcerà. remettre la chose, pas d'atteint eà la liberté indvideille. On petiu el contraindre des! lrosq qu'on a payé la chose.
+Mais l’obligation de faire regroupait en réalité les deux dernières.
 
-C l'erreur des redacteurs du code civil : avoir rassemblé sous l'oblgiaiton de faire 2 type sd'oligaiton que tout oppose. 
+Se pose alors la question : peut-on, en cas d’inexécution contractuelle, forcer l’exécution en nature ?
 
-praestare et facere c opposition plurimillenaire entre les biens à la personne. Praestare se arpporte aux choses, sucieptible execution forcée. Facere pas d'execution en nature.
+L’**ancien article 1242** disposait que les obligations de faire, en cas d’inexécution, se résolvaient en dommages et intérêts, ce qui sous-entendait l’absence d’exécution forcée.
 
-Cette distinciton de dorit romain explqiue al distinciton majeure des choses et des personnes. 
+Mais depuis des décennies, la jurisprudence n’appliquait pas ce texte à la lettre.
 
-Praestare : mise à dipsoiton (onereux location, gratuit c du pret)
-Facere : tous les onctrats de service qui implqiue la persone humaien ,son actiité (mandat dépot etc).
+L’exception tenait à l’atteinte excessive à la liberté individuelle. Sous l’empire de l’ancien article, on en était venu à dire l’inverse de ce qui était écrit : **par principe, l’exécution forcée était possible, sauf si elle portait atteinte à la liberté individuelle**, c’est-à-dire lorsque l’obligation de faire impliquait une activité humaine (l’obligation de **Facere**). On ne peut pas obliger quelqu’un à donner un cours, à se produire sur scène, etc.
 
-autr edistinction : plutot économqieu que juridqie. 
+Mais si on achète une voiture chez un concessionnaire et qu’il refuse de remettre les clés, on peut l’y contraindre. Il n’y a pas d’atteinte à la liberté individuelle. Dès lors que la chose est payée, il doit la délivrer.
 
+L’**erreur des rédacteurs du Code civil** fut d’avoir rassemblé sous l’obligation de faire deux types d’obligations que tout oppose.
 
+**Praestare et Facere** : une opposition plurimillénaire entre les biens et la personne. Praestare se rapporte aux choses, susceptible d’exécution forcée. Facere, en revanche, n’admet pas d’exécution en nature.
 
-dans tous ces contrats, y'en a une partie qui ont pour objet de transferer les utiltis d'une chose à l'autre partie. Mais is un prix est convenu, ce prx est la convenue de sutilités de la chsoe. Dans ces contrats, on trouve d'abord la vente. elle a transferer toutes les utilités d'une chose à l'acheteur, avec le droit de propréité. Il accepte de payer le rpix convenu parce quei ol sait que la chsoe qu'il achete va lui offrir le sutiltéis correspondantes.
+Cette distinction du droit romain explique la distinction majeure entre les choses et les personnes.
+- **Praestare** : mise à disposition (onéreuse = location, gratuite = prêt).
+- **Facere** : tous les contrats de service qui impliquent la personne humaine et son activité (mandat, dépôt, etc.).
 
-contrat de bail ou de prêt sas tarsnfert de propréité : locatiare va jouri de la chose, si loyer est prévu il est en contrepartie de ces utiltiés.
+Autre distinction : plutôt **économique** que juridique.
 
-L'approcje écpnomqie  du contrat est centré sur les utiltiés de la chose. 
+Dans tous ces contrats, une partie a pour objet de transférer les **utilités d’une chose** à l’autre partie. Si un prix est convenu, ce prix est la contrepartie de ces utilités. Exemple : la vente transfère toutes les utilités d’une chose à l’acheteur, avec le droit de propriété. Celui-ci accepte de payer le prix convenu, car il sait que la chose lui offrira les utilités correspondantes.
 
-L'autre famille ce sont les contrats d eservies dans lesqueqls le sutilités en question sont des utilités à créer c'est ees actiités humaine squi va créer un evaleur nouvelle, une richesse nouvelel pour le client. 
+Dans le **contrat de bail ou de prêt sans transfert de propriété**, le locataire jouit de la chose. Si un loyer est prévu, il constitue la contrepartie de ces utilités.
 
-le prestataire de service va fournir un resultat, on paie en contrepartie. Mais economie generlae du contrat est de partir de rien, et onc rée par l'actiivté humaine une valeur nouvelle. 
+L’approche économique du contrat est donc centrée sur les utilités de la chose.
 
-ex créatiosn intelectuelels : consultaiton medecin ou juridque, au depart un probleme, le pro va vous fornir une aanalys ed evotre sitation de santé oi jriduqe. Cette creation de l'esprit a une valeur economqie. Il crée par son travail une richesse qui n'existait pas avant.
+L’autre famille est celle des **contrats de services**, dans lesquels les utilités en question sont à **créer** : ce sont les activités humaines qui produisent une valeur nouvelle, une richesse pour le client.
 
-opposition est entre les contrats simpelemtns translatifs de valeur préexistantes, (economiestes voient ca comme ca, un contrat comme un échange de valeur). La deuxieme famille : eocntrat est créateur de richesses, c l'une des parteis qui va créer des richesses noveulles, donc de sutilités qui n'exisiatne pas.
+Le prestataire de service fournit un résultat : on paie en contrepartie. Mais l’économie générale du contrat consiste à partir de rien pour créer, par l’activité humaine, une valeur nouvelle.
 
-c la suma divisio de la fmaille des contrats, parce que ces deux grandes familles de contrats obeissent à des logiques differentes. Les contrats qui s'interessent aux choses d'utulité existnete sotn dejà compelts quasimenet, car la chose est. la, on en connait le utilités. QU'on al vende ou la loue on peut esitmer le prix de vente ou location. C poru ca que le prix doit etre determiné à l'avance.
+Exemple : les **créations intellectuelles**. Consultation médicale ou juridique : au départ, un problème. Le professionnel fournit une analyse de la situation de santé ou juridique. Cette création de l’esprit a une valeur économique. Il crée, par son travail, une richesse qui n’existait pas avant.
 
-dans les contrats ayant pour objet la création de richesse, ex reparation consultation, on mise sur le futur. Au jour de la conclusion du contrat on est dans l'inconnu. Le pri x peut etre fixé à l'avence, mais la relge c qui ele prix peut etre fixé apres.
+L’opposition est donc entre :
+- les contrats simplement **translatifs** de valeurs préexistantes (les économistes les voient comme des échanges de valeur),
+- et les contrats **créateurs de richesses**, où l’une des parties produit des utilités nouvelles qui n’existaient pas. 
 
-C deux logiques tres diff qui s'opposet. 
+C’est la **summa divisio** de la famille des contrats : ces deux grandes familles obéissent à des logiques différentes.
 
-semestre 1 : la vente
-parite 1 : les contrats emportants circulation de valeur préexistenace
-partie 2 : les contrats emportant création de valeur nouvelle
+Les contrats qui portent sur des utilités déjà existantes sont presque complets : la chose existe déjà, ses utilités sont connues. Qu’on la vende ou qu’on la loue, on peut estimer le prix à l’avance. **C’est pourquoi le prix doit être déterminé dès la conclusion du contrat.**
+
+Dans les contrats ayant pour objet la création de richesse (ex. réparation, consultation), on mise sur le futur. Au jour de la conclusion du contrat, on est dans l’inconnu. Le prix peut être fixé à l’avance, mais la règle est qu’il puisse être fixé après.
+
+Ce sont donc **deux logiques très différentes qui s’opposent**.

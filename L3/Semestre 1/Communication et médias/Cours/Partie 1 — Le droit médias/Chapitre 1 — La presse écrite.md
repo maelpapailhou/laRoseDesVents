@@ -229,8 +229,6 @@ Lorsque leurs **revenus** sont **inférieurs à 15 % du plafond de la Sécurité
 
 En revanche, lorsque leurs revenus sont **supérieurs à ce seuil mais inférieurs à 25 %** du même plafond, l'affiliation est **obligatoire**, mais l’État prend quand même en charge **50 % des cotisations** d’**assurance maladie, maternité et vieillesse**.
 
-# X attention on passe du 1 à 3
-
 ##### C) Les aides à la distribution de la presse
 
 La presse bénéficie de dispositifs spécifiques pour sa distribution, qui peut être assurée soit par la poste (ou l’opérateur postal concerné), soit par des réseaux de portage.
@@ -254,7 +252,7 @@ La presse bénéficie de dispositifs spécifiques pour sa distribution, qui peut
     Pour en bénéficier, l’exploitant doit être **à jour de ses obligations fiscales et sociales**.
 
 
-#### 3) Les modalités d’attribution des aides
+#### 2) Les modalités d’attribution des aides
 
 L’organisme compétent pour attribuer ces aides est la **Direction générale des médias et des industries culturelles (DGMIC)**, un service du ministère de la Culture.
 
@@ -387,9 +385,7 @@ Progressivement, cette expansion aboutit à un **réseau de distribution de la p
 Le monopole Hachette eut pour conséquence **involontaire** des effets de censure :
 
 - Pendant la Seconde Guerre mondiale, l’entreprise Hachette avait l’autorisation de distribuer la presse allemande de propagande.
-    
 - Ces deux éléments – censure et collaboration – conduisirent, en 1944, le **Gouvernement provisoire de la République française (GPRF)** à signer un **ordre de réquisition immédiate** sur toutes les installations de la messagerie Hachette.
-    
 
 Ces installations réquisitionnées furent mises à disposition d’une **messagerie d’État**, qui assurait la distribution de la presse de la **Résistance**.
 
@@ -414,91 +410,119 @@ Pour atteindre ces objectifs, il a été décidé de :
 
 ###### 2) Les principes fondamentaux du système Bichet
 
-on pourrait les resumer le systeme Bichet par une devise : liberté égalité solidarité impariatlité.
+On pourrait résumer le système Bichet par une devise : **liberté, égalité, solidarité, impartialité**.
 
-liberté : elle st expressement proclamée par l'aticle 1 de cette loi Bichet qui dit que "la diffusion de la presse imprimée est libre".fait echo a la ddhc et à la loi  de 1881 sur la liberté d'expreession.
+**Liberté** : elle est expressément proclamée par l’article 1 de la loi Bichet qui dispose que _« la diffusion de la presse imprimée est libre »_. Cela fait écho à la **Déclaration des droits de l’homme et du citoyen de 1789** ainsi qu’à la **loi de 1881 sur la liberté d’expression**.
 
-limite puisque la loi oblige les distributeurs qui souhiatent leur distributionà le faire dans une structure de coopérative, qui arantie la libeté d'cces a tous les societaires qui accepntent de coclure un contrat de distribution de leru titres, c'est le principe de la porte ouverte.
+Cette liberté connaît toutefois une limite : la loi oblige les distributeurs qui souhaitent organiser la distribution à le faire dans une **structure coopérative**, garantissant la liberté d’accès à tous les sociétaires qui acceptent de conclure un contrat de distribution de leurs titres. C’est le **principe de la porte ouverte**.  
+La loi précise également que _« si les coopératives souhaitent sous-traiter à des sociétés commerciales, elles doivent en assurer le contrôle juridique »_.
 
-la loi dit que "si els cooépraitves souhaitent sous traitée à des sociétés commericales alors elles doivent s'assurer le controle juridque de ces sociétés commerciales".
+**Égalité** : elle découle du principe coopératif. Tous les sociétaires disposent des mêmes pouvoirs au sein de la coopérative, quelle que soit leur participation aux parts sociales. C’est le **principe de gestion égalitaire** des coopérateurs.
 
-egalité : déocucle de ce principe cooperatif, tous les sociétaires disposent des memes pouvoirs au sein de la cooperative quelque soient leur partiicpation aux parts sociales. C le principe de gestion égalitaire es coopérateurs.
+**Solidarité** : cet aspect découle également du principe coopératif et de la logique **« accapitaliste »** de ces structures. Il s’agit de valoriser le travail plutôt que le capital. Les excédents ne sont pas redistribués en fonction du capital social, mais au **prorata du volume d’affaires** confié à la coopérative.  
+Ce principe de gestion égalitaire a permis la mise en place d’une pratique non prévue par la loi mais devenue fondamentale : la **péréquation**, c’est-à-dire la répartition des charges selon certains critères afin de les rendre plus équitables.
 
-solidarité : cet aspect découle du principe coopératif, et découle de la coopération accapitaliste des coopératives, cela encourae le travail et non le capital. les excedents ne sont pas redistrubés en fonction du capital socail masi distribués au pro rata du volume d'afaires conclues données à la coopérative. ce principe de gestion égalitarie des coopérative a oermis a ce que mette en palce qq chose pas prevu par la loi masi qui se revele fondamental, ce qui est la pratique de la Péréquation, qui est al répartiiton des charges choisis en focntion de critères pour lres rendre équitables. 
+La pratique de la péréquation concerne principalement les **tarifs de distribution** : elle a permis d’uniformiser les coûts, de sorte que les **petits éditeurs** puissent bénéficier des économies d’échelle accordées aux **grands éditeurs**.
 
-la praitque de la péréquation va conerner les tarifs de la distribution, autrmeent dit permis de lsiser les couts de distributon pour aboutir à des barèmes uniformes  permettant aux petits editeurs de beneficier d'économie d'échelle accordée aux gros éditeurs. 
+**Impartialité** : ce principe découle d’une idée non écrite mais constamment rappelée dans les débats parlementaires, selon laquelle les distributeurs doivent rester maîtres de la distribution de leurs produits et être traités **sans discrimination**.
 
-impartialité : ce principe vient de l'idée non écrite masi permannate dans les débats parlemetnaires selon laquelel els distributeurs doivent rester maître de la distribution de leurs produits et pouvoir être traité sans discrimination. 
+Quel que soit le motif — faire payer plus cher, distribuer plus lentement, ou encore mettre certains titres en avant — ces pratiques sont prohibées au nom du **devoir d’impartialité**.
 
-quelqeu soit le mtoif, qu'on fasse payer plus cher ou qu'il sit distrubuer plus lentemen, ou encore la dispostion dans les tires (mettre en avant certaisn titres). toutes ces praitquesne doivent pas avoir leiu d'être sous couvert de l'imartialité. 
+Il en résulte que les agents de distribution ne peuvent en aucune manière faire obstacle à la diffusion d’un titre : ils doivent lui accorder le même traitement. Exemple : un libraire ne peut pas refuser certains titres, sauf pour la **presse pornographique**, qui doit être placée à l’abri du public.
 
-ce principe il en resulte que les agents de la distribution ne peuvnet pas faire obstacle d'aucune maniere a la distributuon d'un titre, ils doivent leur accorder le même traitement. Ex libraire peut pas refuser certaisn titres, à l'exception de la presse pornographique qui doit être placée à l'abris. 
+Afin de favoriser ce devoir d’impartialité chez les marchands de presse, la profession a prévu une **rémunération uniforme** : les détaillants perçoivent une commission calculée **au prorata des ventes**, avec un taux identique quelle que soit l’origine ou la nature de la publication.
 
-afin de favorer ce devoir d'imparialité par les marchands de presse, la professiona prévu de les reumnerer de façon unifpre, isl vont toucher uen comissiosn calculée au pro rata des ventes, avec un taux qui ne v apas varier en fonction de origne ou nature de publciation. 
+###### 3) La mise en place concrète de la distribution de la presse
 
+Dans le milieu, on a l’habitude de découper le système en **trois niveaux** :
 
-##### 3) La mise en place concrète de la distribution de la presse
+- **En haut : les éditeurs de presse**, regroupés en sociétés commerciales. Leur rôle est de produire les journaux, de les éditer, d’avoir un pouvoir de décision sur les caractéristiques du produit (la pagination, la présentation, etc.) et de décider de la manière dont les publications seront distribuées (périodicité, tirage).
+    
+- **Au milieu : les dépositaires de presse**, c’est-à-dire les grossistes ou diffuseurs. Leur rôle est d’assurer la **logistique de la distribution** : réception des publications des éditeurs, stockage, puis répartition dans les différents points de vente. En France, il existe deux principales messageries de presse : **France Messagerie** et **Messagerie Lyonnaise de Presse**.
+    
+- **En bas : les marchands de presse** (les détaillants : kiosques, librairies, grandes surfaces et autres points de vente). Ils sont en contact direct avec le consommateur. Les invendus sont retournés au dépositaire.
 
-DAns le milieu on a l'habitude de découper le systeme en 3 niveaux : 
-- en haut : éditeur de presse, qu isont regroupés en société commericale. leur rôle est de produire les journaux, de les éditer, avoir un povuori de décision sru les caractéristiues du produit, sur la forme (la pagination etc) et ils vont décider de la manière dont sera distribuée les publciations(la periodicité)
-- au milieu ;: les dépositaires de presses, qui sont les grossistes ou encore les diffuseurs. leur roe est de leger la logistique de la distribution, ils vont recevoir els publications des edituers, les stoquer, et les repartir dans les differents points de vente. en france 2 principales messageries de presse : France Messagerie, et Messagerie Lyonnaise de Presse
-- denrie rniveau l: les marchants de presses (les détaillants : kiosques libraireis grandes sufraces et tous els auters points de vente), ils sont en contact avec le client, le consomateur. Les invneuds seront retournés au dépositaire.
+C’est un système équilibré, car il permet de garantir la **diversité** et l’**accessibilité** aux journaux.
 
-systeme equilibré acar permet de garnatir la diversité e tl'accessibilité aux journaux.
+Ce système a bien fonctionné pendant près de **50 ans**, toutefois plusieurs facteurs ont conduit à sa **fragilisation**.
 
-ce systeme a bien fonctionné pendant rpes de 50 ans, toutefois plusieurs facteurs qui otn conduit à cette fragilsiation.
+Les salariés des sociétés commerciales étaient presque tous affiliés au **syndicat du Livre**.  
 
-Sur un plan social, les salariés des sociétés commericales étaient presque tous affiliés au syndicat du livre. 
+Ce syndicat imposait des conditions salariales et sociales très favorables, mais au prix d’un **alourdissement considérable des coûts** pour la filière.
 
-ce syndicat imposait des condiitions salariaels et socilaes très favorables, mais au prix d'un alourdissement considerable des couts pour la filiere.
+Cela a créé un **déséquilibre économique** qui n’a jamais été véritablement corrigé : les sociétés commerciales étaient très grassement rémunérées, et tout le poids est retombé sur les marchands de presse.
 
-ça a créé un déséquilbire économique qui n'a jamasi veritablemetnété corrigé. Les sociétés commerciales tres grassement payées, tout est retombé sur les marchands de presse. 
+À partir des années 1990, le paysage médiatique a été bouleversé par deux phénomènes majeurs :
 
-ensuite, a parit des anénes 90, le paysage médiatique a été bouleversé par 2 phénomènes majeurs : 
-1. la concurrence des journaux gratuits, qui seduisent un electorat précaire et les annonceurs publciitaires. 
-2. la montée d'internet, progressivement ca detourne le public d ela presse papier;
+1. **La concurrence des journaux gratuits**, qui séduisent un lectorat précaire et attirent les annonceurs publicitaires.
+2. **La montée d’Internet**, qui détourne progressivement le public de la presse papier.
 
-pb avec ce systeme il parvient pas à s'adapter à tous les boursleevrsements (charges salariélaes qui economqiuemetn tiennent pas, concurrence jornaxu gratuits, etc). les edituers continue de produire avec les meme contrainte, les messageries de presse accumulent les deficits, et ce osnt surtout les marhcands de presse qui subissent les couts directs de cette crise.
+Le problème de ce système est qu’il ne parvient pas à s’adapter à ces bouleversements :
 
-etat intervenu pour soutneri economquemetn la filiere, notamment avec messagerie de la presse pariisenne, renommée Prestalis (ajd France Messagerie). Cette aide de l'état a surtout permis de maintenir artificlemment en vie un systeme qui étiat deja bien affaibli sasn veritable reforme structurelle. 
+- des **charges salariales trop lourdes** pour tenir économiquement,
+    
+- la **concurrence des gratuits** et du numérique,
+    
+- les éditeurs qui continuent à produire avec les mêmes contraintes,
+    
+- des messageries de presse qui accumulent les **déficits**,
+    
+- et surtout des marchands de presse qui subissent les **coûts directs de la crise**.
 
-editeurs pour eviter la critiuqe ont présenté ces disfontionnemetns comme étant du au modele coopératif lui mmee, cet argumetn a préparé le terrain poru la réforme de 2019.
+L’État est intervenu pour soutenir économiquement la filière, notamment via la **Messagerie de la Presse Parisienne**, renommée par la suite **Presstalis** (aujourd’hui **France Messagerie**).
 
-### 2) la reforme du 18 octobre 2019 relative à modernisation de la idstribution de la presse
+Cette aide publique a surtout permis de **maintenir artificiellement en vie** un système déjà très affaibli, sans véritable réforme structurelle.
 
-elle vient organiser le novuea circuit de distribution en gardant la meme sturcture que celle qui aviat étalie par la loi Bichet à l'origine.
+Pour éviter la critique, les éditeurs ont présenté ces dysfonctionnements comme étant dus au **modèle coopératif lui-même**.  
 
-plusieurs point simportnat ont été modifés par celle loi :
-- fin du controle de messagerie par les editeurs : elle prevoit la supression du controle de cooperatives sur les oscietes commericales des sociétés de presse. Avant 2019 cooperatives d'editeurs avec systeme de pericuation. Désormais certes les cooperatives d'diteurs osnt obligés de passer par une société commerciale pour assurer la distribution de lerus titres, masi plsu rien n'oblige ces sociétésà etre controlés par les cooperatives d'editeurs. 
-- limitation du principe d'impartialité : était un des piliers fondamentaix depuis la loi Bichet, desormais on distingue entre 3 grandes catégories de titres : 
-	- en haut la presse IPG, c la seule qi benefiicei du droit à une distribution impartiale. (on change rien). Les editeurs decident les quantités et les points de vente servies, tandis que les diffuseurs de presse ne peuventpas s'opposerà la distribution de ces titres. 
-	- titres non IPG mais qui beneficie d'un numéro de comission paritaire : ils peuvent quand eme beneficier du regime general de la presse. Il est prévu que soit conclu un accord d'assortiment. Il est conclu entre les orgnaisaitosn profesionels representatives des editeurs et des diffuseurs, et les sociétés commerciales de distribution. (appélé les SADP société agrée de disribtion de la presse). Accord assoritment permet aux points d evente de selectionner uen partie des titres de presses qu'ils souhaitent vendre en fonction de lerus clientels sans pour autant exclure certains titres. Ici c'est appréhender comme un compris car met fin à un caractère percu comme trop rigide, car kiosues obligés de vendre certains titres sansa voir leur mots à dire. permet ai kiosqes d'ajuster les prix en focntion des preferences des clienteles tout en garantissant uen lbierté de la presse. crainte que les petits editeurs soient progressivmeent écartésd es poonts de vente.
-	- catégories hors CCPAP : pas le niveau paritaire. ils vont devoir eux meme negocier avec les représentants. Car on considere que c pas vriametn de la presse, c loisirs divretsoments etc. 
+Cet argument a contribué à **préparer le terrain à la réforme de 2019**.
 
-Raison pour lauqelle on apre d'un systmee à geometrie variable, on va els traiter en focniton de qalfiication qu'ils sont et la nature d ela presse concernée. On peut plsu vriametn d'imparitanité mais de neutralité de distributon de la presse.
+#### 2) La réforme du 18 octobre 2019 relative à la modernisation de la distribution de la presse
 
-Ces modifications ont contribuées à redresser le bateau, masi le systeme reste assez affaibli. Donc on a confié la regulation du circuit à une autorité administrative independante à l'ARCEP.
+Elle vient organiser le nouveau circuit de distribution en gardant la même structure que celle qui avait été établie par la **loi Bichet** à l’origine.
 
-### 3) Le role de l'arcep
+Plusieurs points importants ont été modifiés par cette loi :
 
-c'est l'autorité de régulation des comminications electroniques des postes et de la distriution de la presse.
+- **Fin du contrôle des messageries par les éditeurs** : la réforme prévoit la suppression du contrôle des coopératives sur les sociétés commerciales de distribution de presse. Avant 2019, il existait des **coopératives d’éditeurs** avec un système de péréquation. Désormais, les coopératives d’éditeurs sont certes obligées de passer par une société commerciale pour assurer la distribution de leurs titres, mais plus rien n’oblige ces sociétés à être contrôlées par les coopératives d’éditeurs.
+    
+- **Limitation du principe d’impartialité** : autrefois l’un des piliers fondamentaux de la loi Bichet. Désormais, on distingue **trois grandes catégories de titres** :
+    
+    - **La presse IPG (politique et générale)** : c’est la seule qui bénéficie encore d’un droit à une distribution impartiale (pas de changement). Les éditeurs décident des quantités et des points de vente servis, tandis que les diffuseurs de presse ne peuvent pas s’opposer à la distribution de ces titres.
+        
+    - **Les titres non IPG mais bénéficiant d’un numéro de la Commission paritaire (CPPAP)** : ils peuvent bénéficier du régime général de la presse, mais dans le cadre d’un **accord d’assortiment**. Celui-ci est conclu entre les organisations professionnelles représentatives des éditeurs et diffuseurs, et les sociétés commerciales de distribution (appelées **SADP – sociétés agréées de distribution de la presse**). Cet accord permet aux points de vente de sélectionner une partie des titres de presse qu’ils souhaitent vendre en fonction de leur clientèle, sans pour autant exclure certains titres. C’est un **compromis** : il met fin à un système jugé trop rigide (où les kiosques étaient obligés de vendre certains titres sans avoir leur mot à dire). Il permet aux diffuseurs d’adapter leur offre aux préférences locales tout en garantissant une certaine diversité de la presse. Mais il existe une **crainte** que les petits éditeurs soient progressivement écartés des points de vente.
+        
+    - **Les titres hors CPPAP** : ils ne relèvent pas du régime paritaire. Ils doivent négocier directement avec les distributeurs, car ils ne sont pas considérés comme de la presse « au sens strict » mais plutôt comme des publications de **loisirs ou de divertissement**.
+        
 
-avant 2019 on s'auto gerait : le circuit de distrib se régulait lui meme. pas d'autoité au dessus, editeurs qui se reunissiaent lui meme dans un conseil. On reglati les affaires au sei meme de la profession, mais on comprend que ça a une grosse part de responsabilité dans la crise d ela presse.
+On parle donc désormais d’un **système à géométrie variable** : les titres sont traités en fonction de leur qualification et de la nature de la presse concernée. On n’est plus dans une véritable **impartialité**, mais plutôt dans une **neutralité** de la distribution.
 
-la réfome de 2019 a institué l'ARCEP.
+Ces modifications ont contribué à **redresser en partie le système**, mais celui-ci reste affaibli. C’est pourquoi la réforme a confié la régulation du circuit à une **autorité administrative indépendante : l’ARCEP**.
 
-avant 2019 l'ARCEP régulati princiapelemtn les secteurs des télécomminications et des services postaux en France, et à partir de la réforme ces compétences sont élargies pour inclure précisement la régulation de la distributon de la presse.
+#### 3) Le rôle de l’ARCEP
 
-ca a plutot bien fonctionné, on l'appelle le gendarme des télécom.
+C’est l’**Autorité de régulation des communications électroniques, des postes et de la distribution de la presse**.
 
-l'ARCEP est chargée de veiller à l'applicaito e la loi Bichet (2 avril 1947) , et ce par plusieurs actions :
-1. C elel qui va accorder l'agrément au SADP 
-2. elle va égalemnt assurer le controle des baremes tarrifaires, elle va examiner au preallbel et valider avant application. 
-3. elle a une focntion de supervision des negociations, , elle va joeur un rooel dans encadrmeent tarifaire entre messageries et edituers, on considere qu enegocaiton respte un principe de base, et va s'assurer que les conditiosn negociés respectent les regles de transparance et d'équité notammenet en ce qui concenr eles editeurs plus petit, qui pourraien avor moins de poids dans les negociaitons.
-4. mission d'aribtrage des ltiiges et de sanction : elel va arbitrer les differends entre les acteurs, et elle est egalemtn investie d'un pouvori de sanction, qui peuver aller jusquà des amandes a hauteur de 3% du chiffre d'afafire hors taxe de l'entrepirse interessée. 
+Avant **2019**, on s’autogérait : le circuit de distribution se régulait lui-même. Il n’y avait pas d’autorité au-dessus ; les éditeurs se réunissaient eux-mêmes dans un conseil. On réglait les affaires au sein même de la profession. Mais on comprend que cela a eu une grande part de responsabilité dans la **crise de la presse**.
 
-les deciisons peuvent etre remises en cause devnat le conseil d'état. 
+La **réforme de 2019** a institué l’ARCEP.
 
-C une reforme qui a affaibli les principes d'églaité des editeurs, affaibli les princieps d'imparitalité de la distribution, mais faut reconnaitre que l'ARCEP laisse quelques espoirs parce que ça fonctionne. 
+Avant 2019, l’ARCEP régulait principalement les secteurs des **télécommunications** et des **services postaux** en France. À partir de la réforme, ses compétences ont été élargies pour inclure précisément la régulation de la **distribution de la presse**.
 
-certains aspects restent discutables : sur al qestion de la reduction de l'impartialité, notammetn de la réduire à la seule presse IPG. On se dit que c la presse qui merite le plsu d'etre protégée dans le cadre de la lbierté d'expression, masi pas les suels titre squi otn un role dans informationk la cultur etc. 
+Cela a plutôt bien fonctionné : on l’appelle le **« gendarme des télécoms »**.
+
+L’ARCEP est chargée de veiller à l’application de la **loi Bichet (2 avril 1947)**, et ce par plusieurs actions :
+
+1. **Agrément** : c’est elle qui accorde l’agrément aux SADP.
+    
+2. **Contrôle des barèmes tarifaires** : elle examine et valide les tarifs avant leur application.
+    
+3. **Supervision des négociations** : elle joue un rôle d’encadrement tarifaire entre messageries et éditeurs. Elle veille à ce que les négociations respectent un principe de transparence et d’équité, notamment pour les **petits éditeurs** qui pourraient avoir moins de poids dans les discussions.
+    
+4. **Arbitrage et sanctions** : elle arbitre les différends entre les acteurs et dispose d’un pouvoir de sanction pouvant aller jusqu’à **3 % du chiffre d’affaires hors taxe** de l’entreprise concernée.
+    
+
+Les décisions de l’ARCEP peuvent être contestées devant le **Conseil d’État**.
+
+C’est une réforme qui a **affaibli les principes d’égalité entre éditeurs** et qui a aussi réduit le principe d’**impartialité de la distribution**. Mais il faut reconnaître que l’ARCEP suscite encore des espoirs, car son fonctionnement reste globalement satisfaisant.
+
+Certains aspects demeurent discutables, notamment la **réduction du principe d’impartialité à la seule presse IPG**. On considère certes que c’est la presse qui mérite le plus d’être protégée dans le cadre de la **liberté d’expression**, mais les autres titres (culturels, spécialisés, etc.) jouent également un rôle important dans l’information et la vie culturelle.
