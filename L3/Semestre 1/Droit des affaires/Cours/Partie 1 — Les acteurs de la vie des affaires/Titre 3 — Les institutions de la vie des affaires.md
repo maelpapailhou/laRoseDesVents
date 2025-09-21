@@ -1,118 +1,149 @@
-## Chapitre 1 : l'administration et les établissement spublics
+## Chapitre 1 : L’administration et les établissements publics
 
-l'éco,omei française est encore tintée de colbertisme, càd d'ne forte intervention de l'état sur les acteurs économiqeus. raison pour laquelle l'état a developpé des adminstrations spécialisées et créer de veirtables reseaux territoriaux. 
+L’**économie française** est encore teintée de **colbertisme**, c’est-à-dire d’une forte intervention de l’État sur les acteurs économiques. C’est la raison pour laquelle l’État a développé des **administrations spécialisées** et créé de véritables **réseaux territoriaux**.
 
-il existe d'une part adminstration centrale càd les services des ministeres. AU sein de adm centrael ministere chargé de economie eixste la direction generale des entrperises qui est en charge de la mise en oeuvre de toues les politiques interessant toutes les entreprises sauf si ces dernieres relevent d'un statut particulier.
+Il existe, d’une part, une **administration centrale**, c’est-à-dire les services des ministères. Au sein de l’administration centrale, le ministère chargé de l’économie comporte la **Direction générale des entreprises (DGE)**, qui est en charge de la mise en œuvre de toutes les politiques intéressant les entreprises, sauf lorsque celles-ci relèvent d’un statut particulier.
 
-la DGE pilote la politque du ministere de économei qui concerne les entreprises. 
+La **DGE** pilote la politique du ministère de l’économie qui concerne les entreprises.
 
-la direction generale du trésor s'interesse particuliermeent aux entrpeisses des secteurs financeirs, notamement els assurerurs et les banques.
+La **Direction générale du Trésor** s’intéresse particulièrement aux entreprises des secteurs financiers, notamment les assureurs et les banques.
 
-enfin, chaque ministère a en charge des catégoreis de profesionnels qui se rattachent direcmtent rà leurs politiques publqiues. 
+Enfin, chaque ministère a en charge des **catégories de professionnels** qui se rattachent directement à leurs politiques publiques.
 
-par exemple, les officiers ministeriels càd comisaires de justice et les noaitres relevent de la direction des affaires civile et du sceau gere direcmtent la carriere des ofificiers ministeriels, les agrocileturs sont pilotés au ministere de l'agriculture, etc.
+Par exemple, les **officiers ministériels** (commissaires de justice, notaires) relèvent de la **Direction des affaires civiles et du sceau**, qui gère directement leur carrière. De même, les **agriculteurs** sont suivis par le **ministère de l’Agriculture**, etc.
 
-au dela des aspects politques, il existe des institutions imporntates pour la vie des affaires, à commencer par l'INPI (institut national de la propriété industrielle).
+Au-delà des aspects politiques, il existe des **institutions importantes** pour la vie des affaires, à commencer par l’**INPI** (_Institut national de la propriété industrielle_).
 
-inpi est l'office français qui est en charge e l'enregistrmeetn et delivrance des titres de propriété industrielle , ce sotn els brevets les marques, c aussi l'établissemetn qui est chargé de la tenue registre natioanl des entreprises. 
+L’**INPI** est l’office français chargé de l’**enregistrement et de la délivrance des titres de propriété industrielle** (brevets, marques). C’est également l’établissement chargé de la tenue du **registre national des entreprises**.
 
-l'INPI a une place particulière en france qui est fortemetn orienté vers l'innovation. En occident on a la convicton que innovaton c l'alpah et oméga de la croissance économiqe, de la posperité.
+L’INPI occupe une place particulière en France, pays fortement orienté vers l’innovation. En Occident, il existe la conviction que l’**innovation est l’alpha et l’oméga de la croissance économique et de la prospérité**.
 
-dans l'ecosisteme des entrpeirses innovantes, l'INPI joeu un role majeur d'accompagemetn dans la stratégie d'innovation. par ailleurs INPi c le point de contact français avec les grands comme l'OMPI organisaiton mondaiel de la propriété intelleuele, office européen des brevets, ou encore le Office de Union euroepnen de la propriété intellecutlele.
+Dans l’écosystème des entreprises innovantes, l’INPI joue un rôle majeur d’**accompagnement dans la stratégie d’innovation**. Par ailleurs, l’INPI constitue le **point de contact français** avec les grandes institutions internationales telles que l’**OMPI** (_Organisation mondiale de la propriété intellectuelle_), l’**Office européen des brevets** ou encore l’**Office de l’Union européenne pour la propriété intellectuelle**.
 
-au dela de l'INPI, le code de commerce par ailleurs prévoit àson article L710-1 et suivants l'existence du'n réseau des chambres de commerce et d'industrie. Les CCI c un réseau extremetn ancien, ce sont aux dires de articel L710-1 des corps intemédiaires de l'état. Ce sont des etablissements publics qui ont pour mission de représenter les interets de l'industrie, du commerc et des services 
+Au-delà de l’INPI, le **Code de commerce** prévoit, à son **article L.710-1 et suivants**, l’existence d’un **réseau des chambres de commerce et d’industrie (CCI)**.
 
-c une mission assez vague, concretement les CCI menent des actions de présentation, de formation ex pour les perosnnes qui desirent créerune entreprise. 
+Les CCI constituent un réseau extrêmement ancien : l’article L.710-1 les définit comme des **corps intermédiaires de l’État**. Ce sont des **établissements publics** dont la mission est de représenter les intérêts de l’industrie, du commerce et des services.
 
-le réseau est structuré de la maniere suivante : il existe CCI france qui est la tête de réseau, des CCI de régions, et a l'initiative de ces CCI régionales peuvnet etre créer des CCI territoriaes. Les représentants sont élus, ce sont des profesionnels. 
+Il s’agit d’une mission assez large : concrètement, les CCI mènent des actions de **présentation**, de **formation** (par exemple pour les personnes qui souhaitent créer une entreprise).
 
-initialement, une des misisons les plus imporatntess était la gestion des formalités des entreprises. néamoins ajd existe un guichet unique et donc des CFE centre de formalité des entreprses ont disparu.
+Le réseau est structuré ainsi :
+- **CCI France**, qui constitue la tête de réseau,
+- des **CCI régionales**,
+- et, à l’initiative de ces dernières, peuvent être créées des **CCI territoriales**.
 
-le même modèle existe pour les artisants, puisque le code de l'artisanat prévoit l'existence d'un reseau des chambres des metiers de l'artisanat, composée de CMA France et des CMA de régions. 
+Les représentants sont élus, ce sont des professionnels.
 
-il s'agit pour les CMA de représenter les artisants aupres des pouvoirs publics et de servir de relais dans la mie en oeuvre de spolitques publiques. article L311 et suivnats du code de l'artisanat.
+Initialement, l’une des missions principales des CCI était la **gestion des formalités des entreprises**. Cependant, avec la création d’un **guichet unique**, les **CFE (Centres de formalités des entreprises)** ont disparu.
 
-y'a enfin sur le meme modele des chambres de l'agriculture. ce sont des établissmeent spublics, y'a chambre agriculture france, 13 chambres régio,nales et 86 chambres departementaes ou inter-departementales. vocation ç representer les agricuteurs et les accompagner dans leur demarche de crééaiton d'entreprise.
+Le même modèle existe pour les **artisans**, puisque le **Code de l’artisanat** prévoit un **réseau des chambres de métiers et de l’artisanat (CMA)**, composé de **CMA France** et de CMA régionales.
 
-concernant acitivtés liberales pas de chambre unique, chaque profession regementaé a son propre ordr eprofesionel, ex ordre des medecins, ordre des avocats. ils sont struutrés de maniere locale et nationale. 1 ordre par barreau et un conseil national des barreaux.
+Les CMA ont pour mission de représenter les **artisans** auprès des pouvoirs publics et de servir de relais dans la mise en œuvre des politiques publiques (**articles L.311 et suivants du Code de l’artisanat**).
+
+Il existe enfin, sur le même modèle, des **chambres d’agriculture**. Ce sont des **établissements publics** structurés en trois niveaux :
+- **Chambre d’agriculture France**,
+- **13 chambres régionales**,
+- et **86 chambres départementales ou interdépartementales**.
+
+Leur vocation est de représenter les **agriculteurs** et de les accompagner dans leur démarche de création et de développement d’entreprise.
+
+Concernant les **professions libérales**, il n’existe pas de chambre unique. Chaque profession réglementée possède son propre **ordre professionnel** : par exemple, l’**Ordre des médecins**, l’**Ordre des avocats**. Ces ordres sont structurés à la fois au niveau local et national (un ordre par barreau et un **Conseil national des barreaux**).
 
 ## Chapitre 2 : Le tribunal de commerce
 
-il est à la fois une juridiction, mais égalment par les fonctions qui sont dévolues au greffe est une isntittuon essentielle à la vie des affaires en dehors des attributiosn contnetieuses.
+Le tribunal de commerce est à la fois une **juridiction** et, par les fonctions dévolues à son **greffe**, une **institution essentielle à la vie des affaires**, au-delà de ses seules attributions contentieuses.
 
-le greffe du tribunal de commerce est tenu par le greffier ud tribuanl de commerce, c uen profession libérale, c un officier ministeirel, notammetn chargé de la tenue du regitre du commerce et des scoiété.
-c la pierre angularie du foncitonnemetn de la vie des affaires. C grace a ce reigstre qu'il existe une publicité que l'on peut connaitre l'existence d'une entreprise, d'une société, 
+Le **greffe du tribunal de commerce** est tenu par le greffier du tribunal de commerce. C’est une **profession libérale**, exercée par un **officier ministériel**, notamment chargé de la **tenue du registre du commerce et des sociétés (RCS)**.  
+Ce registre est la **pierre angulaire du fonctionnement de la vie des affaires** : grâce à lui, il existe une publicité permettant de connaître l’existence d’une entreprise ou d’une société.
 
-### Paragraphe 1 : Les attributiosn contenteiuses des tribunaux de commerce
+### Paragraphe 1 : Les attributions contentieuses des tribunaux de commerce
 
-les triubnaux d ecommerce sotn de sjuridicitons d'exception. il échappe à la competence de droit commun du tribunal judiciare. 
+Les tribunaux de commerce sont des **juridictions d’exception**, échappant à la compétence de droit commun du **tribunal judiciaire**.
 
-ils jugent en premiere instance les ltiiges qui sont soumis à sa comeptence càd les actes de commerce,de personnes ayant la qualité de commerçant. 
+Ils jugent en **première instance** les litiges relevant de leur compétence, c’est-à-dire :
+- les **actes de commerce**,
+- les litiges entre personnes ayant la qualité de **commerçant**.
 
-l'existence des tribunaux d ecommerce étatn un leg historique, certains territoires n'en disposent pas, ex à l aréunion il n'xsite pas de tribunal de commerce a propremetn parler, on parle de tribunal mixte de commerce. 
+L’existence des tribunaux de commerce est un **legs historique**. Certains territoires n’en disposent pas : par exemple, à La Réunion, il n’existe pas de tribunal de commerce à proprement parler mais un **tribunal mixte de commerce**.
 
-le tribunal de commerce est une juridiction composée de juges élsu parmi les commerçant. ce qui a alimenté des controverses sur leurs compétences et par aillerus sur leurs impartialité. 
+Le tribunal de commerce est une juridiction composée de **juges élus parmi les commerçants**, ce qui a alimenté des controverses quant à leurs compétences et, surtout, à leur **impartialité**.  
+Si un juge devait trancher un litige impliquant un concurrent, son impartialité pouvait être mise en cause. Le **Conseil constitutionnel**, saisi de cette question (décision QPC n° 2012-241 du 4 mai 2012), n’a toutefois pas remis en cause l’impartialité du tribunal de commerce, notamment celle de son président.
 
-si juge devait juger uh concurrent son impartlaité pouviat être remise en cause. Le consiel constituionnel a meme été saisi de cette quesiton, dans décion QPC 2012-241 du 4 mai 2012, et n'a pas remis en cause l'impartialité du tribunal de commerce et notammetn de son président. 
+Autrefois, le tribunal de commerce était chargé d’examiner les **offres de reprise d’entreprises en faillite** : d’où l’importance de la **probité** de ses membres.
 
-y'a eu une époque où le tribunal de commerce est chargé d'examiner les offes d'netpriese en faillite la probité des membres du tribuanl de commerce est importante. 
+Le tribunal de commerce connaît non seulement du **contentieux classique** (règlement des différends entre commerçants), mais également des **procédures collectives**, c’est-à-dire toutes les hypothèses où une entreprise est **insolvable**.
+#### A) La compétence matérielle
 
-le tribunal de commerce connati non suelment du contnetieux classique cad du reglemetn des differends entre commercants, mais il est égalemetn compétent en matiere de procédure collective. càd toutes les hypotheses où une entreprise est insolvable.
-#### A) Compétence matérielle
+Les tribunaux de commerce connaissent :
+- des litiges entre commerçants,
+- mais également, depuis la loi du 18 novembre 2007, des litiges impliquant des **artisans**,
+- des contestations relatives aux **sociétés commerciales** (ces sociétés étant commerçantes par leur forme),
+- des différends relatifs aux **effets de commerce** (ex. lettres de change), quelle que soit la qualité des personnes.
 
-les trib d ecomemrce connaissent des litiges entre commerçants, mais également depuis la loi du 18 novembre 2007 entre artisants. ils connaisent des ocntestatiosnr elatives aux sociétés commerciales, parce que ces sociétés osnt des commerçants en raison de leurs formes; 
-enfin les tribu de commerce connaissent des differends relatifs à des effets de commerce uelque soit la qualtié des perosnnes, par exemple les lettres de changes. Par aillerus, cette coméptence a été élargie à l'ensemble des actes de commerce c le cas notameme t des cessiosn de controel.
+Cette compétence a été élargie à l’ensemble des **actes de commerce**, notamment les **cessions de contrôle**.
 
-toutefois le tribunal de commerce ne connati en aucun cas de ltiiges en matiere civile. par exemple il est pas competent pour juger des effets d'un divorce entre deux associés. 
+Toutefois, le tribunal de commerce ne connaît en aucun cas des **litiges civils** : par exemple, il n’est pas compétent pour juger des conséquences d’un divorce entre deux associés.
 
-la question classique c celle de l'acte mixte, càd un ltiige qui oppose un commerçant du'n non commercant. C devant une juridiction civile. Cependan tle non commercant possede la faculté de vouloir une juridiiton commericael/ Cette théorie 'est plsu valable lorsque litige oppose un commerçant à un artisant. 
+La question classique est celle de l’**acte mixte**, c’est-à-dire un litige opposant un commerçant à un non-commerçant. En principe, c’est une juridiction civile qui est compétente. Cependant, le non-commerçant dispose de la faculté de saisir une juridiction commerciale.  
+Cette théorie ne vaut plus lorsque le litige oppose un commerçant à un **artisan**.
 
-le législateur est intervenu pour raitonnaliser la compétence des tribunaux d ecommerce. CErtaines juridictions de faible importance pouviant etre ammenés à connatire un ltiige d'une exceptionnelle importance. 
+Le législateur est intervenu pour **rationaliser la compétence** des tribunaux de commerce. En effet, certaines juridictions de faible importance pouvaient être amenées à connaître de litiges d’une importance exceptionnelle.
 
-c la raison pour laquelle la loi Macron du 6 aout 2015 a attribué une compétnece spétiael aux tribunaux chargé des procédures d'insolvabiltié de grosses entreprises, càd +250 salairés et 20 milliosn et + de chiffre d'affaires, ou 40 milliosns asn les salariés. 
+C’est pourquoi la **loi Macron du 6 août 2015** a attribué une compétence spéciale aux tribunaux de commerce chargés des procédures d’insolvabilité des **grandes entreprises**, c’est-à-dire :
 
-idée est que si on veut donner une chance à ces entreirse de se relever, on a aramené toutes ce sprocédures dans le giron des jruidictions de plus grande imporantce; 
+- plus de **250 salariés** et plus de **20 millions d’euros de chiffre d’affaires**,
+- ou plus de **40 millions d’euros de chiffre d’affaires** sans seuil d’effectif.
 
-art L722-2 et suivants du code de commerce.
+L’idée est de concentrer ces affaires devant des juridictions de plus grande importance, afin de donner davantage de chances à ces entreprises de se relever.  
+(Articles **L.722-2 et suivants du Code de commerce**).
 
-#### B) La compétence territoirale
+#### B) La compétence territoriale
 
-en dehors de l'hypothèse des seuils de article 722-2, la competence territoirale obéit aux règles du  code de procédure civile, càd le tribunal competent est le tribunal du lieu du défendeur.
+En dehors des hypothèses relevant de l’article L.722-2, la compétence territoriale obéit aux règles du **Code de procédure civile** : le tribunal compétent est celui du lieu du défendeur.
 
-touteofis en matiere commerciale, il existe une possibilité d'amménager contractuellemetn la compétence territoirale, c une clause attributive de compétence que l'on trouve habituellemetn dans les stiuplatiosn finales d'un contrat.
+Toutefois, en matière commerciale, il est possible d’aménager contractuellement la compétence territoriale grâce à une **clause attributive de compétence**, que l’on retrouve habituellement dans les stipulations finales d’un contrat.  
+(Article **48 du Code de procédure civile**).
 
-art 48 Code de procédure civile.
+### Paragraphe 2 : La procédure
 
-### Paragraphe 2 - La procédure
+La procédure devant les juridictions commerciales diffère traditionnellement de celle devant les juridictions civiles.
 
-la proceudre devnat les juridiotns ocmmericales traditionellmetn diffère de la procédure devant al jrudiciton civile. En matiere civile elle est dite oral alors qu'ne matiere ciivl elle est écrite. 
+- En matière civile, la procédure est **écrite**.
+- En matière commerciale, la procédure est **orale**.
 
-neamoins en praituqe la disitnction n'avait pas de protée dans la mesur eoù les parties concluaient devant le triubnal, et les tribunaxu de commerc eont developpé une pratique d'audiance de mise en état des dossiers. 
+Néanmoins, en pratique, la distinction est atténuée, car les parties concluent généralement par écrit devant le tribunal. Les tribunaux de commerce ont d’ailleurs développé une pratique d’**audience de mise en état des dossiers**.
 
-devant triubnal de commerce la representation par un avocat n'est pas obliogatoire, masi en praituqe pour les dossier sles plus importants les avocats sont systematiquemetn engagés.
+Devant le tribunal de commerce, la représentation par avocat n’est pas obligatoire. Toutefois, pour les dossiers les plus importants, les avocats sont systématiquement engagés.
 
-formelmmenet, c'es tencore très different. en réalité les procédures se ressmeblent de plus en plus. 
+Formellement, il existe encore des différences, mais dans la réalité les procédures civiles et commerciales tendent à se **rapprocher**.
 
-la grnade innovation c l'experimentation des tribunaxu des activités économiques. Ces tribunaux sont composés de juge élus par le tribunal de commerce, de juges agriculteurs, et de greffiers. ils ont pour vocation à connatire des procédures d'insovlabiltié de l'ensemble des professionels, que actiivté soti commericale artisanale ou agricole;
+La grande innovation est l’**expérimentation des tribunaux des activités économiques**.  
 
-## Chapitre 3 : Les autoirtés administratives indépendantes
+Ces tribunaux sont composés :
+- de juges élus par le tribunal de commerce,
+- de juges issus du monde agricole,
+- et de greffiers.
 
-le marché inteireur de UE connati un certain nombre de réglemetnations sectorielles, càd les relgementaitosnq ui visnet à réguler un secterud 'acitivité détemrinz comme par exemple les communications electronques, l'audiovisuel, l'energie, les transports.
+Ils ont pour vocation de connaître des **procédures d’insolvabilité** concernant l’ensemble des professionnels, qu’ils exercent une activité **commerciale, artisanale ou agricole**.
 
-la philosophie du droit de l'UE est une philosophie libérale, qui donc par définition n'entend pas permettre l'intervention directe des états dans la régulation des entreprises du secteur.
+## Chapitre 3 : Les autorités administratives indépendantes
 
-par ailleurs, le marché interieru de l'UE ayant une vocation a mettre sur un peid d'égaltié l'enseble des entreprises à l'échelle européenne, le droit de l'union se méfie des interventiosn étatiques qui pourraine tmodifier les équilibres. 
+Le **marché intérieur de l’Union européenne** connaît un certain nombre de **réglementations sectorielles**, c’est-à-dire des règles visant à encadrer un secteur d’activité déterminé, comme par exemple les **communications électroniques**, l’**audiovisuel**, l’**énergie** ou encore les **transports**.
 
-on veut réguler tel ou tel marché, masi sans que état mettre son nez dans les affaires.
+La philosophie du droit de l’Union européenne est une philosophie **libérale**, qui n’entend donc pas permettre une **intervention directe des États** dans la régulation des entreprises de ces secteurs.
 
-c la raiso pour laquelle on a créé des autorités itnependantes, qui vont être chargé des differnetes régulations sectorielles. en france ce sont des adutorités admonistraitves indépendanteS.
+Par ailleurs, le marché intérieur de l’Union européenne ayant pour vocation de mettre sur un **pied d’égalité l’ensemble des entreprises à l’échelle européenne**, le droit de l’Union se méfie des interventions étatiques susceptibles de modifier les équilibres.
 
-ex ARCOM. 
+L’objectif est de réguler tel ou tel marché, mais **sans que l’État ne s’immisce directement dans les affaires**.
 
-ces autorités adm indepnedantes ont une importance capitale pour l'ensemble des entreprises du secteur donné. 
+C’est la raison pour laquelle ont été créées des **autorités indépendantes**, chargées des différentes régulations sectorielles. En France, il s’agit des **autorités administratives indépendantes (AAI)**.
 
-au delà des autorités sectorielles il existe des AAI généralistes, càd qui vont etre chargé d'une régulation trnasversale, come l'autorité de la concurrence qui est chargé non suelement de la mise ne eouvre de la politque de la concurrence, mais également de sanctionner les atteintes à la concurrence. 
+Par exemple, l’**ARCOM** (Autorité de régulation de la communication audiovisuelle et numérique).
 
-l'autorité de la conrurence instituée par articel L461-1 et suviants du code d ecomemrce. 
+Ces autorités administratives indépendantes jouent un rôle **capital** pour l’ensemble des entreprises du secteur concerné.
 
-par aillerus faut pas oublier les pouvoirs de la comission européenne notamment ne matière d'atteinte à la concurrence. en effet dès lors qu'uen pratique cause un dommage affectant la concurrence  et le commerce entre état membre, la comission européenne est compétente pour poursuivre les infractions et les sanctionner. 
+Au-delà des autorités sectorielles, il existe des **AAI généralistes**, chargées d’une **régulation transversale**.  
+C’est le cas de **l’Autorité de la concurrence**, compétente non seulement pour la mise en œuvre de la **politique de concurrence**, mais également pour **sanctionner les atteintes à la concurrence**.
+
+L’Autorité de la concurrence est instituée par les **articles L.461-1 et suivants du Code de commerce**.
+
+Par ailleurs, il ne faut pas oublier les **pouvoirs de la Commission européenne** en matière d’atteintes à la concurrence. En effet, dès lors qu’une pratique cause un dommage affectant la concurrence et le commerce entre États membres, la **Commission européenne** est compétente pour poursuivre les infractions et prononcer des sanctions.

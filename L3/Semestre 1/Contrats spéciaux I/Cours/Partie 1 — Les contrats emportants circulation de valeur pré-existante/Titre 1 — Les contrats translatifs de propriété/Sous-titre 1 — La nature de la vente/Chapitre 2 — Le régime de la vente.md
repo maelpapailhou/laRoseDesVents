@@ -528,364 +528,322 @@ L’**article 1217** énonce qu’en cas d’inexécution du contrat, le créanc
 
 ###### iii) le contrat de reservation
 
-Pas d'examen dessus.
+Pas d’examen dessus.
 
-Ecnore appelé contrat préliminaire à la vente d'immeuble à construire. C un contrat que l'on trouve en mateire de vente d'immeuble à constuire (VEFA). 
+Encore appelé **contrat préliminaire à la vente d’immeuble à construire**, c’est un contrat que l’on trouve en matière de **vente en l’état futur d’achèvement (VEFA)**.
 
-c un promoteur immobileir uqi vend des cote parts indivises d'un terrain sur lequel on va batir un immeuble., avec engagemetn de construire sur cet immeuble et et de librerà l'acheteur un appartmeent clé en maissoumis au régime de la co propriété. 
+Il s’agit d’un **promoteur immobilier** qui vend des **quote-parts indivises** d’un terrain sur lequel sera bâti un immeuble, avec l’engagement de construire cet immeuble et de livrer à l’acheteur un appartement « clé en main », soumis au régime de la copropriété.
 
-cette VEFA est souvnet précédée par un avant contrat, masi l'avant contrat qui est le contrat de reservation ets le suel avant contrat qu'on petu conclure avant une VEFA. 
+Cette VEFA est souvent précédée par un avant-contrat, mais l’avant-contrat qui est le **contrat de réservation** est le seul avant-contrat que l’on peut conclure avant une VEFA.
 
-c'est légamemetn le seul avant contrat qu'on petu conclure avant la VEFA, relgemetna par  L261-15 du CCH.
+C’est **légalement le seul avant-contrat** possible avant la VEFA, prévu par l’**article L. 261-15 du CCH**.
 
-il engage assez peu les parties. Il est conçu comme un contrat exploratoire du marché pour le promoteur immobileir, le promoteur a ce projet de construction, de promotion immobiliere. Pour l'instnat pas forcement acheté le terrain, ou ifancement banciare ou acheteur potentiels. 
+Il engage assez peu les parties. Il est conçu comme un **contrat exploratoire du marché** pour le promoteur immobilier : celui-ci a un projet de construction et de promotion immobilière, mais il n’a pas nécessairement encore acquis le terrain, obtenu le financement bancaire ou trouvé suffisamment d’acheteurs potentiels.
 
-il va proposer des contrats de reservation à des acquereurs potentiels. on verse 5% sru un compte bloqué. Le promoteur immobileir s'engage pas à réaliser le projet. S'il se fait on conclu la vente, sinon on rend le dépot de garantie. On eprd rien. 
+Il va donc proposer des **contrats de réservation** à des acquéreurs potentiels. On verse en général **5 % sur un compte bloqué**. Le promoteur immobilier ne s’engage pas à réaliser le projet. Si celui-ci se fait, on conclut la vente ; sinon, le dépôt de garantie est restitué. L’acquéreur ne perd rien.
 
-ça permet au promoteur immobileir une fois qui'l a conclu des contrats de servation avec 70% des appartements q'il veut vendre, il va vori banquier en disant que projet est viable, avec 70% de reservation Ca les rassure. C le contrat exploratoire du marché. Acqueruers potentiels risquent pas grnad chose. Mais si 20/30% le banqier pretera pas.
+Ce mécanisme permet au promoteur, une fois qu’il a conclu des contrats de réservation portant sur environ **70 % des appartements**, d’aller voir son banquier pour démontrer que le projet est viable. Cela rassure les banques. C’est donc un contrat exploratoire du marché. Les acquéreurs potentiels ne risquent pas grand-chose. En revanche, si seulement 20 à 30 % des lots sont réservés, la banque ne prêtera pas.
 
 ###### iv) le contrat cadre
 
-c'est une invention de la pratique qui a reçu une consécration législative en 2016 à articel 1111 du code ciivl.
+C’est une invention de la pratique qui a reçu une consécration législative en 2016, à l’article **1111 du Code civil**.
 
-il fixe le cadre générla de relatiosn contractuelles futures, il est donc assorti, suvii de contrats d'applications. Il sosnt d'application extrememtn fréqutne et diverses dans plein de domaines.
+Il fixe le cadre général des relations contractuelles futures. Il est donc assorti et suivi de contrats d’application. Ils sont extrêmement fréquents et diversifiés, présents dans de nombreux domaines.
 
-il s'agir pour des contratcants uqi ont vocatioon à avoir un courant d'échange, un courant économqiue, ex un accord de distribution entre un proucteur et un distributeur, va y avoir contrats d'achats et de vente entre les deux.
+Il s’agit de contrats conclus entre des parties ayant vocation à entretenir un courant d’échanges, un courant économique. Par exemple, un accord de distribution entre un producteur et un distributeur : il y aura ensuite une série de contrats d’achat et de vente entre les deux.
 
-on va fixer le cadre de ces échanges, on dira que ventesà venir obeiirent à telles relge,s conclu sur la base d'un simple envoei de sms par exemple, etc pour simplfiier, ce qui permettra à chaque contrat d'applicaiton d'etre conclut tres brievenemtn.
+Le contrat-cadre permet de fixer le cadre de ces échanges : on peut prévoir que les ventes à venir obéiront à certaines règles, éventuellement conclues de manière simplifiée (par exemple sur la base d’un simple envoi de SMS), ce qui permettra à chaque contrat d’application d’être conclu très rapidement.
 
-on les retrouve dans conrat de distribution de franchise, en mateire d'assurance, bnaciar,e agriocle(le contrat d'intégration agriocle). 
+On retrouve ce type de contrats notamment dans les contrats de distribution, de franchise, en matière d’assurance, bancaire ou encore agricole (exemple : le contrat d’intégration agricole).
 
-ces contrats cadre contiennet es engagements de part et d'autres et enpartiuclier n engagement d'achat de la part de l'une es parties au proffit de l'autre. 
+Ces contrats-cadres contiennent des engagements réciproques, et en particulier un **engagement d’achat** de la part de l’une des parties au profit de l’autre.
 
-un acccord de idstrbutin entre un producteur et un distributeur : ex une staiton service et une compagnie pétroliere. La station service s'enagge à acheter ces hydro carbures aurpes de la compagnie pétroliere, avec en l'espece une clause d'exclusivité, et surtout y'a la plupart du temps des clauses de minima d'approvisonnemetn sur une année au terme desquels le distrubuteur (station service) esttenu de s'approvisonner d'une quantité minimale.
+Exemple : un accord de distribution entre une station-service et une compagnie pétrolière. La station-service s’engage à acheter ses hydrocarbures auprès de la compagnie pétrolière, souvent avec une clause d’exclusivité et, surtout, des **clauses de minima d’approvisionnement** annuels. Le distributeur (ici, la station-service) est donc tenu de s’approvisionner à hauteur d’une quantité minimale.
 
-il s'engage à acheter des ibens aureps de son co cotnractnat avecun minimum à atteindre.
+Cet engagement d’achat ressemble à une promesse d’achat : on promet d’acheter une certaine quantité de produits annuellement. C’est effectivement ce qu’a jugé la Cour de cassation dans une série d’arrêts de 1971, considérant que ces engagements d’approvisionnement constituaient des promesses d’achat.
 
-quelle est la valeur juridque de cet engagement d'achat ? Ca ressemble à uen promesse d'achat : on promet d'acheter tant de produits annuellement.
+La conséquence en a été la jurisprudence relative à la **détermination du prix dans les contrats-cadres**.
 
-c effectivement ce qu'a pu décider al cour de cassation dans une série d'arrêts de 1971, la cour de cassation à considérer sans le dire expressmentq eu ces engagements d'approvisonemmetn étiaent des promesses d'achats.
+Dans les années 1950 jusqu’en 1963, le prix de vente des hydrocarbures était fixé par l’État. Lorsque les compagnies pétrolières vendaient leur pétrole aux stations-service, le prix était imposé par l’autorité publique.
 
-elle en a tiré une conséquence : jurisprudence de la détemrination du prix dans les contrats cadres. 
+En 1963, l’État a cessé de fixer les prix de vente et de revente des hydrocarbures. Résultat : la compagnie pétrolière a commencé à fixer elle-même ses prix. Certains pompistes ont contesté cette pratique, d’autant plus qu’ils étaient liés par une clause d’exclusivité et ne pouvaient donc recourir à la concurrence.
 
-dans les années 50 jusqu'en 1963 le prix de vente des hydrocarbures étaient fixés par l'état. Lorsque les comapgnie pétroilieres vendiaent leur petrole au statiosns ervice, le prix de vente était fixé par l'état. 
+Une dizaine de pompistes ont alors agi en justice contre les compagnies pétrolières. Selon eux, les contrats-cadres étaient devenus nuls, car le prix n’était plus fixé ni négocié entre les parties, ni imposé par l’État : il devenait indéterminé.
 
-en 1963 l'état a décidé de ne plus fixer le prix de vente et de revente des hydrocarbures. résultat : la compagnei pétroliere dorenanvet va déterminer le prix, et certians pompistes l'ont pas accepté, d'auteant plus que clause d'exclusivité, donc pouviaent pas faire jouer la concurrence.
+En 1971, la Cour de cassation leur a donné raison, en invoquant **l’article 1591 du Code civil**, qui exige que le prix soit déterminé ou déterminable dans la vente.
 
-dizaine de pomipistes ont agit en justice contre comapgnie pétrolière. depusi 63 prix de vente plsu fixé par un tiers masi unilatéralement par un tiers, le prix étiatj indeterminé par accord des parties. 
+**Problème doctrinal :** la Cour a annulé des contrats-cadres de distribution, qui ne sont pas des ventes en eux-mêmes mais organisent simplement la conclusion de ventes futures. Comment leur appliquer l’article 1591 ?  
+Le raisonnement implicite de la Cour est que, puisque ces contrats-cadres contiennent un engagement d’achat, ils constituent des **promesses unilatérales d’achat**. Or, la promesse d’achat comme la promesse de vente doivent répondre aux mêmes conditions de validité que la vente elle-même : à savoir, une chose et un prix déterminés.
 
-les pompites ont agit en nullité des contrats cadre, en disant qui'ls prévoietn plsu de prix négociés ou imposés par l'état, il est devneu indeterminé, donc nullité de ces contrats.
+Mais ce raisonnement n’est pas à l’abri de la critique, pour des raisons à la fois **juridiques** et **pratiques**.
 
-la coru de cassatione n 1971 les a suvii en invoquat article 1591 du code civil, sur le rpix dans la vente, qui exige que prix soit détemriné ou déterminable dasn al vente.
+- **Point de vue pratique :** comment fixer aujourd’hui le prix du sans-plomb 95 sur huit ans, alors que ce prix fluctue constamment ? Même problème dans les contrats de concession automobile : on ne peut déterminer à l’avance ni les modèles ni les prix.
+- **Point de vue juridique :** dans une promesse d’achat, le consentement à acheter une chose à un prix déterminé est donné immédiatement. Or, dans le contrat-cadre, ce consentement n’est pas donné : il n’intervient qu’au moment des **contrats d’application** (les ventes successives).
 
-probleme soulevé par la doctrien dans cette jurisprudence : ce que la coru a annulé c esont les contrats cadre de istribution, càd cotnrats qui prévoient que le pompistes va acheter au fur et a mesure un certain nombre de litres d'hydrocarbures. ce sont els contrats cadres qui preoveitn laconclusion de vente, masi sont pas en eux meme des ventes.
+Ainsi, comme l’a montré Alain Seube, le contrat-cadre organise la conclusion de contrats de vente futurs, mais ne contient pas en lui-même un véritable consentement à la vente.
 
-Comment leur appliquer cet article ? le raisonnemetn suivi en filigrane c que pour la coiru de csation ces contrats cadres d'approvisonenemtn aprce qu'ils contienent un engagmeent d'achat, ce osnt des promesses unilatérales d'achat. Alors elles sont soumises aux memes conditons de validité que lav ente elle emme. 
+En réalité, le consentement à l’achat n’est pas acquis lors du contrat-cadre : il est donné au moment du contrat d’application. On ne peut donc pas assimiler ces engagements à une promesse unilatérale d’achat.
 
-la proemsse de vente comme la promesse d'achat sont soumises aux memes conditosn de vlaidité que la vente elle meme. La promesse unilatérale conteitn un cosnement à la vente, soit celui du vendeur osit acheteur. Pour vente il faut uen chose et un prixs inon psa de cosnemtent. 
+La nuance est essentielle :
+- Dans une promesse, le consentement est déjà donné, et il ne manque plus que l’accord de l’autre partie.
+- Dans un contrat-cadre, il n’y a pas encore de consentement à la vente : seulement l’obligation de consentir plus tard, au moment de la conclusion des contrats d’application.
 
-ce raisonnement n'est pas à l'abris de la crtique ppur des raisons juriques et pratiques.
-
-point de vue pratiqeu : un contrat cadre qui rpévoit sur les 8 prochaiens années l'obligaion pour l'une des parteis d'acheter du sans plomb 95, commetn voulez vousque prix du sans plomb soit fixé sur les 8 prochaines années alors que osn prix fluctue ? idem avec marques de voitures et concessionaire, comment déterminer et la chose te le prix ? 
-
-pourquoi est-ce qu'on petu pas y voir une promesse d'achat? car dans la promesse d'achat le promettant consent à acheter une choseà un certain prix, je donne mon consentemtn à l'achat, il n'atten dplus que en retour le votre.
-
-l'aspect pratique montre que ce consentemtn ne petu pas e^tre juridquement donné, sur une chose qui n'est pas tjrs déterminé, ex essence ou vehicules futurs, et surtout pour un prix qu'on peut pas connaitre.
-
-en réalité le consnetment à la vente et à l'achat es tpas donné au meme emoment : pas au moment du contrat cadre masi du contrat de vente. C au moment où ces contrats de vente sont conclues que là y'a accord des parteis de la chose et sur le prix. 
-
-article : Alain Seube, article sur les contrats cadre. Ces contrats cadres orgnaisnet des contrats de ventre, qui sont des contrats d'appplication.
-
-cette dissociaiton entre les deu xmontnre tque dans le contrat cadre pas de promesse, juste un engagement 'un côté. le consentemetn à l'achat ets donné lors du contrat d'application. 
-
-pourquoi est-ce que si je consetn à acheter il suffit que autre dise je vens pour que la vente soit ocnclu? car on a donénn notre cosnnetmetn à l'achat, il est acquis, livré à l'autre partie. Il ne manque plus que son ocnsnetelnt à elle. le consentement est une abdication.
-
-volonté : on exerce un pouvoir, on peut avoir la volotné de s'engager de ne pas s'engager.  Cun pouvori qui noues tereconnu.
-
-lorsquo'n consentà s'engager dans un contrat, j'abdique sa volonté, je me lie dans la force obligatoire, dans le sliens, on renonce à la volonté de conclure à une autre contrat.
-
-la volonté c le povori le consnetment cexercice de cette volotné qui qui consnet à s'negager.
-
-la volonté c avant le contrat, le consnetmetn c uen fois qu'on est rentré dans ce contrat. il est lié par la force oblgiatoire.
-
-si dans le contrat on dit qu'on s'oblige à acheter, alors on s'oblige à donner mon consentmetn à l'achat. mais si on s'oblige. à donner le consneletn c qu'on l'a pas déjà donné.
-
-difference est quadn je m'oblige à acheter, je m'oblige à dire oui alors qu'on a dit oui (ex fiancailles et mariage).
-
-si on ne done pas le consnetment, peut etre qu'on commet une faute parce que engagé à le donner, mais si pas donne ron peut pas m' contraindre.
-
-c très rpoceh de la promesse masi pas encore sur al proemsse. dans le contrat cadre y'a l'oblgiation de consnetir, qui impliqeu que ce cosnenemtn soit donné.
-
-cette obligation d'achat c une oblgaiton de faire, pas suceptibole d'une execution forcée.
+Cette obligation d’achat est donc une **obligation de faire**, non susceptible d’exécution forcée comme une promesse.
 
 ###### **b) la vente consentie**
 
-un consement à déjà été donné à la vente (1 c promesse nilatérale, 2 promesse synallagmatique qui frôel alv ente elle meme).
+Un **consentement** a déjà été donné à la vente :
+1. Dans la **promesse unilatérale**,
+2. Dans la **promesse synallagmatique**, qui frôle la vente elle-même.
 
-- **1) promesse unilatérale**
+###### i) La promesse unilatérale
 
-c'est le vendeur qui consent à vendre. 
+C’est le **vendeur** qui consent à vendre.
 
-- *1a) la promesse unilatérale de vente*
+###### Alpha: la promesse unilatérale de vente
 
-la promesse uninatélra e de vente a fait son etnrée dans le code civil de 2016, après le pacte de préférence; C le deuieme avant contrat a avoir été régi par le code ciivl depui s2016. 
+La **promesse unilatérale de vente (PUV)** a fait son entrée dans le Code civil avec l’ordonnance de 2016, après le pacte de préférence. C’est le **deuxième avant-contrat** à avoir été intégré dans le Code civil depuis 2016.
 
-Mais rien sur la promesse ynallagmatique parce qeu our les auteurs de l'ordonnance la promesse synallagmatique ne concerne que la vente donc contrats spéciaux.
+En revanche, rien n’a été prévu sur la **promesse synallagmatique**, car, pour les auteurs de l’ordonnance, elle relève uniquement de la vente et donc des contrats spéciaux.
 
-mais la PUV a fait son entrée article 1124 du code civil avec une déifniion et des éléments de régime.
+La PUV est désormais régie par l’**article 1124 du Code civil**, qui en donne une définition et fixe les éléments de son régime.
 
-on est sur un avant contrat qui prévoit la conclusion d'un contrat défintiif dont les éléments essnetiels sont déjà détemriéns et pour al cocnlsuion duquel il ne manque que le consentmetn du bénéficiarie. 
+Il s’agit d’un **avant-contrat** qui prévoit la conclusion d’un contrat définitif dont les éléments essentiels sont déjà déterminés. Il ne manque que le **consentement du bénéficiaire**.
 
-si'l ne anque que le consentmetn du beneficiare, ça veut dire que le consnemetn du promettant est d'ores et déjà donné.
+Autrement dit, le **promettant** (vendeur) a déjà donné son consentement sur une chose déterminée et à un prix déterminé au profit du bénéficiaire (acheteur potentiel). Ce dernier dispose d’un **droit d’option**, lui permettant :
+- soit d’acheter le bien au prix fixé,
+- soit de ne pas acheter.
 
-le vendeur à consenti avant une chose détemrinée à un prix déterminé au bénéficiaire, donc acheteur potentiel, qui dispose d'un droit d'option qui lui permet soit d'acheter soit de ne pas acheter un bien a un prix déterminé. du coté du promettant venduer, al vente est déjà acuqise , conclue. 
+Du côté du promettant, la vente est déjà acquise : il est lié par son engagement.
 
-ce droit d'option s'appelle un droit potestatif. Le droit potestatife st un droti qui permet a son titulaire, ici le beneficiaire, de l'exercer de façon discrétionnaire, il petu docn lever l'option et acheter, ou il ne lève pas l'option, et il décide de ne pas acheter, en tous cas il n'a pas à se justiifer. C le dori tpotestatif.
+Ce droit d’option est un **droit potestatif**.  
+Le droit potestatif est un droit qui permet à son titulaire — ici le bénéficiaire — de l’exercer de manière discrétionnaire. Il peut lever l’option et acheter, ou ne pas lever l’option et renoncer à l’achat. Dans tous les cas, il n’a pas à se justifier : telle est la nature du droit potestatif.
 
-la nature de cette promesse :
+- **La nature de cette promesse**
 
-la promesse est un contrat.
+La promesse est un **contrat**.
 
-lorsque offre est formulée petu pas êtr rétractée avant le délais fixée, masi en cas de retractation fautive, meme si le benefiicaire accepte y'a pas d'execution forcée. art 1116 du code civil.
+Lorsqu’une **offre** est formulée, elle **ne peut pas être rétractée** avant le délai fixé. Mais en cas de rétractation fautive, même si le bénéficiaire accepte, il n’y a pas d’exécution forcée (article 1116 du Code civil).
 
-l'offre engage le pollcitant, l'offrant, et si il se rétracte avant l'acceptaiton et qu ey'a acceptaiton après coup, y'a pas de vente.
+L’offre engage le **pollicitant**, l’offrant, et s’il se rétracte avant l’acceptation, puis qu’il y a acceptation après coup, il n’y a **pas de vente**.
 
-masi dans une promesse unilatérale de vente, si retractation unilatérale du vente, et que le beneficiare a levé l'option, y'a execution ofrcée.
+Mais dans une **promesse unilatérale de vente**, si le promettant se rétracte unilatéralement alors que le bénéficiaire a levé l’option, il y a **exécution forcée**.
 
-offre es tpas suceptible d'execution forcée, alrosque la proemsse oui.
+**L’offre n’est pas susceptible d’exécution forcée, alors que la promesse l’est.**
 
-quelle est la difference ? La promesse est un contrat, l'offre est pas un contrat mais un acte unilatéral. Cette offre m'engage par ma volonté unilatérlae, mais c pas n contrat.
+Quelle est la différence ? La promesse est un contrat, tandis que l’offre n’est pas un contrat mais un **acte unilatéral**. Cette offre m’engage par ma volonté unilatérale, mais ce n’est pas un contrat.
 
-la promesse unilatérale est un contrat, parce que y'a déjà eu un échange des consenetements sur la promesse elle même. le promettant consent à vendr,e le bénéficiare consentà la promesse.
+La **promesse unilatérale** est un contrat parce qu’il y a déjà eu un échange de consentements sur la promesse elle-même : le promettant consent à vendre, le bénéficiaire consent à la promesse. La promesse engage donc le promettant plus sévèrement.
 
-la promesse va donc engager le promettant plus seveemrent
+Dans la pratique, la différence n’est pas toujours claire.
 
-dans la praitque la differnece est past jrs tres claire. 
+**Exemple jurisprudentiel** : un document intitulé « Offre unilatérale de vente » portant sur un immeuble avec un prix déterminé. En bas du document figurent deux signatures. Mais au-dessus de la signature de l’acquéreur est inscrit : « Vu et pris connaissance ». Le vendeur refuse finalement de vendre à l’acheteur, lequel l’assigne en exécution forcée de la vente. Pour se défendre, le vendeur invoque l’article 1589-2 du Code civil, qui impose l’enregistrement des promesses de vente d’immeubles à la recette des impôts, sous peine de nullité fiscale.
 
-exemple jurisprudence : un document intitulé "offre unilatérale de vente" portant sur un immeuble avec un prix déterminé. en bas du documetn figure les 2 signatures. Mais au dessus de la signature de l'acquéreur fgure la mention "Vu et pris connaissance". Le vendeur finaneletmn refuse d evnedre à l'acheteur, et l'acquéreur l'assigne donc en execution forcée de la vente. Pour se defendre, le venduer v achercher du coté 1589-2 du code civil, au terme duquel la nullité fiscale qui impose l'enregistrement de promesse de vente d'immeubels à la recette desimpots.
+Le vendeur affirme : « Je m’engage à vous vendre unilatéralement, ce n’est pas une offre mais une promesse puisqu’il y a deux signatures. » Mais comme l’acte portait sur un immeuble, il aurait dû être enregistré aux impôts dans les dix jours, ce qui n’a pas été fait. Si la promesse est nulle, l’acheteur ne peut pas forcer la vente.
 
-Je m'engage moi vendeur de vous vendre unilatéralement , c pas une offre mais une promesse comme y'a les deux signature. Comme ca portait sur un immeubel ça aurait du etre enregistreé aux impots sous 10, mais ils ont omis cette formalité. Si la promesse et nulle, l'acheteur ne petu pas forcer la vente. 
+**Problème** : s’agit-il bien d’une promesse unilatérale de vente d’immeuble ? Cela y ressemble, mais la mention « Vu et pris connaissance » change tout. Normalement, la signature au bas d’un acte vaut approbation de son contenu (article 1367). Si les deux ont signé, on peut penser qu’ils ont consenti aux obligations qui figurent dans l’acte. Mais la signature de l’acquéreur était précédée de cette mention, ce qui signifie qu’il a seulement consenti à prendre connaissance de l’engagement du vendeur. La signature ne vaut donc pas consentement, et il n’y avait aucun accord de volonté. Sans consentement, il n’y a pas de contrat : il s’agit donc d’une offre, simple acte unilatéral. Et l’article 1589-2 ne vise que les promesses unilatérales de vente.
 
-Est-ce qu'il s'agit ue PUV portant sur un immeuble ? Ca y ressemble mais mention "vu et pris conaisance". Normalement la signature en bas du docuemnt vaut approbation de son contenu. Si onsigne ne bas d'un acte, on approuve son contenu, "on manifestre notre consnemetn aux oblgiatiosn qui découle de cet acte" art 1367.
+En pratique, les **agents immobiliers** utilisent souvent des « offres d’achat ». Exemple : un agent mandaté pour vendre un immeuble organise des visites. À la fin, un acquéreur intéressé signe un formulaire pré-rempli « Offre d’achat » dans lequel il s’engage à acquérir tel immeuble à tel prix. Tant que seul l’acheteur signe, il s’agit d’une offre qui n’engage que lui. Si le propriétaire contresigne, l’agent immobilier considère que l’offre est conclue.
 
-a priori, si les deux ont signés, c que les deux consentes aux oblgiaitosn qui figurent dans l'acte. Mais la signature d el'acheteur était précédé de la mention vu et pris connaisance, l'acheteur a donc consenti à prendre connaisance de l'engagement du vendeur. Cette mention exclu donc le consentement. La signature ne vaut pas consentement, et donc il n'y aviat aucun consentmetn de cet acheteur en face du vendeur. Si aucun consetnemtn ce n'est pasun contart. Si c aps un contrat, c'est une offre, donc acte unilatérale, article 1589-2 ne vise que les promesses unilatérales de vente.
+La signature (article 1367) vaut consentement aux obligations qui figurent dans l’acte. Mais dans cette « offre d’achat », seul l’acheteur s’engage. Le vendeur, en contresignant, accepte que l’acheteur s’engage, mais lui-même ne prend aucune obligation, sauf à écrire « bon pour vente » et signer. Ce n’est donc pas une promesse de vente, mais une **promesse d’achat**. Le vendeur peut donc se rétracter.
 
-les agents immobileri squi otn cette pratique des offres d'achats : un agent immobiléi mandaté poru vente immeubel et procede a des viistes, à la fin un acquerue rest interessé. Ils ont un formulaire pré-rempli appelé "offre d'achat" dans lequel acheteur potentil s'engage à acheter tel immeuble déterminé à tel prix, une offfre qui sera transmise au proprio.
+C’est un **contrat unilatéral**, puisque seul le promettant (le vendeur) est engagé, alors que le bénéficiaire (l’acheteur) ne l’est pas. Sinon, on serait en présence d’une **promesse synallagmatique**.
 
-tant que offre est signé que par l'acheteur c une fofre qui n'engage que lui. Si le propriétaire vient à contreisnger cette offre, il impose sa signature, alors là agent immo dit que offre concleu.
+Mais il existe aussi le **contrat synallagmatique de promesse unilatérale** : le promettant s’engage à vendre, et le bénéficiaire prend une obligation accessoire (mais pas celle d’acheter, sinon ce n’est plus une promesse unilatérale).
 
-cette signature 1367 consent aux oblgaitosn qui figurent dans l'offre d'achat. Mais dans cette offre d'achat c'est l'acheteur qi s'engage à acheter tel immeuble à tel prix. Il consent à ce que vous vous engagiez à acheter. il consent à notre proemsse d'achat. Ca deivent un contrat de promesse d'achat. Mais où est le consentemtn du vendeur à la vente sauf s'il met "bon pour vente" et signe. Mais si document qui ne contient que des oblgiaitosn à la charge de l'acheteur il accepte que l'acehetue rs'engae, mais pas que lui s'engage. Il accepte la promesse d'achat.
+Exemple : le vendeur promet de vendre un immeuble à tel prix et accorde au bénéficiaire un droit d’option de six mois. Pendant cette période, le vendeur ne peut rien faire de l’immeuble (ni louer, ni vendre à un autre), car si l’acheteur se décide le dernier jour, il devra vendre. Cette **immobilisation** a une valeur économique, qui se traduit par le paiement d’une **indemnité d’immobilisation**. Plus la durée est longue, plus l’indemnité est élevée.
 
-le vendeur peut donc se rétracter. 
+- Si le bénéficiaire lève l’option, l’indemnité s’impute sur le prix de vente.
+- Si le bénéficiaire ne lève pas l’option, le vendeur conserve l’indemnité.
 
-c'est un ocntrat unilatéral, pusique seul le promettant est engagé, alorsq ue le bénéfiicare lui n'est pas engagé d'acheter (sinon ça serait une promesse synallagmatique).
+Attention : ce n’est pas une **clause pénale**, mais la contrepartie du droit d’option.
 
-mais ça peut etre aussi un contrat synalagmatique de promesse unilatérale : c le prometatn t qui a cosnenti à vendre, pas le beenficiare. mais il se petu que le beneficiaire prennet un engagement , pas celui d'acheter (car sinon plus promesse unilatérale). Si il prend une oblgaiton, on es ten rpésence d'un contrat syanlgmatiqeu (le proemttant s'engage à vendre e tle benefiiaire s'engage à autre chose). 
+L’indemnité d’immobilisation est l’objet de nombreux litiges.
 
-quel est l'engagemne que peut prendre le benfeiicare dans uen proemsse unilatérale ? 
-je vous promet de vous vendre un immeuble à tle prix, et je vous laisse undroi td'option de 6 moi spour vous décider. pendant ces 6 mois, on peut juste attendre. Il a 6 moi spour reflechir si j'achete ou pas. MAis pendant les 6 moi son peut iren faire avec immeubel, car si dans 5 moi set 29 jours il di tuq'il achete on est tenu de vendre immeuble dans l'état dans lequel il se trouvé avant, il est bloqué, immobilisé.
+**Exemple** : une demeure sur la Côte d’Azur, promesse conclue pour 375 millions d’euros, avec indemnité de 10 %. Litige sur la restitution ou non de l’indemnité.
 
-cette immobilisation elle a un prix, une valeur éocnomqieu, iun manque a gagné. Cette immobilisation va se traduire par el paiement d'un eindemnité d'immobilisation, en contrepartie de sond roit do'ption. plus la durée de l'immobilisaiton sera longue, plus l'indemnité sera élevée. 
+Si l’indemnité est trop élevée (ex. 50 %), juridiquement on reste libre de ne pas acheter, mais économiquement, on est quasiment contraint. Dans ce cas, la jurisprudence peut requalifier la promesse unilatérale en **promesse synallagmatique**, considérant que l’acheteur avait déjà consenti à acheter dès l’origine.
 
-Si 2 ans on. aun délasi d'option, pendant 2 ans il petu rien faire, ni louer preter, etc. Si on el bloque 2 ans pou ruq'à la fin il achete pas on a perdu qq chose. On va stipuler le paiement du'n eindemnité d'immobilisation, laquelle aura 2 affectations possibles. Si le beneficiare lève l'option et achete, alors l'indemnité déjà versée va s'imputer sur le prix de vente. Ex indemnité immibilsiaton de 5% du prix de vente, immeubel 100 00 euros, au moemtn de la promesse on verse les 5000 euros. Si au terme du délais on leve option on nous doit plu sdque 95 000. Si il leve pas l'otpion, et c'est son droit, il garde l'indemnité. attention : c'est pas une clause pénale réaprant un préjudice.
+La jurisprudence n’a pas fixé de seuil précis, mais en pratique :
+- 3 mois d’immobilisation = indemnité modérée (jusqu’à 10 %) ;
+- au-delà de 15-20 % = risque de requalification.
 
-c'est le contrat synnalagmatique de promesse unilatérale. 
+Si la promesse unilatérale n’a pas été enregistrée aux impôts, elle est nulle (article 1589-2). En revanche, la promesse synallagmatique reste valable.
 
-l'indemnité d'immobilisaiton c la moité des contnetieux liés aux contrats. Est-ce que indemnité est restitée ou pas? 
+Ainsi, si la promesse unilatérale est requalifiée en promesse synallagmatique, elle vaut **vente**. Et si elle vaut vente, aucune des parties ne peut s’y soustraire : il y a **exécution forcée**.
 
-exempel : une demeure cote d'azur sur lauqelle une promesse de ente a été conclue, montrant 375 milliosn d'euros. Indemnité de 10%. Contenteux sur al restititon ou pas de l'indemnité. 
+**Exemple jurisprudentiel (2010)** : dans les années 1960, un mari souhaitait acheter un immeuble, mais pas pendant le mariage (pour éviter qu’il tombe dans la communauté). Le vendeur lui consent une promesse unilatérale avec indemnité d’immobilisation de 96 %. Après le divorce, il achète. Les héritiers invoquent la jurisprudence pour dire qu’il s’agissait d’une vente déguisée et qu’elle devait entrer dans la communauté. La Cour de cassation a cassé l’arrêt d’appel en considérant que l’intention du mari n’était pas d’acheter pendant le mariage. Donc pas de requalification.
 
- l'indemnité tient à son montant : un immeible vaut 100 000 euros. indemnité immoblisaiton de 5%. 
+**Conclusion** : il est possible d’éviter la requalification si l’on justifie l’existence et le montant élevé de l’indemnité d’immobilisation.
 
-mais si indemnité immobilisaiton est de 50%, juridquemetn on est tjrs libre d'acheter ou de ne pas acheter, masi économiquement est-ce qu'on se sent vrametn libre de ne pas acheter quitte à perde 50 000 euros? d'un pt de vue economqieu qui a indemnité immboilsiaiton tres elevé se sent contraint economqieutmn d'aller jusqu'a bout et d'acheter.
+- **Le régime :**
 
-ce calcul economique se traduit juridquement par une jurisprudence au terme de laquelle si le montant de l'indemnité prive le bénéficiaire de sa liberté d'acheter ou de ne pas acheter, alors la promesse unilatérale est requalifiée en promesse synallagmatique. On va considerer que ab initio, des la conclsuion de la promesse, on a déjà conseti à acheter. Donc la jurisprudence accepte de requalifier les pormesses unilatérales en promesse synallagmatique des lorsq ue lemontant de l'indemnité prive de sa liberté l'acquéreur d'acheter ou de ne pas ahceter.
+Conditions de fond de la **promesse unilatérale de vente** : elle obéit aux mêmes conditions de fond que la vente elle-même. Il faut donc que **la chose soit déterminée** et que **le prix le soit également**.
 
-Quel est le niveua, le pourcentage à partir duqel on va requalifier ? appréciaitons ouveraine des jues du fond.
+Il faut également, contrairement au pacte de préférence, que le **promettant ait la capacité de disposer du bien**. C’est logique, car il consent à vendre : il faut donc qu’il ait la capacité de vendre. Tandis que dans un pacte de préférence, on ne consent qu’à préférer et non pas à vendre.
 
-en praitque dans la jurisprudence tout depend de la durée d'immobilisaito, uneimmbolsaiton de 3 mois vaut moisn cher que durée de 2 ans, dans ce dernier cas on peut aller facilemetn jusqua 10% du prix de vente. On reste ici dans uen proemsse unilatérale. Au delà de 15/20% ça deivent dangereux, y'a un risqu eréel de requalfiication avec tutes les conséqunces que cela peut engendrer. 
+La promesse peut être conclue pour une durée **déterminée** ou **indéterminée** :
+- Si elle est conclue pour une **durée déterminée** (exemple : 6 mois), et qu’au terme de ces 6 mois l’option n’est pas levée, elle devient **caduque**.
+- Si elle est conclue pour une **durée indéterminée**, c’est la prescription qui joue. Contrairement au pacte de préférence, la prescription court, car le promettant a consenti à vendre un bien, et l’acheteur dispose d’un délai indéterminé pour lever l’option. Comme l’option peut être levée à tout moment, le droit d’agir existe, et la prescription court. En matière de droits de créance, il s’agit de la prescription **quinquennale** prévue à l’article 2224 du Code civil.
 
-si la promesse unilatérale n'a pas été enregitré à l arecette des impots, si promesse unilatérale elle est nulle et syanalgimaitque rtjrs valbale, car aticle 1589-2 vise que promesses unilatérales.
+Ainsi, la promesse à durée indéterminée dure **5 ans**. Au-delà, si l’option n’a pas été exercée, l’action est éteinte par **prescription extinctive**.
 
-Si promesse unilatérale requalifié en proemsse synallagmatique, elle vaut vente. Si la proemsse vut vente, alors aucune des deux parties ne petu se soustaire à la vente, donc exeuction forcée.
+Cependant, 5 ans est un délai long : la jurisprudence admet (et cela n’a pas été remis en cause) que le promettant puisse raccourcir ce délai en mettant en demeure le bénéficiaire de lever l’option dans un **délai raisonnable**. C’est une sorte d’**action interrogatoire anticipée**.
 
-si le vendeur ne peut plus vendr,e il peut etre contraint devant la justice.
+- **Conditions de forme :**  
 
-un arrêt de 2010 a fait douter de la penerrité decette jursirpudence : on est dans les années 1960, un couple est sur le point de se séparer, de divorcer. Le mari souhaite acheter un immeuble. Avocat dit de pas acheter tant qu'on est marié, car sinn tombe en communauté, et on va devoi rle partager avec future ex épouse.
+Il y a l’obligation d’**enregistrement à la recette des impôts dans les 10 jours** pour toutes promesses unilatérales de vente sous seing privé portant sur des **immeubles** ou des **fonds de commerce**, à peine de **nullité**.
 
-sauf que vendeur était près a vendre maintenatn. Le vendeur a conclu une promesse unilatérale de vente à son proffit, avec une indemnité d'immobilisaiton de 96% du prix de vente. Le couple fini par divorcer et il aqcuérit le bien. Les heriiiets decouvenr l'acte juridque. Ils disent que y'a requalfiication en vente car conaisnte la jurisrpudence.
+Le pacte de préférence n’a pas à être enregistré. Cette nullité ne s’applique pas non plus aux **promesses synallagmatiques**, car le texte vise uniquement les promesses unilatérales. Dès lors, les enjeux de la **qualification** sont importants.
 
-cette promesse uniatltléare doit donc etre requalifée en vente, donc tombé dans communauté du mariage, mère avait droit à al motié, et héritiers doivent récuperer la moitié. 
+La Cour de cassation n’aime pas cette nullité fiscale : elle en réduit strictement le domaine à ce qui est prévu par le texte, par une **interprétation stricte**.
 
-la cour d'appel avait requalifié el contrat. mais la cour de cassation a cassé l'arrêt d'appel, disant que non pas de requalfiication. L'intention de homme à l'épqoue était de pas acheter pendan tle mariage. La cour de csasationa dit que si pas voulu acheter pendant le mariag,e on va pas requalifier cet acte ne contrariété avec sa volonté.
+Dans le Code de la construction et de l’habitation (CCH), deux articles ont été introduits en 2009 : **L.290-1 et L.290-2**. Ils visent à lutter contre certaines pratiques de **promoteurs immobiliers peu scrupuleux**. Ces derniers se faisaient consentir des promesses unilatérales de vente sur des parcelles, pour une longue durée, afin de se laisser le temps d’acheter les parcelles voisines nécessaires à une opération immobilière d’ampleur.
 
-il est possibler de faire obstacle à la requalfiication dès l'insatn qu'on explique les raisons de cette indemnité d'immobilisaiton. C pas une fraude. 
+Concrètement, ils obtenaient des promesses de deux ans, puis consacraient toute leur énergie à acheter les parcelles les plus difficiles (par exemple celles en indivision). S’ils réussissaient, ils levaient les options des premières promesses et réalisaient des lotissements. Mais si l’opération échouait, les premières promesses devenaient caduques. Ces promesses étaient conclues **sous seing privé**, sans versement d’**indemnité d’immobilisation**.
 
-ajd les rédacteus d'acte 
+Pour lutter contre ces pratiques, le législateur est intervenu en 2009 :
 
-**Le régime :**
+- **Article L.290-1** : toute promesse unilatérale consentie par une personne physique sur un immeuble, pour une durée supérieure ou égale à **18 mois**, doit être conclue **par acte authentique** (devant notaire), à peine de nullité. Le notaire doit notamment informer le promettant qu’il ne pourra rien faire du bien pendant ce délai.
+- **Article L.290-2** : obligation pour le bénéficiaire de verser une **indemnité d’immobilisation d’au moins 5 %**.
 
-Conditions de fonds de la promesse unilatérale de vente : elle obéit aux emmes conditiosn de fonds que la vente elle-même, il faut donc que la chose soit déterminée, et que le prix le soit égalemetn. 
+- **Les effets de la promesse :**
 
-Il faut égalemetn contrairement au pacte de préférence que le promettant ait la capacité du disposé du bien, logique car il consent à vendre, fau tdonc qu'il ait la capacité de vendre, alors qie dans pacte de préférnceon consent à préférer et non pas à vendre.
+Avant l’option, il est clair que le promettant est tenu dans les termes de la promesse : son bien est donc **immobilisé**, il ne peut ni le vendre ni le louer. Le bénéficiaire est titulaire de son droit d’option, un droit de créance. Il a le choix entre lever l’option ou non.
 
-la promesse petu être cnclue pour une durée déterminée ou pas, mais ici la difficulté n'est pas très elevée, si la proesse est concleu pour uene dirée déterminée, ex 6 mois, si au terme de 6 mois on leve pas l'option elle est **caduque**. 
+**Particularité :** ce droit d’option peut être cédé à un tiers au moyen d’une **clause de substitution**.
 
-si la promesse est à durée indéterminée, on va fair ejoue rla prescrition. par oppositon au pacte de préférence, la prescription court, parce que on consnet à nosu vendre un bien, et on a un délais ineterminé pour acheter, sauf qu'a tout mometn on peu tlever l'option donc on est en droit d'agir, ce qui fait que prescription court contre vous. La prescritopon en matière de droi tde créance c la rpescritipn quinquenale de article 2224.
+Dans une promesse unilatérale de vente entre promettant et bénéficiaire, ce dernier, grâce à la clause de substitution, peut se substituer un tiers dans l’exercice du droit d’option. Le droit d’option est consenti au bénéficiaire, mais in fine, c’est un tiers qui va lever l’option et acheter au promettant.
 
-la promesse à durée indeterminée dure 5 ans. au bout de 5 ans, si pas exercé, c instiction par voie d eprescription extinctive.
+Cette clause est fréquente car elle permet au bénéficiaire soit d’acheter lui-même, soit de faire acheter par quelqu’un d’autre, mais surtout parce que, dans la pratique patrimoniale et notariale des affaires, on consent souvent la promesse unilatérale à une personne physique. Or, ce bénéficiaire peut décider d’acheter personnellement ou par l’intermédiaire d’une société, notamment une SCI, pour des raisons patrimoniales et fiscales. Ainsi, il peut acheter par le biais d’une SCI qui n’existe pas encore au moment de la promesse. Pendant le temps de l’option, il crée sa société, et in fine, l’option est levée par la SCI.
 
-mais 5 ans c'est long : la jurispruendce admet (pas remise en cause) que le promettant puisse raccourcir ce délais en mettant en demeure le bénéficiaire de lever l'option dans un délais raisonnable. C une espece d'action interrogatoire avant l'huere. 
+**Difficultés :** cette clause soulève néanmoins des débats théoriques et des incidences pratiques importantes. Est-ce une stipulation pour autrui ? Une dérogation ? Une subrogation ? Une cession de créance ? Une cession de contrat ?
 
-condirtion de forme : 
- l'nerregistmrenet à la recette des impots dans les 10 jours de toutes PUV sous seing privé portant sur des immeubels ou fonds de commerce, c une donciton de forme à peine de nullité.
+On peut y voir une **cession de créance** : le bénéficiaire dispose d’un droit d’option (créance) qu’il cède à la SCI. Mais il s’agit aussi d’une cession de dette (indemnité d’immobilisation). Or, lorsqu’on cède créance et dette, on cède le contrat. La clause de substitution ressemble donc à une **cession de contrat** : la promesse est cédée à la SCI, avec la créance (droit d’option) et la dette (indemnité d’immobilisation).
 
-le pacte de préférence a pas à être rengistré. Cette nullité s'aplqiue pas non plsu aux promesses synallagmatiques car le texte vise les promesses unilatérales. A partir de ce texte les enjeux de la quafliiation sont imporatnts. 
+Pendant des décennies, doctrine et jurisprudence n’ont pas répondu clairement à la question : **un contrat peut-il être cédé ?**
 
-la cour de cassaiton n'aime pas cette nullité fiscale, donc elle en réduit le domaine à ce qui est prévu par le texte, et unquement ce qui es ptrévu par le texte , cune inteprtaion stricte du textre. 
+Avant 2016, deux courants doctrinaux totalement opposés s’affrontaient :
 
-dans le code de la construction CCH en 2009 2 articles ont été introduits, L290-1 et L290-2. ces textes ont voulu lutter contre les promoteurs immobileirs scupulex, cette praitque des promoters consitaut à se faire consnetir de spromesses de vente portnat sur des parcelles de longue durée afin de leru permettre d'acheter les aprcelles voisiens  et d'avoir le temps de les acheter pour réaliser uen opéraion d'ampleur.
+- Pour le premier courant doctrinal (thèse de Laurent Henes), le contrat est une **valeur économique** et constitue donc un **bien**. Or, si c’est un bien, il peut être cédé librement. Le contrat était ainsi analysé comme un bien.
+    
+- La thèse opposée considérait au contraire que le contrat est un **lien entre deux personnes**. Dans cette conception, le contrat n’est pas seulement l’écrit signé entre X et Y, mais bien le lien juridique qui existe entre eux. La personne des contractants fait partie intégrante du contrat. Il n’y a donc pas, à proprement parler, de cession possible : on éteint un contrat et on en crée un autre avec un tiers.
+    
 
-ils se font consentir une promese unilatérale de vente de 2 ans, et ensuite ils mettent tout eleur énergie pour acheter parcelles plud délicates à acheter, ex celel squi sont en dindivision. Si ils y parviennt ils levent les options des premieres promesses et font des lotissment,s is un bloc ça tombe à l'eau, donc les premieres éhcoueront et devrinadra caduc.
+La réforme de 2016 a tranché en consacrant la **cession de contrat** (art. 1216 et suivants C. civ.). Cette consécration vise à éviter certains effets pervers : si la clause de substitution était assimilée à une cession de promesse unilatérale, son exercice devrait être enregistré à la recette des impôts dans les 10 jours, à peine de nullité.
 
-ces promesses de vente étaiten conclues sous seing privé, et versaient pas indemnité d'immoblisation. C pour lutter contre ce genre de pratique que le legislatuer est intervenu en 2009, en prévoyant 2 choses :
-- art L290-1 "toute promesse unilatérale consnetie par une personne physqieu sur un immeubel pour une durée supérieur ou égale à 18 mois doit etre conclu dans la forme authentique" càd devant un ntoarie sou speine de nullité. raison est que le notaire va expliquer qu'on peut iren fair ependant 18 mois. 
-- L290-2 : indemnité d'immobilsiation obligatire d'au moins 5%
+En effet, l’article 1589 précise : _« et leurs cessions »_. La cession de promesse doit donc être enregistrée à la recette des impôts, à peine de nullité. Pour éviter que ce texte ne s’applique à la substitution, la Cour de cassation juge depuis 50 ans que la substitution n’a pas le caractère d’une cession. Jusqu’en 2016, cela ne posait pas de difficulté, puisqu’on pouvait considérer que la cession de contrat n’existait pas.
 
+Mais l’article 1216 du Code civil prévoit désormais qu’**un contractant, le cédant, peut céder sa qualité de partie au contrat**. Le cédant (ici le bénéficiaire) peut donc céder sa position contractuelle à un tiers (le cessionnaire), avec l’accord du promettant.
 
-Les effets de la promesse :
+**Interrogation en suspens :** au lendemain de la réforme de 2016, doit-on continuer à juger que la substitution n’est pas une cession ? Cela correspond pourtant à une clause de substitution. L’enjeu est important, car l’article 1589-2 dispose : _« la cession de contrat doit être faite par écrit, à peine de nullité »_.
 
-avant l'option, il est lcair que le promettant est tenu dans les termes de la promesse, son bien est donc immobilisé, il ne peut ni le vendre ni le louer. Le beneficiare est titurlaite de son droit d'option, so droti de créance; Il a le choxi entre lever l'option ou non.
+Ces clauses de substitution exigeraient donc la rédaction d’un acte et son enregistrement aux impôts. On attend encore de savoir si la Cour de cassation confirmera ou non qu’il s’agit d’une cession. Elle pourrait, par souci pratique, nier l’évidence afin de ne pas appliquer l’article 1589-2.
 
-particularité : ce droit do'ption peut etre céder à un tiers au moyen d'une clause de substitution.
+Un élément peut toutefois faire douter : la jurisprudence admet de longue date que, malgré substitution, si in fine le tiers substitué ne lève pas l’option, le bénéficiaire initial conserve la faculté de le faire.
 
-une PUV entre promettant et bénéficiare, le beneficiare par cette clause de substitution il peut se substiuer un tiers dsna l'exercice du droit d'option. Le droi td'otpion est consent i au bénéfiicaire, mais in fine c un tiers qui va lever l'otpion et acheter au promettant.
+Dans le Code civil, en matière de cession, la cession opère **duplication** : si le tiers ne remplit pas ses obligations, le premier contractant reste tenu à l’égard de la partie initiale.
 
-clause fréquence car permet au beneficiare soit d'acheter lui meme soit de fiare acheter par qqn d'autre, mais surtot pcq dans la pratiqeu patrimoniale et notariale des affaires on consnet souvent la promesse unilatérale entre personne physique, masi ce bénéficiaire personne physique peut décider d'acheter soit personnelment, soit par l'intermediiare d'une société, et notammetn une SCI, pour des raisons patrimoniales, fiscales. C pour qu'il puisse acheter au myen d'une SCI qui existe pas encore au mometn de la promesse. Pendant le temps de l'ption, il va créer sa société, et in ifne il va lever l'option par la SCI. 
+L’avant-projet de réforme prévoyait d’ailleurs, à propos des promesses unilatérales de vente, qu’il s’agit bien d’une cession, mais en précisant qu’elles dérogent à l’exigence d’un écrit, et sont donc valables même sans écrit.
 
-cette clause souleve quand meme quelqeus difficultés :  elle est d'abord théroieu et a des incidende spratiques assez redoutables. Est-ce que c une stipulation pour autrui? une dérogation? UNe subrogation? Une cession de créance? un ecession de contrats? 
+**Hypothèse de violation de la promesse par le promettant :**
 
-ca petu etre un pet tout, mais on ne sait pas encore ce que c'est.
+Un promettant consent une promesse unilatérale de vente d’une durée de six mois. Au bout de deux mois, il envoie une lettre recommandée pour révoquer son engagement et vend le bien à un tiers. Après réception de cette révocation, le bénéficiaire lève l’option. **La vente est-elle conclue ?**
 
-on peut y voi rune cession de créance : le beeficaire a un droit do'ption, une crénce d'option, qui est cédée à la SCI. Mais c'est aussi une cession de dette (indemnité immboilisaiton), et quand on cède créance et dette, on cède el contrat. Cette clause de substituton ressemble donc à une cession de contrat. La promesse est cédée à la SCI, avec la créance (le droit do'ption), et la dette (indemnité d'immobilisation).
+La position de la Cour de cassation, maintenue pendant plusieurs décennies et unanimement critiquée par la doctrine, a été constante jusqu’à la réforme de 2016 qui est venue briser cette jurisprudence.
 
-pendnat des décénies, les juristes, al doctirne, la jurisrudence n'ont pas pu répondre de manière claire à la question si la cession de contrat est elle possible, est-ce qu'un contrat peut se céder ? 
+**Arrêt Cruz du 15 décembre 1993 :** la Cour de cassation décide que, certes, la rétractation de la promesse par le promettant est fautive (puisqu’elle intervient avant le terme), mais que, bien que fautive, cette révocation est **efficace** et empêche donc la formation du contrat.
 
-avant 2016 2 courants doctrinaux totalement opposés : pour le prmeier cournat doctrnal (thèse de Laurent Henes) le contrat est uen valeur économique et est donc un bien, et si c un bien il peut être cédé librement.  Il analysait donc le contrat comme un bien.
+Cette position a été critiquée car elle se fondait sur l’ancien article 1142 du Code civil, aux termes duquel _« l’inexécution d’une obligation de faire ou de ne pas faire se résout en dommages et intérêts »_.
 
-la thèse opposée voyait dans le contrat un lien entre deux personnes. Dans cette thèsse doctirnal,e le contrat c pas juste le trait en tre X et Y, c le lien qui eiste entre X et Y. la personen des conractants fait aprti du contrat. il n'y a donc pas ce session a proprepent parler, que un contrat qu'on eteitn et un ature qu'on crée avec un autre. 
+Or, quelle est l’obligation de faire ou de ne pas faire visée ? La Cour de cassation ne le précise pas. Dans la promesse, le promettant ne s’engage pas encore à vendre, il **consent** déjà à vendre. Une fois ce consentement donné, il relève de la **force obligatoire du contrat** (art. 1193 C. civ.), selon laquelle les conventions légalement formées ne peuvent être révoquées que par le consentement mutuel des parties. Pourtant, la Cour admet qu’un simple consentement unilatéral suffit.
 
-la réforme de 2016 a consacré la cession de conrat art 1216 et suivants. Ca sert à eviter des effets eprvers : si la clause de substituton est une cession de promesse unilatérale, alors son exercie doit lui meme être enregistré à la recette des impots dans les 10 joursà peine d enullité. 
+C’est pourquoi cette jurisprudence a été vivement critiquée par la doctrine :
+- soit elle repose sur une **erreur d’analyse** de la nature de la promesse,
+- soit elle **confond une obligation contractuelle avec la force obligatoire du contrat**.
 
-art 1589 précise "et lerus cession". Donc al cession de cespromesse doit etre aussi enregistré à la promesse des impots à peind e nuullité. Pour eviter que ce texte ne s'apliqeu à la substitution, alc our de cassation déide depuis 50 ans que la substitution n'a aps le caractère d'une cession. jusqua 2016 ça posait pas de difficulté, si ça se trouv ela cession de contrats existait pas.
+En effet, on peut parfois ne pas exécuter une obligation de faire ou de ne pas faire, mais lorsqu’un consentement est donné, il n’y a plus rien « à faire » ou « à ne pas faire » : il est acquis.
 
-masi article 1216 du code civil "un contractant le cédant peut ceder sa qualité d epartei au contrat". Le ceddant (beneificaire) petu ceder son parit au contrat à un tiers (le cessionaire) avec l'accord du promettant. 
+Autre critique : à supposer même qu’il existe une obligation de faire ou de ne pas faire, celle-ci est-elle insusceptible d’exécution forcée ? La réponse est non. **L’exécution forcée des obligations de faire est le principe**, sauf si elle porte une atteinte excessive à la liberté individuelle (ex. : on ne peut pas contraindre un artiste à monter sur scène ou à peindre un tableau). Mais cela reste l’exception : le principe demeure l’exécution forcée.
 
-interrogation qui reste en suspend : est-ce que au lendemain de la réforme de 2016 on va continuer à juger que la substitution n'est pas une cession ?  Alorsq ue ici ca correspond à la clause de substitution. enjeu est sur 1589-2 "la cession de contrat doit être faite par ecrit à peine de nullité".
+Ainsi, même en admettant l’existence d’une obligation de faire ou de ne pas faire, on ne comprend pas pourquoi elle ne pourrait pas faire l’objet d’une exécution forcée. La Cour de cassation viole donc la force obligatoire du contrat en permettant à une partie de révoquer unilatéralement son consentement, ce qui entraîne la disparition du contrat.
 
-ces clasues de substitution : il faut donc rajotue ruun acte et mettre dans la recette des impots.
+**Malgré ces critiques doctrinales, la Cour de cassation s’est obstinée à maintenir cette jurisprudence jusqu’à des dates très récentes.**
 
-on attend ajd si cassaiton dit que c une cession ou pas. 
+Un arrêt a été rendu en 2010 : à la place d’un revirement, on a eu une belle confirmation, mais avec un fondement différent. La Cour abandonne l’article **1142** et fonde sa solution sur l’article **1134**, la force obligatoire du contrat. C’est tout le contraire de la force obligatoire : la solution est rendue **au visa de cet article**.  
+Un autre texte visé permet de comprendre la position de la Cour de cassation : l’article **1101** sur la définition du contrat, qui est un accord de volontés. Le promettant qui a rétracté son consentement ne consent plus ; donc, lorsque le bénéficiaire lève l’option, il la lève dans le vide, puisqu’il n’y a plus de rencontre des volontés.
 
-elle peut nier evidence pour pas appliquer 1589-2.
+Ici aussi, des critiques sont apparues. Un commentaire qui s’est distingué, celui de **Nicolas Moltessi**, a démonté la jurisprudence de la Cour de cassation. Lorsque celle-ci suggère l’idée selon laquelle il n’y aurait pas d’accord de volontés puisque le promettant a révoqué son consentement, elle prend acte de cette révocation. Or, c’est un fait juridique : un événement dont le droit doit tirer les conséquences. Pour la Cour de cassation, la rétractation du consentement est un fait juridique contre lequel on ne peut rien.
 
-la seule chose qui pourrait faire douter qu'il s'agisse vriametn du'n ecession c que la jurisprudence admet depui slongtemps que malgres la substitutoon, si in fine le tiers substitué ne lève pas l'option, le pormettant initial reste en droit de la lever. 
+Mais Nicolas Moltessi s’interroge : la révocation du consentement est-elle un **fait juridique** ou un **acte juridique** ?
 
-dans code civil en cas de cession la cession opere duplicaiton. Si jamasi le tiers ne remplit pas ses obligaitons,le premier ocntractant reste tenu à l'égard du contractant initial.
+- Un **acte juridique**, c’est une manifestation de volonté (unilatérale ou multilatérale) destinée à produire des effets de droit. Exemple : l’émission d’une offre en vue qu’elle soit acceptée.
+- Un **fait juridique**, c’est tout événement ou comportement qui n’est pas destiné à produire des effets de droit. Son auteur n’a pas voulu les conséquences juridiques (exemple : un accident de voiture).
 
-l'avant projet de réforme prévoit a propos des PUV ditque c bien uen cession qu'elles dérogent à l'exigence d'un écrit, donc valable sans écrit.
+Or, ici, il s’agit bien d’un **acte juridique**, car lorsque le promettant révoque sa promesse, il veut se libérer du contrat, c’est-à-dire produire des effets de droit. La révocation du consentement est donc un acte juridique. Dès lors, elle est soumise aux **conditions de validité des actes juridiques**, c’est-à-dire des contrats.  
+Question : cet acte juridique est-il valable ? Quel est son objectif ? Il vise à mettre à mal un contrat valablement formé. Mais cette volonté unilatérale se heurte à une règle de droit : la force obligatoire du contrat. Or, un acte qui porte atteinte à une situation juridique valable a une **finalité illicite**.  
+Le but de la révocation est donc **illicite**, puisqu’il tend à détruire un contrat formé conformément au droit. Un contrat dont l’objet est illicite n’est pas valable.
 
+Ainsi, l’acte de révocation a un objet illicite : il est donc nul, n’existe pas et ne produit **aucun effet juridique**.  
+La révocation, en tant que manifestation unilatérale de volonté à objet illicite, est **nulle**. La promesse demeure et entraîne l’**exécution forcée**.
 
-hypothèse de violation de la promesse par le prometttant :  le promettant et le beenficiare, le promettant va vendre à un teirs. Le proemttatn se restracte : il ocnsnet promettre unilatérale de vente, ona è6 moi spour lever l'option au botu de 2 mois reocmmandé poru dire qu'on révoque l'engagemetn. 
+En 2016, l’article **1124** du Code civil a brisé la jurisprudence :
 
-après al reception de cette revocation on leve l'option. Estce que la vente est conclue ? 
+> « La révocation de la promesse pendant le temps laissé au bénéficiaire pour opter n’empêche pas la formation du contrat promis. »
 
-positionde la cour de cassatinn durée plusieurs decennie critiquée unaniement de doctrine, qui a maintentujusquaà la réforme de 2016 brise cette jurisprudence.
+La révocation est donc **inefficace**, neutralisée par le législateur.  
+Cependant, la Cour de cassation a longtemps jugé que, dès lors que la promesse était antérieure à 2016, sa jurisprudence continuait de s’appliquer.
 
-arrêt Cruz du 15 decembre 1993 : la cori de cassaiton a décidé que certes la rétractation de la proemsse par le promettant est fautive, car on revoque enagement avant le terme, mais bien que fautive, cette révocation est efficace, et empeche donc la formation du contrat. 
+**Daniel Mainguy** a défendu la position de la Cour de cassation. C’est une approche **anglo-saxonne**, pragmatique du droit des contrats. Les Anglo-saxons sont moins attachés que nous à la liberté contractuelle et aux principes : pour eux, un contrat est surtout une affaire. Leur approche est plus souple.
 
-critiquée parce qeu cette jruisprudence a été rendu sur le fondemetn de ancien article 1142 du code civil, au temre duquel l'inexecution d'une obligation de faire ou de ne pas faire se résous en domamge et interets.
+Ils ont développé la théorie de la **rupture efficiente du contrat** : un contrat doit pouvoir être rompu unilatéralement si chacun y trouve un intérêt **monétaire**.  
+Exemple : si le promettant rétracte son engagement envers le bénéficiaire, c’est souvent parce qu’il a trouvé un tiers prêt à acheter le bien plus cher. La violation est alors « efficiente » :
 
-quelle est l'obligation de faire ou de ne pas faire qui est visée ? La cour de cassation dit rien. dans la promesse on s'engage pas à vendre, mais il consent à vendre. Une fosi qu'on a consenti, ce consemtent releve dela force oblgiatoire du contrat, de articel 1193 au temre duquel les conventiosn légalemetn conclues ne peuvent etre révoquée que des cosnnetmetns mutuel des deux partis, alrosq ue ici cassation dit que consnetmetn unilatéral du parti ç aussffit.
+- le bénéficiaire n’achète pas, mais il reçoit des dommages-intérêts,
+- le tiers est satisfait car il acquiert le bien,
+- le promettant est heureux car il vend plus cher.
 
-c'est pour ca que cette jrudisprudence a été critiquée par lad octrine : oblgiaiton de faire ou de ne pas fiare sur laquelel se referere cour de cassation, soti erreur d'analyse sur la nature de la promesse, soit confond une oblgiaiton contractuelle ave cla force obligatoire. 
+Ce raisonnement légitime, selon la Cour de cassation, l’absence d’exécution forcée : l’argent compense et permet de rendre tout le monde satisfait.
 
-Eventuellement on peut ne pas faire ce que je dosi faire, mais lorsque le consnemtent est donény'a plu rie à faire ou de ne pas faire.
+C’est une **analyse économique du droit** qui permet d’avoir une approche économique des règles juridiques. Là où l’argent n’est pas substituable, ne répare pas le préjudice et n’est pas satisfactoire, c’est notamment dans les relations entre associés d’une société. Lorsqu’une promesse unilatérale de vente porte sur des droits sociaux conférant le contrôle d’une société, si la promesse n’est pas respectée, on ne perd pas seulement quelques actions, mais bien le contrôle de la société. Aucune somme d’argent ne peut réparer cela. La seule façon de permettre la satisfaction du bénéficiaire de la promesse est **l’exécution forcée**.
 
-atre criitque dans le prolongemetn : à supposer que vraimejt une obligaiton de fair eou de ne aps faire, est-elle susceptible d'une obligaiton forcée ? L'execution forcée des oblgaitosn de faire est le principe depuis logntemps. 
+L’**article 1124** a brisé la jurisprudence de la Cour de cassation. Toutefois, cette dernière a continué à rendre des décisions sans se conformer au texte lorsque la promesse était antérieure à l’entrée en vigueur de la réforme. Finalement, elle a cédé en 2021, opérant un **revirement le 23 juin 2021**, en admettant l’exécution forcée de promesses unilatérales à propos d’une promesse conclue antérieurement à la réforme.
 
-Par principeune oblgiaiton de faire peut faire l'ojbet d'une execution forcée sauf si elle porte trop atteinte à la liberté individuelle, c'es tl'obligation de facere, on petu pas obliger un artistre à aller sur scene, fair eun tabeau, mais c'est l'exeption. Le principe reste l'exeution ofrcée.
+Un exemple : une promesse conclue en 1999 et révoquée en 2010. La Cour motive son arrêt par une formule qui la dessert : _« à la différence de la simple offre de vente, la promesse unilatérale de vente est un avant-contrat qui contient déjà le consentement du vendeur »_. Elle déduit cela de la réforme de 2016. Autrement dit, la Cour de cassation **s’abrite derrière la réforme**.
 
-donc à supposer que y'ai une oblgation defiar eou pas faire, poruquoi peut pas faire l'objet de executo forcée ? lac oru de cassation viole ici la force obligatoire du contrat, une partie révoque unilatéramenet osn cosnetnement, et y'a plsu de ocntrat.
+Elle s’aligne ainsi sur la doctrine de 1993. Mais pourquoi avoir attendu aussi longtemps ? Elle applique la nouvelle règle à une promesse antérieure à la réforme. Ce faisant, elle statue **contra legem**. En effet, l’ordonnance de 2016 fixait une règle de droit transitoire selon laquelle elle ne s’appliquait pas aux contrats conclus avant le 1er octobre 2016. Pourtant, la Cour en a décidé autrement (cela aurait été différent si le revirement avait eu lieu en 2010, par exemple).
 
-Malgrès ces critiques doctirnale,s la cour de cassation s'est obstinée à maintenir cette jurisprudence, jusqu'à des dates très recentes.
+**Conséquences :**
+- **Arrêt du 21 novembre 2024 (TD)** : une promesse conclue en 1971 se retrouve devant une cour d’appel en 2021, mais avant le revirement. La cour d’appel applique donc l’ancienne jurisprudence de la Cour de cassation, jugeant que celle-ci reste applicable. Mais la Cour de cassation, ayant depuis changé de position, casse l’arrêt d’appel. Elle censure donc des juges qui s’étaient pourtant conformés à sa jurisprudence antérieure.
+- **Arrêt du 15 mars 2023** : la chambre commerciale, en reprenant le revirement de 2021, a tenté de justifier et de motiver l’application immédiate du revirement **contra legem**.
 
-un arrêt a été rendu en 2010 : a la place d'un revirement on aeu une belle cofnirmation, masi avec un fondement différent. Elle abandonen 1142, elle le fodne sur 1134 laf orce obligatorie du contrat. C'est otu tle contraire de la force obligatoire et rend la solution au visa de cet articel. Autre texte visé alisse comrendre la position de la cour de cassaiton, articel 1101 sur la déifntion du contrat, qui est un accord de volonté. Le promettan tqui a retracté osn consentement ne consent plus, donc lorsque le beneficiaire leve l'option illa leve dans le vide, y'a plsu de rencotnre des volontés. 
+Pour cela, elle s’appuie sur la jurisprudence de la **CEDH**, qui affirme qu’au nom de la sécurité juridique et du droit à un procès équitable, il n’existe pas de **droit acquis à une jurisprudence figée**. Un revirement de jurisprudence est toujours possible, et sauf cas exceptionnel, il ne porte pas atteinte ni au droit à un procès équitable, ni à la sécurité juridique.
+###### Bêta : La promesse unilatérale d'achat
 
-ici aussi critique. Un commentaire qui est sorti du lot qui a démonté la jurusrpudence de la cour de cassation : Nicolas Moltessi : lorsque la cour de cassaiton sugge idée seon lauqele pas d'accord des volontés puisque promettant a revoqué son consement, elle prend acte de cette revocation. C'est le fait jurdique : un evenemtd ont le dorit doit tirer les consequnces. pour cour de cassation alr etractationd. consenemtn est un fait juridque contre lequel on ne peut rien.
+C’est la **symétrie quasi parfaite** de la promesse unilatérale de vente.
 
-Nicolas moltessi dit que la révocation du consentement c'est un fait juridiqeu ou un acte juridqieu ? Un acte juridqiue c'est une manifestation de volonté (unilatérale ou multilatérale) destinée à produire des effets de droits. On emet une offre en vue que quelquun l'accepte.
+Celui qui **consent** ici, c’est l’acheteur, et c’est le vendeur qui dispose d’un **droit d’option**.
 
-Alors que le fait juridqiue c tout evenemnt ou comportment qui n'est pas destiné à rpodurie des effers de droits. Son auteur n'a pas voulu les consequnces jurdqieus (ex accident de voiture). 
+Elle est moins répandue que la **PUV**. On trouve des **PUA** dans les clauses de reprise de stock : le producteur initial s’engage à récupérer les invendus, il promet de racheter les stocks non écoulés. On en trouve également lors d’opérations menées par les **SAFER** (sociétés d’aménagement foncier et d’établissement rural) : elles ont des pouvoirs d’achat/vente de parcelles pour rationaliser les terres agricoles sur le territoire français. Lorsqu’elles achètent pour revendre, elles vont d’abord conclure une promesse d’achat.
 
-ici c'est donc un acte juridque, car lorsque le promettant révoque sa proemsseil veut se librer du contrat, il veut bien produrie deseffets de droits, la revolcation du consemnt c un acte juridque. Si c un acte juridque, il est soumis aux conditosn de validité des actes juridques càd des contrats. Est-ce qeu cet acte juridquei obéit aux conditons de validités des actes juridqieus? Est-ceque en ayant la volonté de retracter le consement, cet acte juridique est valabel?  quel est objectif de cette revocation? C de mettre à mal un. contrat valablemetn formé. Cette volotné unilatérale se heurte à une regle de droit qui est la force obligatoie ud contrat. Hors n contrat qui porte atteinte à une sitaution juridque valable est pas valable, car il a une finalité illicite. le but de la révocation est illicite, c de porter atteinte à un contrat valalbement formé.
+On en rencontre aussi dans la pratique notariale : lorsque des vendeurs souhaitent vendre un bien à un acquéreur et que, parmi les vendeurs, se trouve une personne incapable (généralement un enfant mineur). C’est l’hypothèse d’une indivision successorale : plusieurs héritiers en indivision et, pour payer les droits de succession, il faut vendre un bien. Or l’enfant mineur ne peut pas consentir seul à un acte de disposition. Il faut donc une **autorisation judiciaire** pour que ce mineur puisse consentir à la vente. Comment obtenir cette autorisation judiciaire ? Il faut présenter un projet d’acte pour que le juge puisse autoriser la vente de la part indivise du mineur ; les notaires doivent donc préparer ce projet d’acte.
 
-un contrat dont l'objet est illicite est donc pas valable.
+L’acheteur doit promettre aux vendeurs, et lorsque le juge aura autorisé le mineur à vendre, on pourra **lever l’option**.
 
-L'acte de révocation a un objet illciite, alors cette revocaitone st nulle, donc elle n'existe pas, aucun effet jruidque. 
+Deux différences avec le régime de la PUV :
 
-Cette acte de revocation est une manifestaiton unilatérale de la volonté qui a un objet illciite, donc nul, la proemsse demeure, donc execution forcée.
+1. Lorsqu’une PUA porte sur un immeuble ou un fonds de commerce, elle n’est pas soumise à la formalité d’enregistrement à la recette des impôts dans les dix jours, parce que l’article **1589** vise la PUV uniquement.
+    
+2. **L’article 1589-1 du Code civil**, issu de la loi SRU (solidarité et renouvellement urbain), vise à combattre la pratique selon laquelle les promoteurs présentent un projet à des acquéreurs potentiels (généralement pour un immeuble) et demandent à ces acquéreurs de verser un dépôt de garantie sans souscrire en contrepartie aucun engagement. Certains promoteurs partaient avec l’argent ; la plupart ont fini par rendre les sommes avec des mois, voire des années de retard. « Est frappé de nullité tout engagement unilatéral souscrit en vue de l’acquisition d’un immeuble ou d’un droit immobilier pour lequel il est exigé un dépôt… ». On vise tout engagement unilatéral en vue de l’acquisition d’un immeuble : ce type d’engagement est frappé de **nullité**.
+    
 
-en 2016 : art 1124 brise la jurisprudence "la révocationd e lapromesse pendant le temps laissé au beneficiare pour opter n'empeche pas la formation du contrat promis", la révocatone st donc innéficace. elle est brisée par le législateur.
+La sanction de la nullité est-elle bien pensée ? Si cet engagement est nul, celui qui a versé le dépôt de garantie peut en exiger la restitution.
 
-la cour de cassation a jugé pendant logntemss que des lors que promesse antiereure a 2016 sa jurisprudence s'appluquait toujours.
+Les **arrhes** : lorsqu’une somme est versée par avance à titre d’arrhes, ce versement permet à chacune des parties de renoncer au contrat. (Art. 1590 du Code civil.) Celui qui a versé les arrhes les perd s’il renonce (par exemple : on réserve un hôtel et on n’y va pas). Le régime juridique permet à celui qui a reçu les arrhes, s’il renonce, de restituer le double de ce qu’il a reçu pour ne pas exécuter le contrat.
 
-Daniel Mainguy : auteur qui a défendu la position de la cour de cassation. C'est une approche anglo saxonne, pragmatique du droit des contrats. Anglo saxons moijsn attaché que nous a liberté contractuelle, aux principes etc. Un contrat c juste une affaire. Ils ont une approche bcp plus souple.
+**Commentaire pratique** : il faut toujours se placer du côté de la pratique — chercher s’il est possible de contourner les règles, quels risques et quelles protections prévoir.
 
-Ils ont theorie de la rupture efficiente du contrat : théorie en vertue de laquelle un contrat doit pouvoir être rompu unilatéralement si cahcun y trouve son compte en argent, monétariemetn. 
-
-si le promettant rétracte osn engagement à egard du beneficiaire, 9/10 il a trov éun tiers pret a acheter le bien plus cher. La violation est effice (jurisprudence) et on verse des dommages et interets. Le bénéficiare qui n'achete pas encaisse quadn meme des dommages et interets, le tiers qui achete est contnet meme si ahete plsu cher, et promettant ausis car a vendu plus cher. 
-
-ce qui légitime lacour de cassation : pas exeuciton forcée, l'argent va permettre de rnedre tout lemonde heuruex.
-
-C une analyse économique du droit qui permet d'avoir uen approche economqeu des regles de droit. là où l'argent n'est pas substiutale, répare pas le préjudice, n'est pas satisfactoire, c'est notameent dans les relatiosn entre associés de société. Lorsqui'n promesse unilatérale de vente va porter sur des droit ssociaux ca conferer le controle d'une odsicété, si promesse pas respecter, on perd pas seuelmetn qq actions, mais on perd le controle de la société. Ca aucune somme d'argent ne petu le réprarer. La seule façon de permettre la satisfaction du beneficiare de la promesse c'est l'exectuion forcée.
-
-articel 1124 qui brise jurisprudence cour de cassation, mais ell erend des décisosn asns se conformer au texte dès lroqsue que la proemsse était enterieur à entrée en vigueur de la réforme, et pui selle a fini par céder en 2021, elle procede à un revirement le 23 juin 2021, elle admet l'execution forcée de sproemsses unilatérales a propso d'une romesse tenue anterieurement à la réforem. 
-
-une proemsse tenue en 1999 ert révoquée en 2010. ele le fait au moyen du'ne motivation enrichie qui la déssert "à la difference de la simple offre de vente, la PUV est aun avant contrat qu contient dejà le ocnsnetment du vendeur", ça elle le déduit de la réfome de 2016. 
-
-la cour de cassation s'abrite derrière la réforme.
-
-la cour de cassation s'aligne sur al doctirn de 1993, mais pourqioi avoir attendu ausis logntemps? Ell s'agisne en appliquatn la nouvelelrègle à uen proemsse anteirue rà la réforem, mais ce faisaint elel statue contra legem. L'orodnnace de 2016 fixe une règle de droit transitoire au terme de laquelle l'orodnance ne s'applque pas au contrats conclu avant le 1er octobre, mais elle l'applqiue quand meme (ça aurait été different si revirmeent en 2010 etc). 
-
-conséquences avec arret du 21 novembre 2024 (TD) : promesse conclue en 1971 qui se retrouve dfvant uen cour d'appel en 2021 mais avant le revirement, cour d'apple applqie jurisoprejdnec antierue de la cour de cassation en disant qeu la coru de cassation est efficace, sauf que revirement par la cour de cassation, et noveua pourvois en cassation. La cour de cassationd oit dcider si elle casse l'arret d'appel qui c conforém à sa jurisrpudence anteiruer ou non. Mais elle censure les juges du fonds qui s'étiaent conformés à la jurisprudence. 
-
-autre conséquecne :a rret 15 mars 2023 : la chambre commerciale en reprenant le revirement de 2021 a tenté de justifier, de mtoiver l'applicaiton immédiate du revirment contra legem. 
-
-elle s'appuei sur jurispruence de la CEDH qui dit qu eau nomd ela sécurité juridque, au nim du droit à un rpoces équitable, il n'existe pas de droit acquis à une jurusprudnece figée. Elle expliqeu que un revirement de jurisprudence est tjrs possible, et que sauf cas exceptionnel ce revirement ne porte pas atteinte au droit à un proces équitable, ni à la secuirté juridque. 
-
-- La promesse unilatérlae d'achat
-c'est al symetrie quasi parfaite de la promesse unilatérale de vente.
-
-Celui qi consent c'est l'acheteur, et c'est le vendeur qui dispose d'un droit d'option.
-
-Elle est moins répendue que la PUV. On trouve des PUA dans les clauses de reprises de stock : le producteur initial s'enage à les récuperer, il pormet de racheter les invendus.  Y'a également des PUA dans opérations menée par les SAFER société d'amegament foncer et des affaires rurarels. Ils ont des pouvoirs d'achat vente de parcelle pour raiotnalise rles terres agricoles sur el territoire français. Lorsuqi'ols acehtent poru revendre ils vont d'abord conclure une proemsse d'achat. 
-
-y'en a ausis dans la praitque notariale : lorsque des vendeurs souhaitent vendre un bien à un acheteur et que parmi les vendeurs y'a un incapable, generlament un enfant mineur. c hypothèse du'ne indivision successorale, plusieurs heriiters en indivision, et pour payer les droits de successions il faut vendre un bien. Sauf que parmi les heriiters y'a un enfant mineur, hors cet enfant mineur ne peut pas consentir seul un acte de dispostion. Il faut donc une autorisationjduicaire pour que ce mineur puisse consentir à la vente. Comment obtenir cette autorisaiton judiciare ? il faut un projet d'acte pour que juge puisse accepter que enfant puisse vendre sa cote part indivise. les notaires vont devoir réaliser ce projet d'acte. 
-
-Faut que acheteur promette aux vendeurs, et lorsque juge aura autorisé mineur à vendre on pourra lever l'opiton.
-
-2 differences avec le régime de la PUV :
-1. lorsque cette promesse porte sur un immeuble ou un fonds de commerce, elle n'est pas osumise à la formalité d'enregistrement à la recette des impots dans les 10 jours, parce que le texte 1589 vise la PUV uniquemetn. 
-2. article 1589-1 du code civil : issus de la loi SRU (solidarité renouvelement urbain), pour comabttre une pratique au terme de laquelle les promoteurs présentent un projet àd es acquereurs potentiels, generalement d'un immeuble, demande a ces acquerue de verser un dépot de garantie mais ne soucrit en contrepartie aucun engagement. Certains sont parits avec argent, mais la plupart ont fini par rendre l'argent avec ds mois voire années de retard. "est frappé denullité tou tengamen tunilatérl souscir tne vue de l'acquisiiton d'un bien ou du'n droit immobileir pour lequel il est exigé ou ...". On vise tout enageemtn unilatéral, pour l'acquisiton d'un immeubel. ce type d'engagement est frappé de nullité. 
-
-est-ce que la sanciton de la nullité est bien pensée ? Si cet engagement est nul, càd que celui qui a versé le dépot de garnatie peut en exiger la restitution. 
-
-les arrhes : lorsq'uune somme est versée par avance, à titre d'arrhes, ce cversment permet à chacuen des parteis de renoncer au cntrat. art 1590 civil. Celui qui a versé les arrhes en les perdant (on reserve un hotal mais on y va pas). le réige jrudiqeu permet à celui qui a recu les arrhes de ne pas executier le contrat en restituatn le double de ce qu'il a recu. 
-
-commentiare : tjrs se mettre du coté de la praitque, si on peut contourner, etc.
-
-#### 2) La pormesse synalagmatique
+###### 2) La promesse synalagmatique
 
 elle contient le cosnentemtn du vendeur et le consentement de l'acheteur. Y'a donc accord des parties sur la chose et sur le prix. article 1589 du code civil préovit que cette promesse de vente vaut vente. 
 
