@@ -58,7 +58,7 @@ Surtout, le développement des **plateformes de vidéo à la demande** a porté 
 
 ### Section 2 : La régulation des entreprises de l’audiovisuel
 
-#### 1) Le statut des entreprises audiovisuelles
+#### Paragraphe 1 : Le statut des entreprises audiovisuelles
 
 ##### A) Les différentes entreprises audiovisuelles
 
@@ -95,7 +95,7 @@ En matière de **concentration**, les médias audiovisuels sont soumis à un con
 
 Avec l’émergence des **plateformes de streaming** et des **médias numériques**, il devient plus difficile de réguler la concentration selon les méthodes traditionnelles. Ces nouveaux acteurs échappent souvent aux régulations classiques de l’audiovisuel, ce qui explique pourquoi ils font désormais l’objet de règles spécifiques.
 
-#### 2) Les obligations de programme des entreprises de l’audiovisuel
+#### Paragraphe 2 : Les obligations de programme des entreprises de l’audiovisuel
 
 ##### A) Le soutien à la création
 
@@ -175,6 +175,7 @@ Ce dispositif reste cependant critiqué : certains estiment qu’il menace la li
 
 ##### B) La protection du public
 
+###### 1) la protection de la jeunesse et des mineurs
 Des **mesures** ont été mises en place afin qu’aucun programme susceptible de nuire à l’**épanouissement physique et moral** ne soit mis à disposition du public par les services de communication audiovisuelle.
 
 Cet objectif est rappelé par **l’article 15 de la loi Léotard**.
@@ -193,7 +194,7 @@ Cela est précisé par **l’article 24 de la loi de 1881**. La loi retient un p
 
 Il existe également une **commission de classification des œuvres cinématographiques**, qui attribue des **restrictions d’âge** selon les films et bandes-annonces, et qui fixe des **horaires limités** pour certains publics en fonction du contenu.
 
-**La publicité**
+###### 2) La publicité
 
 La publicité est **strictement réglementée**. Même si elle représente un **coût important** pour les annonceurs, elle doit être encadrée car elle est susceptible d’influer sur la **programmation** et le contenu des médias. Les annonceurs paient un tarif qui varie en fonction de l’**audience** de la chaîne.
 
@@ -210,3 +211,73 @@ Ainsi, certaines publicités sont **interdites** ou fortement **limitées**, tan
 Cependant, depuis le **5 avril 2024**, la publicité télévisée pour la promotion des livres est **autorisée** sur toutes les chaînes publiques gratuites de la TNT, à titre **expérimental pour deux ans**.
 
 L’objectif affiché par **Rachida Dati** est d’**inciter les Français à se rendre en librairie**.
+
+### Section 3 : Le régulateur de ce secteur : l’ARCOM ou gendarme de l’audiovisuel
+
+L’ARCOM a vu sa mission s’élargir et s’adapter au rythme des mutations économiques, écologiques et sociales. Loin de se limiter au rôle de simple « gendarme », la loi lui confie des missions à la fois de **protection de la liberté de communication**, de **respect des personnes et des publics**, ainsi que de **régulation technique et économique du secteur**.
+
+#### Paragraphe 1 : Présentation générale de l’ARCOM
+
+Le **CSA** (Conseil supérieur de l’audiovisuel) apparaît en **1989** avec la loi **Tasca**, qui avait pour but d’assurer la régulation du secteur et de garantir son indépendance à l’égard du pouvoir public.
+
+En **2013**, la loi sur l’indépendance de l’audiovisuel public lui confère le statut d’**autorité publique indépendante (API)**. On y retrouve alors un collège de **7 membres**, nommés pour **6 ans non renouvelables** :
+
+- le président, désigné par le président de la République,
+- 3 membres désignés par le président du Sénat,
+- 3 membres désignés par le président de l’Assemblée nationale.
+
+Les fonctions de membre du Conseil étaient **incompatibles avec tout mandat électif ou toute autre activité professionnelle**.
+
+Le **1er janvier 2022**, le CSA fusionne avec la **Haute Autorité pour la diffusion des œuvres et la protection des droits sur Internet (HADOPI)** pour former l’**Autorité de régulation de la communication audiovisuelle et numérique (ARCOM)**. La création de l’ARCOM résulte d’une procédure initiée en **2019** et finalisée en **octobre 2021**, avec la publication au Journal officiel de la loi relative à la régulation et à la protection de l’accès aux œuvres culturelles à l’ère numérique.
+
+L’actuel président de l’ARCOM est **Martin Ajdari**, auquel a succédé **Rima Abdul Malak**. L’instance est désormais composée d’un collège de **9 membres** :
+
+- un président nommé par le président de la République,
+- 3 membres désignés par le président de l’Assemblée nationale,
+- 3 membres désignés par le président du Sénat,
+- 1 membre désigné par le vice-président du Conseil d’État,
+- 1 membre désigné par le président de la Cour de cassation.
+
+La désignation des membres par **5 autorités distinctes** constitue une garantie d’indépendance de l’instance.
+
+#### Paragraphe 2 : Les mission de l’ARCOM
+
+Les missions de l’ARCOM sont **larges et diverses** et s’associent à un certain pouvoir. Elle participe à l’enrichissement de l’audiovisuel, délivre des recommandations et des informations, mais surtout, elle dispose d’un **pouvoir de contrôle** sur la façon dont le droit actuel est appliqué.
+
+L’ARCOM vient :
+- **Promouvoir et protéger la création**.
+- Être **garante du respect des obligations des éditeurs de services** dans la production audiovisuelle et cinématographique.
+- **Protéger les œuvres et les droits d’auteur**.
+- **Encourager le développement d’offres légales** et étudier les pratiques et usages du public. À ce propos, elle hérite des compétences de la Haute Autorité (HADOPI) pour mener des actions contre le piratage.
+- **Hériter des prérogatives de l’HADOPI**.
+
+La **deuxième grande mission** consiste à **réguler les acteurs techniques et économiques**. C’est l’ARCOM qui attribue les fréquences assignées à l’audiovisuel et garantit la qualité de réception pour le public. La régulation économique s’exerce tant en termes d’accès au marché des services de médias audiovisuels qu’au niveau des relations entre les acteurs de ces marchés.
+
+La **troisième mission** vise à **garantir le pluralisme des courants de pensée et d’opinion** par les éditeurs de services audiovisuels et à préserver la cohésion sociale. Les responsabilités de l’ARCOM sont aussi **sociétales**, ce qui la conduit à associer l’ensemble du secteur à la poursuite d’objectifs tels que :
+
+- la représentation de la diversité de la société française,
+- le respect des droits des femmes,
+- la lutte contre les discriminations de toute nature,
+- la santé publique,
+- le développement durable,
+- l’accessibilité des programmes aux personnes handicapées,
+- la sauvegarde de la langue française.
+
+En 2014, le **Conseil d’État** a rappelé à l’ARCOM qu’elle doit évaluer le pluralisme de l’information non seulement au regard du temps de parole des responsables politiques, mais aussi de celui des **chroniqueurs, animateurs et invités**. L’indépendance doit donc être appréciée **dans la chaîne dans son ensemble**, et non pas seulement au travers des interventions des autorités politiques.
+
+Exemple : le Conseil d’État a demandé la vérification des contenus de **CNEWS**. L’ARCOM a réagi et a notifié CNEWS de son obligation de respecter le pluralisme sur son antenne. Pour d’autres chaînes comme **C8** ou **NRJ12**, les autorisations n’ont pas été renouvelées, l’ARCOM ayant fondé sa décision sur l’intérêt du public au regard de l’**impératif prioritaire du pluralisme**. Cela montre que l’ARCOM peut :
+
+- **enjoindre certaines chaînes à revoir leur contenu**,
+- **refuser le renouvellement de leur exploitation**.
+
+De nombreux recours ont été portés devant le Conseil d’État par C8, **rejetés en 2024**, et une action au fond a également été écartée par un arrêt du **19 juillet 2025**. Le Conseil d’État a donc validé les actions de l’ARCOM.
+
+Les missions de l’ARCOM se sont également **étendues au numérique**.
+
+La **quatrième mission** consiste à **superviser les plateformes en ligne et les réseaux sociaux**. Elle intervient sur des problématiques liées :
+
+- à la lutte contre la **manipulation de l’information**,
+- à la lutte contre la **haine en ligne**,
+- à la **protection de la jeunesse**.
+
+Son rôle est renforcé dans l’espace numérique, notamment avec de nouvelles obligations issues du **Règlement DSA**. L’ARCOM doit veiller à ce que les plateformes mettent en œuvre leurs obligations de manière **transparente et équilibrée**, notamment en ce qui concerne le **signalement des contenus illicites**.
