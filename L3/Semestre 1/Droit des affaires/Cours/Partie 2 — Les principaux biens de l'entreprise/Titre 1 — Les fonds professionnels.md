@@ -1,327 +1,502 @@
 Le **fonds de commerce**, régi par les articles **L.144-1 et suivants** du Code de commerce, a servi de modèle pour les autres activités professionnelles. En effet, la loi a créé un **fonds agricole**, un **fonds artisanal**, et la jurisprudence a reconnu l’existence d’un **fonds libéral**.
 
-## Chapitre 1 : Le fonds de commerce
+## Chapitre 1 — Le fonds de commerce
 
-**Il constitue un élément du fonds de commerce**, néanmoins il obéit à **un régime particulier**, puisque **le local commercial**, de par sa **situation géographique**, est **l’élément essentiel de l’exploitation commerciale**.
+### Section 1  : La notion de fonds de commerce
 
-Généralement, **l’exploitation du commerce est indépendante de la propriété du local**. Lorsqu’un commerçant est à la fois **exploitant et propriétaire**, il agit souvent **par le biais d’une structure juridique distincte**, afin **d’éviter que ses créanciers professionnels puissent saisir l’immeuble**.
+La notion de **fonds de commerce** sert à attribuer une valeur à une exploitation commerciale, c’est-à-dire qu’elle revêt une importance économique colossale. Pour autant, la loi ne la définit pas. Elle lui attribue seulement un certain nombre de règles de fonctionnement.
 
-Il existe donc, dans la quasi-totalité des cas, **un bail commercial** qui fonde **le droit d’occuper les locaux**.  
-Afin **d’éviter toute spéculation excessive** et surtout de **garantir au commerçant la stabilité de son exploitation**, le législateur a instauré **un régime particulièrement protecteur** de la location des locaux commerciaux.  
-Ainsi, **les baux commerciaux sont régis par les articles L.145-1 et suivants du Code de commerce**.
+Nous savons d’emblée que, en raison de sa nature mobilière, les immeubles ne figurent pas dans la notion de fonds de commerce. Le fonds de commerce est donc un **bien meuble**.
 
-**Le statut des baux commerciaux** traduit avant tout **la reconnaissance, face au droit de propriété immobilière, d’une véritable propriété commerciale**.  
-Autrement dit, s’il existe bien **un droit de propriété** au profit du **bailleur de l’immeuble**, il existe également **un droit patrimonial propre au commerçant**, attaché à son **bail commercial** et reconnu comme **un élément du fonds de commerce**.  
-Le **lieu d’exploitation** de l’immeuble crée ainsi **un attachement de la clientèle à une situation géographique donnée**, que l’on désigne sous le terme **d’achalandage**.
+1) **Premier élément du fonds de commerce : la clientèle**
 
-Le Code de commerce confère donc **un avantage considérable au locataire-preneur**, c’est-à-dire **au propriétaire du fonds**, afin de **satisfaire les besoins de la vie commerciale**.  
-En principe, **les droits issus d’un bail ne sont pas cessibles** en droit commun des contrats, mais **le législateur admet ici une dérogation** pour favoriser la continuité du commerce.
+Un auteur a écrit que _« le fonds, c’est ce qui permet d’attirer la clientèle »_. En effet, la **clientèle** est un élément cardinal de ce qu’est le fonds de commerce.
 
-Cependant, **cette protection légale peut paraître excessive**, dans la mesure où elle prévoit notamment :  
-– **un droit au renouvellement du bail**,  
-– **un encadrement strict des augmentations de loyer**,  
-– et **une large cessibilité du bail commercial**.
+Reste une question : le fonds **est-il** la clientèle ou la clientèle n’est-elle qu’un élément du fonds ?
 
-Ces mécanismes font du **bail commercial un contrat souvent déséquilibré**, **au profit du preneur**, et **au détriment du bailleur**.
+En doctrine, la question est débattue. De grands commercialistes comme Ripert ont pu écrire que le fonds, c’est la clientèle. Mais ce débat n’a pas de portée pratique, car il est couramment admis que, sans clientèle, il n’existe pas de fonds de commerce.
 
-#### Paragraphe 1 : Les conditions du statut des baux commerciaux
+Mais qu’est-ce qu’une clientèle ?
 
-C’est un **régime juridique d’ordre public** : on ne peut y déroger en stipulant le contraire dans un contrat.
+La référence à la clientèle est extrêmement problématique, car il est parfois difficile de distinguer une clientèle propre au commerçant. C’est l’exemple des franchisés qui, par définition, ont économiquement une clientèle davantage attachée à la marque du réseau auquel ils appartiennent — donc à l’image et au produit du franchiseur — qu’à la personne du franchisé indépendant.
 
-La **Cour de cassation** a tranché à plusieurs reprises l’hypothèse de parties qui n’avaient pas la qualité requise pour conclure un bail commercial, mais qui avaient néanmoins stipulé un tel bail.
+Autre exemple : l’exploitant de distributeurs automatiques idéalement situés. La jurisprudence, dans ce type de cas, se montre souvent hésitante.
 
-La **Cour de cassation** admet qu’il est possible de procéder à une **soumission volontaire au statut des baux commerciaux**. Dans ce cas, les **règles impératives du statut des baux commerciaux** s’appliquent (Cass., ass. plén., **17 mai 2002**, n° 00-11.664).
+Il est toutefois difficile, d’un point de vue juridique, d’inclure l’ensemble des contrats qui servent à l’exploitation du fonds de commerce et qui attirent la clientèle, dès lors que ces contrats sont intuitu personae ou précaires.
 
-Elle a ensuite précisé que les **conditions liées au statut de commerçant**, lorsqu’elles sont **incompatibles avec la situation des parties**, ne s’appliquent pas (Cass. 3e civ., **9 février 2005**, n° 03-17.476).
+Par exemple, le contrat de franchise est par définition un contrat **intuitu personae**, ce qui signifie qu’il n’est pas transférable à une autre personne.
 
-Plus récemment, la Cour a admis que **les parties peuvent écarter conventionnellement certaines règles** du statut (Cass. 3e civ., **28 mai 2020**, n° 19-15.001).
+Il est donc nécessaire de pouvoir caractériser une clientèle qui soit, au moins pour partie, **personnelle** à l’exploitant.
 
-**Problématique :**  
-Quel est le **sort des clauses contraires au statut des baux commerciaux** ?
+Aujourd’hui, la notion d’attachement de la clientèle est remise en cause, notamment à travers la notion d’**activité d’exploitation**. Le débat reste toutefois limité : sans clientèle, aucune valorisation n’est possible.
 
+La clientèle est personnelle, c’est-à-dire qu’elle doit être **autonome** et rattachée au commerçant, et non à une simple situation géographique. Ainsi, il a été jugé qu’un distributeur automatique n’a pas de clientèle propre : c’est la clientèle du centre commercial.
+
+2) **Deuxième élément du fonds de commerce : le bail commercial**
+
+Le bail commercial est un bail à statut particulier, qui institue une véritable **propriété commerciale**. Son importance est aujourd’hui relative. Historiquement, la situation géographique d’un commerce déterminait largement sa clientèle.
+
+Par exemple, une boutique Vuitton installée dans un quartier inadapté n’attirera pas la clientèle attendue.
+
+De plus, avec le développement du commerce en ligne, quand un produit est livré, le consommateur ignore souvent d’où il provient.
+
+Parmi les éléments incorporels d’un fonds de commerce figure aujourd’hui le **nom de domaine**, qui a une importance économique capitale (en France, l’AFNIC ; au niveau international, l’ICANN).
+
+Il existe désormais une clientèle non plus attachée à un lieu physique, mais à un **nom de domaine**. Ces éléments sont devenus incontournables du fonds de commerce. Ce n’est pas un titre de propriété industrielle. Néanmoins, les chartes de nommage interdisent aujourd’hui l’enregistrement de noms de domaine en violation de droits de propriété industrielle. Autrement dit, ce n’est pas une marque protégée contre la contrefaçon, mais cela constitue malgré tout un actif incontestable du fonds de commerce.
+
+3) **Troisième élément : les droits de propriété industrielle**
+
+Il s’agit des **marques**, **brevets**, **dessins et modèles**. Ces droits constituent une valeur colossale, car la clientèle est le plus souvent attachée à une marque commerciale.
+
+Exemple : un commerçant qui vend des vêtements sous sa propre marque. Si l’on souhaite céder le fonds de commerce, et puisque la clientèle est attachée à cette marque, il est évident que la cession du fonds inclura ces droits de propriété industrielle.
+
+La cession de brevets, de marques, de dessins et modèles est encadrée par le Code de la propriété intellectuelle. Leurs modalités de transfert ou d’usage sont donc prévues par des contrats spécifiques.
+
+4) **Quatrième élément : l’enseigne commerciale**
+
+L’enseigne est un **nom commercial** utilisé par l’entreprise sans nécessairement faire l’objet d’un dépôt de marque, et donc sans donner lieu à un titre de propriété industrielle.
+
+L’enseigne, qui par définition attire la clientèle, est donc nécessairement un élément du fonds de commerce.
+
+**Les éléments corporels du fonds de commerce**
+
+À côté de ces éléments incorporels figurent des **éléments corporels**.
+
+Le fonds de commerce est également composé de tous les biens meubles corporels utiles à l’exploitation : tout le matériel, mais également les marchandises lorsqu’il s’agit d’un commerce.
+
+Généralement, les marchandises font l’objet d’un contrat séparé (les stocks).
+
+**La qualification du fonds de commerce**
+
+Toutefois, même après avoir listé l’ensemble des éléments constitutifs du fonds de commerce, il reste difficile de cerner précisément ce qu’il est.
+
+La jurisprudence et la doctrine ont alors dégagé une notion unique : celle d’**universalité**.
+
+Le fonds de commerce est une universalité : un ensemble composé de différents biens. Cela permet de donner, de louer ou de céder en bloc l’ensemble des éléments qui le composent.
+
+Ainsi, le fonds de commerce, en tant qu’universalité, est un **bien meuble incorporel** qui obéit aux règles du droit commercial.
+
+### Section 2 : Les opérations sur fonds de commerce
+
+#### Paragraphe 1 : La cession de fonds de commerce
+
+On parle de **vente** lorsqu’il s’agit d’un bien corporel, mais de **cession** lorsqu’il s’agit de biens incorporels.
+
+Le Code de commerce prévoit, à ses articles **L.141-1 et suivants**, le régime de cette cession particulière, car elle porte sur une **universalité**.
+
+Le contrat de cession de fonds de commerce obéit à des **conditions de fond**.
+
+##### A) La conclusion du contrat
+###### 1) Les conditions de fonds
+
+Il s’agit d’abord des conditions de droit commun des contrats : en particulier, le consentement des parties ne doit pas être vicié.
+
+En matière de cession de fonds de commerce, la nullité pour vice du consentement est souvent invoquée. En effet, comme le fonds est composé de différents éléments, il est extrêmement complexe à valoriser, notamment en ce qui concerne la clientèle.
+
+En raison de son caractère d’universalité et de la difficulté à évaluer une clientèle, la cession de fonds de commerce fait partie des contrats **hautement susceptibles de donner lieu à contentieux sur le terrain du vice du consentement**.
+
+La cession de fonds de commerce destine l’acquéreur à un exercice commercial. Cela suppose que, **en plus des conditions de droit commun**, l’acquéreur ait la **capacité commerciale**.
+
+Un arrêt célèbre de la **Cour de cassation, Chambre des requêtes, 1er avril 1895**, a refusé de reconnaître la validité d’une cession de fonds de commerce dont l’activité était illicite.
+
+La question s’est notamment posée en pratique pour des esthéticiennes exerçant des activités considérées comme relevant de la kinésithérapie, profession libérale réglementée.
+
+Exemple : un fonds de commerce affichant un chiffre d’affaires de 300 000 €, dont 200 000 € issus d’activités illicites. Dans ce cas, le contrat de cession est illicite dans son ensemble.
+
+Enfin, dans le cadre d’un couple marié, l’article **1424 du Code civil** prévoit que la cession d’un fonds dépendant de la communauté requiert le **consentement des deux époux**.
+
+###### 2) Les conditions de forme
+
+S’agissant des conditions de forme, la loi prévoyait auparavant un certain nombre de **mentions obligatoires**. L’article L.141-1 du Code de commerce imposait que tout acte constatant une cession amiable de fonds de commerce indique le nom du précédent vendeur, la date et la nature de l’acte d’acquisition, ainsi que le prix pour les éléments incorporels, les marchandises et le matériel. L’acte devait également préciser l’état des privilèges, le chiffre d’affaires et le résultat d’exploitation au cours des trois derniers exercices comptables.
+
+La loi du 19 juillet 2019 a abrogé ces dispositions. L’idée était que, depuis l’ordonnance de 2016, un **devoir précontractuel d’information** s’impose à tout vendeur. La suppression de ce droit spécial, au profit d’un texte de droit commun, visait à simplifier la réglementation applicable.
+
+Ces informations prévues par l’ancien article L.141-1 permettaient à l’acheteur de savoir exactement ce qu’il achetait. Leur suppression au profit du régime général (article 1112-1, alinéa 2 du Code civil : _« Néanmoins, ce devoir d’information ne porte pas sur l’estimation de la valeur de la prestation. »_) a conduit à une jurisprudence récente adoptant une approche restrictive.
+
+En l’espèce, il s’agissait d’une cession de parts sociales d’une SARL exploitant un kebab. L’acquéreur avait acheté la société pour exploiter le fonds, mais il découvrit par la suite qu’il lui était interdit de faire des frites, en raison d’un règlement de copropriété. La Cour de cassation a jugé qu’il n’y avait pas d’obligation d’information préalable, car il ne s’agissait pas d’une cession de fonds mais d’une **cession de parts sociales** : le vendeur n’avait donc pas à informer l’acquéreur des contraintes liées au fonds exploité par la société.
+
+Ainsi, la simplification législative a placé les parties à une cession de fonds de commerce dans une situation inconfortable, en raison du caractère complexe de l’opération et de la nécessité de disposer d’informations essentielles. En pratique, il est recommandé de continuer à s’inspirer de la liste des mentions de l’ancien article L.141-1 du Code de commerce, bien qu’il soit abrogé.
+
+Sous l’empire de l’article L.141-1, l’omission d’une information entraînait la nullité, qui pouvait être demandée dans l’année suivant la signature. Cette sanction a disparu, mais l’article L.141-3, toujours en vigueur, oblige le cédant à fournir des informations exactes.
+
+Le vendeur reste donc tenu de garantir l’acheteur. Conformément à l’article 1644 du Code civil, l’acheteur a le choix de restituer le bien et se faire rembourser, ou de conserver le bien en demandant une réduction du prix. Si l’on peut démontrer que le vendeur connaissait l’inexactitude des informations (par exemple, s’il a menti sur le montant du chiffre d’affaires), l’article 1645 s’applique, permettant d’obtenir des dommages et intérêts.
+
+Aujourd’hui, le régime laisse libre la liste des informations à transmettre, mais conserve les sanctions en cas d’inexactitude.
+
+Par ailleurs, l’article L.141-5, alinéa 3 du Code de commerce impose la **ventilation du prix de cession** : des prix distincts doivent être établis pour les éléments incorporels du fonds, le matériel et les marchandises.
+
+Exemple : un commerçant vend son exploitation pour 1 000 000 €. Le prix peut être ventilé ainsi : 500 000 € pour les éléments incorporels (clientèle, bail commercial), 100 000 € pour le matériel, et 400 000 € pour les marchandises (stocks). Cette ventilation est essentielle car le vendeur bénéficie d’un privilège distinct sur chacune de ces catégories de biens.
+
+Enfin, une dernière condition de forme concerne l’**information préalable des salariés**. Lorsqu’un exploitant vend son fonds de commerce, il est tenu d’en informer ses salariés afin que ceux-ci puissent, le cas échéant, présenter une offre d’achat.
+
+Le projet de loi de modernisation pour les entreprises, adopté en première lecture par l’Assemblée nationale en juin 2025 et devant être définitivement adopté le 30 septembre, prévoit la suppression de cette obligation d’information préalable.
+
+Le régime actuel vise à permettre aux salariés d’échapper aux restructurations consécutives à un rachat de fonds, et à leur donner la possibilité d’accéder au statut de commerçant. Toutefois, en pratique, la négociation commerciale est compliquée par ce formalisme, notamment lorsqu’il existe une discussion sur le prix.
+
+Dans les entreprises dotées d’un comité d’entreprise, le propriétaire doit notifier son intention de céder le fonds. Le comité d’entreprise communique alors aux salariés la possibilité de présenter une offre d’achat.
+
+Ce dispositif ressemble à un droit de préemption, mais il ne s’agit en réalité que d’un **droit de présentation d’offre** : le vendeur n’est pas tenu d’accepter la proposition des salariés. Le non-respect de l’obligation d’information entraîne la responsabilité du vendeur, avec des dommages et intérêts auxquels s’ajoute une amende civile de 2 % du prix de vente. Toutefois, certaines cessions échappent à ce régime : ventes au conjoint, à un ascendant ou descendant, procédures collectives, ou lorsque les salariés ont déjà été informés dans les douze mois précédents.
+
+En parallèle, il existe un véritable **droit de préemption** au profit des communes. Depuis la loi de 2005, les conseils municipaux peuvent créer des zones de sauvegarde du commerce et de l’artisanat. Dans ces périmètres, la commune peut se porter acquéreur d’un fonds de commerce ou artisanal afin de maintenir une activité économique locale. Cette possibilité répond au besoin des collectivités de préserver le dynamisme commercial des centres-villes face à la désertification des commerces.
+
+###### 3) Les règles relatives à la protection des créanciers du cédant 
+
+Le Code de commerce prévoit un régime particulier de protection des créanciers du cédant, c’est-à-dire l’ancien exploitant qui vend son fonds de commerce.
+
+**Comment ?** D’abord, en leur permettant d’être informés grâce à un système de publicité.
+
+Les mesures de publicité visent à informer les créanciers du cédant afin qu’ils disposent, en temps utile, des éléments nécessaires pour vérifier la bonne ventilation du prix de vente. Cela s’explique par l’existence de privilèges attachés à chaque type de composante du fonds de commerce.
+
+Dans les 15 jours suivant la signature de l’acte, l’acquéreur doit publier la cession dans un journal d’annonces légales (JAL) et au Bulletin officiel des annonces civiles et commerciales (BODACC).
+
+Double publicité : JAL + BODACC.
+
+Pourquoi est-ce l’acquéreur qui doit accomplir ces formalités ?  
+Parce que, s’il paye le vendeur sans avoir effectué ces deux publicités, il peut être tenu à l’égard des tiers pour le montant qu’il aurait versé au vendeur. L’article L.141-17 du Code de commerce rend donc cette publicité particulièrement efficace pour assurer l’information des créanciers.
+
+Par ailleurs, il existe un délai de 10 jours incompressible durant lequel le prix de vente est indisponible. Là encore, l’article L.141-17 prévoit que l’acquéreur peut être tenu à l’égard des tiers en cas de non-respect.
+
+Il existe également une mesure de publicité qui intéresse l’administration fiscale : toute cession de fonds de commerce doit faire l’objet d’un enregistrement. Les droits d’enregistrement sont relativement élevés :
+
+- 5 % du prix de vente pour la fraction supérieure à 200 000 € ;
+- 3 % pour la fraction comprise entre 23 000 € et 200 000 € ;
+- pas de droit d’enregistrement pour la fraction inférieure à 23 000 €.
+
+Deuxième mécanisme : l’**indisponibilité du prix de vente**.  
+Le prix reste indisponible pendant 10 jours à compter des mesures de publicité, afin de permettre aux créanciers de former opposition. Durant ce délai, tous les créanciers du précédent propriétaire peuvent saisir le prix de vente entre les mains de l’acquéreur ou de la personne qu’il aura désignée.
+
+En pratique, les parties désignent un **séquestre**, c’est-à-dire une personne qui retient le prix de vente, reçoit les éventuelles oppositions et procède, le cas échéant, à la répartition.
+
+L’opposition formée par un créancier rend indisponible la partie du prix correspondant à sa créance. Tous les créanciers du vendeur, même ceux qui n’ont pas formé opposition, pourront participer à la répartition du prix de vente. Toutefois, seuls ceux qui ont formé opposition sont assurés que le paiement au vendeur sera réduit du montant de leurs créances.
+
+En pratique, un tiers séquestre est désigné, et toutes les procédures se déroulent à son domicile.
+
+L’article L.143-21 du Code de commerce prévoit que le prix de vente doit être réparti dans un délai maximal de 105 jours à compter de la date de l’acte de vente.
+
+Cela signifie que la loi encadre strictement les délais de paiement en cas d’opposition.
+
+À l’issue de ce délai, a lieu la **distribution** du prix de vente, c’est-à-dire sa répartition entre les créanciers, puis subsidiairement au vendeur (créanciers d’abord, vendeur ensuite).
+
+Attention : ce n’est pas parce qu’un créancier n’a pas formé opposition qu’il perd sa créance. Il reste créancier, mais devra agir directement contre le vendeur, sans pouvoir saisir les sommes bloquées.
+
+Deux hypothèses :
+1. **Distribution amiable** : le prix de vente est suffisant pour désintéresser tous les créanciers et aucune contestation sérieuse n’existe.
+2. **Distribution judiciaire** : si tous les créanciers ne peuvent pas être désintéressés ou s’il n’existe pas d’accord entre eux, ils doivent saisir le juge des référés à l’expiration du délai de 105 jours. Le juge se charge alors de la distribution.
+
+Pour éviter que le prix de vente soit totalement bloqué, il est possible de demander le **cantonnement** des sommes, c’est-à-dire la mise à l’écart de la seule partie du prix correspondant à l’opposition. L’article L.141-15 du Code de commerce en fixe les modalités.
+
+##### B) Les effets de la cession
+
+###### 1) Les obligations des parties
+
+C’est une **vente**.  
+
+Il existe donc une **obligation pour le cessionnaire de payer le prix**, et une **obligation pour le cédant de délivrance et de garantie**.
+
+1) **L’obligation de délivrance**
+
+L’**obligation de délivrance** signifie que l’acquéreur doit être mis en possession de l’ensemble des éléments qui composent le **fonds de commerce**.
+
+Cela peut nécessiter des **formalités particulières**, notamment lorsqu’il existe des **droits de propriété industrielle** : il faudra alors accomplir des démarches auprès de l’**INPI**.
+
+Cela peut aussi être plus délicat s’agissant des **contrats dépendant du fonds de commerce**.
+
+Le **bail commercial** constitue une **exception notable**, puisqu’il faut accomplir une **signification de la cession au bailleur**. Le bail commercial fait toutefois figure d’**exception**, car il s’agit du **seul contrat transmissible de manière générale**.
+
+En effet, les autres contrats ne sont **pas transmis avec le fonds**, en raison du **principe de l’effet relatif des contrats** : le contrat ne lie que les parties qui l’ont conclu.
+
+Le **deuxième contrat transmissible** est le **contrat de travail** : les contrats de travail **suivent l’activité** qui est transmise.
+
+Tous les autres contrats (par exemple les **contrats de distribution** ou **de franchise**) sont des **contrats intuitu personae**, et ne sont donc **pas automatiquement inclus** dans la cession.  
+
+En pratique, toutefois, ces contrats contiennent souvent des **clauses d’agrément** permettant au cessionnaire d’être accepté par le cocontractant initial.
+
+2) **L’obligation de garantie**
+
+L’obligation de garantie concerne les **vices du consentement** et les **garanties d’éviction**.
+
+La **garantie des vices cachés** signifie que le vendeur **garantit l’acheteur contre tous les vices** qui rendent le **fonds de commerce impropre à l’exploitation** ou qui en **limitent considérablement l’usage**.  
+Cette action doit être exercée **dans un délai de deux ans à compter de la découverte du vice**.
+
+La **garantie d’éviction**, prévue à l’**article 1625 du Code civil**, impose au vendeur de **garantir à l’acheteur une jouissance paisible de la chose vendue**. Autrement dit, le vendeur doit **s’abstenir de toute action** qui viendrait **troubler les droits du nouveau propriétaire du fonds**, ce qui implique nécessairement une **obligation légale de non-concurrence**.
+
+En pratique, cette obligation légale étant **trop générale**, les parties insèrent souvent dans l’acte de cession une **clause de non-concurrence** précisant la **durée** et le **périmètre géographique** de l’engagement. Toutefois, il existe une **articulation entre la garantie légale et la clause de non-concurrence** : la clause conventionnelle est **limitée dans le temps**, tandis que **l’obligation légale** ne l’est **pas**.
+
+La **jurisprudence** considère que **l’engagement de non-concurrence est transmissible avec le fonds**. Ainsi, en cas de **cessions successives** (par exemple A vend à B, qui revend à C), il est normal que **l’engagement de non-concurrence soit transmis avec le fonds** au nouvel acquéreur.
+
+###### 2) Les garanties du cédant
+
+**Le fonds du cédant :**
+
+L’acquéreur a pour **obligation de payer le prix**. Lorsque ce prix est payé comptant, il n’y a pas de difficulté. En revanche, si le prix est **payable à terme** (à une date déterminée), le vendeur qui consent un crédit est protégé par un **privilège**.
+
+Ce **privilège** est une **sûreté** prévue à l’**article L.141-5 du Code de commerce**. L’**article L.141-6** précise que ce privilège est **opposable aux tiers** dès lors qu’il est **inscrit sur un registre tenu au greffe du tribunal de commerce**, appelé **registre des sûretés et autres opérations connexes** (article **R.521-2 du Code de commerce**).
+
+Autre hypothèse : lorsque le **prix est payable à terme**, c’est-à-dire lorsque le paiement est différé par rapport à la vente.
+
+Le **privilège** est d’abord celui du **vendeur**. Dans ce cas, le vendeur dispose d’une **sûreté**, d’une **garantie**.
+
+Lorsqu’on vend un **fonds de commerce** et qu’on n’a pas l’argent immédiatement, on risque de ne jamais le retrouver. En effet, l’acheteur peut très vite **faire faillite** : s’il n’est pas en mesure de payer aujourd’hui, il y a des risques qu’il ne puisse pas non plus payer ses **impôts**, **charges sociales**, etc. Il peut alors se retrouver en **cessation de paiements**, autrement dit en **faillite**.
+
+Dans ce cas, on a vendu quelque chose, mais si le débiteur fait faillite, on risque de **perdre le bien**.
+
+Le **privilège du vendeur** est **opposable aux tiers** dès lors que des **mesures de publicité** ont été effectuées. Cette publicité est faite dans le **registre des sûretés et autres opérations connexes**, conformément à l’**article R.521-2 du Code de commerce**.
+
+Le **cédant** peut toujours engager les **moyens que lui offre le droit des contrats**.  
+Une **action résolutoire** peut ainsi être établie afin de **récupérer le fonds**.
+
+Dans la mesure où le **fonds de commerce** peut comporter des **droits de propriété industrielle**, il faut également **signaler à l’INPI** que l’on est **titulaire d’un privilège**.
+
+Ce privilège confère **deux droits** :
+- le **droit de suite**,
+- le **droit de préférence**.
+
+Le **droit de suite**, prévu par l’**article L.143-12 du Code de commerce**, permet au cédant de **suivre le bien**, c’est-à-dire concrètement de **le récupérer entre les mains de tout acquéreur**, peu importe les reventes successives.
+
+Le **droit de préférence**, quant à lui, permet au cédant **d’être payé par préférence** aux autres créanciers.
+
+Le **privilège du vendeur de fonds** est **proche du nantissement** du fonds de commerce, à la différence près que **le privilège du vendeur porte sur l’ensemble des éléments vendus**, **y compris les stocks**, alors que le **nantissement** ne porte **que sur le fonds lui-même**.
+
+Encore faut-il, bien entendu, que **l’ensemble de ces éléments soit mentionné dans l’acte de vente**.
+
+Comment s’exerce le privilège du vendeur ?
+
+L’**article L.141-5 du Code de commerce** prévoit la **distribution du prix de cession** en **trois masses** :
+
+1. les **éléments incorporels**,
+2. les **éléments corporels** du fonds,
+3. et enfin les **marchandises ou stocks**.
+
+C’est important, car le Code de commerce prévoit un **ordre d’imputation des paiements** :  
+on commence par imputer les paiements sur les **marchandises**, puis sur les **éléments corporels**, et enfin sur les **éléments incorporels**.
+
+**Exemple :** une vente de fonds et de marchandises est conclue au prix de **300 000 €** :
+
+- 100 000 € pour les éléments incorporels (enseigne, clientèle),
+- 100 000 € pour les marchandises,
+- 100 000 € pour les éléments corporels.
+
+L’acheteur ne paie que **100 000 €**. Dans ce cas, il n’a payé **que la partie correspondant aux marchandises**.  
+Le vendeur conserve donc **l’intégralité de son privilège sur le fonds de commerce**.
+
+Ainsi, en cas de **vente du fonds de commerce**, le vendeur dispose encore de **l’intégralité de son privilège** sur ce qui constitue véritablement le fonds : les **éléments incorporels** et les **éléments corporels**.
+
+#### Paragraphe 2 : Le nantissement du fonds de commerce
+
+L’intérêt de la création d’un **fonds de commerce**, en tant qu’universalité juridique, est de **permettre au commerçant d’obtenir du crédit** de la part de ses créanciers.
+
+De manière générale, dans la vie des affaires, les **biens que l’on possède** servent à **garantir les créanciers**.
+
+Le **fonds de commerce** peut ainsi faire l’objet d’une **sûreté** consentie à un créancier, laquelle sert à **garantir les dettes** du commerçant propriétaire du fonds.
+
+C’est ce que l’on appelle le **nantissement**. Il s’agit d’une **sûreté réelle** (c’est-à-dire qui porte sur une chose), par opposition à une **sûreté personnelle** (comme le **cautionnement**, où une personne s’engage à payer à la place du débiteur).
+
+L’ensemble des biens pouvant être cédés avec le fonds peut faire l’objet d’une sûreté, mais ce sont alors **des sûretés distinctes**, chacune soumise à un **régime spécifique**.  
+
+Par exemple, le **gage des stocks** est prévu par les **articles L.527-1 et suivants du Code de commerce**.
+
+Le **nantissement du fonds de commerce** est une **sûreté sans dépossession**, c’est-à-dire que le commerçant **conserve la détention et l’exploitation de son fonds**.  
+Il **n’existe aucun droit de rétention** au profit du créancier nanti.
+
+De plus, l’**article L.142-1 du Code de commerce** prévoit que le nantissement **ne donne pas au créancier nanti le droit de se faire attribuer le fonds de commerce en paiement**.
+
+Le **nantissement du fonds de commerce** constitue donc une sûreté, mais **une sûreté relativement peu efficace** en pratique.
+
+Reste à voir **comment se constitue un nantissement** et **quels en sont les effets**.
+
+##### A) La constitution du nantissement
+
+Il existe **deux modalités** de constitution du nantissement :
+- le **nantissement conventionnel**,
+- et le **nantissement judiciaire**.
+
+1) **Premier cas : le nantissement conventionnel.**
+
+Le **contrat de nantissement** est un **contrat écrit**, conclu entre un **créancier** et son **débiteur propriétaire d’un fonds de commerce**.
+
+Le principe est que le **nantissement est conclu entre le propriétaire du fonds et le créancier**. Le **Code de commerce** veille, par ailleurs, à ce que **des garanties ne soient pas abusivement accordées sur les biens d’un tiers** (par exemple dans l’hypothèse où **une société contrôle une autre société**).
+
+Le nantissement peut **garantir n’importe quelle dette du commerçant**, que la dette ait **ou non un lien avec l’exploitation** du fonds.  
+La **créance** peut être **actuelle** ou **future**.
+
+**Exemple :** un établissement financier peut prendre un nantissement pour garantir d’éventuels découverts sur un compte courant.
+
+En revanche, **les marchandises ne font pas partie de l’assiette du nantissement**.
+
+Tout comme le **privilège du vendeur**, le **nantissement doit faire l’objet d’une inscription** auprès du **greffe du tribunal de commerce**, ainsi que d’une **inscription spéciale** si des **titres de propriété industrielle** sont compris dans le fonds.
+
+Dans la mesure où le **fonds de commerce est une universalité**, sa **composition peut évoluer** au fil du temps.
+
+**Exemple d’évolution des éléments du fonds :** remplacement du mobilier d’une entreprise.
+
+Deux raisonnements sont possibles :
+
+- soit on considère que le nantissement porte sur **chacun des éléments** du fonds ; dans ce cas, si certains éléments disparaissent, on **perd une partie de la garantie** ;
+
+- soit on considère que le nantissement porte sur le **fonds de commerce lui-même**, c’est-à-dire sur **l’universalité**, sur **l’ensemble des éléments qui forment un tout**. Dans ce cas, **peu importe les modifications internes** : la garantie subsiste sur le tout.
+
+Ainsi, si certains éléments matériels (tables, chaises, etc.) sortent du patrimoine et sont remplacés, **les nouveaux biens intègrent automatiquement la garantie du nantissement** grâce au **mécanisme de la subrogation réelle**, c’est-à-dire le **remplacement d’un bien par un autre** dans la même garantie.
+
+2) Le nantissement peut également être **judiciaire**.  
+
+Il **n’est pas accordé par contrat**, mais **par décision du juge**.
+
+Les **mesures conservatoires** sont décidées par le juge pour **sauvegarder les droits d’une partie lorsque ceux-ci sont menacés**.
+
+En effet, **le temps que le jugement soit exécuté**, il peut y avoir **disparition de certains biens**. Dans ce cas, le créancier peut **demander au juge** d’ordonner des **mesures conservatoires**, notamment **l’inscription d’un nantissement judiciaire** sur le fonds de commerce.
+
+L’**article L.511-1 du Code des procédures civiles d’exécution** permet au **président du tribunal de commerce**, **avant tout procès**, d’**accorder au créancier une sûreté judiciaire** lorsque **la créance paraît fondée dans son principe**.  
+Autrement dit, le juge vérifie que le créancier **dispose effectivement d’une créance vraisemblable**, et sur cette base, **accorde la sûreté judiciaire**.
+
+Il existe ensuite des **mesures de publicité** relatives à ces sûretés :  
+tout d’abord, une **publicité provisoire**, qui doit être suivie d’une **publicité définitive**.
+
+##### B) Les effets du nantissement de commerce 
+
+Comme pour le **privilège du vendeur**, le **nantissement** confère un **droit de préférence** et un **droit de suite**.
+
+Autrement dit, les **droits du créancier nanti** vont **primer sur ceux des créanciers chirographaires**, c’est-à-dire les **créanciers ordinaires**.
+
+En **droit des sûretés**, on distingue :
+- les **créanciers titulaires d’une sûreté** (soit parce qu’ils bénéficient d’un **privilège légal**, soit parce qu’ils ont reçu une **sûreté réelle conventionnelle**),
+- et les **créanciers chirographaires**, qui n’ont **aucune garantie particulière**.
+
+Le **créancier nanti** est donc **préféré au créancier chirographaire**.  
+Cependant, en cas de **procédure collective** (faillite, redressement ou liquidation judiciaire), le **nantissement** peut être **primé par certains privilèges légaux**, notamment le **paiement des salaires** ou le **privilège de conciliation**.
+
+La question se complique lorsqu’il y a **plusieurs créanciers nantis sur un même fonds de commerce**.
+
+**Exemple :** le fonds vaut 1 000 000 €. Deux prêts sont consentis à deux établissements bancaires différents.  
+Trois ans plus tard, le commerçant fait faillite : le fonds ne vaut plus que 500 000 €.
+
+Dans cette hypothèse, on a un **concours de créanciers nantis**, c’est-à-dire plusieurs **créanciers privilégiés** venant **en concurrence** sur une **même garantie**. Le « gâteau » devient alors **trop petit pour tout le monde**.
+
+Le principe applicable est celui du **prior tempore potior jure** :
+
+> _« Le premier dans le temps est le plus fort en droit. »_
+
+Ainsi, on regarde **l’ordre des inscriptions du nantissement** :
+- celui qui a **inscrit en premier** sera **servi en premier**,
+- celui qui a **inscrit en second** sera **servi ensuite**, et ainsi de suite.
+
+En revanche, le **nantissement ne permet pas au créancier** de se **faire attribuer le bien en paiement** : concrètement, le créancier **ne peut pas devenir propriétaire du fonds** par le simple effet de la loi.
+
+Le **droit de suite**, quant à lui, est le **droit de suivre le bien** (le fonds de commerce) **en quelque main qu’il passe**.
+
+Cela pose une **difficulté pratique** : lorsqu’un acheteur potentiel s’intéresse à un fonds de commerce, il consulte le **registre tenu au greffe du tribunal de commerce** et constate que le fonds est **grevé de sûretés** (nantissements inscrits).
+
+Dans ce cas, l’acheteur **acquiert le fonds avec les sûretés existantes** : si rien n’est fait, le **créancier nanti pourra exercer ses droits sur le bien acquis**.
+
+Pour éviter cette situation, il est possible, **en cas de mutation du fonds**, de **purger les droits des créanciers**, c’est-à-dire de **les désintéresser en les payant**.
+
+Par ailleurs, l’**article L.143-1 du Code de commerce** **protège le créancier nanti contre le déplacement du fonds**.  
+Lorsque le commerçant décide de **déplacer géographiquement son fonds**, les créances **peuvent devenir immédiatement exigibles**.
+
+Ainsi, si le commerçant **change d’adresse sans le consentement** du vendeur ou des créanciers nantis, la loi **protège ces créanciers privilégiés** en leur permettant de **réclamer immédiatement le paiement de leurs créances**, car un **déménagement peut entraîner une perte de valeur du fonds**.
+
+De manière générale, la loi cherche à **préserver l’assiette de la garantie**, c’est-à-dire **tout ce qui sert de base à la sûreté**.
+
+**Exemple :** si un **nouveau nantissement** est inscrit sur un fonds déjà nanti, il faudra vérifier **l’ordre des inscriptions** pour déterminer la priorité de chacun.
+
+Dans tous ces cas, l’objectif est de **garantir les droits des créanciers** en leur **permettant de récupérer rapidement leurs créances** lorsque la sécurité de la garantie est menacée.
+
+Enfin, concernant **l’extinction du nantissement** :  
+dans la mesure où le nantissement est **accessoire à une créance**, il **suit le sort de la créance principale**.  
+Il peut également **s’éteindre par purge volontaire**, lorsque les créanciers **sont désintéressés de leur plein gré**.
+#### Paragraphe 3 : La location-gérance du fonds de commerce 
+
+La **location-gérance** est **strictement encadrée par le Code de commerce**, et poursuit un **double objectif** :
+
+1. **Préserver les intérêts des parties**, en veillant notamment à ce que **le locataire du fonds** ne fasse pas **disparaître la clientèle**, et qu’il **ne soit pas soumis à une pression économique excessive** compromettant l’exploitation du commerce.  
+    Les **articles L.144-1 et suivants du Code de commerce** assurent ainsi **l’équilibre des relations contractuelles** entre le bailleur et le locataire.
+
+2. **Éviter une spéculation excessive** sur les fonds de commerce, qui pourrait, à terme, **porter atteinte au consommateur**.  
+    Les **articles L.144-1 et suivants** ainsi que **R.144-1 et suivants du Code de commerce** constituent donc **à la fois un cadre juridique pour les rapports entre les parties** et **un instrument de régulation économique**.
+
+
+##### A) Les conditions du contrat de location-gérance
+
+**Il doit avoir pour objet un fonds de commerce**, c’est-à-dire que tout autre bien, qu’il soit corporel ou incorporel, ne peut pas faire l’objet d’un contrat de location-gérance. Cela signifie également que le contrat de location-gérance se distingue clairement de formules voisines, comme **l’apport d’un fonds de commerce dans une société**.
+
+**La différence essentielle** réside dans le fait qu’il n’y a pas de **transfert de propriété** dans la location-gérance. C’est un moyen pour le propriétaire du fonds d’en **retirer les fruits sans en transférer la propriété**, mais, à la différence d’une location classique, **il en transfère le contrôle**.
+
+S’agissant des conditions de la location de fonds, **l’article L.144-1 du Code de commerce** pose un deuxième critère : **le gérant doit exploiter le commerce à ses risques et périls**. Le locataire-gérant est donc **responsable des pertes encourues**, tandis que **le bailleur n’assume normalement plus les risques liés à l’exploitation commerciale**, si ce n’est le risque de voir **la valeur de son fonds péricliter**.
+
+On peut ainsi **distinguer la location-gérance de la gérance salariée**, qui constitue **un contrat de travail**, caractérisé par un **lien de subordination** entre le gérant et le propriétaire du fonds : dans ce cas, le gérant n’est **pas responsable des pertes**.
+
+**Les conditions de validité** :
+
+Avant le **25 mars 2004**, de nombreuses conditions pesaient sur le bailleur, notamment **l’obligation d’avoir exploité le fonds pendant sept ans**, ramenée ensuite à **deux ans**.  
+Cette condition, qui visait à **éviter la spéculation sur les fonds de commerce** en imposant au propriétaire de les exploiter personnellement pendant un certain temps avant de les mettre en location, a été **abrogée par la loi du 19 juillet 2019**.  
+Aujourd’hui, le bailleur doit seulement **avoir la qualité de commerçant**, sans obligation d’exploitation préalable.
+
+De son côté, **le gérant doit avoir la capacité commerciale**, condition indispensable pour exercer une activité de commerce.
+
+**Les conditions de forme** concernent principalement **la publicité du contrat de location-gérance** :
+
+Le **locataire-gérant doit s’inscrire au Registre du commerce et des sociétés (RCS)**, et **le contrat doit être publié dans un délai de quinze jours** dans un **journal d’annonces légales** (article **R.144-1 du Code de commerce**).  
+Cette publicité est essentielle, car elle **permet d’informer les créanciers** des changements intervenus dans l’exploitation du fonds.
+
+Enfin, il convient de distinguer **les effets du contrat entre les parties** et **ses effets à l’égard des tiers**.
   
+###### 1) Les effets entre les parties
 
-**Nullité et clause réputée non écrite : distinction et conséquences**
+Classiquement, le **bailleur** (propriétaire du fonds) doit **mettre le locataire-gérant en possession du bien** et **garantir sa jouissance paisible**.
 
-La **nullité** suppose une **demande en justice** : elle est donc **soumise à un délai de prescription**.
+Les **obligations du locataire-gérant** sont plus détaillées :
 
-À l’inverse, la **clause réputée non écrite** **n’est pas soumise à prescription**, car elle **ne donne pas lieu à une action autonome** : elle est **soulevée à l’occasion d’un contentieux** et le juge peut **la constater d’office**.
+- **Paiement du loyer :** le locataire-gérant doit s’acquitter du loyer convenu, qui peut être **indexé** et comporter, le cas échéant, **une clause de révision périodique**.
 
-Classiquement, les **clauses contraires au statut des baux commerciaux** pouvaient faire l’objet d’une **action en nullité**, prescrite dans un **délai de deux ans**.  
+- **Respect de la destination du fonds de commerce :** le locataire **ne peut pas modifier la nature de l’activité**. Il doit **se comporter de manière loyale**, **ne pas détourner la clientèle** à son profit personnel et **exploiter le fonds avec diligence**.  
+    En effet, il existe un **devoir d’exploitation effective** : sans cela, le fonds perdrait sa valeur.  
+    Le locataire doit donc **mettre en œuvre tous les moyens nécessaires** pour exploiter le fonds.  
+    **Exemple :** si le fonds est soumis à des **contrôles administratifs ou sanitaires**, l’exploitant doit s’y conformer et **respecter toutes les réglementations applicables**.
 
-Mais l’**article L.145-15 du Code de commerce** prévoit désormais que **les clauses contraires au statut des baux commerciaux sont réputées non écrites**, et sont donc **imprescriptibles**.
+- **Interdiction de cession ou de sous-location :** le contrat de location-gérance étant **intuitu personae**, le locataire-gérant **ne peut ni céder, ni transmettre, ni sous-louer le fonds** sans **l’autorisation expresse du bailleur**.
 
-Cette lecture a été **confirmée par la Cour de cassation** (Cass. 3e civ., **19 novembre 2020**, n° 19-20.405), dans une solution notable car l’**article L.145-60 du Code de commerce** prévoit pourtant un **délai de prescription de deux ans** pour l’ensemble des actions relatives au bail commercial.  
+- **Restitution du fonds :** la location étant **à durée déterminée**, le locataire-gérant doit **restituer le fonds à l’expiration du contrat**, en remettant **tous les éléments qui le composent**, y compris la **clientèle**.
 
-La Haute juridiction a donc **affirmé la primauté du caractère imprescriptible** attaché à la **sanction du réputé non écrit** prévue par **l’article L.145-15**.
-
-**Statut impératif dont l’application est soumise à certaines conditions tenant à la chose louée comme aux personnes.**
-
-Les **baux commerciaux** sont **d’ordre public**.
-
-La **Cour de cassation** a eu à trancher à plusieurs reprises l’hypothèse de **parties n’ayant pas la qualité requise pour conclure un bail commercial**, mais ayant néanmoins **stipulé un tel bail**.
-
-La **Cour de cassation** admet qu’il est possible de procéder à une **soumission volontaire au statut des baux commerciaux** (_Ass. plén., 17 mai 2002, n°00-11.664_), c’est-à-dire que les parties peuvent volontairement décider d’appliquer le statut des baux commerciaux.
-
-Dans ce cas, **les règles impératives du statut s’appliquent pleinement**.
-
-La Cour de cassation a ensuite précisé que **les conditions attachées à la qualité de commerçant**, lorsqu’elles sont **incompatibles avec la qualité des parties**, **ne s’appliquent pas** (_Civ. 3e, 9 févr. 2005, n°03-17.476_).
-
-Plus récemment, la Haute juridiction a jugé que **les parties ont la capacité d’écarter conventionnellement certaines règles**, dans les limites fixées par l’ordre public (_Civ. 3e, 28 mai 2020, n°19-15.001_).
-
-**→ Lire les arrêts pour approfondir.**
-
-Quel est le sort des clauses contraires au statut des baux commerciaux ? 
-
-**On intente une annulation devant le juge**, mais **l’action en nullité** est **soumise à prescription**.
-
-La **nullité** doit être **demandée en justice** : c’est une **action autonome**, donc **soumise à des délais de prescription**.
-
-En revanche, le **mécanisme du réputé non-écrit** **n’est pas soumis à prescription**, car **il ne constitue pas une action autonome**.
-
-Il **intervient à l’occasion d’un contentieux** : le juge peut **réputer la clause non écrite** **sans qu’il soit besoin d’une action en nullité**.  
-C’est une **sanction**, et non une **action en justice**, **insusceptible de toute prescription**.
-
-Classiquement, les **clauses contraires au statut des baux commerciaux** pouvaient faire l’objet d’une **action en nullité**, **prescrite dans un délai de deux ans**.
-
-Désormais, **l’article L.145-15 du Code de commerce** prévoit que **les clauses contraires au statut des baux commerciaux sont réputées non écrites**.  
-L’action est donc **imprescriptible**.
-
-La **troisième chambre civile de la Cour de cassation**, dans un **arrêt du 19 novembre 2020 (n°19-20.405)**, a **confirmé cette nouvelle lecture**.
-
-Cette solution **n’était pas évidente**, puisque **l’article L.145-60 du Code de commerce** fixe un **délai de prescription de deux ans** pour **toutes les actions exercées sur le fondement du chapitre relatif au bail commercial**.
-
-Toutefois, la Cour a considéré que, **dans la mesure où la loi (article L.145-15)** prévoit expressément la **sanction du réputé non-écrit**, celle-ci est **imprescriptible**, car elle vise à **assurer le respect du caractère impératif du statut des baux commerciaux**.
-
-Il s’agit donc d’un **statut impératif**, dont **l’application est soumise à certaines conditions**, tenant **non seulement à la chose louée**, mais aussi **à la qualité des personnes**.
-##### A) Les conditions relatives à la chose
-
-**Conditions relatives à la chose :**
-
-Le **statut des baux commerciaux** s’applique **aux immeubles ou locaux dans lesquels un fonds de commerce est exploité**.
-
-L’**article L.145-1 du Code de commerce** est très clair sur ce point : _« Les dispositions du présent chapitre s’appliquent aux baux des immeubles ou locaux dans lesquels un fonds est exploité. »_
-
-Il faut donc **trois conditions cumulatives** :
-1. **Un bail**,
-2. **Portant sur un immeuble ou un local**,
-3. **Dans lequel un fonds de commerce est effectivement exploité.**
-
-La nature du bien loué doit être **immobilière** : le bail porte sur un immeuble (un local étant juridiquement un immeuble).
-
-Un **nom de domaine** ne constitue pas un immeuble : c’est un **bien meuble incorporel**. Ainsi, **la location d’un nom de domaine, même accompagnée d’une boutique en ligne ou de matériel, ne peut pas être qualifiée de bail commercial.**
-
-À l’inverse, si un **bail commercial** est conclu pour un local dans lequel **un fonds de commerce est effectivement exploité**, le statut des baux commerciaux s’applique.
-
-Mais **si le fonds de commerce cesse d’être exploité** (par exemple en cas de faillite ou de fermeture de la boutique), **le bail perd sa qualification de bail commercial**, car il ne correspond plus à la définition légale.
-
-En résumé, les **conditions relatives à la chose** se décomposent en deux volets :
-
-- Les **conditions relatives à l’immeuble ou au local**,
-- Les **conditions relatives au fonds de commerce**.
-
-###### 1) Conditions relatives à l’immeuble
-
-Le terme **« immeuble »** a, dans le cadre du **statut des baux commerciaux**, un **sens plus restreint** que celui retenu en **droit des biens**. En droit des biens, un terrain est un immeuble.
-
-Cependant, **le statut des baux commerciaux ne concerne que les immeubles bâtis.**
-
-Néanmoins, il reste **possible de conclure un bail commercial sur un terrain nu**, à condition que **le locataire y édifie des constructions**.  
-**Intérêt** : à la fin du bail, **le propriétaire récupère les constructions** édifiées sur son terrain.
-
-Le **« local commercial »** visé par **l’article L.145-1 du Code de commerce** est formulé de manière assez large : il peut désigner toute forme d’espace permettant l’exploitation d’un fonds.
-
-Cependant, la **jurisprudence** a dégagé **deux critères cumulatifs** :
-1. **La stabilité**,
-2. **La permanence** du local.
-
-**Exemple :** des **panneaux publicitaires**. La question s’est posée de savoir si les annonceurs pouvaient bénéficier d’un bail commercial.  
-
-La **Cour de cassation** a jugé qu’il n’existait **aucune stabilité ni permanence** permettant l’exploitation d’un fonds de commerce : **il ne s’agit donc pas d’un local au sens de l’article L.145-1 du Code de commerce.**
-
-La même question s’est posée pour les **galeries commerciales** : certaines zones d’exposition ou emplacements ne sont **ni fixes ni pérennes**.  
-
-La **Cour de cassation** considère alors qu’il **ne s’agit pas d’un local commercial** au sens du texte.
-
-Ainsi, des **emplacements de distributeurs automatiques**, **points de vente temporaires** ou **mobiles** ne peuvent pas relever du **statut des baux commerciaux**.
-
-En revanche, **un véritable local clairement déterminé**, **mis à disposition d’un commerçant** en contrepartie d’un **loyer**, **peut être qualifié de bail commercial**, **dès lors qu’un commerce y est effectivement exploité.**
-
-La question s’est également posée de savoir si le **statut des baux commerciaux s’étend aux baux accessoires**, tels qu’un **espace de stockage** ou un **parking**.  
-
-L’**article L.145-1** précise que **le statut s’applique aussi aux locaux accessoires** à l’exploitation du fonds **lorsque leur privation est de nature à compromettre l’exploitation du commerce.**
-
-Il s’agit là d’une **question de fait**, relevant de **l’appréciation souveraine des juges du fond.**
-
-Ainsi, **des places de parking** ont pu être jugées **indispensables à l’exploitation du fonds**, et donc intégrées au bail commercial.
-
-Enfin, **l’article L.145-1, 1°** envisage l’hypothèse d’une **pluralité de propriétaires** :
-
-- le **propriétaire du local principal**,
-- et un **autre propriétaire** des **locaux accessoires**.
-
-Dans ce cas, il faut que **les locaux accessoires aient été loués en connaissance de cause**, c’est-à-dire **en sachant qu’ils serviraient à l’exploitation du fonds de commerce.**
-
-###### 2) Les conditions relatives au fonds
-
-Le **statut des baux commerciaux** s’applique aux **locaux dans lesquels est exploité un fonds de commerce ou un fonds artisanal.**
-
-Cela signifie concrètement que **le bail commercial dépend de l’existence d’un véritable fonds de commerce.**
-
-Ainsi, pour qu’un **bail commercial** soit reconnu, il faut que **le locataire dispose d’une clientèle qui lui soit propre et personnelle.**
-
-**Exemple :** dans le cas d’un **distributeur automatique installé dans un lieu de passage**, le commerçant ne peut pas prétendre bénéficier d’une **clientèle personnelle**, celle-ci appartenant au lieu d’implantation (gare, centre commercial, etc.) et non au locataire lui-même.
-
-Dès lors, **en l’absence de clientèle propre, il n’y a pas de fonds de commerce**, et donc **pas de bail commercial au sens du Code de commerce.**
-
-##### B) Les conditions relatives aux personnes
-
-###### 1) Des conditions relatives au bailleur
-
-Il existe tout d’abord une **condition relative au bailleur** : son activité n’est **pas commerciale mais civile**.  
-
-Le bailleur **n’a donc pas à satisfaire aux conditions exigées pour être commerçant.**
-
-De manière générale, **le bail commercial relève de la compétence des juridictions civiles**, sauf en ce qui concerne **la révision des loyers**, qui obéit à un régime particulier.
-
-Cependant, le **bail commercial** est une **catégorie de contrat qui engage fortement le bien**, dans la mesure où **le locataire acquiert une véritable “propriété commerciale”**, c’est-à-dire un **droit au renouvellement du bail**.
-
-La **conclusion d’un bail commercial** peut ainsi être **assimilée à un acte de disposition**, compte tenu de ses conséquences patrimoniales.
-
-En effet, **lorsque le bail prend fin** et que **le bailleur souhaite récupérer l’immeuble**, il doit en principe **verser une indemnité d’éviction** destinée à **compenser la perte de clientèle** subie par le locataire.  
-
-Autrement dit, **récupérer un local commercial revient souvent à payer l’équivalent de la valeur du fonds de commerce.**
-
-Dès lors, **conclure un bail commercial** constitue un **acte grave**, pouvant, dans certaines situations, être **assimilé à un acte de disposition.**
-
-En **droit civil**, notamment dans le cadre du **fonctionnement d’une indivision** ou d’un **démembrement de propriété**, cette qualification a des conséquences importantes :  
-le **bail commercial ne peut pas être considéré comme un simple acte de gestion**.
-
-###### 2) Des conditions relatives au preneur
-
-Pour **bénéficier de la protection** conférée par le **statut des baux commerciaux**, le **locataire (preneur)** doit **établir qu’il est effectivement immatriculé**, selon le cas :
-
-- **au Registre du commerce et des sociétés (RCS)**, s’il est **commerçant**,
-- ou **au Répertoire des métiers**, s’il est **artisan**.
-
-Cette exigence signifie que **le preneur qui perd sa qualité de commerçant ou d’artisan perd ipso facto son droit au renouvellement du bail commercial.**
-
-L’**immatriculation** constitue donc une **condition essentielle** à l’application du statut des baux commerciaux.
-
-Par ailleurs, pour **d’autres catégories professionnelles**, notamment **les professions libérales**, il existe la possibilité de recourir à **d’autres types de baux**, tels que les **baux professionnels**, **prévue par la loi du 23 décembre 1986.**
-
-### Paragraphe 2 : Les obligations du bail commercial
-
-Il relève pour parti au droti commun du bail. EN outre, les règles du code cviil s'applique. 
-
-on y retrouve les oblgiaitons classique du bailleur et du preneur fortement remodelées par le statut impératif du bail commerical.
-
-#### 1) Les obligations du bailleur
-
-Les obligations classiques du bailleur sont **l’obligation de délivrance** et **l’obligation de garantie**.
-
-**L’obligation de délivrance** consiste à mettre la chose louée à la disposition du preneur.  
-Par exemple, le bailleur ne peut pas changer les serrures pour empêcher l’accès au local.
-
-Elle implique également que le bailleur doit se conformer à la réglementation, c’est-à-dire respecter les **normes d’hygiène et de sécurité** permettant l’exploitation du fonds de commerce.
-
-L’obligation de délivrance étant une **obligation essentielle** du contrat, **aucune clause** ne peut en exonérer le bailleur.  
-Ainsi, un contrat de bail commercial ne peut pas stipuler que le local n’a pas à respecter la réglementation relative à l’accueil du public.
-
-Concrètement, **l’obligation de délivrance** doit permettre au locataire une **jouissance paisible** du bien.  
-L’article **L.145-40-1 du Code de commerce** prévoit à cet effet qu’un **état des lieux** est établi contradictoirement.
-
-Par ailleurs, il convient de préciser que **le bailleur n’est pas responsable** des évolutions de la **zone d’achalandage**.  
-Ainsi, si le local est situé dans une rue autrefois commerçante qui n’attire plus la clientèle, le bailleur n’en est pas responsable.  
-De même, si l’environnement commercial évolue défavorablement (par exemple, une concentration de commerces similaires ou peu attractifs), cela ne constitue pas une faute du bailleur.
-
-**La seule responsabilité du bailleur est la délivrance.**  
-Cette obligation ne bénéficie qu’au locataire : **les tiers ne peuvent pas s’en prévaloir.**  
-Ainsi, un **locataire-gérant** ne peut pas invoquer un manquement à l’obligation de délivrance du bailleur.  
-En revanche, s’il souhaite agir contre ce dernier, le tiers au contrat peut le faire **sur le fondement de la responsabilité civile extracontractuelle.**
-
-Le bail commercial prévoit, comme tout bail, **l’obligation pour le propriétaire-bailleur d’entretenir la chose louée.**  
-Néanmoins, il existe une **répartition des charges** prévue par l’article **L.145-40-2 du Code de commerce**.  
-Le bail commercial doit obligatoirement prévoir et **inventorier la répartition des charges** entre le bailleur et le locataire.
-
-Cette répartition peut aller plus loin que dans un bail d’habitation : par exemple, la **fiscalité** et les **impôts afférents à l’immeuble** peuvent être mis à la charge du locataire.
-
-Conformément à l’article **R.145-35 du Code de commerce**, le propriétaire conserve toutefois à sa charge les **grosses réparations**, au sens de l’article **606 du Code civil.**
-
-Le propriétaire doit, conformément au droit commun, **garantir le locataire contre les vices de la chose** ainsi que contre **l’éviction du fait personnel ou du fait des tiers.**
-
-Enfin, comme en matière de bail d’habitation, le bailleur qui envisage de vendre le local est tenu de **notifier son intention au locataire.**  
-
-Cette notification doit être faite **par lettre recommandée avec accusé de réception (LRAR)** ou **remise en main propre**.  
-Elle mentionne le **prix** et les **conditions de la vente envisagée.**
-
-Cette notification constitue **une offre de vente** que le locataire peut **accepter dans un délai d’un mois.**  
-
-En cas d’acceptation, **la vente doit être réalisée dans un délai de deux mois**, ou **de quatre mois** si le locataire recourt à un prêt.
-
-Si le locataire n’accepte pas l’offre ou ne se prononce pas, le propriétaire peut alors vendre à un tiers.
-
-Toutefois, **cette obligation de notification** ne s’applique pas dans certains cas particuliers, tels que :
-
-- les **cessions d’ensemble immobilier**,
-- la **vente d’un immeuble entier**,
-- les **ventes au profit du conjoint, d’un ascendant ou d’un descendant**,
-- ou encore les **cessions dans le cadre d’une liquidation.**
-
-Ce **droit de préférence**, conféré au preneur, est **d’ordre public**, c’est-à-dire que **le contrat ne peut pas en dispenser le bailleur.**  
-Le régime de ce droit de préférence est détaillé par **l’article L.145-46-1 du Code de commerce.**
-
-#### 2) Les obligations du preneur
-
-La principale obligation du preneur est **de payer le loyer.**
-
-Conformément au droit commun, le preneur doit payer le loyer, encore faut-il s’entendre sur ce que recouvre la notion de loyer.
-
-Le **loyer**, c’est tout d’abord le **loyer initial**, librement déterminé par le contrat, à la différence de certaines règles qui concernent le bail d’habitation.
-
-Le loyer ne se confond pas avec une pratique classique : **le paiement du pas-de-porte**, somme que le preneur verse au bailleur à son entrée dans les lieux.
-
-Le **pas-de-porte** équivaut à une forme de **droit d’entrée**, parfois assimilé à un **droit de cession de bail** ou à une **vente du bail commercial**, même s’il n’est pas régi par le régime de la cession de bail.
-
-Une fois ce pas-de-porte payé, **le loyer est librement fixé** par les parties.  
-
-Le contrat prévoit donc un montant initial et peut, le cas échéant, comporter **une clause d’indexation du loyer.**
-
-Il existe plusieurs méthodes de fixation du loyer, notamment la **clause de loyer variable**, appelée aussi **clause-recette**.
-
-**La clause-recette** prévoit une partie **fixe** et une partie **variable**, cette dernière dépendant des **recettes du commerçant**, c’est-à-dire de son **chiffre d’affaires**.  
-En pratique, cette clause est formulée en mentionnant **un pourcentage du chiffre d’affaires**, et non du bénéfice — distinction essentielle.
-
-La **clause-recette** est particulièrement efficace dans les **zones commerciales dynamiques**, ou lorsqu’il existe **un risque commercial** (incertitude sur la rentabilité du fonds).  
-Elle permet d’adapter le loyer à la réussite de l’exploitation : plus l’activité est prospère, plus le loyer augmente.
-
-Cependant, cette clause peut s’avérer **très onéreuse** lorsque la rentabilité est faible malgré un chiffre d’affaires élevé.  
-En effet, si la marge du commerçant est faible (par exemple 10 %), une part importante de ses bénéfices peut être absorbée par le loyer.  
-De même, lorsque les prix sont baissés (soldes, remises, promotions), le commerçant réalise un chiffre d’affaires important mais avec très peu de marge, ce qui rend la clause-recette parfois **ruineuse.**
-
-Dans tous les cas, **la clause-recette est licite**, dès lors qu’elle est clairement stipulée et acceptée par les parties.
-
-Le **bail commercial** peut prévoir une **augmentation forfaitaire** du loyer, par exemple une hausse annuelle d’un montant déterminé.
-
-Deux hypothèses principales existent :
-- **le loyer fixe**,
-- **le loyer variable.**
-
-Outre ces hypothèses, le loyer peut faire l’objet d’une **révision**, soit **contractuelle**, soit **légale.**
-
-1) **Révision contractuelle**
-
-La révision contractuelle s’opère grâce à **une clause d’indexation**.  
-Il s’agit d’une clause qui fait varier le loyer en fonction d’un **indice** mentionné dans le contrat.
-
-Toutefois, les parties **ne peuvent pas choisir n’importe quel indice** : celui-ci doit avoir **un lien direct avec l’objet du contrat ou la profession des parties.**
-
-Exemple : l’**indice des loyers commerciaux (ILC)** ou l’**indice des loyers des activités tertiaires (ILAT)** sont des indices valablement utilisés.
-
-2) **Révision légale**
-
-En parallèle des clauses contractuelles, il existe également des **mécanismes légaux de révision du loyer**, prévus par le **Code de commerce** (articles **L.145-37 et suivants**), permettant d’ajuster le loyer en fonction des **variations économiques** ou de la **valeur locative réelle** du bien.
+    Deux situations peuvent alors se présenter :
+    
+    1. Le **fonds restitué a une valeur inférieure** (moins-value) : le **bailleur a droit à une indemnité** compensatrice.
+    
+    2. Le **fonds restitué a une valeur supérieure** (plus-value) : il faut distinguer selon l’origine de cette plus-value :
+        - si elle résulte du **développement de la clientèle**, **aucune indemnité** n’est due au locataire-gérant ;
+        - si elle provient de **l’amélioration d’éléments matériels** (aménagements, équipements, travaux…), le **locataire-gérant peut prétendre à une indemnité**.
   
+###### 2) Les effets à l’égard des tiers
+
+Ils concernent essentiellement **les créanciers du bailleur** et **les créanciers du locataire-gérant**.  
+
+ - **1) Les créanciers du bailleur**
+
+L’**article L.144-6 du Code de commerce** prévoit que _« la dette du loueur du fonds peut être déclarée immédiatement exigible »_ : il s’agit d’une **déchéance du terme**.
+
+**Exemple :** une banque a consenti un prêt au bailleur d’un fonds de commerce.  
+Le contrat de prêt prévoit un **remboursement échelonné**. En cas de mise en **location-gérance** du fonds, la banque peut **réclamer immédiatement la totalité des sommes dues**.
+
+Le **tribunal de commerce** statue en vérifiant **qu’il existe un risque réel pour le recouvrement de la créance**.  
+
+Le **créancier dispose d’un délai de trois mois à compter de la publication** du contrat de location-gérance pour **demander la déchéance du terme**.
+  
+- **2) Les créanciers du locataire-gérant** 
+
+**Hypothèse 1 :** le bailleur met un restaurant en **location-gérance**. Les anciens fournisseurs continuent à livrer l’établissement sans être informés du changement d’exploitant.  
+Dans ce cas, **à qui doivent-ils réclamer le paiement ?**
+
+Tant que **la publication du contrat de location-gérance n’a pas été effectuée**, les **créanciers peuvent se retourner contre le bailleur**.  
+En effet, selon l’**article L.144-7 du Code de commerce**, le **bailleur est tenu solidairement avec le locataire-gérant** pour les **dettes contractées avant la publication du contrat**.
+
+**Hypothèse 2 :** à la **fin de la location-gérance**, les **dettes du locataire-gérant** deviennent **immédiatement exigibles**.  
+Les **créanciers peuvent donc agir en recouvrement** dès le **jour de la fin du contrat**.
+
+Cette **différence de régime** entre le **bailleur** et le **locataire** s’explique aisément :  
+les **créanciers du bailleur** conservent une garantie puisque **le fonds revient dans son patrimoine** à la fin de la location-gérance, leur permettant ainsi d’être désintéressés.
+
+En revanche, le **locataire-gérant**, une fois le contrat expiré, **ne possède plus de fonds** : il **ne peut donc plus faire l’objet d’un recouvrement** fondé sur ce bien.
+
+## Chapitre 2 — Le bail commercial
+
 **Il constitue un élément du fonds de commerce**, néanmoins il obéit à **un régime particulier**, puisque **le local commercial**, de par sa **situation géographique**, est **l’élément essentiel de l’exploitation commerciale**.
 
 Généralement, **l’exploitation du commerce est indépendante de la propriété du local**. Lorsqu’un commerçant est à la fois **exploitant et propriétaire**, il agit souvent **par le biais d’une structure juridique distincte**, afin **d’éviter que ses créanciers professionnels puissent saisir l’immeuble**.
