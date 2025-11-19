@@ -25,269 +25,276 @@ Dans une société 2.0 avec beaucoup de droits fondamentaux, n’y a-t-il pas un
 
 #### Paragraphe 1 : Une définition matérielle insatisfaisante
 
-insatisfaisantes car comrpennent souvent des expressiosn imparfaites, mais ces expressions imparfaites permettent de nourir la reflexion critique de ce qu'uest un droit fondamental.
+Ces définitions sont **insatisfaisantes**, car elles comportent souvent des **expressions imparfaites**. Toutefois, ces imprécisions permettent de nourrir la réflexion critique sur ce qu’est réellement un **droit fondamental**.
 
 ##### A) Une approche parcellaire des droits et libertés fondamentales
 
-exemple : expressions de cerain sauteurs qui vont renvoyer àd es cas particuleir de contneteiux, on repdn un objet du droit et on va parler de tou les drots fonamteaux qui poruraien etre reconnus à cet objet.
+Exemple : certaines expressions utilisées par des auteurs renvoient à des cas particuliers de contentieux. On prend un **objet du droit** et l’on évoque l’ensemble des droits fondamentaux qui pourraient lui être reconnus.
 
-ex droit de la personnalité, c une compilation doctrinale de tous els droits et tt les rpocedures qui pemettent de proteger la personalité.
+Ainsi, le **droit de la personnalité** est une compilation doctrinale de tous les droits et de toutes les procédures permettant de protéger la personnalité.  
+De la même façon, on peut étudier l’ensemble des normes qui permettent de protéger les libertés des individus. On retrouve régulièrement des développements sur les **principes généraux du droit (PGD)**, qui constituent une construction purement jurisprudentielle. Or, ces principes ne protègent que contre le pouvoir réglementaire, et non contre l’ensemble des pouvoirs constitués.
 
-de la meme façon on pet etudier toutes les nrmes qui permettent de proteger els lbiertés des individus, y'a reguleiremetn des developpement sur les PGD qui est uen cosntruction purement jurisprudentielle. ça protege que contre pouvoir reglementaire, pas contre tous les pouvoirs constitués.
+C’est une logique de « prince éclairé » incarnée par le juge. Mais en contexte de guerre, cette protection n’existait pas.
 
-c une logique de prince éclairé, qui est le juge. en contexte de guerre y'en avait pas. 
+L’**article L.521-2 du Code de justice administrative** prévoit que le juge des référés peut ordonner toute mesure nécessaire à la sauvegarde d’une liberté fondamentale à laquelle une personne morale de droit public aurait porté une atteinte manifestement grave et illégale.
 
-art 521-2 du code de justice administrative : le juige des référés peut ordonner toute mesure necessaire à la sauvegarde d'une liberté fondamentale à laquelle une personne morale de droit publci aurait porté uen atteinte manfiestement grave et illégal. 
+On retrouve encore dans la **Constitution française** l’expression de « liberté publique ».
 
-expression de "liberté publique" qui existe encore dans la constitution frnaçaise. 
-
-71 decision liberté d'association, crée le bloc de constituioanlité. Mais juge qui l'a créé peut le reprendre, sauf que la jurisprudence a été constituionalisé. 
+La **décision Liberté d’association de 1971** a consacré le **bloc de constitutionnalité**. Mais si c’est le juge qui l’a créé, en théorie il pourrait le reprendre ; toutefois, la jurisprudence a depuis été constitutionnalisée, ce qui lui donne une valeur normative consolidée.
 
 ###### 1) Une expression désignant un régime politico-juridique : "libertés publiques"
 
-expression retrouvée à plusieurs endroits, pas uniquement sous la 5eme rep.  consacrée a article 25 de la consituton du 14 janvier 1852 (second empire). 
+Expression retrouvée à plusieurs endroits, pas uniquement sous la 5ème République. Consacrée à l’article 25 de la Constitution du 14 janvier 1852 (Second Empire).
 
-art 34 de la constitution du 4 octobre 1958 "la loi fixe les régles concernat : - les droits cviqes et droits fondamentales accodées aux citoyens pour l'exercice de slibertés publiques (completer)".
+Art. 34 de la Constitution du 4 octobre 1958 : « la loi fixe les règles concernant : - les droits civiques et droits fondamentaux accordés aux citoyens pour l'exercice des libertés publiques (compléter) ».
 
-expression est un probelme aprce que les libertés publque c une epxression qui renvoie à la juridicisation des droits de l'homme par la loi.
+L’expression est un problème parce que les libertés publiques, c’est une expression qui renvoie à la juridicisation des droits de l’homme par la loi.
 
-c'est l'objectivation des libertés par la loi. cette forme de juridicisation par la loi correspond à un reigme politico juridque particuleir, c'est l'état légal, ou un état legicentrique, dans leqel reigne le mythe de la loi souveraine par expression de la volonté générale.
+C’est l’objectivation des libertés par la loi. Cette forme de juridicisation par la loi correspond à un régime politico-juridique particulier, c’est l’État légal, ou un État légicentriste, dans lequel règne le mythe de la loi souveraine comme expression de la volonté générale.
 
-3eme république : de 1875 a 1940. le legicentrisme c'est la sacralisation de la loi, c un heritage des théories révolutionnairs. elle est le fruit, l'expression de la volonté generale, de la representation nationale. La loi est l'expression de la souveraineté nationale. 
+3ème République : de 1875 à 1940. Le légicentrisme, c’est la sacralisation de la loi, c’est un héritage des théories révolutionnaires. Elle est le fruit, l’expression de la volonté générale, de la représentation nationale. La loi est l’expression de la souveraineté nationale.
 
-La nation ne petu se donner une volonté qeu par ses élus. Le peuple désigne des élus qui professent, expriment la souveraineté. 
+La nation ne peut se donner une volonté que par ses élus. Le peuple désigne des élus qui professent, expriment la souveraineté.
 
-dans ce contexte pas besoin de mettre des droits fondamentaux dans la constitution, qui se contente de prevoir commetn sont elusu les organes de la nation. Le peuple se donne des elus poru que ces elus competents puissent donner une volonté à la nation. Leur oeuvre ne peut être contestée, ne peut mal faire. 
+Dans ce contexte, pas besoin de mettre des droits fondamentaux dans la Constitution, qui se contente de prévoir comment sont élus les organes de la nation. Le peuple se donne des élus pour que ces élus compétents puissent donner une volonté à la nation. Leur œuvre ne peut être contestée, ne peut mal faire.
 
-si c l'assemblée qui vote, tout ce qui retrouve dans la minroité peut etre oprimée. expressio liberté pblqiei correspond à l'éatt l'égal qui correpond aux états qui otn failli. Les etats natiosn parlemetnaiores sont legalistes, elgicentrisme. Mais la loi peut opprimer (ex fascime). Ca renvoi a un systeme defailaltn de rotection des droits fondamentaux car tyrannie de la majorité. 
+Si c’est l’Assemblée qui vote, tout ce qui se retrouve dans la minorité peut être opprimé. L’expression « libertés publiques » correspond à l’État légal qui correspond aux États qui ont failli. Les États-nations parlementaires sont légalistes, légicentristes. Mais la loi peut opprimer (ex : fascisme). Cela renvoie à un système défaillant de protection des droits fondamentaux, car tyrannie de la majorité.
 
-a la base, on voualtiq ue la loi protege les libertés parce qu'ily avait une idée derriere la loi, qui est la loi generale et impersonnelel. Elle vaut pour tout le monde. 
+À la base, on voulait que la loi protège les libertés parce qu’il y avait une idée derrière la loi, qui est la loi générale et impersonnelle. Elle vaut pour tout le monde.
 
-probleme le regime petu deriver en tyraniide.
+Problème : le régime peut dériver en tyrannie.
 
-tout n'est pas a jeté dans les libertés publqies : le parlement peut mal faire masi il a fait de grandes choses. 
+Tout n’est pas à jeter dans les libertés publiques : le Parlement peut mal faire, mais il a fait de grandes choses.
 
 2 exemples :
-- loi sur la liberté de la presse de 1881
-- liberté d'associaiton 1901
+- Loi sur la liberté de la presse de 1881
+- Liberté d’association de 1901    
 
-c souvent dans ces grands loi que le consiel constitutionel va checher ces PFRLR. le consiel constitutionel quadn il consacr eun PFRLR il dit que cette loi était uen loi qui consacre une grnad eliberté publqiue, et il la réhausse au rang constttonlle.
+C’est souvent dans ces grandes lois que le Conseil constitutionnel va chercher ces PFRLR. Le Conseil constitutionnel, quand il consacre un PFRLR, dit que cette loi était une loi qui consacre une grande liberté publique, et il la réhausse au rang constitutionnel.
 
+**Les 6 critères qui différencient droits fondamentaux et libertés publiques de l’ouvrage de Favoreu :**
 
-les 6 criteres qui differencient droits fondamentaux et lbiertés pibliques de l'ouvrage de Favoreux :
+1. **Le critère de la limitation du pouvoir** : quel est le pouvoir qu’on limite ? Les libertés publiques sont des libertés essentiellement protégées contre le pouvoir exécutif, alors que les libertés fondamentales doivent être protégées contre l’ensemble des pouvoirs constitués (c’est-à-dire contre pouvoirs exécutif, législatif et juridictionnel).
+    
+2. **Le niveau de protection normatif** : la protection des libertés publiques s’appuyait sur la loi et les principes généraux du droit (qui s’imposent à l’administration, valeur supra-décrétale et infra-législative), alors que les libertés fondamentales requièrent l’application des normes constitutionnelles et/ou européennes et internationales. Prof en désaccord sur ce critère : il y a une fusion au sein des libertés fondamentales, les auteurs ne distinguent pas protection internationale et protection constitutionnelle. Ils considèrent que les traités sont au-dessus de la loi, donc si on met liberté fondamentale dans un traité, on les protège du Parlement. Quand on met droit fondamental dans la Constitution, on le protège du Parlement ou du gouvernement (en France avec Congrès critique possible). Mais traités internationaux : c’est le gouvernement qui les décide, il peut seul ratifier des accords internationaux ; mais article 53 de la Constitution : il faut l’accord du Parlement. Pour faire un traité international c’est une collaboration entre Parlement et gouvernement. On ne peut pas protéger les DF d’eux car ce sont eux qui ratifient les traités. Si un jour un parti autoritaire arrive au pouvoir et dénonce un traité, qu’est-ce qui protégera le citoyen si on dénonce tous les traités ? Le droit international, et le droit européen apporte une certaine garantie parce que ça fonctionne, mais pas de garantie sur la procédure. Article 89 qui consacre droits fondamentaux par voie internationale est produit par les pouvoirs constitués. Différence pour la Suisse car chaque fois qu’il faut ratifier un accord international il y a référendum obligatoire, c’est un verrou du peuple. On pourrait aussi multiplier les traités pour que tout devienne fondamental, mais plus rien ne le sera (car il y en aura trop). On ne protège pas les droits fondamentaux, mais contre les organes qui disposent de cette norme, contre les institutions. On met des DF dans la Constitution parce que gouvernement et Parlement ne peuvent pas en théorie modifier la Constitution. Favoreu dit que traités internationaux (art. 55 Constitution, valeur supérieure à la loi) donc protègent DF, c’est un raisonnement purement normatif, qui ne prend pas en compte les institutions. Le problème est : qui produit les droits internationaux ? S’ils étaient validés par le peuple et que pour dénoncer il fallait référendum, le prof aurait été d’accord. On aurait un organe différent qui protégerait les normes contre les pouvoirs constitués. C’est donc Parlement et gouvernement qui font la norme. Prof défend que la fondamentalité d’un droit résulte de la procédure de modification de ce droit. Les bénéficiaires des droits fondamentaux doivent sécuriser la procédure. C’est la même critique de l’article 89 pour les droits internationaux. Dire que droits fondamentaux = tout ce qui est au-dessus de la loi = désaccord. Ex Royaume-Uni : on est protégé du gouvernement et Parlement car UK faisait partie de l’UE, sauf que quand il a quitté l’UE, alors citoyen plus protégé. Ukraine : sanction Russie, exclusion CEDH. Si on ne maîtrise pas la procédure de production de la norme, on est dans une logique de prince éclairé.
+    
+3. **Protection juridictionnelle** : les auteurs précisent que les juges administratifs et judiciaires peuvent assurer la protection des libertés publiques contre les actes qui porteraient atteinte aux lois (contrôle ordinaire de norme à norme). Auteurs précisent que pour libertés fondamentales il faut juge constitutionnel ou juge européen. Critique : la protection internationale des libertés publiques n’est pas fondamentale.
+    
+4. **La portée de la décision** : liberté publique garantie que dans les rapports verticaux entre puissance publique et individus, là où les normes supra-législatives peuvent produire des effets entre individus, des effets horizontaux. Critique : liberté d’association crée aussi des effets horizontaux entre associés.
+    
+5. **Les bénéficiaires et titulaires** seraient différents : pour libertés publiques ce sont des individus, alors que les libertés fondamentales pourraient concerner les personnes morales de droit privé ou de droit public. Critique : pas certain de la distinction, une liberté publique peut très bien concerner une personne morale de droit privé, ex : liberté de la presse concerne surtout des personnes morales de droit privé.
+    
+6. **Les domaines d’intervention** où les libertés publiques seraient considérées comme intervenant dans des domaines plus restreints que les droits fondamentaux.
 
-1. le ritère de la limitaiton du vpour : quel est le pouvori quo'n limite ? les lbiertés pubqies sotn des libertés essentielemmetn rpotégées contre le pouvir executif, alrosq ue les lobertés fondamentales doivent être protégées contrel'ensemble des pouvoirs constitués (càd contre pouv exeuctif legislatifs et juridictionnel).
+L’expression « libertés publiques », c’est juste un vestige de l’histoire, un héritage du passé. On a fait comme ça avant, et on continue toujours à certains endroits de la Constitution à parler de libertés publiques. C’est la continuité de l’État légal, légicentrique, et c’est un problème.
 
-2. le niveau de protection normatif : la protection des lbiertés publqies s'apuiyaient sir la loi et les principes generaux du droits (qui s'imposentà l'administration, valeur supra decretale et infra legislative) alors que les libertés fondamentales requiernet l'applciaiton des normes constituitonelles et/ou européennes et internationales. Prof en desaccord sur ce critere : y'a une fusion au sein des libertés fpndame,tales, les auteurs distinguent pas protection intenraitnale et protection constitutonelle. Ils considerent que les traités sont au dessus de la loi, donc si on met liberé fondaemntale dans traité, on les protegede du parlement. Quand on met droti fondamental dans constituton, on le protege du parlemetn ou gouvernemetn.  (en france avec congres crtitique possible). Mais traités ntenraitonaxi c le gouv qui les decide, il peut seul ratifier des accords internationaux,; masi articel 53 de laconstititoon il faut l'accord d parlemetn. Pour faire un traité interntionla c une collabo entre parlemetn et gouv. on peut pas proteger les DF d'eux car c eux qui ratifient les traités. Si un jour parti autoritaire qui arrive au pouvoir et denonce traité, questce qui protegera le citoyen si ond enonce tous les traités ? le droit international, et le droit eurpeen apporte une certaine garantie pcq ca fonctionne, masi pas de ganratie sur la rpocedure. Article 89 qui consacre droits fondamentaux par voie internationale est produite par les pouvoirs constitués. Diff pour la suisse car chaque fois que faut ratifier un accord international y'a referndum oblgiatpore, c un verrou du peupel. On pourrait aussi multiiplier les traités pour qeu tout devienne fondalental, masi plus rien ne le sera (car y'en aura trop).On protege pas les droits fondamentaux, masi contre les organes qi disposent de cette norme, contre les institution. On mets des DF dans la cons parce que gouv er palrment peuvetn pas en theorie mdoifier l constitution. Favoreu dit que Traités intenraitoanxu art 55 cojstition valeur superieur au loi donc protégé DF, c un raisonemetn puremetn noramitf, prend pas en comtpe les institutons. Le probleme est qui produi les droits internatonaux ? si ils etiante validés par le peuple et que pour denoncer fallait referundum, prof aurait été d'accord. On aurait un organe different qui protegerai les normes contre les poiuvoirs constitués. C donc pouv et gouv qui font la norme. Prof defend que la fondamentalité d'un droit résulte de la procedure de modiciation de ce droit. les beneficiares des droits fondamentaux doivent securiser la procedure. c la meme critiu de article 89 poru droits internationaxu. dire que droits ofndmanteuax c totu ce que y'a au dessu sd e aloi desaccord. ex royaume uni : on est protégé du gouv et paremetn car UK fait partie de UE, sauf que quand a quitté UE, alors citoyen plus protégé. uraien : sanction russie exlcusion CEDH. Si on maitire pas procedure d eproducin de la norme, on est dans uen logiqued e prince éclairé.
+Ça ne crée pas des droits fondamentaux suffisamment solides.
 
-3. protection juridictionelle : les auteurs precisent que les juges admonistratifs et judiciares peuvent assurer la protection des libertés publiqus contre les actes qui porteraient attiente aux lois (controle rodinaire de norme à norme), auteurs precisent qeu pour libertés fodnaemnal faut juge constitutionell ou juge europen . cririque : la protection internationale des libertés publiques est pas fondalemntael. 
+Sous la 5ème République, au tout début de l’article 34 de la Constitution, « la loi fixe les règles concernant les droits civiques … pour l’exercice des libertés publiques ». Il renvoie à la notion des libertés publiques.
 
-4. la portée de la décision : liberté publqieu garantie que dans les rapports verticaux entre pissance publqieu etindividus, là où les normes supra legislatives peuvent produire des effets entre individus, des effets horizontaux. Critique : liberté d'associaion crée aussi des effets horizontaux entre associés. 
+**Examen :** toujours penser à si l’on est sur un droit fondamental qui fait un renvoi à la loi ou pas. Si oui, exposer la critique. Est-ce que la protection est suffisante ? Vraiment un droit fondamental ? Ou est-ce que ce n’est qu’une liberté publique défendue par la loi, laissant toute marge de manœuvre au Parlement ?
 
-5. les beneficiaires et titulaires seriant diff : pour lib publiques sont des individus, alors que les libertés fodnaemntales pourraient concerner les personnes moraels de droit privés ou de droit publique. Critiqeu : pas certain de la distinction, une lbierté publqeu peut tres bien concerner une personen morale de droit privé, ex liberé de la presse concenre surtotu des eprs morales de droit privé. 
+**Deux habilitations implicites :**
 
-6. les domaiens d'intervention où les lib publiques seraiet considérés comme intervenatn dans des domaiens plus restreints que les droits fondamentaux. 
+1. **Le renvoi explicite :** l’article lui-même prévoit « la loi fera ». Dans ce cas-là, pourquoi l’avoir mis dans la Constitution ? Il y a un problème de portée du droit fondamental. Car le législateur peut mettre un régime qui restreint la portée d’un droit fondamental. Ex. : on prévoit l’IVG, on met un délai de 9 mois en Russie, donc on ne consacre pas vraiment l’IVG. Révision constitutionnelle de 2024 en France : on n’a pas constitutionnalisé l’IVG, on a juste ajouté que « la loi fixe » ; donc si une majorité conservatrice arrive, elle peut le restreindre. Ce n’est pas une vraie protection constitutionnelle. Quand la norme constitutionnelle renvoie explicitement à la loi, on peut s’interroger sur la portée du droit fondamental.
 
-l'expressio liberté publqieu c juste un vestige de l'histoire, un heritage du passé. ON a fait comme ça avant, et on continue tjrs à certains endroits d ela cons à parler de liberté publqie. C al continuité de l'état légal, legicentrique, et c un probelem.
+2. **Le droit fondamental est tellement implicite, tellement vague et général** (construit en fonction de standards juridiques qui ne veulent rien dire en eux-mêmes) que ce sont le Parlement et le juge qui vont créer le régime du droit fondamental, pas la Constitution elle-même. Si on nous donne un article de la DDHC, ou un article de Constitution même étrangère, s’il n’y a pas de renvoi au législateur et que le texte est précis, la protection est bonne, car claire, précise et non équivoque. Alors que pour la Charte de l’environnement on ne sait pas à quoi cela renvoie : obligations générales, de moyens, pas de résultats ; « un environnement sain », cela veut dire quoi ? Le régime de protection des droits fondamentaux va dépendre de la bonne volonté du Parlement.
 
-ça ne crée pas des drois fondamentaux sufissement solides.
+**Articles 4 et 5 de la DDHC** témoignent du logiciel légicentrique qui existe à la Révolution française : époque où l’on pense que le Parlement est souverain, la loi ne peut pas mal faire. On a donc repris les textes avec le défaut qui va avec.
 
-sous la 5eme republqueu; au tout début de articel 34 de la constitito, "la loi fixe les relges concernant les drois civiques ... pour l'exercice des libertés publqies" il renvoi à la notiond es lbiertés publqieus.
+**Art. 4 :** « ces bornes ne peuvent être déterminées que par la loi ». C’est ce qui détruit un droit fondamental.
 
-examen : tjrs penser à si on est sur un droit fondamental qui fait un renvoi à la loi ou pas. Si oui exposer la critique. Est-ce que la rpotection est suffisante? vriametn un droit ofndamental? ou estce que c que une liberté publque defendue par al loi donc laissant toute marge de maneouvre au parelement.
+**Art. 5 :** le principe de liberté personnelle : à l’art. 5, on a le droit de faire tout ce que la loi nous autorise à faire ; si la loi intervient, on est soumis à la loi. On peut compléter cet article à la lumière de l’art. 34. Si on fixe un domaine précis à la loi, alors là le droit fondamental existe, le Parlement ne pourra pas sortir de ce domaine.
 
-2 habilitaitons implicites : 
-1. le renvoi explicite : l'article lui meme prévoit la loi fera, dans ce cas là pourqioi 'lavoir mis dans la constitution? y'a un pb de portée du droit fondamental. Car legislateur peut mettre un régiem qui protege la portée d'un droit fondamental. Ex on prévoit l'IVG, on mets un délais de 9 mois en russie, donc on ocnsacre pas vraiment l'IVG.  REv consittutinelle de 2024 en france, on a pas constituonalisé IVG, juste rajouté à IVG que la loi fixe, donc si majorité conservatrice on peut le restreinte. C pas une vrai protection constitutionellel. Quadn la norme cosntitutionelle renvoei explicitement à la loi on peut s'interroger sur la proter du droit fodnaemental
-2. le droit fondamenta est tellemetn implicite, tellement vague et genreal (construit en focntion de standars juriques qui veuletn riend ire en eux meme) c le parlemetn et le juge qui vont creer le regime du droit fondametnal, pas la constitution elle meme. Si on nous donne art DDHC, ou art de cons emme étrangere, si pas de renvoi au legsilateur et texte est précis bonne protection, car claire précise et non équivoqieu. Alorsq ue charte de l'environnemetn ons ait pas à quoi sa renvoie, c des oblgiaitons gneerale,s de moye, pas de resulatsts, unenvironnement sain ça veut dire quoi ? Le regime de proection des drotis ofnadentaux va dependre de la bonne volonté du paremetn. 
+Mais l’art. 34 de la Constitution… on ne peut pas imaginer quelque chose qui échappe au Parlement. Termes tellement vagues. Rare de trouver un domaine dans lequel le Parlement ne puisse pas intervenir.
 
-art 4 et 5 de la DDHC qui temogient du logiicel legicentrique qui existe à la révoltuion française : epoque où on pense que parlement es souverain, la loi ne petu pas ma faire. Ona donc epris les textes et défaut qui vaut avec.
+**Débat sur l’inflation législative.** S’il y a un ou deux articles dans la Constitution qui habilitent le Parlement à préciser des choses, tout va bien. Le Parlement intervient peu pour donner des limites aux droits fondamentaux. Mais s’il y a des habilitations nombreuses et générales, que le gouvernement peut intervenir dans tous les domaines, alors se pose une question : est-ce que la loi protégera toujours les droits fondamentaux ?
 
-ART 4 "ces bornes ne pevuent être détermiéns que par la loi" c'est ce qui détruit un droit fondamental.
+À la base, la loi est censée être l’expression de la volonté générale et, en ce qu’elle est l’expression de la volonté générale, elle est censée avoir un caractère impersonnel et être la même pour tous. C’est le but de passer par la loi : instaurer une égalité devant la loi, ne pas dépendre de l’administration.
 
-ART 5 : le principe de lbierté personnel ede art 5 on a le dori de faire tout ce que la loi nous autorise de faire, si loi intervneueon est soumis à la loi. On petu compelter cet articel à la lumiere de art 34. Si on fixe in domaien rpecis à la loi, alors la le droit ofndamental existe, le parlemetn pourara pas sortir de ce domaine. 
+Citation de Lacordère : « entre le fort et le faible, entre le riche et le pauvre, entre le maître et le serviteur, c’est la liberté qui opprime et la loi qui affranchit ». Lacordère défend une vision légicentrique : on va adopter une loi pour encadrer l’utilisation des droits fondamentaux (droit de propriété, liberté de commerce, de contracter). C’est la norme qui protège le faible, alors que ce sont les droits fondamentaux qui devraient protéger le faible.
 
-mais art 34 de la constittin, on peut pas imaginer qq chose qui echape au parlemetn. Termes tellemetn vagues. Rare de trouverun domaien dans lequel le parlement ne puisse pas interevenir.
+Auteur Frédéric Rouvillois : est-ce que l’inflation législative ne conduit pas à une oppression par la loi ? De sorte que le citoyen n’est pas protégé par les droits fondamentaux à cause du trop grand nombre de lois.
 
-Débat sur l'inflation legislative. si il y a un ou deu articles dans la constituion qui habilitent le parlement à preciser des choses, tout va bien. Le parlemet intervietn peu pour donner des limties aux drotis fondametnaxux. Mais si y'a des habilitaitons pbmreuses et generales, que le gouv peut nternveir dans tous les domaoens, alors se pose une qiestion : estce que la loi protegere toujorus les droits fondamentaux ? 
+Il dit que « c’est l’excès de lois, le trop-plein de réglementation, qui au lieu de libérer, finit par opprimer, par restreindre, neutraliser, étouffer les libertés, faisant éclater la fragile paroi qui sépare la sphère publique et la sphère privée ».
 
-à la base la loi est censée etre expression de l avolonté générlae, et en ce qu'elel est l'expression de la volonté génrélae, elle est censée avoir un caractèr eperosnnel, et être la même poru tous. C le but de passer par al lo i: d'instaurer une égaltié devant la loi, ne pas depdendre de l'adminsitration.
+Par le trop-plein de lois, moins de sphères d’autonomie. Il faut tellement concilier nos droits fondamentaux qu’à la fin il ne nous reste que ce que le Parlement veut bien nous laisser.
 
-citation de Lacordère "entre le fort et le faibel, entre le riche et le pauvre, entre le maitre et le serviteur, c'est la liberté qui oprime et la loi qui affranchie". lacordere defendune vision legicentrique, on va adopter une loi poru encadrer utilsaitond esd roits fodnametnaux (droit de prorpéité, liberté de ocmmerce, de conctracter). C la norme qui protege le faible alors que c les droits foanmetnaux qui devraient proteger le faible.
+On touche ici à un problème de type et de fonctionnement du régime politique sur le fonctionnement et l’état de santé de nos droits fondamentaux.
 
-auteur frederic rouvivoux : est-ce que l'infration legislative ne conduti pas à une opression par la loi ? de sorte à ce que citoyen pas protégé par droti fondamntaux à cause du trop grand nombre de lois.
+Plusieurs mouvements peuvent être relevés : la logique de la politique-spectacle : on a un drame, on fait une loi. À chaque fois que le Parlement intervient, derrière il y a la sphère d’autonomie.
 
-il dit que "c'est l'exces de lois, le trop plein dereglemetntaion, qui au lieu de liberer, fini par opprimer, par restreinter, neutra,liser, ettoufer les libertés faisant éclater la fragile parroi qui separe la sphere publqieu et al sphere privée."
+Puis il y a une recrudescence de la quête des vérités réelles. Aujourd’hui, on n’est plus en train de défendre l’égalité devant la loi. Il y a l’égalité des droits et l’égalité réelle. Quand le législateur poursuit l’égalité réelle, il nous impose sa vision du bonheur, de l’autonomie. Retour de la distinction par la loi : il y a un statut particulier pour tout le monde ; il y a une loi pour la fonction publique, puis des statuts (ex. cheminots, élus, etc.). On se demande si, dans certains domaines, où est l’égalité devant la loi des citoyens placés dans une même situation.
 
-par le trop plein de lois, plsu de sphères d'autonomie. Il faut tellemetn concilier nos droit fondamentaux qu'à la finil ne nous reste ce que le parlement veut bien nous laisser.
+Sur l’égalité réelle, on peut intervenir dans tous les domaines, car cela dépend de notre conception. Le problème, c’est que si l’on multiplie la quête d’égalité réelle, on va multiplier l’intervention législative, et plus il intervient, plus on dilue la protection des droits fondamentaux.
 
-on touche ici à un probleme de type et de fonctionemetn du régime politque sur le fonctionement et état de santé de nsod roits fondamentaux.
+Ensuite, il y a également la posture interventionniste de l’État. Jusqu’où l’État va-t-il aller dans son action ? Plusieurs logiques de société : ex. solidaristes ou libéralistes qui disent de ne pas intervenir pour protéger le plus faible. Développement du solidarisme pour protéger. Aussi système assurantiel : tout doit être assuré. Plus il y a de droits fondamentaux, plus il y a d’interventions législatives.
 
-plusiuers mouvements peuvent être relevées : la logiqeu de la plitqie spectacle : on a un drame, on fai tune loi. à chaque fois que le aprlemet intervient, derriere lya la sphere d'autonomiE.
+Exemples d’inflation législative issus de la conception de l’État-providence qui va réguler la portée de nos droits fondamentaux.
 
-puis y'a une recrudescence de la quête des vérités réelles. Ajd on est plsu entrain de defendre l'égalité devant la loi. y'a l'égalité des droits et l'égalité relel. Quadn legislateur porusuti egalité relle, il nous impoose sa vision du bonheur, de l'atonomei. Retour de la disitnciton par al loi, y' aun statut particuleir pour totu le monde; Y'a une loi pour la fonciton publiqe, pui sdes status ex cheminaux, élus, etc. On se demande si dans certais domaien où est l'égalité devant la loi des ciotyens placés dans une meme situaiton. 
+La liberté du commerce et de l’industrie : il y a des traces dans la DDHC. Souvent, beaucoup d’idées d’entrepreneuriat sont détruites en raison du régime de ce droit fondamental. Tellement de lois s’appliquent à l’activité économique. On veut vendre à manger devant notre maison : il y a contrôle sanitaire, balance certifiée, autorisation de la commune, etc.
 
-sur egaltié relle on petu intervenir dans tous les domaines car depend de notre conception. le pb c que is onmultiplie la quete d'égalité relele, on va mutilpier internveiton legislaitejr, et plus il intervietn plus on dilue protetiond es droits fondamtenaux.
+Quelque chose qui aurait paru naturel comme ça, mais ça peut être atteint car on vit dans un État avec trop de législation. On peut donc renoncer à utiliser notre liberté de commerce et d’industrie car trop compliqué. Et si on a un salarié, il y a Code du travail, URSSAF, fisc, etc.
 
-ensuite : y'a également la posture interventionniste de l'état.jqusueou l'etat va aller dans son action ? plusoeurs logiques d esociété : ex solidariste ou liberalistes qui disent que pas intervenir pour proteger le plus faibel. Deveopemtln du solidarisme  pour proteger. aussy systeme assurenciel, tout doti être assuré. plus y'a de droits ofndamentaux plus y'a d'intevetiosn legilatives.
+C’est la liberté de commerce et d’industrie dans un État trop interventionniste.
 
-exemples inflation leisltiave issu de conception del'état providence qui va reguler la portée de nos droits fonamentaux. 
+On risque donc de porter atteinte aux droits fondamentaux, et notamment aux droits de première génération, si l’on cherche à protéger tout et n’importe quoi.
 
-la liberté du commerc eet d'industrie, y'a des traces dans la DDHC. souvnet bcp d'idées d'entreprenatia sont déturires en raison du regime de ce droit ofdamental. Tellemet, de lois qui s'appliejtn à activité économqiue. Oj veut vendreà manger deant notre maison y'a controle sanitaire, balance certifiée, autorisation de la cmmune, etc.
+Ex. droit de propriété : on veut faire construire une maison, énormément de réglementations. Est-ce qu’on a vraiment un droit de propriété immobilière dans ces cas-là ? Oui, si on respecte la loi ; mais si les conditions sont de plus en plus nombreuses, c’est compliqué.
 
-qq chose qui aurait parru naturel comme çamais ca peut etre atteitn car on vit dans un etat avec trop de legislation. On petu donc refuser d'utilier notre lib d ecomemrce et d'industrie car trop compliqé. et si on a salarié, y'a code du travail, urssaf, fisc, etc.
+Qu’est-ce que la liberté ? Absence de loi ? Présence de loi ? En réalité, un juste milieu. Le problème, c’est l’excès de législation.
 
-c la liberté de commerc et d'industrie dans un etat trop interventionniste.
+Ouvrage : _La Route de la servitude_ de Friedrich Hayek. Dès que l’État planifie des choses pour sa population, on est sur la route d’un État collectiviste potentiellement totalitaire. Les droits fondamentaux n’existent-ils que dans un État libéral ou peuvent-ils aussi exister dans des États sociaux ? Ou communistes ?
 
-on risque docn de porter attiente fondamentales, set notamment les droits de premeire genration si on chercheà proteger tout et n'importe quoi. 
+Dans cet ouvrage, il y a un certain nombre de critiques sur les législations sécuritaires. Multiplication de législations (ex. état d’urgence terroriste, climatique, etc.). On a connu un certain nombre de mesures de sécurité.
 
-ex droit de propréité, on veut faire constrireune maison, enormeent de reglementations. est-ce quon a vriament un droit d epropriété immobiliere dans ces cas là? Oui si on respecte la loi, mais si de plus en plus de conditions c complqiué.
+Avant d’arriver à l’état d’urgence anti-terroriste, il y a d’abord eu la chasse aux irresponsables. C’est tout un ensemble d’interdictions de produits qui nuisent à notre santé. Comme on est des individus libres et éclairés, l’État les a interdits pour nous. Ex. réglementation autour du tabac, alcool, interdiction de l’absinthe, drogues, ceinture au volant, port du casque à moto, port du masque, et interdiction de boire son café debout.
 
-que'tce que la liberté? absenc de loi? prsence de loi? en realité cun juste miliue. Le pb c l'exces de la legislation.
+**Défense de cette législation :** l’État n’est pas là uniquement pour protéger des intérêts privés. Il a une mission de protection de l’intérêt général. On peut se dire : si on fume, on a le droit ; mais l’État intervient, on porte atteinte aux droits fondamentaux d’autres titulaires de libertés (ex. enfants, personnes fragiles, etc.). On nous protège parmi les autres.
 
-ouvrage : "la route de la servitude" de firerich hayek. des quel'état planifie des choses pour sa population, on est sur la route d'un état collectiviste potentiellement totalaire. des droits ofnamentaux existent quen dans etat liberal ou ausis exister dans etats ociaxu ? ou communiste ?
+La ceinture au volant : si on est éjecté, on peut tuer quelqu’un d’autre. On peut défendre la vie en société.
 
-dans cet ouvrage, il y a un ceratin nombre de critiques sur les legilsations securitares. miultipliation de legislations, (ex etat d'urgence terroriste, climatique, etc.) on a connu un certain nombre de mesures de securité.
+Parfois il faut protéger non pas un individu contre les autres, mais la société dans son ensemble. Il y a des maux qui frappent les sociétés, des mal-êtres, des maladies, des risques qui ne frappent pas que l’individu seul mais la société dans son ensemble. Dans cette dynamique, l’État peut construire une politique. Il poursuit la vision de ce que doit être une société.
 
-avant d'arriver à état d'urgence anti terroriste, y'a d'abord eu la chasse aux irreponsables. C'et otut un enmeble d'interiditond e produits qui nuisentà notre santé. Comem on est des individus lbires et éclairés, etat les a interdit pour nous. Ex regleetnation autour du tabac, alcool, interdiction de l'absinthe, drogues, ceinture au volatn, port du casque a moto, port du masque, et interidciton de boire son café debout. 
+Ex. drogue : si tout le monde le fait, c’est l’anarchie ; le pays ne tiendrait plus. Ce serait une idiocratie.
 
-defense de cette legislation : l'état n'est pas là unqiuemetn pour proteger des interets privés. il a une mission e protection de l'interet genral. on peut se dire si on fume ona le droit, masi etat intervient on porte atteinte aux drotifs fondamentaux d'autres titulaires de lbiertés, ex enfants personens fragiles etc.  On nous protege parmi le sautres. 
+L’État défend un modèle de civilisation, un modèle de société. C’est d’autant plus important si l’État est un État-providence, parce que l’État-providence consacre des droits-créances (droit à la santé, sécurité sociale, emploi, vie familiale). C’est l’État qui les protège pour que l’ensemble des individus en profitent ; mais pour les protéger, il faut porter atteinte à d’autres droits fondamentaux.
 
-ceinture au volatn si on es ejecté on petu tuer qqn d'autre. On peut defendre lav ie en société. 
+Quand on reconnaît des droits-créances, il y a forcément des droits-libertés qui sont atteints.
 
-parfois il faut proteger non pas unindivu contre les autres, masi la société dans son ensemlbe. Y'a des maxu qui frappent les sociétés, des mal etres, des maladies, riques qui ne frappent pas que l'indvidu seul mais la société dans son ensemble. Dans cette dynamique état petu construire une polituque. il porsuut la vision de ceq ue doit etre une société. 
+La sécurité sociale ne comprend pas que le droit au chômage, mais aussi la retraite. C’est la collectivité qui la paiera, mais elle doit le payer. L’État défend donc une démographie positive.
 
-ex drogue si tout le mond ele fait c'est l'anarchie, le pays ne tiendrait plus.  ce serait une idiocratie.
+Le Parlement interdit ou réglemente régulièrement des avancées technologiques (ex. lois bioéthiques sur le clonage, exploitation des cellules souches). L’État considère que l’avancée technologique n’est pas suffisamment maîtrisée pour protéger sa population.
 
-état defend un modele de civilisaiton, u modele de société. C d'autant plus important que si l'état est un état providence, parce que l'état providence consacre des droits créants (droit à la santé, seucirot sociael, emploi, vie familaile) c l'état qui le protege pour que l'ensemlbed es indiviuds en rpofitent, masi pour le proteger faut porter atteinte a dautres droits fondamentax.
+On veut une démographie positive, capable de travailler, de se reproduire. Ce ne sont pas des libertés qu’on défend au niveau individuel.
 
-quadn onr econnati des droits creances, y'a forcement des droit slibertés qui sont atteintes.
+Quand on est dans une logique de protection des libertés publiques, on laisse le Parlement fixer le régime : toujours un risque que le Parlement empiète sur les droits fondamentaux.
 
-la sécurité sociale comrpedn pas quele droit auchocmage, mais aussi la retraite. c la collectivité qui le paiera, mais elle doit le payer. l'état défend donc uen depographie positive. 
+**Quelle force peut prendre un droit fondamental bien rédigé, sans habilitation du Parlement ou du gouvernement ?**
 
-le parlement interdit reguleirmetn des avancées technolgoues, ex loi bioethiqeus sur le clonage, exploitation des cellules souches. Etat considere que avancé technoligque pas sufismeent avancée poru proteger sa population.
+Même droit fondamental protégé en France et en Amérique.  
+**Art. 11 de la DDHC (1789)** : « La libre communication des pensées et des opinions est un des droits les plus précieux de l’homme… sauf à répondre de l’abus de cette liberté dans les cas déterminés par la loi. »  
+**Art. 10** : « Nul ne doit être inquiété pour ses opinions, même religieuses, pourvu que leur manifestation ne trouble pas l’ordre public établi par la loi. »
 
-on veut une demogratie poistive, capable de travailler, de se reproduire. C pas des lbiertés qu'on defend au niveau indiviudel.
+**1er Amendement (États-Unis)** : « Le Congrès ne fera aucune loi qui touche l’établissement d’une religion, ou qui en interdise le libre exercice ; ni qui restreigne la liberté de parole ou de la presse… » (pétition pour réparation des torts dont on se plaint).
 
-quand on et dans u elogique de protectionde liberté publqieu, on laisse le parlemetn fixer le regime, tjrs un rsique que parlemetn pempeite sur les droits fontamenfaux.
+**Examen :** si l’on donne art. 10 ou 11 DDHC, toujours ressortir le 1er Amendement.
 
-quelle force ça peut prendre un droit fonametnal bien rédigé ? sans habilitaiton du parlemet ou gouvenremetn ? 
-
-meme droti fondamental protégé en frace et en amerique. 
-art 11 de la DDHC de 1789 : la libre communicaiton des pensés et des opinions est l'und es droits le splsu préiceux de l'homme... sauf à repondreà l'abus de cette liberté dans les cas déterminé par l aloi. 
-
-art 10 "nul ne doti etre inquiété pour ses relogiese spourvu que ces manfiestaotn torubelnt pas ordre pub établispa r laooi".
-
-1er amendemant : "le congres ne fera aucune loi qui toiche l'éatlbisemetn ou interdise le libre exercice du'ne religeius eni qui restreinte la liberté de parole ou de la resse .. reparation de torts dont il se plaint".
-
-examen : si il donne arti 10 ou 11 DDHC, tjrs ressortir 1er amendeent.
-
-pa sle meme rapport à la liberté d'expression, liberté de religion.
+Pas le même rapport à la liberté d’expression et à la liberté de religion.
 
 ###### 2) Une expression procédurale à la richesse cachée
 
-les libertés publiques c pas efficae, pas la bonne expression. Ca renvoei à debat profd, la lace du parlemetn dans protection des droits ofndamentaux. 
+Les libertés publiques, ce n’est pas efficace, pas la bonne expression. Cela renvoie à un débat profond : la place du Parlement dans la protection des droits fondamentaux.
 
-expression c "les droits et liberéts que la constittion garantie". dans art 61-1 ecrit que poru faire QPC il faut soulever uen atteint eà droit ou libert que alconstitution garantie.
+L’expression est **« les droits et libertés que la Constitution garantit »**. Dans l’art. 61-1, il est écrit que pour faire une QPC, il faut soulever une atteinte à un droit ou une liberté que la Constitution garantit.
 
-este que cette expression permet de renvoyer à l'ensemble des droits fondamentaux ? 
+Est-ce que cette expression permet de renvoyer à l’ensemble des droits fondamentaux ?
 
-c une epxression purment procedurale, qui vient de artcle 61-1 constititoon,.
+C’est une expression purement procédurale, qui vient de l’art. 61-1 de la Constitution.
 
-auteurs disent que creation du bloc de constittionalité en 1971 que comme lepreambule rnevoie àc es textes ces textes otn uen valeur constitutionelel.
+Les auteurs disent que la création du **bloc de constitutionnalité** en 1971 (puisque le Préambule renvoie à ces textes, ceux-ci ont une valeur constitutionnelle) a été officialisée par cette procédure et cette expression. Avec l’art. 61-1 inséré en 2008, le pouvoir constituant, par la voie du Congrès, a constitutionnalisé le bloc de constitutionnalité.
 
-auteur disent qeu aec art 61-1 inséré en 2008, ke pouvoir constituatn (alorsq que revision par la voie du congres) quand on insere cette QPC on dit qu'on a cosntituinalisé le bloc de constituionalisé.
+Exemple :
+- « Nul ne peut être arbitrairement détenu » : seul droit fondamental explicitement prévu par la Constitution de 1948.
+- Puis : « Nul ne peut être condamné à la peine de mort ».
 
-car 3 textes auquelc onstituion renvoie. a  été fofcialisé par cette procédure et cette epression.
+Est-ce que cette expression permet de renvoyer uniquement à ces textes ? En réalité, derrière cette expression, ce sont les juges qui décident ce qui est invocable ou non.
 
-"nul ne peut etre arbitrairemen détenu" seul droit ofdndamental explicitemetn prev par la constoituon de 48. puis "nul ne peut etre condmné à la peine de mort".
+Si les juges ont une conception trop étroite de ce qu’est une liberté ou un droit protégé par la Constitution, alors gouvernement des juges. Mais si les juges ont une vision étendue de ce qu’est une liberté ou un droit protégé par la Constitution, on est correctement protégé.
 
-est-c que cette expresison permet de renvoyer unqiueletn à ces tetes ? e  n realtié derreire cette expression ce sont les juges qui decident ce qui et invocable ou non. 
+Excès : si on reconnaît trop de choses dedans, problème d’inflation des droits fondamentaux. Plus il y a de droits fondamentaux, plus il va falloir les concilier.
 
-si juges otn ocnception trop etroite d ce que liberté ou droit protégé par la constituon, alors gouvenmrenr tde sjuges. Mais si juges ont une vision etentdue de ceq ue est lib ou droit protégé par la constituton, one st correctemetn protégée. 
+Il existe une liste de jurisprudences illustrant le constructivisme des juges : derrière cette expression, ils ont pu mettre bien plus de choses que ce qui est écrit textuellement dans la DDHC, le Préambule et la Charte de l’environnement.
 
-exces : si on reconnait torp de choses dedands, probleme de infraltion des droitsfondamentaux. plus y'a de droits fondaemtajux plus il va fallori les concilier.
+Les juges ont dépassé l’expression « droits et libertés fondamentaux » en ouvrant de plus en plus ce qui peut être attaqué par le biais d’une QPC. On a donc retenu de nouveaux droits fondamentaux.
 
-liste des differentes jurisprencee qui illustrent le constrictivisme des juges, que derriere cette epression on a pouvoir mettre bcp plus de chose sque ce qui est exrit textuellmenetn dans DDHC prambule et charte environe,emtn. 
+**Exemple :** peut-on attaquer une jurisprudence constante ? Peut-on attaquer une jurisprudence qui porte atteinte à une liberté constitutionnelle ? Oui. Première fois : QPC du 6 octobre 2010, puis décision confirmée le 14 octobre 2010. La justice constitutionnelle impose aux autres juges une lecture des droits fondamentaux.
 
-les juges ont depasé expression droit et libertés ofndamentakes en ouvan de plsu en plsu ceq ui peuteêtre attaqué par le biais d'une QPC, qq part on a retenu de noveauux droits fondamenataux.
+La jurisprudence du Conseil constitutionnel prévaut. Car l’art. 62 de la Constitution prévoit que les décisions du Conseil constitutionnel s’imposent à tous les organes de la République, y compris la Cour de cassation et le Conseil d’État.
 
-exemple on peut pas attaquer uenjurisprudence constant e ? peut on attaquer jusiorudence qui porte atteinteà llbierté constituionel ? oui. remier foisq 'il l' afit c dans la QPC du 6 octobre 2010, et a confirmé sa déciison dans décision du 14 octobre 2010. La justice constittionelle eutimposer aux autres juges une lecture des droits fondalentaux. 
+Si les juges ordinaires rendent des décisions contraires aux droits fondamentaux, alors on peut les attaquer devant le Conseil constitutionnel. On a ouvert cette procédure.
 
-la jurusprdnce ud consiel cons prévaut. Car article 62 dela constituon, il est prévu que les déicisons du conseil cosnttutionel s'imposent à tous les organes de la rpéulique, y compris la cour de cassatione t le consiel d'état. 
+**Autre exemple :** on peut soulever devant le Conseil l’incompétence négative du législateur (décision 2010-5 QPC du 18 juin 2010 _SNC Kimberley Clark_). C’est une abstention du législateur. Ex. : pour protéger la liberté d’expression ou l’IVG, le législateur doit intervenir. S’il n’intervient pas, le juge constitutionnel peut le sanctionner pour incompétence négative.
 
-si le sjuges oridanres rendent deicison contraires aux DF, alors on peut les attaquer devant le conseil constitutoneL. On a ouvert cette preocudre.
+Notamment dans les droits environnementaux : souvent, incompétence négative. Le législateur ne sait pas comment mettre en œuvre, donc pas de loi sur le sujet. Beaucoup d’associations attaquent l’État en disant qu’il aurait dû prévoir une législation (Charte de l’environnement). Le Conseil constitutionnel condamne le législateur à agir.
 
-autre exemple : on petu soulever devant consiel incompétence négative du legislatuef. (décison 2010-5 QPC du 18 juin 2010 "SNC Kimberley Clark". C une abstention du legislateur. Ex on protege lib expression, ou IVG, le legilateur doit intervenir. si il intervient pas, le juge constitutionel petu le sanctionner contre cette incompetence négative.
+Est-ce que cette jurisprudence ne nourrit pas l’inflation législative ?
 
-Notamment dans les droit senvironneletna uxsouvent incompetence negative .Leglsialteur sait pas comment mettr een oevure donc pas de loi sur le sujet, bcp associaiton sattaquent eatt en disant que etat aurait du prevoi rlegislation car dans lac harte. Il condamne le legislatuer a agir. 
+Ouvrage de Favoreu, _Droit des libertés fondamentales_, p. 114-115 : toutes les décisions.
 
-est-ce que cette jursiprudence ne nourrit pas inflation législative? 
+Il y a des décisions où le Conseil constitutionnel accepte d’interpréter certaines dispositions de la DDHC comme consacrant des droits fondamentaux qui ne sont pourtant pas clairement écrits.
 
-ouvrage de favoreu droit des libertés fodnamentales pages 114 et 115 toutes les déciisons.
+Mauvais point : le juge, par ses interprétations, ne crée-t-il pas des droits fondamentaux ? Ce n’est pas au juge de créer des droits fondamentaux, mais de les faire respecter. Sinon, ce serait un abus de pouvoir d’un autre organe constitué : le juge.
 
-y'a des deciiosn ou consiel cons accepte interpreter certaiens dispositons de la DDHC comme consacrant des droits fondamentaux qui pourtant ne sont pas cairemetn ecrit. mauvais point: le juge par se sinterpertaions ne créent pas des drois fondamentaux ? c pas au juge de créer les droits ofndamntua masi de el faire especter. SInon ce seriat un abus de pouvoir d'un autre organe constitué, le juge.
+Exemples :
+- Reconnaissance des droits de la défense (à part la sûreté, rien n’était écrit sur les droits de la défense). Décisions 2010-15-23 du 23 juillet 2010 et 2010-77 QPC du 10 décembre 2010.
+- Contrôle du droit à un recours effectif : décision 2010-73 QPC.
+- Respect de la vie privée : décision 2010-25 QPC du 5 septembre 2010.
+- Liberté d’aider autrui : le Conseil a fait découler de la devise de la République (art. 2 de la Constitution : Liberté, Égalité, Fraternité) le principe de fraternité, pour fonder la liberté d’aider autrui dans un but humanitaire sans considération du titre de séjour de la personne.
 
-il reconnait les droits de la défense (appart la sûreté y'a rien sur les droits de la defense).  2 deciisons 2010-15-23 du 23 juillet 2010 et 2010-77 QPC 10 decembre 2010.
+Mais ce n’est pas le rôle du Conseil constitutionnel d’inventer des droits fondamentaux. Le juge constitutionnel est un pouvoir constitué. S’il reconnaît de plus en plus de droits fondamentaux, il faut les concilier avec ceux qui existent déjà.
 
-il a égalemen accepté de contorler le droit à un recours effectif 2010-73-QPC, aussi respect de la vie privée 2010-25-QPC du 5 septembre 2010. 
+Les droits fondamentaux sont là pour protéger contre le pouvoir constitué. Donc, si c’est un pouvoir constitué qui crée un droit fondamental, il faut aussi s’en protéger, au risque d’être face à un « prince éclairé ».
 
-# X
+Exemple : si le Conseil constitutionnel reconnaît un principe national donnant aux autorités le droit de prélever de l’argent, c’est une violation de la liberté de propriété mais aussi une règle à valeur constitutionnelle.
 
-Qui peut profiter des droits fondamentaux ?
+Le pouvoir constituant devrait pouvoir contrôler la norme pour protéger et contrôler l’action de nos élus mais aussi de nos juges. Si, à un moment donné, le Conseil constitutionnel va trop loin, il n’existe pas de procédure pour revenir en arrière.
 
-Ce qui explique la mention du citoyen. Il faut rajouter une nouvelle conception, un lien avec l'Etat, les droits fondamentaux n'existent pas sinon, il n'y a pas de vrai droit naturel. L'Etat protège les droits fondamentaux qu'il reconnaît.
+##### B) Des approches globales des droit et libertés fondamentale
 
-Tous les pays n'ont pas les mêmes rapports aux droits fondamentaux et à ce que dois être la liberté. Les constitutions italiennes et espagnoles, ne parle pas de « droit de l'homme » mais de «devoir du citoyen ». Dans la constitution du Mali, il y a un chapitre intitulé des droits et des devoirs, on y retrouve l'expression « tous les citoyens », on retrouve la vision universaliste. Au Vietnam, on ne renvoie qu'a la notion du citoyen.
+La notion de **droit de l’homme** est la plus ancienne ; c’est l’une des expressions que l’on retrouve le plus fréquemment et de la manière la plus ancienne dans les textes de référence. On trouve le droit des personnes dans plusieurs corpus. Dans la _Magna Carta_ ou la _Petition of Right_, on le retrouve également. Tous les hommes sont dotés de droits inaliénables : la **DDHC**, dans son article 2, l’affirme, et dans le préambule de 1946 on parle de « tout homme », « être humain ».
 
-=> Renvoie à la vision universaliste
+**Qui peut profiter des droits fondamentaux ?**
 
-Il faut faire attention de savoir qui est désigné par les droits fondamentaux, savoir également si ce droit est limité à la communauté national, cela veut dire qu'il peut être évoqué par des non nationaux ( des étrangers peuvent y bénéficier ).
+Cela explique la mention du citoyen. Il faut ajouter une nouvelle conception : un lien avec l’État. Les droits fondamentaux n’existent pas sans l’État, il n’y a pas de véritable droit naturel. C’est l’État qui protège les droits fondamentaux qu’il reconnaît.
 
-il est également dans leur interet que les étrangers beneficient de certains droits fondamentaux quand on aune economie ouverte sur le monde. 
+Tous les pays n’ont pas les mêmes rapports aux droits fondamentaux ni à ce que doit être la liberté. Les constitutions italienne et espagnole ne parlent pas de « droits de l’homme » mais de « devoirs du citoyen ». Dans la Constitution du Mali, il existe un chapitre intitulé « des droits et des devoirs », où l’on retrouve l’expression « tous les citoyens », ce qui traduit une vision universaliste. Au Vietnam, on ne renvoie qu’à la notion de citoyen.
 
-pour qu'un pays s'ouvre au monde faut reconnaitre des droits fondamentaux aux étrangers.
+**→ Cela renvoie à la vision universaliste.**
 
-expression droits de homme et di cotyne renseigne pas sur le caractère fodnametnal d'un droit. C arbitraire. Ca ne renvoei pa à la protection concrete, uniquemetn au beneficiaire. 
+Il faut donc se demander qui est désigné par les droits fondamentaux, et s’il s’agit d’un droit limité à la communauté nationale. Cela signifie qu’il peut être invoqué par des non-nationaux : des étrangers peuvent en bénéficier.
 
-#### Expression "Droitsd et libertés fondamentales"
+Il est d’ailleurs dans l’intérêt d’un État que les étrangers bénéficient de certains droits fondamentaux, surtout dans une économie ouverte sur le monde. Pour qu’un pays s’ouvre au monde, il faut reconnaître des droits fondamentaux aux étrangers.
 
-c'est l'expression la plus large, la plus englobante, renvoie à toutes les thematiques, phisolophiques.
+L’expression « droits de l’homme » ou « droits du citoyen » ne renseigne pas sur le caractère fondamental d’un droit. C’est arbitraire. Cela ne renvoie pas à la protection concrète mais uniquement au bénéficiaire.
 
-souvent, le probleme de cette expression devient en rélaité l'étude du régime des droits. 
+C’est néanmoins l’expression la plus large, la plus englobante, qui renvoie à toutes les thématiques philosophiques.
 
-dans des ouvrages on retrouve unqiemet, l'étude du regime qui va encadrer l'exercice complet d'une liberté.
+Souvent, le problème de cette expression devient en réalité l’étude du **régime des droits**. Dans de nombreux ouvrages, on ne retrouve que l’étude du régime qui encadre l’exercice complet d’une liberté.
 
-est-c euqu'ne liberté existe sans réuglaiton ? 
+**Une liberté existe-t-elle sans régulation ?**
 
-pk on parle de derotis et lbiertés onfdamentales ? on a en france et europe une conception principièle des droits et lbiertés fondametnales.
+Pourquoi parle-t-on de droits et libertés fondamentaux ? En France et en Europe, on a une conception **principielle** des droits et libertés fondamentaux.
 
-tous nso droits fondamentauxs otn la plupart du temps rédigés comme de grands principes immuables. 
+La plupart de nos droits fondamentaux sont rédigés comme de grands principes immuables.
 
-y'a un pb dans la redaction des dorits fondamentaux : qand on fait redaction generale et absolue on redige des principes, et les principes souffrent d'une incapacité à s'appliquer directemetn. 
+Mais il existe un problème dans la rédaction de ces droits fondamentaux : lorsqu’ils sont formulés de manière générale et absolue, on se limite à des principes, lesquels souffrent d’une incapacité à s’appliquer directement.
 
-art 2 DDHC 1789 consacre la droit à la sûreté, masi ça veut dire quoi? 
+- **Exemple :** l’article 2 de la DDHC de 1789 consacre le droit à la sûreté, mais que signifie-t-il concrètement ?
+    
+- On pourrait prévoir dans la Constitution des règles plus précises.
+    
+- L’article 17 sur le droit de propriété est plus concret : on ne peut confisquer un bien qu’après des procédures régulières. Idem pour la **présomption d’innocence**.
+    
 
-on pourrait prévoir dans la constitution des règles beaucoup plus précises. 
+Un certain nombre de droits fondamentaux demeurent imprécis à cause de notre tradition **légaliste, légicentriste**.
 
-art 17 du droti de la prorpiété, on ne petu confisquer mon droit de propriété apres des procédures.  C un peu plus précis. Idem pour la présomption d'innoence.
+L’idéal serait que ce droit, attaché à la liberté, soit constitutionnellement garanti. Il faudrait cesser de n’inscrire dans la Constitution que des principes abstraits, mais y intégrer des règles juridiques précises qui auraient un rang constitutionnel.
 
-un certain nombre de drotis fondamentaux restent imprecis à caus ede notre tradition légaliste, légicentriste. 
+- Exemple : l’article 49 alinéa 3 est très précis.
 
-l'ideal c que ce droit attaché à la liberté soit consitutinellement garantie, faut arreter de mettre des principes dasn lac onstituton mais des regles juridques précises qui ont un rang constitutionnel.
+**Pourquoi continue-t-on à avoir autant de droits fondamentaux principiels ?**  
+Parce que les principes n’entrent pas directement en conflit. Ils ne donnent pas de réponses concrètes lors d’un contentieux, mais leur rédaction sous forme de principes permet une **conciliation** : au lieu de les confronter, on cherche comment assurer le respect maximal des deux libertés concernées.
 
-ex art 49 al 3 c très précis.
+Cela fonctionne quand on a peu de droits fondamentaux. Mais plus on en reconnaît, plus les conciliations deviennent nombreuses
+- Exemple : la sécurité sociale implique une atteinte au droit de propriété, car il faut prélever l’impôt pour la financer.
+- Autre exemple : les principes de la Charte de l’environnement influencent le droit de propriété, la liberté du commerce et de l’industrie.
 
-pk on continue à avoir autant ed drotis fodamentaux principiels ? les principes n'entrent pas dans des rapports de conflits (pas de reponse concrete clors contneteiux, pas applicaiton automatique) mais les libertés enopncnent des princies qui a partir du moment où sont reunis dans norme constitutionelle on peut pas les hierarchiser. Il n'existe pas une hierarchie interne des droits fondamentaux. Tous les DF sont placés cote à cote dans la norme constituitonelle, et leurs rédactiosn sous forme de principe permet une conciliation, càd au lieu de les confronter on peut voir ocmment elle permet le respect maximale des deux libertés auxuqelqs elles s'appliquent.
+Certains auteurs estiment qu’il faudrait hiérarchiser les droits fondamentaux. Mais si l’on place tous ces droits au même niveau constitutionnel, on ne peut exiger qu’une norme soit inférieure à une autre. On pourrait envisager une classification : première génération de droits dans la Constitution, deuxième génération dans la loi, troisième dans le règlement.
 
-ça fonctionne quand on a que quelques droits fondamentaux. Plus on met des droits fondamentaux, plus va y aovir un tres grand nombre de conciliations necessaires. Ex la sécuirté sociale c une atteinte au droit de la propriété : faut ponctionner de l'impot pour permettre de la sécurité sociaoe. 
+À titre de comparaison, le 1er amendement de la Constitution américaine consacre une garantie procédurale facile à interpréter : **« Le Congrès ne fera aucune loi sur… »**. Ici, le pouvoir législatif n’intervient pas dans certains domaines, ce qui protège directement la liberté. Il n’est même pas nécessaire de préciser le contenu du droit fondamental : la loi est exclue du champ concerné.
 
-si on multiplie les drotis fondamentaux qui otn des effets sur le droit de prorpéité, on multiplie les conciliaitons. Ex principes charte environnment ont une incidence sur droti de proprité, liberté commerce et industrie.
-
-certaisn auteurs s'affrontnet en disant qui'l faudrait hiérachiser les droits fondamentaux, mais si on met tout ua niveau consittutonel on petu pas demander à ce qu'une norme soit infeiruer à autre, on pourrait mettre 1ere gen dans constituiton, 2eme dans legsiltaiton, 3eme dans reglemetn.
-
-le 1er amendement de lac onstituiton ameriicane consacre uen garantie procedurale pas très diffiicle à interpreter : "le congrès ne fera aucune loi sur...". Le pouvoir legislatif ne petu pas intervenir dans ces domaines. pas besoin de preciser le droit fondamental car la loi n'intervient pas. 
-
-#### Paragraphe 2 : La définition fonctionelle des droits fondamentaux
+#### Paragraphe 2 : La définition fonctionnelle des droits et libertés fondamentaux
 
 **Favoreu** avait un critère purement hiérarchique des normes : il disait qu’un droit était fondamental car situé tout en haut.
 
@@ -468,571 +475,858 @@ En réalité, l’accusation de « populisme » ou « d’illibéralisme » vise
 
 La justice constitutionnelle est indispensable pour protéger les **droits fondamentaux**, mais elle comporte des risques, notamment celui du **gouvernement des juges**. Ces risques doivent être encadrés. Or, ce n’est pas aux pouvoirs exécutif et législatif de le faire : **seul le peuple, en tant que pouvoir constituant, peut définir les limites du juge constitutionnel**.
 
-###### 2) La valeur constitutionelle renforcée
+###### 2) La valeur constitutionnelle renforcée
 
-la supraconstituionalité : plusiers articles de consittuion sotn reputés sont suscpetibles de la reviser. 
+La **supraconstitutionnalité** : plusieurs articles de la Constitution sont réputés insusceptibles de révision.
 
-art 89 constition française "la forme républicaine du gouvenrement ne peut faire l'objet d'une réviison". C une clause de supra constitutionnalité.
+**Article 89 de la Constitution française** : _« La forme républicaine du gouvernement ne peut faire l’objet d’une révision. »_  
+C’est une clause de supraconstitutionnalité.
 
-la loi fondamentale allemande de 1949, art 79al 3 "il est interdit toute modification qui toucherait à l'organisation fédérale de l'allemagne".
+Dans la **Loi fondamentale allemande de 1949**, l’article 79 alinéa 3 dispose qu’« il est interdit toute modification qui toucherait à l’organisation fédérale de l’Allemagne ».  
+Les articles 1 et 20 de la Loi fondamentale interdisent également toute révision relative à la démocratie et à la dignité humaine.
 
-art 11 et 20 allemagne interidition de reviser sur la democratie et la dignité humaine. 
+Un juge constitutionnel qui contrôle un texte qui lui est supérieur est cependant dans une position délicate : c’est le problème de l’effet des clauses de supraconstitutionnalité. Si c’est au juge constitutionnel de les faire respecter, on lui confère un pouvoir excessif.
 
-un juge consittutionek qui controle un texte qui lui est superieru c un peu mal venu. C le probeme de l'effet des clauses de supra constitutionalité. Si c au juge cosntititonel de les fiare respecter, on lui donne un pouvoir excessif. 
+L’autre débat est celui de la **théorie de la double révision de Georges Vedel**, selon laquelle l’article 89 de la Constitution française n’est qu’un obstacle procédural. Une clause de supraconstitutionnalité doit d’abord être supprimée (première révision de la Constitution), puis une deuxième révision pourra prévoir ce que la clause interdisait.
 
-l'autre débat c la théroei de al double révision de Georges Vedel qui explqieu que article 89 de la cosn française c juste un obstacle procédurale. Une clause de supra constitutionalité il faut d'abord la supprimer (1ere révision de la cosntituiton), et ensuite on fait une deuxieme reivison del ocnsitrtution qui prévoti ce que à empecher la clause.
+Il existe malgré tout une protection, car cela oblige à réviser la Constitution deux fois : soit deux référendums, soit deux fois la majorité renforcée des 3/5 du Congrès. C’est une garantie supplémentaire, mais cela présente un risque : celui d’une Constitution trop rigide, qui nécessiterait alors d’être remplacée plutôt que simplement révisée.
 
-Y'a quand memeun eprotection ar obligre à reviser al constition 2 fois, donc soit 2 referundum, soit 2 fois la majroité renforcée des 3/5 du congres, c une garnatie supplémentaire, masi y'a un risque. Le rsique est que la constitiotn deviennet trop rigide, il faudrait donc changer de consttuion, pas juste la réviser.
+En **Espagne**, l’article 53 prévoit que « les principes directeurs de la politique sociale et économique » appartiennent à une deuxième génération de droits fondamentaux. Ces droits sont inférieurs aux droits de première génération. Le texte dit qu’ils _« inspireront »_ le législateur, ce qui montre qu’ils sont des directives adressées au Parlement, mais pas aussi contraignantes que les droits fondamentaux de première génération.  
+On considère donc qu’il existe une **hiérarchie interne aux droits fondamentaux espagnols** :
 
-Espagen article 53 : "les pricnieps directeurs de la politique sociael et économqieu"...
+- Les droits-libertés de première génération sont directement invocables et donc plus puissants.
+    
+- Les droits-créances leur sont inférieurs.
+    
+- Les droits liés à l’environnement sont encore d’un niveau inférieur.
+    
 
-leur deuxieme generation de droti fondamentaux aevc et article sont inferieur au droit de premier egeneration. Le terme c "inspirreont", c des directives données au paremetn, mais pa suassi puissant que les DF de premeire génération. On dit qu'elle crée queqleu aprt une hiarrchie au seind es DF espagnols, les DF de premeirere generaiton seriant potentioelement plus fort ou plu sinteressant pour le citoyen car invocable directmetn. 
+Mais si l’on veut établir une hiérarchie, pourquoi ne pas reprendre celle des normes ?
 
-les droits libertés serianet superieurs au droits créances, et eux seront superieur au droit de l'environnement. Mais si onv eut prévoir une hierarchie, pk ne pas utiliser la hierracie des norems ? Drotis de 1ere genrationd ans cosntituton, 2eme generaiton dans legislatiton, 3eme dans reglemetn.
+- Droits de première génération dans la Constitution.
+    
+- Droits de deuxième génération dans la législation.
+    
+- Droits de troisième génération dans le règlement.
+    
 
-Mais ça depend contre qui on veut proteger les droits. Cons c le peupelk qui agit, loi c le parlement, reglemetn c gouv qui agit. 
+Tout dépend en réalité **contre qui l’on cherche à protéger les droits** :
 
-Meme si hierarchie interen dans constition, elle s'imposerait à la loi, et au relgemetn. Donc qunad meme un itneret a mettre ces DF dans la constitution, et à prévoir des ordres de primauté. 
+- La Constitution protège contre le peuple (qui agit via référendum).
+    
+- La loi protège contre le Parlement.
+    
+- Le règlement protège contre le gouvernement.
+    
 
-Meme au sein de la DDHC, tous les DLF n'ont pas le meme poids. Pas volonté des revoltuionnaire. 
+Ainsi, même si une hiérarchie interne existait dans la Constitution, elle s’imposerait à la loi et au règlement. Il y a donc un intérêt à prévoir une protection constitutionnelle et à organiser des ordres de primauté.
 
-a article 2 sur la prorpéité, sureté, resistence à l'opression, et la liberté. On peut dire que ce sotn des DLF, sauf que expression c que ce sont des '"droits naturels et impresicritbes" càd qu'ils s'appliquerotn de tout an, pas de limite temporelle à son applicaiton . Examen : est-ce que les autres DF sont imprescriptibles ? Ceux là aucun moment où on petu pas s'en prévaloir.
+Même au sein de la **DDHC**, tous les droits et libertés fondamentaux n’ont pas le même poids. Cela ne résulte pas nécessairement de la volonté des révolutionnaires, mais de la rédaction des articles.
 
-en periode de crise, les droits naturels et imprescritibles osnt préservés. C uen expression redactionel qui permettrai à un jgue de dire oui on est en état d'urgence, en etat de guerre, masi ces droits sont naturels et imprescirtpbiels. On ne pourrait pas meme en temps de guerre mettre ces droits entre parenthèse.
+L’**article 2** proclame la propriété, la sûreté, la résistance à l’oppression et la liberté comme _« droits naturels et imprescriptibles »_. Cela signifie qu’ils s’appliquent en tout temps, sans limite de durée. À l’examen, on peut se demander si tous les autres droits fondamentaux bénéficient de cette imprescriptibilité. La réponse est non : seuls ces droits peuvent être invoqués sans limite temporelle.
 
-art 11 consttiton, on parle de liberté d'expression comme el droit le plus précisuex de l'homme, mais pas inprescriptible, pas naturel. On petu joue rusr le contenu redactionel pour envisager une hierarchie.
+En période de crise, ces droits naturels et imprescriptibles doivent être préservés. Cette rédaction permet à un juge de considérer qu’en état d’urgence ou de guerre, ces droits ne peuvent être suspendus.
 
-Le droit de proppriété a son propre régime : "juste indemnisation enc as de necessité publqiue" c une rédaciton précis eet efficae. EN plus de article 2, art 17 dit que c un droit inviolable et sacré.
+L’**article 11 de la Constitution** évoque la liberté d’expression comme _« le droit le plus précieux de l’homme »_, mais il ne la qualifie ni d’imprescriptible ni de naturelle. On peut donc utiliser la rédaction pour envisager une hiérarchie implicite.
 
-Le droit au sommet dans la DDHC serait le droit de prorpiété, car imrpescritpinel naturel, inviolable, sacré, et en plus il a une procedure efficace d emise en oeuvre directe. La loi va venir préciser commetn on constnate la necessité publqie, masi lac onstitiotnimpose ce constat de la necessité publique.
+Le **droit de propriété** bénéficie d’un régime particulier : _« nul ne peut en être privé si ce n’est pour cause de nécessité publique, et sous la condition d’une juste et préalable indemnisation »_.  
+En plus de l’article 2, l’**article 17** affirme qu’il s’agit d’un droit _« inviolable et sacré »_.
 
-Doyen vedel : pas d'interet à hierarchiser les droits ofndamentaux, parce que tout dépend des faits. Dans la résoltuion d'un contnetieux spécifique ca pourrait poser probleme. TOut vient des faits, et tout vient des paricularitéz d ela sitation, le fait qu'on appliqu e+ de DF, et moins un autre. Le consiel constoitutionel va faire du consequentialisme, on concilie les DF en fonction des csq recherchés, qui est la maximisation des droits fondamentaux. SI on fait systematiqeumetn primer un DF sur les autres, est-ce qu'on petu dire que c un droit vriametn fondamental? 
+Ainsi, on peut considérer que le droit de propriété est au sommet de la DDHC :
+- Il est **naturel et imprescriptible** (article 2).
+- Il est **inviolable et sacré** (article 17).
+- Il dispose d’un mécanisme d’application directe et efficace.
 
-###### 3) La maitrise de la norme constitutionelle par le corps électoral souverian : l'effectivité de las éparation constottonelle des pouvoirs
+La loi précise seulement les modalités de constatation de la nécessité publique, mais la Constitution impose le principe.
 
-Un droit fondamenta c le droit protégé par le pouvoir constitué et par le pouvoir constiutant. Le pouvori constituant c le peuple et pouvoir constitué c l'ensembe des autres organes.
+Cependant, selon le **Doyen Vedel**, il n’y a pas d’intérêt à hiérarchiser les droits fondamentaux, car tout dépend des faits. Dans le contentieux, chaque situation est particulière, et le juge constitutionnel pratique une **conciliation pragmatique**. Il applique les droits en fonction des conséquences recherchées, c’est-à-dire la maximisation de la protection des droits fondamentaux.
 
-Il faut que la volotné du souverain puisse prévaloir sur tous ces organes constitués. On agit sur la procédure de modifcation. 
+Si l’on faisait systématiquement primer un droit sur les autres, pourrait-on encore parler de **droit fondamental** ?
 
-art 89 est article unique qui concenre la procédure de réfvision de la constitution, 2 procédures otpionnelles : soit la voei du congrès, soit un débat parlemetnaire pui sreferundum.
+###### 3) La maîtrise de la norme constitutionnelle par le corps électoral souverain : l’effectivité de la séparation constitutionnelle du pouvoir
 
-Imprimer tableua révision de la constitution. 
+Un **droit fondamental** est le droit protégé par le pouvoir constitué et par le pouvoir constituant. Le **pouvoir constituant**, c’est le peuple, et le **pouvoir constitué**, c’est l’ensemble des autres organes.
 
-De gaulle a utilisé l'article 11, mais critiqué par doctrne car jugé illégal. Depuis tous les president ont utilisés l'aritcle 89.
+Il faut que la volonté du souverain puisse prévaloir sur tous ces organes constitués. On agit par la procédure de modification.
 
-passage du septennat au qinquenat sous chirac. Avec de gaulle 62 et chirac quinquennat, c les deux fois où le peuple a été consulté, ça touchait que au mandat présidentiel, pas au DLF.
+**Article 89** : c’est l’article unique qui concerne la procédure de révision de la Constitution. Deux procédures optionnelles : soit la voie du Congrès, soit un débat parlementaire puis référendum.
 
-art 34 sur IVG fausse liberté car envoei à une liberté publique.
+(→ _Imprimer tableau révision de la Constitution_)
 
-sur 25 révisions y'en a 2 au total qui ont été utilisés par referndm. 
+De Gaulle a utilisé l’article 11, mais critiqué par la doctrine car jugé illégal. Depuis, tous les présidents ont utilisé l’article 89.
 
-on pourrait soit combiner congres et referundum, ou alors on supprime la voie du congrès. On prévoit que a l'issu du travail aprlementaire pause la questiona u peuple d'un referundum, on a réslu un eparite du probleme : le spouvoris constitués lorsqu'uls discutent entre eux (ex censure du conseil cons) il pourrait avoir une procedure respecteuuse de cette sépration, càd qu'il aut poser la uqestion au peupel. 
+Exemple : passage du septennat au quinquennat sous Chirac. Avec De Gaulle en 1962 et Chirac pour le quinquennat, ce sont les deux seules fois où le peuple a été consulté ; cela ne concernait que le mandat présidentiel, pas les droits et libertés fondamentaux.
 
-en revanche, l'idéal, c si le peupel par d'accord avec jurisprudence, avec un eloi, il n' apas une capacité d'action, peut juste renvoyer corurier aux élus.
+**Article 34 sur l’IVG** : fausse liberté car renvoie à une liberté publique.
 
-Le susisses otn rajouté une ature preoceudre qui permet au peupe de modifier la constittion, y'a plsu de question des pouvoirs constitués aux pouvoirs constiutat, mais action directe des pouvoirs constiatn sur la constitution.
+Sur 25 révisions, seules 2 ont été adoptées par référendum.
 
-RIC :
-- 1ere étape c la petition. On se dit qu ey'a un pb, faudrait proposer une solution. Pour creer un filtre, les suisses font une petition, faut provuer au corps electoral dans osn ensemble que la question interesse un minimum le corps electoral. Y'a un seuil de signature de 150 000. 
-- 2eme étape : les élus réagissent directement et proposent un contre projet. Soit le parlement propose une loi qui met fien à l'intiaitve si la loi règle le probleme. Si ils obtiennet satisfaction, on peut retirer le projet, masi pas obligé. Malgrès la loi , le projet petu continuer.  Si toute les signatures, le corps electoral est convoqué, disent oui initiative dervient revision cosntitution, sinon rejette le projet.
-- 3eme étape le vote : peupel suisse petu dire oui ou non à inititave, et aussi oui ou non au contre projet au cours du vote
+On pourrait soit combiner Congrès et référendum, soit supprimer la voie du Congrès. On pourrait prévoir qu’à l’issue du travail parlementaire, la question soit posée au peuple par référendum : on résout alors une partie du problème, puisque les pouvoirs constitués discutent entre eux (ex. censure du Conseil constitutionnel), mais une procédure respectueuse de la séparation exigerait que la question soit posée au peuple.
 
-En suisse ca marche bien, on peut limite rehausser le seuil. Ils revisnet leru constituon à la majorité simple, pose plusiuers problemes : si on rétablis peine de mort, le corps electoral ne se déplace pas. Sur ces 10% y'a 50% qui veulent la reblit, alors 5% du corps elecotalr disne toui procedure considérée comme validée. Pb car petu ammener iniaitives qui sont apportées par des minorités.
+En revanche, l’idéal : si le peuple n’est pas d’accord avec la jurisprudence ou avec une loi, il n’a pas de capacité d’action directe, seulement celle d’écrire à ses élus.
 
-dans d'autres pays, on ajoute des conditiosn de faute pour éviter que procedure soit instrumentalisée par un eminoirté, on prévoit un quorum. Ce quorum veut dire procedre valdie que si au moins iun certain seuild e population est allé voter. On pourrait prévoir seuil plus haut, masi regidifie la procedure, moins efficace masi plus légiitme.
+**Exemple suisse** : ils ont ajouté une autre procédure qui permet au peuple de modifier la Constitution. Ici, il n’y a plus seulement une question de rapports entre pouvoirs constitués et pouvoir constituant, mais une **action directe** du pouvoir constituant sur la Constitution.
 
-les italiens et les suissent ont pas repondu sur le type de majorité : on petu voter à majorité relative (plus grand nombre qui gagne), majorité absolue (generalement ref à majorité absolue), mais on envisage jamais c ce quon prevoit pour institution c la majorité qualifiée : ex ce DF est bcp plus important un met une majorité qualifiée, on met 2/3 ou 3/5 pour changer la disposition.
+**RIC en Suisse** :
 
-on pourrait mettre une majroité variable : premiere fois qu'on vote pour ce DF, il l'approve à 62% des voies par exemple aboltion peine de mort voté à 62,5% des vies, uen constituon pourrait prévoir que pour abolir une disposition, et resaturer la peine de mort, on exige la meme majorité de 62,5%.
+- **1ère étape : la pétition.** On signale un problème et propose une solution. Pour créer un filtre, les Suisses imposent une pétition : il faut prouver au corps électoral que la question l’intéresse réellement. Seuil : 150 000 signatures.
+    
+- **2ème étape : réaction des élus.** Ils peuvent proposer un contre-projet. Soit le Parlement adopte une loi qui règle le problème et l’initiative peut être retirée, mais ce n’est pas obligatoire. Même en cas de loi, l’initiative peut continuer. Si le seuil de signatures est atteint, le corps électoral est convoqué : il peut accepter (l’initiative devient révision constitutionnelle) ou rejeter.
+    
+- **3ème étape : le vote.** Le peuple suisse peut voter oui ou non à l’initiative, et aussi oui ou non au contre-projet.
+    
 
-droit d epropriété tt le monde d'acord à 80%, si on veut enlever on revote à 80%. car 2/3, 3/5 c arbitraire. Le seuil varaible pemret au peuple de fixer lui meme la rigidité d'un droit. (voir si ça existe ailleurs, on peut en parler à l'oral, donner avis car c idée du prof).
+En Suisse, cela fonctionne bien, mais on pourrait relever le seuil. Leur Constitution peut être révisée à la majorité simple, ce qui pose plusieurs problèmes : par exemple, si on proposait de rétablir la peine de mort, et que seuls 10 % du corps électoral se déplaçaient, avec 50 % favorables, alors 5 % de l’électorat suffiraient pour valider une réforme. Risque : des minorités imposent des initiatives.
 
-interet procédure peupel controle directmenet ce qu'il met dans la constitution. autre interet on est pas obligé de 'arreter à échec d'une procédure, on petu tenter de convriancre tt le temps le corps electoral. 
+Dans d’autres pays, on ajoute des conditions pour éviter l’instrumentalisation par une minorité, en prévoyant un **quorum** (procédure validée seulement si un certain seuil de participation est atteint). C’est plus légitime mais rigidifie la procédure.
 
-On veut retablir peine de mort on fait une initiative, si peuple dit non, on peu repose rla question voir si peuple a changé d'avis. 
+En Italie et en Suisse, on ne précise pas le type de majorité :
 
-article 11 de la cosntition française (arnaque au peuple) : référundum initiatve partagée, elle n'a jamais aboutie pour plusiuers raisons :
-- seuil de 10% du corps electoral , càd 6 milliosn de signature en 1 an. La procedure est déjà neutralisée d'un poitn de vue pratique. 
-- La procédure sert à rien, car elle prévoit pas de contre projet. "le parlemetn délibere sur la question", si il delibere pas on pose la question au peuple.
+- majorité relative (le plus grand nombre l’emporte),
+    
+- majorité absolue (référence la plus fréquente),
+    
+- mais jamais majorité qualifiée, qui pourrait être envisagée : par exemple, pour un DF particulièrement important, on pourrait exiger 2/3 ou 3/5 des voix.
+    
 
-distinciton : en suisse c pour modif la constitutionn, en france unqiiemetn pour modifier les lois. C meme pas un RIC. 
+On pourrait aussi prévoir une **majorité variable** : si un droit est adopté à 62 % (ex. abolition de la peine de mort en Suisse : 62,5 %), on exigerait la même majorité pour le supprimer et le rétablir. Ainsi, la rigidité d’un droit serait fixée par le peuple lui-même.
 
-art 89 est insuffisant; articel 11 est uen arnaque. 
+**Intérêt de la procédure** : le peuple contrôle directement ce qu’il met dans la Constitution. Et même en cas d’échec, la question peut toujours être reposée, ce qui maintient un contrôle permanent.
 
-d'autres pays ont trouvé autre proceudre, pas referndum masi un controle poulaire. En belgiqeu et en espagen (espagne articel 168 de la constitution) : le parlement vote un projet a une pmajorité qualifiée (2/3 pour les cortes espagnols), alors pas de modification. En espagne si le proejt est adoptée c aps alr evision mais la dissolution des chambres, pour créer une campagne electroale autoru de ce projet de revision. Les chambres doivent etre rééulus imediatement, le sujet de la campagne va etre aussi les pouvoris de la constituton en plus de la pouvori de la hcambre. Les electeurs peuvent quand meme se prononcer car y'a reelection. 
+**France – article 11** : référendum d’initiative partagée (RIP), mais jugé inefficace.
 
-donc une fois que cette reelection a eu lieu, le parlement vote le projet à la majorité des 2/3. Y'a donc ici une consultation du peuple. Pas un referundum obligatoire, masi une approbation electorale obligatoire, automatique. 
+- Seuil : 10 % du corps électoral (6 millions de signatures en un an), pratiquement impossible.
+    
+- Pas de contre-projet prévu : « le Parlement délibère », mais s’il ne délibère pas, on pose la question au peuple.
+    
 
-il faut contorler ces droits pour pouvoir en beneficier. les beneficiare sdu droti fondamentaix controle l'état des droits fodnamentaux. 
+Différence : en Suisse, c’est pour modifier la Constitution ; en France, uniquement pour modifier les lois. Ce n’est donc même pas un vrai RIC.
 
-###### 4) La résistance à l'opression
+**Conclusion** :
 
-la consecration d'un droit de resistance à l'opression c le resultat, c l'échos, la consequence de la theorie d utyrannicide. 
+- Article 89 est insuffisant.
+    
+- Article 11 est une « arnaque ».
+    
 
-c une conception où potentiellement titulaires peuvnet pas maitriser la norme, l'autorité qui votent al norem. Theorie tyarnicide ona interet à nous qui maitrisons cette norme à servir l'itneret general, sinon si on abuse de notre pouvoir le droit qui figure à article 2 DDHC "droit naturel et imprescirptible de l'homee tà l'opression" jursitifera que l'on resuste, qu'on se confronte, voir qu'on fasse uen revoltuion. c un droit de resistance armée, facutele à la violation des DF (lien perosnnel :  2eme amendement USA).
+**Autres procédures** :
 
-en franc etheorei des baillonettes intelligentes, c le fait qu'iun fonctionnaire, agent publci peut refuser d'executer un ordre manfiestement illégal, consacré jurisrpudenceitelmenet arret CE 10 novembre 1944 Langneur , repris par une lo i de 1983, précisé qu'un fonctionnair eest libéraé de son devoir d'obeissance hiérarchiqeu lorsqu'il est cofnronté à un ordre manifestement illégal. 
+- **Belgique et Espagne (art. 168 Constitution espagnole)** : le Parlement doit voter un projet à majorité qualifiée (2/3). Mais en Espagne, si le projet est adopté, ce n’est pas directement une révision : c’est la dissolution des Chambres. On provoque une nouvelle campagne électorale centrée sur ce projet. Les électeurs peuvent ainsi se prononcer indirectement, puisqu’ils réélisent des représentants sur ce thème. Après réélection, le Parlement vote à nouveau à la majorité des 2/3.  
+    → Ce n’est pas un référendum obligatoire, mais une **approbation électorale obligatoire et automatique**.
+    
 
-statut ud lanceur d'alerte : est ce que ça rejoitn pas la theroei de la resistance à l'opression ? 
+**Idée générale** : pour bénéficier des droits fondamentaux, il faut pouvoir contrôler la procédure qui les protège. Les bénéficiaires des droits fondamentaux doivent donc pouvoir contrôler l’état de ces droits.
 
-on trouve dispositons sur le refus d'optemberer, obeir à un ordre manifestemetn illégal R434-5 du cod ede la sécurité interieru. 
+###### 4) La résistance à l'oppression
 
-egalement de la jursprdence sur la clause de conscience en matière médicale. C le fait de pouvori opposer à son superieur hierarchique conception philosophieuq eou religeiuse qui justifie de ne aps agir. 
+La consécration d’un **droit de résistance à l’oppression** est le résultat, l’écho, la conséquence de la théorie du tyrannicide.
 
-critique : ce sont des resistance à opression pacifique, c le droit qui peermt des exepceiton.
+C’est une conception où les titulaires potentiels ne peuvent pas toujours maîtriser la norme, ni l’autorité qui la vote. La théorie du tyrannicide repose sur l’idée que ceux qui détiennent le pouvoir et maîtrisent la norme doivent agir dans l’intérêt général. À défaut, s’ils abusent de leur pouvoir, le droit consacré à l’article 2 de la DDHC — « droit naturel et imprescriptible de l’homme à la résistance à l’oppression » — justifie que l’on résiste, que l’on se confronte au pouvoir, voire que l’on mène une révolution. Il s’agit d’un **droit de résistance armée**, conçu comme une faculté face à la violation des droits fondamentaux (lien personnel : le 2ᵉ amendement de la Constitution des États-Unis).
 
-au 2eme amendement de la consitutn fédérale ameiriane est proclamée le droit de proter des armes. c une conretisation de la resistance à l'opression, car le joru oùm in povoir devient tyarnique la popualtion a possibiltié de s'n debarasser. En france on petu juste manifester. aux usa rapport à la manifestation est très particulier. Ameriaicans ont le droit de porter des armes pendant manifestations (consacré par jursirpjdence constituitonelle). Ca cré euen dynamique dans égime americian om faut eviter qu'une crise apparaisse, car très dangereux.
+En France, on retrouve la **théorie des baïonnettes intelligentes** : un fonctionnaire ou agent public peut refuser d’exécuter un ordre manifestement illégal. Ce principe a été consacré par la jurisprudence, notamment l’arrêt **CE, 10 novembre 1944, Langneur**, puis repris par une loi de 1983, précisant qu’un fonctionnaire est libéré de son devoir d’obéissance hiérarchique lorsqu’il est confronté à un ordre manifestement illégal.
 
-crituqe reelection donald trump, il dit fraude electorale massive, il dit de se soulever, ciotens armées au capitol. Risque du basuclemetn du régime. C le pb de cette techniqeu constitutonelle, on prend le risque de l'émeute, de la reovltuon permanante. De l'autre coté, citoyen arméface au gouvenrement. 
+Le **statut du lanceur d’alerte** peut également être rapproché de cette logique de résistance à l’oppression.
 
-mais le mieux c le RIC car on peut desamorcer la crise. 
+On retrouve aussi des dispositions comme l’article **R.434-5 du Code de la sécurité intérieure**, qui consacre le refus d’obéir à un ordre manifestement illégal. De même, la jurisprudence a développé la notion de **clause de conscience** en matière médicale, permettant à un professionnel de santé d’opposer à son supérieur hiérarchique une conception philosophique ou religieuse justifiant son refus d’agir.
 
-#### B) L'encadrement des régimes d'execptions
+**Critique** : ce sont des formes de résistances pacifiques à l’oppression. Le droit organise ces exceptions.
 
-il sont déclarés par les pouvoirs constitués, génrélament par le pouvoir exeuctif. Ils vont constater l'existence d'une sitaution excepitonelle et qui vont agir en conséquence. 3 procédures en france.
+Aux États-Unis, le **2ᵉ amendement de la Constitution fédérale** proclame le droit de porter des armes. Il s’agit d’une concrétisation du droit de résistance à l’oppression : le jour où le pouvoir devient tyrannique, la population a la possibilité de s’en débarrasser. En France, la seule véritable modalité de résistance reste la manifestation. Aux États-Unis, en revanche, le rapport à la manifestation est très particulier : les Américains ont le droit de porter des armes pendant celles-ci (consacré par la jurisprudence constitutionnelle). Cela crée une dynamique particulière dans le régime américain, où il faut éviter l’apparition d’une crise, car elle pourrait rapidement devenir dangereuse.
 
-frédériqeu rouviloi : "le respect des droits et libertés fondamentaux est un acquis inestimable, masi c aussi un luxe qui'l n'est malheureisment pas tjrs possible de s'offrir. Dans certiasn cas si'mposent de sauver l'essentiel, préserver l'existence de la société, de la nation, ou des conditiosn fondametnales de son existence. Selon l'urgence et la gravité de la menace, il pourra être légitime et licite de porter atteinte au régime des liberéts, à condition bien entendu que l'atteinte soitjustifiée, proportionnée et temporaire".
+Exemple : la réélection de Donald Trump a illustré les risques de ce mécanisme. Contestant une supposée fraude électorale massive, il a appelé à un soulèvement. Des citoyens armés ont alors pris d’assaut le Capitole. Cela illustre le danger d’un tel modèle constitutionnel : il existe un risque permanent d’émeute et de révolution. À l’inverse, certains estiment qu’un citoyen armé constitue un contre-pouvoir face au gouvernement.
 
-critique sur ces procédures : pancarte d'un manifstant cris de 2019 : "donner à l'état le droit de violer vos droits en sitaution de crise et l'état créera des crise pour violer vos droits".
+La meilleure alternative reste sans doute le **référendum d’initiative citoyenne (RIC)**, qui permet de désamorcer une crise par une voie pacifique et démocratique.
 
-ces régimes d'xeptions sont des noms modernes pour ce qu'on appelait sous la rome antique la dictature. Ajd mot devoyé, la dictature à la base c un mandat romain : c un mandat donné à un ou plusiuers hommes , on leur donen des pouoirs instuttuionnels plus puissants unqiuemetn dans le but de sauver le régime d'un péril.
+##### B) L’encadrement des procédures dictatoriales/ des régimes d’exception
 
-les régimes d'eeption participent de cette logique, c des régimes dictatoriaux. mot dictature est clivant. mais la logique c celle d'une dictature : avoir des pouvori que la constituon ne reconnait pas pour faire face à une crise. on va donc porter à un droit fondamentaux.
+Ils sont déclarés par les pouvoirs constitués, généralement par le pouvoir exécutif. Ceux-ci constatent l’existence d’une situation exceptionnelle et agissent en conséquence. En France, on distingue trois procédures.
 
-est-ce que le regime avait veritablemetn beosin d'un systme ed'eeption ? 
-##### 1) les dispositifs non constitutionnels
+Frédérique Rouvillois écrit :  
+**« Le respect des droits et libertés fondamentaux est un acquis inestimable, mais c’est aussi un luxe qu’il n’est malheureusement pas toujours possible de s’offrir. Dans certains cas, s’impose la nécessité de sauver l’essentiel : préserver l’existence de la société, de la nation, ou les conditions fondamentales de son existence. Selon l’urgence et la gravité de la menace, il pourra être légitime et licite de porter atteinte au régime des libertés, à condition bien entendu que l’atteinte soit justifiée, proportionnée et temporaire. »**
 
-ce sont les plus attentatories aux droits et libertés fodnamentaux. ca veut dire qu'un ppuvori cosntituer pourrait mettre entre parantehse dispositosn constituonelle.
+**Critique de ces procédures** : lors d’une manifestation en 2019, une pancarte affichait le slogan suivant : **« Donner à l’État le droit de violer vos droits en situation de crise, et l’État créera des crises pour violer vos droits. »**
 
-Davantage favorabel à ce que procedure exception soit habiltié dans consttuin elle meme, en cas de necessité. 
+Ces régimes d’exception sont les appellations modernes de ce que l’on appelait, sous la Rome antique, la _dictature_. Aujourd’hui, le mot est galvaudé : à l’origine, la dictature était un mandat romain confié à un ou plusieurs hommes, à qui l’on donnait des pouvoirs institutionnels renforcés, uniquement dans le but de sauver le régime d’un péril.
 
-###### a) la théorie des circonstnaces exceptionelles
+Les régimes d’exception s’inscrivent dans cette logique : ce sont des régimes dictatoriaux. Le terme _dictature_ est clivant, mais l’idée reste la même : conférer des pouvoirs que la Constitution ne reconnaît pas en temps normal afin de faire face à une crise. Cela implique nécessairement une atteinte aux droits fondamentaux.
 
-CE 6 aout 1915 Delmotte : le Ce a retenu que l'autorité miltiaire peut prononcer la fermeture d'un débit de boisson pendant la durée des hostiilités. ex fermer bistrot car mieux d'avoir des gens sobres. C un objectif militarie stratégiqeu qui va justiifer une atteint eà droti fondamentaux, c sa lbieté de commerce et de propriété qui va etre atteinte. C une "circonstance exceptionelle".
+**Question centrale :** le régime avait-il véritablement besoin d’un système d’exception ?
+###### 1) les dispositifs non constitutionnels
 
-CE 28 fébrier 1919 Dames Dol et Laurent : deux prostituées qui saisissent juge administratif car interdit aux maisons closes de servir à boire, et interdit au filles de racoler sur al voie publiquie. CE circonstnace de temps et de lieux et catégorie des individus visés et nature du perile jusitifiat ces mesures di'nterdiction. 
+Ce sont les plus attentatoires aux droits et libertés fondamentaux. Ils signifient qu’un pouvoir constitué peut mettre entre parenthèses les dispositions constitutionnelles.
 
-CE 28 juin 1918 Heyriès : un décret a suspendu la loi sur al communication des dossiers : atteinte à certain droits de la defense. 
+Il est donc préférable qu’une procédure d’exception soit prévue et encadrée **dans la Constitution elle-même**, afin de limiter les abus et de n’y recourir qu’en cas de stricte nécessité.
 
-en theorie le juge adm controle si les faits imposent une necessité. gouvenrement des juges : si c le juge qui controle, est ce que les faits justifient de telles circonstnaces execpeitonelels, il faut pas que le controle du juge soit trop laxiste, doit etre tres pragmatique.
+###### *a) La théorie jurisprudentielle des circonstances exceptionnelles*
 
-arrêts en ce qui conerne les périodes troiublées, le conseil d'état a fait usage de cette theorie en temps de paix.
+- **CE, 6 août 1915, _Delmotte_** : le Conseil d’État a retenu que l’autorité militaire pouvait prononcer la fermeture d’un débit de boisson pendant la durée des hostilités (exemple : fermer un bistrot afin que les soldats restent sobres). Il s’agissait d’un objectif militaire stratégique justifiant une atteinte à des droits fondamentaux, en particulier la **liberté de commerce et le droit de propriété**. Le Conseil a reconnu ici l’existence de **circonstances exceptionnelles**.
+- **CE, 28 février 1919, _Dames Dol et Laurent_** : deux prostituées contestent devant le juge administratif l’interdiction faite aux maisons closes de servir à boire et l’interdiction de racoler sur la voie publique. Le Conseil d’État retient que les circonstances de temps et de lieu, la catégorie des individus visés et la nature du péril justifiaient ces mesures restrictives.
+- **CE, 28 juin 1918, _Heyriès_** : un décret a suspendu la loi sur la communication des dossiers, ce qui constituait une atteinte à certains droits de la défense.
 
-il a reconu cette utlisaiton dans arret CE 1965 Jarrigion, idem CE 16 avril 1948 Laugier.
-plus recemment fait recouri dans un arrets du 22 mars 2020 Syndicat des juenes medecins où était contesté un ceritan nombre de meusres execeptionelle sprises pioru fair eface ç la crise du covid, ils ont attaqué devant le CE ces mesures attentoatoire s aux lbiertés, masi le juge ADM a mobilisé théorei de circosnnafces exeptioneels pour justiifer un réigme d'exception. 
+En théorie, le juge administratif contrôle si les faits imposent réellement une nécessité. Mais ce contrôle pose la question du **« gouvernement des juges »** : si c’est le juge qui détermine si les circonstances exceptionnelles sont caractérisées, il ne faut pas que ce contrôle soit trop laxiste. Il doit au contraire rester **pragmatique et rigoureux**.
 
-est-ce que le juge amdinitratif a eu un controle assez poussé sur la menace que faisiat peser l'épidemie de covid 19 sur l'état du régime ? 
+Cette jurisprudence n’est pas réservée aux périodes de guerre : le Conseil d’État a admis son application **en temps de paix**.
+- CE, 16 avril 1948, _Laugier_
+- CE, 1965, _Jarrigion_
 
-théorie tripatite de l'état : une populatio, territoire et souveraineté. Donc sur epidemie on peut mobiliser theorie des circosnantees exeptioneles.
+Plus récemment, le Conseil d’État y a de nouveau recouru : **CE, 22 mars 2020, _Syndicat des jeunes médecins_**. Était alors contesté un certain nombre de mesures exceptionnelles adoptées pour faire face à la crise du Covid-19. Les requérants invoquaient des atteintes graves aux libertés, mais le juge administratif a mobilisé la théorie des circonstances exceptionnelles pour valider ce régime d’exception.
 
-mais attention à ce que l'état ne crée pas ou n'isntrumentalise pas les crises pour avoir pouvoir exceptionnel. 
+Cela soulève la question suivante : **le juge administratif a-t-il exercé un contrôle suffisamment poussé** sur la réalité de la menace que faisait peser l’épidémie de Covid-19 sur l’État et sur le régime ?
 
-###### B) L'état d'urgence
+En théorie, l’État repose sur une **triptyque classique : population, territoire, souveraineté**. Dans une telle crise sanitaire, la théorie des circonstances exceptionnelles peut être mobilisée. Toutefois, il faut rester vigilant : l’État ne doit pas **créer** ni **instrumentaliser** les crises pour s’octroyer des pouvoirs exceptionnels.
 
-ce n'est pasune procédure constitutionelle, c un texte qui a été initialemetn conçu par une loi du 3 avril 1955, et cette loi v aprévoir un régime d'état d'urgence. 
+###### *b) L'état d'urgence*
 
-le texte est legislatif, masi c le gouvenrmetn qui l'utilsie; IL est activé poru uen durée de 12 jours.
+Ce n'est pas une procédure constitutionnelle, c’est un texte qui a été initialement conçu par une loi du 3 avril 1955, et cette loi va prévoir un régime d'état d'urgence.
 
-après ces 12 jours c censé s'arrêetr sauf si prolongation votée par une loi. c un regime d'exeption masi systeme de serapartion entre les pouvoirs où  y'a une intrecation entre eux. 
+Le texte est législatif, mais c’est le gouvernement qui l’utilise ; il est activé pour une durée de 12 jours.
 
-on a prolongé état urgence sanitaire un certain ombre de fois, pusi electiosn legislatives de 2022 : le parti du President était majoritaire à la chambre, mais en 2022 majrotié présidentielle s'effondre, l'extreme gauche et extreme droite on voté ensemble l'arret de la prolongaton de l'état d'urgence sanitaire. Toute cette crise a eu une fin politque, pas scientifique/médicale. Sinon ca aurait pu durer longtemps. 
+Après ces 12 jours, c’est censé s’arrêter sauf si une prolongation est votée par une loi. C’est un régime d’exception, mais dans un système de séparation des pouvoirs où il y a une interaction entre eux.
 
-le mtoif du déclenchemetn : péril imminant, résultant d'atteinte grave à l'ordre public, soit en cas d'evenement présentant par leru nature et leur gravité le caractère de calamité publique. 
+On a prolongé l’état d’urgence sanitaire un certain nombre de fois, puis aux élections législatives de 2022 : le parti du Président était majoritaire à la chambre, mais en 2022 la majorité présidentielle s’est effondrée, l’extrême gauche et l’extrême droite ont voté ensemble l’arrêt de la prolongation de l’état d’urgence sanitaire. Toute cette crise a eu une fin politique, pas scientifique/médicale. Sinon ça aurait pu durer longtemps.
 
-le juge va devoir controler la matérialité des faits, l'existence concrète de cette atteinte grave à l'ordre public. Lorsque c un état d'urgence initial
+Le motif du déclenchement : péril imminent, résultant d’une atteinte grave à l’ordre public, soit en cas d’événement présentant par leur nature et leur gravité le caractère de calamité publique.
 
-ex decision 2022-835 DC, le conseil cons le seul argumetn pour a prolongation c "en l'état des conaisances sinetiifque y'a risque de trouble grave à la santé publqiue".
+Le juge va devoir contrôler la matérialité des faits, l’existence concrète de cette atteinte grave à l’ordre public. Lorsque c’est un état d’urgence initial…
 
-il répond pas sur les données, sur hopitaux eprsonnel disponible etc. Il aurait fallu un ctrl bcp plus précis où il mobilise un faisceau d'indicde.
+Exemple : décision 2022-835 DC, le Conseil constitutionnel, le seul argument pour la prolongation c’est « en l’état des connaissances scientifiques, il y a risque de trouble grave à la santé publique ».
 
-les autorités de déclencement sont nationales, loi prévoit que c ministre intereur, chef état voire parlement qui peut declencher état d'urgence. MAis innovation : on peut prevoir des regimes d'xeetpiosn locaux, les prefets peuvent egalemetna voir recour sà l'état d'urgence. 
+Il ne répond pas sur les données, sur hôpitaux, personnel disponible, etc. Il aurait fallu un contrôle beaucoup plus précis où il mobilise un faisceau d’indices.
 
-art 5, 6, 8 et 11 de la loi de 1955, ce sont les articles qui prévoient toutes les prerogatives, tous le spouvoirs execptionnels. 
+Les autorités de déclenchement sont nationales, la loi prévoit que c’est le ministre de l’Intérieur, le chef de l’État voire le Parlement qui peut déclencher l’état d’urgence. Mais innovation : on peut prévoir des régimes d’exception locaux, les préfets peuvent également avoir recours à l’état d’urgence.
 
-frédérque rouviloi a regardé sur l'ensmeble de la periode dela 5eme répbliqe et a consatté qu'on a bcp plus souvent recours à la loi d'état d'urgence qu'au procédures prévues par la constititon. Les régimes d'exeetion devraient etre préus et encadrés par al consttiton. Que le parlemetn vote loi pour mettre en parenthese dispositosn de la cosntituton, peut mettre à mal etat de dorit, protection cosntitutionelle edes drotis fondametnaux. 
+Articles 5, 6, 8 et 11 de la loi de 1955 : ce sont les articles qui prévoient toutes les prérogatives, tous les pouvoirs exceptionnels.
 
-Le consei cinsttutuonell a décidé dans sa décision de 1985 QPC considérant 3 et 4 "qu'en vertu art 34 constitution ... il appartient au legislateur d'opérer la conciliaiton nécessaire entre le respect des libertés et la sauvegarde de l'ordre public sans lequel l'exercice des libertés nen saurait être assuré".
+Frédérique Rouvillois a regardé sur l’ensemble de la période de la Ve République et a constaté qu’on a beaucoup plus souvent recours à la loi d’état d’urgence qu’aux procédures prévues par la Constitution. Les régimes d’exception devraient être prévus et encadrés par la Constitution. Que le Parlement vote une loi pour mettre en parenthèse des dispositions de la Constitution peut mettre à mal l’État de droit, la protection constitutionnelle des droits fondamentaux.
 
-consiédan 4 "cons dans son aritcel 36 vise expressement l'état de siège elle n'a pas pour uatnat exclu la posibilité pour le législateur de prévoir un régime d'état d'urgence pour concilier exigence liberté sauvegarde de l'rodre public.. loi 3 avril 55".
+Le Conseil constitutionnel a décidé dans sa décision de 1985, QPC considérant 3 et 4 : « qu’en vertu de l’article 34 de la Constitution (…) il appartient au législateur d’opérer la conciliation nécessaire entre le respect des libertés et la sauvegarde de l’ordre public sans lequel l’exercice des libertés ne saurait être assuré ».
 
-le consiel cons a jugé conforme à la constiutiton le fait de prévoir un régime d'exception dans la loi. 
+Considérant 4 : « Considérant que la Constitution, dans son article 36, vise expressément l’état de siège, elle n’a pas pour autant exclu la possibilité pour le législateur de prévoir un régime d’état d’urgence pour concilier l’exigence de liberté et la sauvegarde de l’ordre public… loi du 3 avril 1955 ».
 
-la théorie défendue par le prof : c'est à al cons de prévoir le droit fondamentaux, donc à la cons de prévoir les régimes d'exeption. Loi de 1955 votée sous 4ème république, systeme légicentrique, commité constititonel pmarche pas, parlement souverain. 
+Le Conseil constitutionnel a jugé conforme à la Constitution le fait de prévoir un régime d’exception dans la loi.
 
-les droits fodaentaux sont essentielement dnas la li il apparait logique ue ce soit le legislateur qui concilie. 
+La théorie défendue par le professeur : c’est à la Constitution de prévoir les droits fondamentaux, donc à la Constitution de prévoir les régimes d’exception. Loi de 1955 votée sous IVe République, système légicentrique, comité constitutionnel ne marchait pas, Parlement souverain.
 
-âs parce que la consitution a pas prévu des régimes d'xception, que le legislateur doit en préovir. Une norme plus forte vient préovir un nv réigme d'exception. 
+Les droits fondamentaux sont essentiellement dans la loi, il apparaît logique que ce soit le législateur qui concilie.
 
-mais consiel cons en a décidé autrement.
+Ce n’est pas parce que la Constitution n’a pas prévu de régimes d’exception que le législateur doit en prévoir. Une norme plus forte doit prévoir un nouveau régime d’exception.
 
-le conseil cons ne sera pas très sévère à l'égard de ce reigme d'exepceiton, à l'égard de l'état d'urgence.
+Mais le Conseil constitutionnel en a décidé autrement.
 
-décisiosn récentes : on a étéendu la loi de 1955 pour permettre son utilsiaiton contre les menaces terroristes. On a été en état d'urgence terroirste du 14 novembre 2015 jusqu'au 1er novembre 2017, 2 ans pendant lesuqels pouvoir legislateif avait des competences supplémentiares et pouviat porter atteinte aux droits fondamentaux.
+Le Conseil constitutionnel ne sera pas très sévère à l’égard de ce régime d’exception, à l’égard de l’état d’urgence.
 
-le régime legislatif a été attaqué en QPC décion 2016-536, il va symboliquement censurer quelqeus petites dispositosn qui vont trop loin. mais la portée de la décision est qu'il valide extension loi urgence et utilsiation pour lutter contre terrorisme.
+Décisions récentes : on a étendu la loi de 1955 pour permettre son utilisation contre les menaces terroristes. On a été en état d’urgence terroriste du 14 novembre 2015 jusqu’au 1er novembre 2017, 2 ans pendant lesquels le pouvoir législatif avait des compétences supplémentaires et pouvait porter atteinte aux droits fondamentaux.
 
- 2020-800 DC, il valide les régimes de quarantaine et d'isolement au regad de l'objectif à valeur consittutionnel de protection de la santé. on aé té en etet du'rgence sanitaire de la fin 2019 jusqu'à aout 2022. 
- 
-que permet cette extension à la santé publqu e? le premier ministr epeut désomais ordonner un certain nombre de regulation contre épidemie, ex regulation des personnes et des vehicules, regulation de acces au transports collectifs (masque), regulation de ouverture et fermeture d'étabisssment recevant du public (pas uniqueement etab public), il petu également reguler rassembleent et réuniosn sur la voie publique, et imposer des tests virologiques pour ovyager en avion. 
+Le régime législatif a été attaqué en QPC, décision 2016-536 : il va symboliquement censurer quelques petites dispositions qui vont trop loin. Mais la portée de la décision est qu’il valide l’extension de la loi d’urgence et son utilisation pour lutter contre le terrorisme.
 
-arrêt benjamin du consiel d'état qui prévoit que pour toute atteinte à une liberté fondamentale faut faire un controle de proportionnnalité : y'a d'abord un controle de l'existence materiel des faits, cad faut une mesure réelle du risque. Ce qu'on retrouve assez petu dans les déciisons du conseilc osn de cette époque. Il renvoei à bojectif à valeur consttutioel de la rpoteciton de la santé. Jamasi de lui meme le juge enonce une reconnaisance materielle dela crise (il aurait pu le faire ex nombre de lits de malades etc.) L'ARS s'apuyati sur ce type de curseur, critqué paropposion par la crise covid est que l'ARS a régulierement modifié ces curseurs por continue rà appliquer la situation de crise.
+2020-800 DC : il valide les régimes de quarantaine et d’isolement au regard de l’objectif à valeur constitutionnelle de protection de la santé. On a été en état d’urgence sanitaire de la fin 2019 jusqu’à août 2022.
 
-puis controle de l'adéquation des mesures au risque. Des medecins, avocats, scientifques ont dit qeu d'autres solutions sont possibles. DOnc y'a aps eu dans les déciisosn du conseil cosn de volotén d'empecher le pouvoir executif d'empecher l'état d'urgence. Le ctrl de propritonalité dans déciisondu consiel est très elger, masi pb est quo'n est dans un réigme qui porte atteitne aux drois ofndamentuax, alors que c en cas de crise que le juge est utile, il l'a pas été particuleirremetn.
+Que permet cette extension à la santé publique ? Le Premier ministre peut désormais ordonner un certain nombre de régulations contre l’épidémie : régulation des personnes et des véhicules, régulation de l’accès aux transports collectifs (masque), régulation de l’ouverture et fermeture d’établissements recevant du public (pas uniquement établissements publics), il peut également réguler rassemblements et réunions sur la voie publique, et imposer des tests virologiques pour voyager en avion.
 
-dans une des déicosn du conseil il invalide l'interdiction des réunions éléctorales. le consiel cons a dit qu'on petu pas porter atteinte à al liberté politque. C un paradoxe : soit y'a une vrai épidémie et dans ce cas là pq ouvrir les bureaux de vote ? 
+Arrêt Benjamin du Conseil d’État qui prévoit que pour toute atteinte à une liberté fondamentale il faut faire un contrôle de proportionnalité : d’abord un contrôle de l’existence matérielle des faits, c’est-à-dire une mesure réelle du risque. Ce qu’on retrouve assez peu dans les décisions du Conseil constitutionnel de cette époque. Il renvoie à l’objectif à valeur constitutionnelle de la protection de la santé. Jamais de lui-même le juge n’énonce une reconnaissance matérielle de la crise (il aurait pu le faire, ex. nombre de lits, de malades, etc.). L’ARS s’appuyait sur ce type de curseur, critiqué par opposition, car la crise Covid a montré que l’ARS a régulièrement modifié ces curseurs pour continuer à appliquer la situation de crise.
 
-décision 2020-803 DC il fautq ue le smesures soient prises dans l'interet de la santé publqiei, et dans les seles fin de lutter contre la propoagation du virus covid 19 (le dernier c'est une vrai limite). Les mesures doivent etr eproprotionnées au risque sanitaires (sauf que ici pas de définition, marge de maneouvre trop improtante pour executif). Appropriée aux circontnaces de temps et de leux, et doit être mis fin sans délais lorsque mles mesures ne sotn plus necessaires (sauf que y'a pas de mesure du risque).
+Puis contrôle de l’adéquation des mesures au risque. Des médecins, avocats, scientifiques ont dit que d’autres solutions étaient possibles. Donc il n’y a pas eu dans les décisions du Conseil constitutionnel de volonté d’empêcher le pouvoir exécutif de maintenir l’état d’urgence. Le contrôle de proportionnalité dans les décisions du Conseil est très léger, mais le problème est qu’on est dans un régime qui porte atteinte aux droits fondamentaux, alors que c’est en cas de crise que le juge est utile : il ne l’a pas été particulièrement.
 
-décison 2020-846/847/848 : le conseil cons va valider les mesures de reperession que le legislateur va ajouter. On a adopté mesures pénales pour violationdu confiement (alorsq ue elysée c'était aps grave).
+Dans une des décisions du Conseil, il invalide l’interdiction des réunions électorales. Le Conseil constitutionnel a dit qu’on ne peut pas porter atteinte à la liberté politique. C’est un paradoxe : soit il y a une vraie épidémie et dans ce cas-là pourquoi ouvrir les bureaux de vote ?
 
-on peut lire decison et dire ce qu'on en pense de l'état de droit.
+Décision 2020-803 DC : il faut que les mesures soient prises dans l’intérêt de la santé publique, et dans les seules fins de lutter contre la propagation du virus Covid-19 (le dernier c’est une vraie limite). Les mesures doivent être proportionnées au risque sanitaire (sauf qu’ici pas de définition, marge de manœuvre trop importante pour l’exécutif), appropriées aux circonstances de temps et de lieu, et il doit être mis fin sans délai lorsque les mesures ne sont plus nécessaires (sauf qu’il n’y a pas de mesure du risque).
 
-- poitnd e vue du droti comparé :
+Décisions 2020-846/847/848 : le Conseil constitutionnel va valider les mesures de répression que le législateur va ajouter. On a adopté des mesures pénales pour violation du confinement (alors que pour l’Élysée ce n’était pas grave).
 
-y'a des régimes constittonels qui essaie de faire un peu plus attention aux droits fondamentaux.
+On peut lire les décisions et dire ce qu’on en pense de l’État de droit.
 
-article 55 de la constitution espagnole de 78
+- Point de vue du droit comparé :
+    
 
-article 19 de la cosntitution du portugal.
+Il y a des régimes constitutionnels qui essaient de faire un peu plus attention aux droits fondamentaux.
 
-l'espagen a connu un régime autoritaire depuis seconde guerre mondaiale jusqu'a 78 car disctature de franco, et portugal a également connu regime autoritaire de Salazar.
+Article 55 de la Constitution espagnole de 1978.
 
-Ce sont des constititions qui produisent uen réaction à ces régimes, on va donc faire plsu attention aux régimes d'exception. 
+Article 19 de la Constitution du Portugal.
 
-art 55 cons espagne "pevnet etre suspendus quand on a déclaré état d'urence dans les termes prévus apr laconstitution". dans logiicel espagnol on petu pas porter atteinte à tous les DF. On va cibler expressment les Df auxuqels on a le droit de proter attietne, sous entendu qu eles autres on a aps le droit d'y porter atteinte.
+L’Espagne a connu un régime autoritaire depuis la Seconde Guerre mondiale jusqu’à 1978 (dictature de Franco), et le Portugal a également connu un régime autoritaire de Salazar.
 
-y'a trjrs le mainteitn d'une sûreté minimum : y'a un aleas corpus minimum, car est exclud e articel 55 article 17 paragraphe 3 "toute personen détenue ...". on peut pas porter atteinte ni etat urgence ni etat de siege.
+Ce sont des constitutions qui produisent une réaction à ces régimes, on va donc faire plus attention aux régimes d’exception.
 
+Article 55 Constitution Espagne : « peuvent être suspendus quand on a déclaré état d’urgence dans les termes prévus par la Constitution ». Dans le logiciel espagnol, on ne peut pas porter atteinte à tous les droits fondamentaux. On va cibler expressément les droits fondamentaux auxquels on a le droit de porter atteinte, sous-entendu que les autres on n’a pas le droit d’y porter atteinte.
 
-le portugal est encore plus avancé : art 19 "suspension de l'exerciece des droits" : "les organnes d e souverainteé..."
+Il y a toujours le maintien d’une sûreté minimum : il y a un habeas corpus minimum, car est exclu de l’article 55, article 17 paragraphe 3 : « toute personne détenue… ». On ne peut pas porter atteinte ni en état d’urgence ni en état de siège.
 
-on peut pas modifier le reigme sous pretexte d'une crise, faudra soit modifier la constitution, soit modifier al loi selon la procédure classqieu.
+Le Portugal est encore plus avancé : article 19 « suspension de l’exercice des droits » : « les organes de souveraineté… ».
 
-selon le conseil, y'a uen forme de hierachiesaiton des lbiertés publiques, la lbierté polique soit etre spécialemetn protgée.
+On ne peut pas modifier le régime sous prétexte d’une crise, il faudra soit modifier la Constitution, soit modifier la loi selon la procédure classique.
 
-article 115 de al loi fondamentale va prévoit l'état d'urgence et ne va tolérer qeu des atteintes minimes aux droits et libertés fodnamentaux.
+Selon le Conseil, il y a une forme de hiérarchisation des libertés publiques, la liberté politique doit être spécialement protégée.
 
-##### 2) Les dispositifs constitutionnels
+Article 115 de la Loi fondamentale va prévoir l’état d’urgence et ne va tolérer que des atteintes minimes aux droits et libertés fondamentaux.
 
-y'a létat de siège et l'état de crise .
+###### 2) Les dispositifs constitutionnels
 
-###### Etat de sige
-état de sige est prévu à article 36 de la constitution, c un dispositif constitutionnel issu d'une vielle traidition républciiane. Dipsositif déjà prévu sous la 3eme republqieu loi 3 avril 1879 l'état de sige peut etre déclaré en cas de péril imminent ou d'insurection armée. 
+Il y a **l’état de siège** et **l’état de crise**.
 
-il est déclaré en consiel des ministre pour 12 jours au delà desquels faut une prorogation par le parlement. c'est le code de la défense qui prévoit les prérogatives et les competences utilisées et utilisables en état en siège. y'a un renvoie de la cosntitution à la loi puisque article 36 est très court, c le code de la défense qui va venir rpéciser ce qu'on y met. C'est un réflexe légicentrique : ocnsittion trop impriceise l aloi est obligée de venir al completer. 
+###### *a) L’état de siège*
+L’état de siège est prévu à l’article 36 de la Constitution. C’est un dispositif constitutionnel issu d’une vieille tradition républicaine. Il était déjà prévu sous la IIIe République par la loi du 3 avril 1879. L’état de siège peut être déclaré en cas de **péril imminent** ou d’**insurrection armée**.
 
-l'article L2121-1 du code de la défense prévoit que l'état de siège ne peut être déclaré par déc^ret en conseil des ministes qu'ne cas de préil imminent résltat d'une guerre étrngère ou d'une insurrection armée.  Le décret désigne le eterrioitre auuqel il s'applique et détermien sa durée d'application. 
+Il est déclaré en **Conseil des ministres** pour une durée de **12 jours**, au-delà desquels une prorogation doit être votée par le Parlement. C’est le **Code de la défense** qui précise les prérogatives et compétences utilisables en état de siège. L’article 36 de la Constitution étant très court, il renvoie à la loi : c’est un réflexe légicentrique, la Constitution étant trop imprécise, la loi doit venir la compléter.
 
-quelles sont le smodalités d'exercice de ce régime d'exepction : l'état de siège permet un transfert de competence. Le pouvoir pour le maintient de l'ordre et de la polcie, le pouvori est confié à l'autorité militaire. LEs autorité civiles perdent lerus competence au profit des autorités militaires.
+L’article **L2121-1 du Code de la défense** prévoit que l’état de siège ne peut être déclaré par décret en Conseil des ministres qu’en cas de péril imminent résultant d’une guerre étrangère ou d’une insurrection armée. Le décret désigne le territoire auquel il s’applique et détermine sa durée d’application.
 
-de lamee façon les tribunaxu militaires recoivent uen grosse part des competences ,orameent devolues aux competences civiles. on passe à un régime bcp plus effiace et bcp moins inqueit du respect des droits fondaemntales. 
+Les modalités d’exercice de ce régime d’exception reposent sur un **transfert de compétences** :
+- le maintien de l’ordre et de la police est confié à l’**autorité militaire** ;
+- les autorités civiles perdent leurs compétences au profit des autorités militaires ;
+- les **tribunaux militaires** reçoivent une grande part des compétences auparavant dévolues aux juridictions civiles.
 
-ça donne des pouvoirs particuleirs aux autorités militaires : ils pevent faire de sperquisitions de jour comme de nuit. EN droit commun on fait des perquisiotns qu ele jour. 
+On passe donc à un régime beaucoup plus efficace mais aussi beaucoup moins soucieux du respect des droits fondamentaux.
 
-peuvent etre rpononcés. des mesures d'éloignemetn des non résidents qui ont été condamné. Ils peuvent ordonner la remise des arems, des munitions, et proceder à des recherhce.
+Les autorités militaires disposent de **pouvoirs particuliers** :
 
-interdictiond es publictions et réniosn qui seraint contraire à l'ordre public. L'état de siège correspond à un systeme de dérogation ciblée des droti sfondamentaux, pas une suspnsion generales des droits fondamentaux.
+- elles peuvent procéder à des **perquisitions de jour comme de nuit** (alors qu’en droit commun elles sont limitées au jour) ;
+- elles peuvent ordonner des **mesures d’éloignement** des non-résidents déjà condamnés ;
+- elles peuvent ordonner la **remise des armes et munitions** et procéder à des recherches ;
+- elles peuvent interdire les **publications et réunions** contraires à l’ordre public.
 
-rappélé par aritlce ? droi d ela défens e"nonobstant l'état de siège l'ensembe des droti sgarnaites continuent de s'exercer lorsque leur jouissance n'est aps suspendu en vertu des articel sprécédents"
+L’état de siège correspond donc à un système de **dérogations ciblées** aux droits fondamentaux, et non à une suspension générale de ceux-ci.
 
+Il est rappelé par un article du Code de la défense que, _« nonobstant l’état de siège, l’ensemble des droits garantis continue de s’exercer lorsque leur jouissance n’est pas suspendue en vertu des articles précédents »_.
 
-###### Etat de crise
+###### *b) L’état de crise (article 16)*
 
-article 16 de la consituton, plsu souvent décrit comme l'article sur les plein pouvoirs que l'état de crise.
+L’**article 16 de la Constitution**, plus souvent décrit comme l’article des _pleins pouvoirs_, correspond à ce que l’on appelle l’**état de crise**.
 
-c un article qui est directment insprié de la logiqeu de dictature romaien. Dictature c'étati un mandat, avec consuls, gouverneurs, tribuns, etc. Laf ocntion de dictatuer était rpévueà rome poru sauver rome.
+C’est un article directement inspiré de la logique de la **dictature romaine**. À Rome, la dictature était un mandat exceptionnel confié à un seul homme, avec pour fonction de **sauver la cité** en cas de péril. Lorsque les institutions classiques (consuls, gouverneurs, tribuns, etc.) ne pouvaient plus fonctionner ou échouaient à contrer le danger, elles acceptaient de transférer tous les pouvoirs à un seul homme, en lui donnant toutes les prérogatives nécessaires.
 
-si un preil qui empeche instititions classiques de foncitonner ou si ces institutiosn classiques arrivent pas a empecher le peril elels accetent de donner tous els pouvoirs à un seul homme, pcq en lui donnat toutes les prérogatives. 
+L’article 16 reprend cette logique : le but est de confier à un homme providentiel la mission de sauver le régime. Pour **De Gaulle**, derrière la présidence se trouve cet homme providentiel.
 
-article 16 inspiré de cette loigque car but est de donne rà un homme providentiel pour sauver le rigme, De Gaule pense l'homem providentiel derriere la presidence;
+L’**article 5** de la Constitution dispose que _« le Président de la République veille au respect de la Constitution. Il assure, par son arbitrage, le fonctionnement régulier des pouvoirs publics ainsi que la continuité de l’État »_.  
+À ce titre, il est aussi le **chef des armées** (article 15) et préside les conseils et comités supérieurs de la défense nationale.
 
-articel 5 "le présidnet d ela rpéulbique veille au respect de la constitution, il assure par son arbitrage le fonctionnement régulier.. et al continité de l'état,"
+L’**article 16**, dans cette logique, confère donc au Président la possibilité de sauver le régime.
 
-c au regard de ce rôle que le président de la républqieu est le chef des arrmes art 15. Il preisde els consiels et les commités superieus de la defnese nationael.
+Pourquoi De Gaulle a-t-il voulu insérer cet article dans la Constitution de la Ve République ?
+- Parce qu’il avait vu la IIIe République **s’empêtrer dans la Seconde Guerre mondiale**, incapable de produire des politiques claires face à l’Allemagne nazie.
+- Parce qu’il avait constaté à nouveau l’**impuissance gouvernementale** face à la **crise algérienne**.
 
-articel 16 dans la logique de ce rôle de gardien, d'arbitre, il a la possibiltié de sauver le régime.
+Pour De Gaulle, lorsqu’il y a un péril grave, il faut agir sans délai. Il utilisera d’ailleurs l’article 16 dans le cadre de la crise algérienne, lors du **putsch des généraux à Alger**.
 
-pk de gaulle met cet article dans la constition de la 5eme républiqei? Ol a vu la 3eme republiqie s'empeterer dans la 2nde guerre modaiel, gouv arrivait pa sà produire d epolitqies claires contre allemagne.
+Le texte prévoit que : _« Lorsque les institutions de la République, l’indépendance de la Nation, l’intégrité de son territoire ou l’exécution de ses engagements internationaux sont menacés d’une manière grave et immédiate… »_. Les conditions sont **cumulatives** :
 
-Puisa. novueau consataté empetrement du gouv et de la républqieu face à la crise algerienne. pour de gaulle quand y'a un vrai probleme faut agir.
+1. un dysfonctionnement des pouvoirs publics,
+2. une atteinte grave et immédiate au fonctionnement régulier des pouvoirs constitutionnels.
 
-De gaulle l'utilisera dans le cadre de la crise algérienne, contre le poutch des généraux algers.
+Si ces conditions sont réunies, le Président prend les mesures exigées par les circonstances. Il ne s’agit donc pas juridiquement des _pleins pouvoirs_ illimités. Le **Conseil constitutionnel** est consulté sur les mesures. Si le Parlement ne peut pas se réunir, le Président peut légiférer seul.
 
-"lorsque les institutions de la republiqe, independemace.. maniere grave et immédaite". on est face à des conditiosn qui sont cumulatives. 
+Cependant, certaines garanties sont prévues :
+- le Parlement se réunit **de plein droit** ;
+- l’Assemblée nationale **ne peut pas être dissoute** pendant l’exercice des pouvoirs de l’article 16 ;
+- après 30 jours, le **Conseil constitutionnel** peut être saisi pour vérifier si les conditions d’application sont toujours réunies, et il rend un avis.
 
-il faut un dysfonctionnement des pouvoirs publics qui s'ajoute à une atteinte grave et immédaite au fonctionenmetn régulier des poivoirs constiutitonnels.
+Si le Président de la République refuse de recourir à l’article 16, **personne ne peut l’y contraindre**. En revanche, si le Président abuse de ce régime d’exception, le Parlement peut, par sa réunion de plein droit, enclencher la **procédure de destitution**, véritable pare-feu de la Ve République.
 
-si ces conditosn sotn remplies, le president prend les mesures exigées par ces circonstances ( c pas les plein pouvoirs). le consiel constitutinel est ocnsulté à leurs sujet. Si le parlement arrive pas à se réunir, le président prend une loi tout seul.
+Notons néanmoins qu’il est possible de **dissoudre l’Assemblée nationale avant** la mise en œuvre de l’article 16, ce qui peut affaiblir ce contre-pouvoir.
 
-le parlemet se réuni de plein droit, assemblée nationale petu pas etre dissoute pendant cet exerciec. Apres 30 jours exeercice ds pouvoirs constitionsl, consiel cons peut etre saisi pour voir si les conditiosn réunis. Il rend un avis.
+Enfin, il faut garder à l’esprit qu’un **régime d’exception** est toujours risqué : on sait comment il commence, mais rarement quand il prend fin. C’est pourquoi il faut une grande prudence lorsqu’on les inscrit dans la Constitution.
 
-si le président de la répulique n'a pas envie de prendre les plein pouvoirs perosnne ne pet l'y contraindre. Interet de la ruenion du parlement de plein droit c que c le parlemetnqui pourra empecher le president qui abuserait de ces fonctions du regime d'eeception, avec la procedure de destitution. C'est le pare-feu de la 5eme république.
+### Section 2 : Une acception extensive des droits fondamentaux
 
-maiso on pourriat dissoudre assemblée nationale avant articel 16. 
-
-un régime d'exepiton on sait comment ça commence mais jamasi quand ça fini, faut donc fiare tres attention à ces régimes qadn on les prévoit dans la constitution.
-
-
-### Section 2 : Une acception extensive des droits fodnaemtnaux.
-
-Y'a un premier mouvement qu consiste à préciser toujour splus qui est le titulaire des droits fodnamentaux. Et puis y'a un deuxieme mouvement qui consiste à dilluer les benefiicaires des droits fondamentaux en reconnaisant toujours plus des beneficiaires. 
+Il existe un premier mouvement qui consiste à préciser toujours plus qui est le titulaire des droits fondamentaux. Puis, un deuxième mouvement tend à diluer les bénéficiaires des droits fondamentaux en en reconnaissant toujours davantage.
 
 #### Paragraphe 1 : Une précision des titulaires des droits fondamentaux
 
-2 mpuvements de préviisons :
-- preiison des caracterisques de la perosnne humaine
-- staut politque de la perosn ehumaine. 
+On distingue deux mouvements de précision :
+- la précision des caractéristiques de la personne humaine ;
+- le statut politique de la personne humaine.
 
-##### A) Les caractéristiqeus particulières de la perosnne humaine : uen préciison des droits de l'homme
+##### A) Les caractéristiques particulières de la personne humaine : une précision des droits de l’homme
 
-y'a une reflexion ancenne et contemporaien sur les droits de la femme, et sur les droits de l'enfnat.
+Il existe une réflexion ancienne et contemporaine sur les droits de la femme, ainsi que sur les droits de l’enfant.
 
 ###### 1) Les droits de la femme
 
-le 19e siècel ava etre partculièrmeent mysonuge. 
+Le XIXe siècle a été particulièrement misogyne.
 
-les deux guerres mondaiels du 20e sielce vont prouver aux vielles democarteis queles femmes font aussi bien que les hommes, et on va voir apparaitre un mouvemetn de correction du droit : des droits politques (suffrage unviersel masculin 1848 et féminin obietnne droite de vote par loi du 21 avril 1944; alors que pays des la 1ere guerre mondaiel femmes ont droit de vote dans certain pays).
+Les deux guerres mondiales du XXe siècle vont prouver aux vieilles démocraties que les femmes sont capables d’assumer les mêmes responsabilités que les hommes. On voit alors apparaître un mouvement de correction du droit : des droits politiques sont progressivement reconnus. Ainsi, si le suffrage universel masculin date de 1848, le droit de vote des femmes n’a été obtenu en France que par la loi du 21 avril 1944 (alors que dans certains pays, les femmes l’avaient déjà acquis à la suite de la Première Guerre mondiale).
 
-a la consturctiond 'un noveua régime poltiqe, les femmes se voient reconnaitre des places politiqeus dédiées. 
+Lors de la construction du nouveau régime politique, les femmes se voient reconnaître des places politiques dédiées. C’est ce qui ressort du Préambule de la Constitution du 27 octobre 1946. L’alinéa 3 affirme que _« la loi garantit à la femme, dans tous les domaines, des droits égaux à ceux de l’homme »_ et l’alinéa 11 précise que _« la Nation garantit à tous, notamment à la mère, la protection de la santé, la sécurité matérielle et le repos »_.
 
-c'est ce qui ressort du préambule de la constiuton du 27 octobe 1946. Dans ce réapmbule alinéa 3 donne un epalce importnate à la femme "la loi garnatie à la femme dans tous les domaiens des droits égaux à ceux des hommes", alinéa 11 "la nation garnatie à tous, notamment à la mère, la protection de la santé, securité mateirelle, et les loisires". 
+Une première loi votée en 1982 visait à instaurer la parité en politique, mais elle a été censurée par le Conseil constitutionnel dans une décision DC de 1982. Le Conseil rappelle qu’aux termes de l’article 3 de la Constitution et de l’article 6 de la DDHC, les principes de valeur constitutionnelle _« s’opposent à toute distinction entre catégories d’électeurs ou d’éligibles »_. On ne peut donc pas distinguer parmi les candidats selon leur sexe. Cette décision est connue comme celle du **« quota par sexe 1 »**.
 
-y'a une premier eloi votée en 1982 qui vis eà instaure la parité en politiuqe, cette loi est censuré epar le consiel constituonel dans une décion Dc de 1982. "consiédarnt qu'u temre de article 3 de la constiton et ariticel 6 de la DDHC" "que ces princieps d evaleur ocnsitutonel s'oppose à toute categorie d'electeurs et d'éligibles". 
+Le **« quota par sexe 2 »**, décision 98-407 DC, confirme cette position. Après cette deuxième censure, le Parlement a constaté qu’il ne pouvait pas faire passer une loi favorisant l’accès des femmes à la vie politique. Il décide alors de se réunir en Congrès et de réviser la Constitution. La loi constitutionnelle du 8 juillet 1999 insère dans l’article 1er de la Constitution un nouvel alinéa : _« La loi favorise l’égal accès des femmes et des hommes aux mandats électoraux et fonctions électives »_.
 
-on petu pas distinguer parmis les candidats qui est un homme et qui est une femme. décision appeée "quota par sexe 1".
+Cette référence constitutionnelle permet désormais au législateur de distinguer. Après la révision de 1999, plusieurs textes seront adoptés et validés par le Conseil constitutionnel. Ainsi, dans la décision 2001-429 DC, il valide une loi favorisant la parité en politique.
 
-quota par sexe 2 : décion 98-407 DC. confime la déicison de 82. après cette deuxieme déicison l eparlemet constate que il petu pas faire apsser sa loi poru faire favoriser acces des femmes à la politque. Le parlement va se réunir en congres et va réviser la constitution par une loi constitutionelle du 8 jiillet 1999 qui insiere dans la constition un aliéa ajd dans article 1er de la consttution "la loi favorise l'égal acces des femmes et des hommes aux mandats electoraux...".
+Concrètement, par exemple, pour toucher les aides publiques aux partis politiques, ceux-ci doivent présenter autant de femmes que d’hommes dans les circonscriptions, sous peine de sanctions financières. De même, a été mis en place un scrutin départemental binominal : chaque fois que l’on vote pour un conseiller, on élit un binôme composé obligatoirement d’un homme et d’une femme.
 
-on veut mettre en place une reference constitutonelle poru permettre lad istinction, ce qui donera au legislateur le droit de distinguer. Le legislteu rapres sa réviosn de 99 va reprendre des textes que le consiel cosnttuitnnel cette fosi ci validera. 
+**Critiques de ces mesures :**
 
-dans décision 2429 DC le consiel costiitonel valide loi fvorisant la parité en politque. 
+- Il s’agit d’une distinction, donc d’une forme de **discrimination positive**. L’objectif est louable, mais en distinguant par la loi, on porte atteinte au principe d’égalité formelle pour favoriser l’égalité réelle.
 
-par exemple, pour toucher l'aid eau x parits politqes, ils doivent presenter autan d'hommes que de femmes dans les circonscriptios. sinon pénalité. On a mis en place un scrutin départemental binominal : chaque fosi qu'on vote poru coneiller on vote pour 2 personnes, la loi prévoit un homme et une femme. 
+- Selon **Nenad Stoganovic**, une question se pose : _jusqu’où aller dans l’égalité réelle ?_ Qui est légitime pour identifier les bénéficiaires d’une discrimination positive ? En théorie, c’est le peuple qui maîtrise ses droits fondamentaux. Ici, c’est le Congrès qui a décidé : le pouvoir constitué s’érige ainsi en pouvoir constituant.
 
-critique de ces mesures : il s'agir d'une distinction, donc d'une discrimination postiive. Objectif louable masi on disitngeu par la loi, on porte atteinte au principe d'égalité des droits. on porte atteinte à l'égalité théorique pour favoriser l'égalité relel.
-
-Nenad Stoganovic : en terme d'églaité relle, où est-ce qu'on s'arrête ? qui est légitime pour identiife rle bénéficiarie de la discrimiation positive ?  qui est légiitme pour fair ela distinciton ? c le peupe qui devait chosiir, car c lui qui matirsie ces droits fodaentax. Ici c le congrès. 
-
-Le povori constitué s'errige en pouvori constituant.
-
-Deuxieme critique c ue y'a tjrs una rbitraire dans le fait de poser une discrimination. On ne peut pas l'expliquer. Le pb c que si o le multiplie, on va retourner à un réigme juridique où l'ensembe des dsicriminatios produira à chacun son droit. 
+- Deuxième critique : il y a toujours une part d’arbitraire dans le choix d’une discrimination positive. Le risque est qu’en multipliant ces discriminations, on aboutisse à un régime juridique éclaté, où chacun disposerait de son propre « droit sur mesure ».
 
 ###### 2) Les droits de l'enfant
 
-au 18e et 19e c aussi une catastrphe. Revoltuon industirele s'accomapgnera du travail des enfants. Fredérique rouviloxi : sont les victimes de la revolution libérale bourgeoise.
+Aux XVIIIe et XIXe siècles, la situation des enfants est catastrophique. La révolution industrielle s’accompagne du travail forcé des enfants. Comme l’a souligné Frédérique Rouviollois, _« ils sont les victimes de la révolution libérale bourgeoise »_.
 
-face à cette sitautin on va esasyer de passer par les droits fondaemtnaux poru résocurre ce probleme, on va a nouveau spécifier le titulaire de ces droits fondamentaux. 
+Face à cette situation, on a tenté d’utiliser les droits fondamentaux pour résoudre ce problème, en précisant à nouveau qui est le titulaire de ces droits.
 
-pourquoi créer des DF spécifques? Les df ne s'appliquent pas ?
+**Pourquoi créer des droits fondamentaux spécifiques ?**  
+Les droits fondamentaux ne s’appliquent-ils pas déjà à tous ?  
 
-olympe de gouge avait ecrit uen declaration de la femme et de la cityenne, mais dans la DDHC les droits s'applqijent noraeent à tout le monde.
+On se souvient qu’Olympe de Gouges avait rédigé une _Déclaration des droits de la femme et de la citoyenne_, alors même que la DDHC, en principe, s’appliquait à tous. On assiste donc à un mouvement de **sur-précision des droits fondamentaux**, qui interroge sur la portée réelle des droits classiques.
 
-y'a une surprecision des droits fodnamenta xuq ui interrognet la portée des droits fondamentaux classiques. 
+La protection des droits de l’enfant a fait l’objet d’une longue évolution internationale :
 
-sur les enfnats y'a longue evoluton internaitonale.
+- **1924** : une ONG, _l’Union internationale de secours aux enfants_, rédige une première déclaration des droits de l’enfant, consacrant notamment le droit à la nourriture, le droit à ne pas être exploité et le droit au développement. On vise alors particulièrement les pays qui continuent à exploiter les enfants.
+    
+- **1948** : la _Déclaration universelle des droits de l’homme_ consacre, à l’article 25, des droits spécifiques liés à la maternité et à l’enfance. Elle précise que tous les enfants, y compris ceux nés hors mariage, ont droit à la même protection. On remet ainsi en cause l’autorité religieuse qui opérait une distinction entre enfants légitimes et illégitimes.
+    
+- **1959** : les Nations unies adoptent une _Déclaration des droits de l’enfant_. Dans le même esprit, le _Pacte international relatif aux droits économiques, sociaux et culturels_ réaffirme la nécessité de protéger les enfants.
+    
+- **1989** : adoption de la _Convention internationale relative aux droits de l’enfant_ (CIDE), qui interdit notamment l’esclavage, l’abus sexuel, la pornographie, le trafic d’enfants et l’enrôlement d’enfants soldats. 
 
-en 1924 une ONG "union internaitonel de secours au l'enfant" qui va rédiger les droits de l'enfnat. 
+La portée juridique de ces textes interroge, car ils ne sont pas contraignants. Ils visent principalement des États où les droits fondamentaux ne sont même pas garantis.
 
-on va consacrer le droit à la nourriture, le droit à ne pas être exploité, droit au developpement. 
+Si l’on reconnaissait à ces textes une portée contraignante, n’y aurait-il pas une redondance avec les droits fondamentaux, qui s’appliquent à tous les êtres humains ? Les enfants devraient alors en bénéficier au même titre que les adultes.
 
-on sent bien qu'on sadress eaux pays qui continuentn à exploiter els enfants. 
+Ces textes ciblent surtout les États où la condition juridique est déplorable. Dans les États occidentaux, en revanche, l’**ultra-précision** des droits fondamentaux peut conduire à certaines dérives.
 
-en 1948 la decla unvierselle des drotis de l'homme préovit un article 25 sur la maternité et l'enfance. Tous les enfants meme hors mariage ont le droit àal protection. On vise l'autorité de la religion qui faisiat des distinctions entre enfant légitimes et enfant illégitimes. 
+Une dérive possible concernant les enfants serait la disparition de l’autorité parentale. Les enfants demeurent-ils soumis à l’autorité de leurs parents, ou bien, parce qu’ils disposent de droits fondamentaux, n’ont-ils plus aucun référentiel d’autorité ? Exemple : la loi interdisant les châtiments corporels. Si les enfants disposent de droits fondamentaux, l’État et le juge pourraient nous dicter la manière d’élever nos enfants.
 
-en 1959 y'a uene declaration de la protectiond es droits de l'enfant par les nations unis. le pacte international des droits eocnomqieis civils reaffirme al protection des enfants.
-
-conveitn de 1989 contre l'eslavave abus sexuel pornographie les trafis et les enfants soldats. La portée juridiqe de ces textes interrogent et ne sont aps contragiants. Il svisent des etats ou les droits ofndamentaux ne sotn meme pa sgarnatis. 
-
-si on reconnaissaitune portée contraignange, est ce qu'a pas une redonance avec lles droits fondamentaux  qui rapport à tous els etres humaines, donc les enfants devraient beneficier a la meme hauteur que els adultes.
-
-isl visent état om condition juridque est deplorable. Dnas les etats occidentaux, l'utlra préicison des drotisofndametnaux peuvent conduire à certaines derrives. 
-
-derrive possible pour enfants : disparituon de l'autorité parentale. est-ce que les enfants restent somis à uen autorité parentale, ou estce que parce que les DF enfants ontplus acuun referentiel d'autorité ? Ex loi interidciton corporelle. Si enfants à des drois fondamentaiux etat et juge peuvent nosu dire comment elever nosenfants.
-
-souveotn on se dit qu'on est meiux protégé, mais c le droit fondamentaux des parents qui sotn reduits.
+On pense souvent être mieux protégés, mais ce sont en réalité les **droits fondamentaux des parents** qui se trouvent réduits.
 
 ##### B) Du citoyen à l'étranger
 
-on pourrait se dire que les Df sont des droits de la constituin, des droti tsintenres, on pourrait se dir eque y'a que le snationaux qui beneficiiaent de ces droits fondamentaux. Logique tres restrcive qui cosnacre droits fodnametnaux mais que pour les citoyens;
+On pourrait penser que les droits fondamentaux sont des droits **internes** issus de la Constitution, et que seuls les nationaux en bénéficient. Il s’agirait alors d’une logique très restrictive : les droits fondamentaux ne profiteraient qu’aux citoyens.
 
-quels sont les drotis fodamentaux reconnsu axu ciotyens et peuvente tre etendu aux differents stauts politques insivuds se trouvant sur territoire? 
+Quels sont alors les droits fondamentaux reconnus aux citoyens et qui peuvent être étendus aux différents statuts politiques des individus présents sur le territoire ? Est-ce un national, un étranger, un citoyen européen ? La réponse a des conséquences sur les droits fondamentaux qu’ils peuvent invoquer.
 
-est-ce que c un national? un etrager? un citoyen europée? ca a des csq sur DF quil peut invoquer. 
+Dans une logique de droits internes, les droits fondamentaux sont ceux consacrés par la norme suprême, la Constitution d’un État. On pourrait donc s’attendre à ce qu’ils ne s’appliquent qu’aux ressortissants de cet État. Mais la population d’un État ne se compose pas uniquement de citoyens : il y a aussi des personnes qui transitent sur le territoire, comme les touristes, les hommes d’affaires ou les demandeurs d’asile. Le juge constitutionnel a donc dû prendre en compte ces différentes catégories.
 
-Dans une logique de droits itnernes, les droits fodamentaux sotn les droits consacrés par la norme supreme, par la constiutitn d'un état, et donc on pourrait s'attendre à ce que les droits fondamentaux s'appliquent qu'aux ressortissants d l'état sur son territoire.
+La règle générale est que les droits réservés aux citoyens de l’État ne bénéficient, en théorie, à aucune personne étrangère. Par exemple, le droit d’accès et de séjour sur le territoire national, ou encore la libre circulation, ne concernent en principe que les citoyens nationaux. Les **nationaux**, quant à eux, disposent du droit de ne pas être éloignés du territoire national : c’est la lutte contre l’apatridie. Ils bénéficient également du **droit à la protection diplomatique** : un Français à l’étranger peut se rendre dans une ambassade de France pour y obtenir protection, encore faut-il que le pays en dispose d’une.
 
-dans la population d'un état y'a pas que des citoyens, y'a des perosnnes qui transitent sur le territoire de de l'éttat, ex touristes hommes d'affaires demadnerusd d'asiles. 
+L’assistance de l’État à ses ressortissants à l’étranger va d’ailleurs plus loin que la protection diplomatique. Lorsqu’un Français est kidnappé à l’étranger, l’État peut négocier sa libération, voire organiser directement son sauvetage (par exemple via la DGSE). L’État publie même des cartes classant les pays selon leur niveau de dangerosité, indiquant en rouge ceux où il ne pourrait pas intervenir efficacement. Tout citoyen a ainsi droit au **secours de son État-nation**, conception proprement française.
 
-le juge cons a pris en compte ces differentes catégories.
-
-la règles générale c'est que les droits qui sont reservés aux citoyens de l'état en théorie aucune personne étrangère à cet état n'en peut bénéficier, ex le droit d'accès et de séjour sur le territoire national, la libre circulation en théorie y'a que les cityoens de l'état qui peuvent se prévaloir d'un droit à acceder et à séjourner sur le territoir national.
-
-cLes nationaux ont un droit de ne pas être étloigné du territoire national, c'est la lutte contre l'apatridie, droit à la protection diplomatique (ex on est étranger sur un territoire on a nationalité frnaçaise on peut acceder à toutes les ambassades de france et obtenir uen protection sur let erritoire de l'ambassade, encor efaut il que pays ait une ambassade). 
-
-le secours de l'état à l'étranger va plus loin que la protection diplomatique. Lorsque des ressotissants français sont kidnappé s à l'étranger, l'état frnaçais petu négocier leurs libération ou tenter de les libérer lui meme (avec la DGSE). L'éta produit les cartes où il classe les pays, en rouge ceux où on peut pas venir nosu chercher. 
-
-tout ciotoen a droit au secours de son état nation (conception française).
-
-La participation politique : ce sont les droits d'électorat (le droit de voter) et d'éligibiltié (le droit de se porter candidat). C'est interdit aux étrangers parce que la chose politque, la chose démocratiuq est réservée aux citoens qui sont concernés par la décision. 
+Enfin, concernant la **participation politique**, il s’agit du droit de vote et du droit d’éligibilité. Ces droits sont réservés aux citoyens, car la vie politique et démocratique relève de ceux qui sont directement concernés par les décisions. Les étrangers en sont donc exclus.
 
 ###### 1) L'étranger en situation irrégulière. 
 
-c'est l'état qui gère ses frontires et qui va délvirer au terme de ses procédures juridiques des titres de séjour. 
+C’est l’État qui gère ses frontières et qui va délivrer, au terme de ses procédures juridiques, des titres de séjour.
 
-mais situations où la personen est en infraction càd pas respecté procédure du CESENA, est-ce que pour uatnat il est privé de tous droits fondamental? Non. La conception françsie a été cosntruite par une inteprretatin du conseil constitutionel (débat : gouvernemetn des juges). Dans le bloc de constitutionalité y'a pas grand chose.
+Mais dans les situations où la personne est en infraction, c’est-à-dire lorsqu’elle n’a pas respecté la procédure du **CESEDA**, est-ce pour autant qu’elle est privée de tous droits fondamentaux ? **Non.** La conception française a été construite par une interprétation du Conseil constitutionnel (débat : _gouvernement des juges_). Dans le bloc de constitutionnalité, il n’y a pas grand-chose de prévu explicitement.
 
-Dans décision 93-325 DC le conseil constitutionnel a considéré que le législateur doit respecter les droits et libertés fondamentaux e tous ceux qui résident sur le territoire française. 
+Dans la **décision n° 93-325 DC**, le Conseil constitutionnel a considéré que le législateur doit respecter les droits et libertés fondamentaux de **tous ceux qui résident sur le territoire français**.
 
-dans la déicison, le consiel mentionne masi pas certain que ce soit exaustif : le legislateur doit respecter la liberté individuelle, la sûreté (droit de pas être détenu arbitrairement), la liberté d'aller et venir, la liberté du mariage, et le droit de mener une vie familiale normale. 
+Dans cette décision, le Conseil mentionne — sans que ce soit nécessairement exhaustif — que le législateur doit respecter :
 
-la france impose quand meme des standarts : ex pas de mariage polygame. article du CESENA L432-3 on petu se voir refuser un titre de sséjoru si situation de polygamie. 
+- la liberté individuelle,
+- la sûreté (droit de ne pas être détenu arbitrairement),
+- la liberté d’aller et venir,
+- la liberté du mariage,
+- et le droit de mener une vie familiale normale.
 
-le consiel consttutionnel a rendu une autre déciison imporatnte en la matière :  2003-488 DC le consiel areconnu ua legislateur la possiiblité de conditionner la jouissance de certainsdroits à la régularité du titre de séjour. Dans cette décision 2003-488 DC, le conseil explique qu'on petu fair eune disincitonen fcntion régularité du titre de séjour, à condition qiue ça ne détruise pas le droit fondamental dans son principe, càd qu'on va pouvori renier sur le régime, la mis ene oeuve du droit ofndamental mais pas sur tout le droit ofndamental.
+La France impose toutefois des standards : par exemple, **pas de mariage polygame**. L’article **L. 432-3 du CESEDA** prévoit qu’on peut se voir refuser un titre de séjour en cas de situation de polygamie.
 
-exemple : l'accès des étrangers au soin médicaux. En france, y'a la couverture sociale classique, l'aide médicale d'état, et pendant un temps tout le modne situation régullière ou non tout le monde a droit à l'AME. Sauf que les droit sofndamentaux de deuxieme generation ça coute cher, les conceptiosn universalistes se crispent. R2duction apr leelegislatue rde AME : il fait dusticitone ntre aide medicale d'état et aide médicale d'urgence. Etranger en sitaution irréguleire a plus un droit à prise en charge totale. Mais is pronostic vitale est engagé on nous prend en charge c'est l'aide médicale d'urgence.
+Le Conseil constitutionnel a rendu une autre décision importante en la matière : **décision n° 2003-488 DC**. Il y reconnaît au législateur la possibilité de conditionner la jouissance de certains droits à la régularité du titre de séjour. Dans cette décision, le Conseil explique que l’on peut faire une distinction selon la régularité du titre de séjour, **à condition que cela ne détruise pas le droit fondamental dans son principe**, c’est-à-dire que l’on peut aménager le régime ou les modalités de mise en œuvre du droit fondamental, mais pas le supprimer totalement.
 
-le conseil constituitonel a accepté que l'accès au RSA soti conditionné à une durée de résidence minimale de 5 ans, toujours poru des contraintes économqiues. décsion 98-399 DC le conseil constituitonel a onsicéré que c'était proportionnel. 
+**Exemple :** l’accès des étrangers aux soins médicaux. En France, il existe :
 
-masi le conseil cosntiutitonel détailel pas son controle de proportionnalité, on a pas le détail des argumetns pour dire que c'est proportionné. Ca crée de l'arbitraire dans la déicison du juge et régime arbitraire pour le législateur. 
+- la couverture sociale classique,
+- l’Aide médicale d’État (AME).
 
-y'a un pb de pédagogie qui ressort dans décison 2024-6 RIP : art 11 prévoit qu'on ne peut légiferer sur institution sociales économqiues et environnementale. 
-Les républciaisn ont dit que c pas immigration masi économie et sociale car on veut mettre une distinciton sur el ebenfice de nobmreuse préstatiosn socaiels ex RSA aide au logement AME etc.
+Pendant un temps, toute personne, en situation régulière ou non, avait droit à l’AME. Mais les droits fondamentaux de **deuxième génération** coûtent cher, et les conceptions universalistes se sont heurtées à des contraintes économiques. Le législateur a donc réduit l’AME, en distinguant l’**AME** et l’**aide médicale d’urgence**. L’étranger en situation irrégulière n’a plus un droit à une prise en charge totale, mais si son **pronostic vital est engagé**, il bénéficie de l’aide médicale d’urgence.
 
-le conseil dit ok c'est bien domaien sociael et économqieu mais a considéré que c'étati disproproitoné car durée de disticntion est de 5 ans, alors que dans décision 98 5 ans c'est proproitoné, mais 2024 c'est disproportionné. (oral : exemple pour provuer les dérives d'un gouvernemetn des juges)
+De même, le Conseil constitutionnel a accepté que l’accès au **RSA** soit conditionné à une durée de résidence minimale de 5 ans, toujours pour des motifs économiques. Dans la **décision n° 98-399 DC**, le Conseil constitutionnel a considéré que cette condition était proportionnée.
+
+Cependant, le Conseil n’a pas détaillé son contrôle de proportionnalité : on ne connaît pas les arguments retenus pour juger que c’est proportionné. Cela crée une impression d’arbitraire dans la décision du juge, et laisse au législateur une grande marge d’appréciation.
+
+Un **problème de pédagogie** ressort aussi de la **décision n° 2024-6 RIP** : l’article 11 de la Constitution prévoit qu’on ne peut légiférer par référendum sur les institutions sociales, économiques et environnementales. Les Républicains ont soutenu qu’il ne s’agissait pas d’immigration, mais d’économie et de social, car ils voulaient instaurer une distinction concernant l’accès à de nombreuses prestations sociales (RSA, aides au logement, AME, etc.).
+
+Le Conseil constitutionnel a admis que la question relevait bien du domaine social et économique. Mais il a jugé que c’était **disproportionné** d’imposer une durée de 5 ans, alors que, dans la décision de 1998, 5 ans étaient considérés comme proportionnés. Ici, en 2024, le Conseil a jugé la mesure disproportionnée.
+
+**(Exemple oral : à utiliser pour montrer les dérives possibles d’un “gouvernement des juges.”)**
 
 ###### 2) L'étranger demandeur d'asile
 
-l'étranger demandeur d'asile bénéficie de l'ensemble des DF reconnsu axu étrangers en sitaution irrégulière, déciosn 93-DC consiel cons considere que étrangeres demadneurs d'asile beneficient dees emme droit sfondamentaux que étrangers en sitaution irrégulire + un ajout quand on est demandeur d'asile ona un droit d'acces provisoire au territoire, càd on va avoir un titre de séjoru spéicifqu elié à notre dmadned 'asile, alorsq ue ceux en sitaution riréguleire otn pas de droti à demerer sur le territoire.
+L’étranger demandeur d’asile bénéficie de l’ensemble des droits fondamentaux reconnus aux étrangers en situation irrégulière. Dans la **décision n° 93-325 DC**, le Conseil constitutionnel considère que les étrangers demandeurs d’asile bénéficient des **mêmes droits fondamentaux** que les étrangers en situation irrégulière.
 
-###### 3) L'étranger résidant en france de manière stable et régulière
+**Mais il y a un ajout spécifique :** lorsqu’on est demandeur d’asile, on dispose d’un **droit d’accès provisoire au territoire**, ce qui se traduit par la délivrance d’un **titre de séjour spécifique lié à la demande d’asile**, alors que les étrangers en situation irrégulière n’ont pas de droit à demeurer sur le territoire.
 
-les DF font pas de idstiocntion entre status poltique sdonc c le conseil qui dans une déicison 89-269 DC :  pose un principe d'assimilation entre français et étrangers en sitaution réuglière pour le bénéfice des droits fodnametnaux, sauf une chose qui est de participer à la vie politique. Le conseil pose un principe d'égalité des drotis fodnamentaux dès lors qu'on est en sitation stable et régulière. 
+###### 3) L'étranger résidant en France de manière stable et régulière
 
-lorsquo'n est un étranger en sitaution réugliere, la déicion 93-365 DC prévoit un droit à al vie familaiel noramel qui va plus loin que les étrangers en sitaution réguliere. On a un droti à faire venir notre famille aupres de vous, on a un droit à l'obtention à un titre de séjoru régulier pour le reste de la famille. 
+Les droits fondamentaux ne font pas de distinction entre statuts politiques : c’est donc le **Conseil constitutionnel** qui, dans la **décision n° 89-269 DC**, a posé un **principe d’assimilation** entre Français et étrangers en situation régulière pour le bénéfice des droits fondamentaux, **à l’exception de la participation à la vie politique**. Autrement dit, le Conseil pose un **principe d’égalité des droits fondamentaux** dès lors que l’on est en situation stable et régulière.
 
-y'a donc pas de débat sur les droits de premierèe générataion. C'est pas ceu xqui sont mbilisés das lajurisrpuence du conseil ex sureté liberté d eocnsicence porpriété etc. Ils posent pas de problème parce qu'ils ne coutnet iren. L'état ne petu pas s'ingérer dans les affaires individuelels. Dire que tout le mond ene benefiicei ça lui coute pas grand chose, et c meme une conditon de developpement de l'état.
+Lorsqu’on est un étranger en situation régulière, la **décision n° 93-365 DC** reconnaît un **droit à une vie familiale normale** qui va plus loin que pour les étrangers simplement tolérés sur le territoire. Cela implique le droit de faire venir sa famille auprès de soi, ainsi qu’un droit à l’obtention d’un **titre de séjour régulier** pour les membres de cette famille.
 
-les DLF qui sont discutés ce sont le plus souvent les droits de deuixeme generation, càd les drotits créances, c'est une créance de l'état sur tous les beneficiaires. L'état a une dette à l'égard de tous les benefiicaires des drotis fodnamentaux de seconde génération. plus on étend les beneficiaires des DLF de 2nde generaitn, plsu la charge financiere sera lourde ex le RSA et l'aide médicale d'état. 
+Il n’existe donc pas de débat particulier concernant les **droits fondamentaux de première génération** (sûreté, liberté de conscience, droit de propriété, etc.). Ces droits ne posent pas de problème car ils n’impliquent **aucun coût direct pour l’État** : il suffit que l’État n’intervienne pas dans les affaires individuelles. Leur reconnaissance universelle est même une condition de développement de l’État.
 
-si on reconnait RSA pour tout le monde, il faut abaisser le montant poru que tout le mond ene beneficie. 
+En revanche, ce sont surtout les **droits fondamentaux de deuxième génération** (_droits-créances_) qui font débat. Ces droits constituent une créance sur l’État au profit de tous leurs bénéficiaires : l’État devient débiteur vis-à-vis de chacun. Plus on étend les bénéficiaires de ces droits (comme le RSA ou l’Aide médicale d’État), plus la charge financière est lourde. Si l’on ouvrait le RSA à tout le monde, il faudrait en abaisser le montant pour que chacun en bénéficie.
 
+**Deuxième réflexion :** l’État ne peut pas non plus se fermer totalement. Limiter les droits fondamentaux aux seuls citoyens comporte un risque pour le développement de l’État. Les États qui se ferment complètement rencontrent des difficultés économiques et technologiques (exemple : la Corée du Nord).
 
-
-deuxieme reflexion : on ne peut pas non plsu fermer l'état. Si on ferme l'état en disant qeu les droti sofndamentaux c que pour le scitoyens y'a un risque pour le dev de l'état. Les etats qui se fermetn complemtent on un pb de dev economqieu technologique ex corée du nord.
-
-dans nso société smodnailisés le dev de l'état va depdendre de l'attractivité de notre état, car des gens vont venir y faire d ela recherche, 
-
-attirer les entreprises sur le territoire permet son deeloeppe,t car entreprises vont créer des emplois, payer des impots pour financer des droits créances. 
+Dans nos sociétés mondialisées, le développement d’un État dépend largement de son **attractivité**. Attirer chercheurs, talents et entreprises sur le territoire favorise la croissance : les entreprises créent des emplois, génèrent de l’innovation et paient des impôts qui permettent ensuite de financer les **droits-créances**.
 
 ###### 4) Le citoyen européen (union européenne)
 
-la citoyenneté va donner des droits fodnamentaux à tous les ressortaisants de l'UE. La citoyenneté euroépene s'ajoteu aux citoyeentés des états membres.
+La citoyenneté européenne confère des droits fondamentaux à tous les ressortissants de l’Union européenne. Elle **s’ajoute** à la citoyenneté nationale des États membres.
 
-Tous les citoyens euorpéens ont un droit de circulation et de séjoru sur tous les territoires des états membres.
+Tous les citoyens européens disposent d’un **droit de circulation et de séjour** sur l’ensemble des territoires des États membres.
 
-articel 21 paragraphe 1 TFUE qui pose une interdiction pour les états membres de discriminer fondée sur la nationaitée dans l'UE. 
+L’**article 21, paragraphe 1 du TFUE** interdit aux États membres toute discrimination fondée sur la nationalité au sein de l’Union. En conséquence, tous les citoyens européens ont accès aux mêmes prestations et aux mêmes droits-créances. La **CJUE** veille particulièrement au respect de ce principe de non-discrimination, car le but de l’Union européenne est la mise en place d’un **marché unique**. Or, les discriminations fondées sur la nationalité risqueraient de porter atteinte aux libertés fondamentales qui en sont la base : libre circulation des biens, des marchandises, des personnes et des capitaux.
 
-tous els citoyens européenne onta cces a la meme prestaion, tous les drotis créances. la CJUE va veiller au respect de ce respect de non discriminationparce que le but de l'union euorpéenne c'est l'insaturation d'un marché unique, donc les discriminations fondée sur la nationatée fisrque de porter atteinte à l'objet de l'UE qui est la libre circulation des bien,s des marchandises, des personens st des capitaux. 
+Un **deuxième avantage** de la citoyenneté européenne est l’octroi de **droits politiques**. Tout citoyen européen peut :
 
-deuxieme avanage :à cetet citoyennemeté européenne est attachée des droits polituqes. 
+- voter aux élections locales dans tout État membre,
+- se présenter comme candidat à ces élections (éligibilité), par exemple devenir conseiller municipal.
 
-on peut voter aux elections locales dans toute l'union européenne, et aussi éligiblité. On peut devenir conseiller municipal. 
+Cependant, le **Conseil constitutionnel français** a posé des limites afin de protéger les conditions essentielles de l’exercice de la **souveraineté nationale**. L’intégration européenne ne doit pas permettre à un citoyen européen d’exercer un pouvoir de décision engageant la nation.
 
-le consiel cosntiutonel a quand mee posé une limite : la protecrtion des conditosn essentielles de l'exercie de la souveraineté natioanle., il a posé des limites à l'integration eurioéenne. 
+- Le **maire**, en France, est une autorité déconcentrée de l’État : un ressortissant européen ne peut donc pas accéder à cette fonction, même s’il est élu, car elle implique des compétences de souveraineté nationale.
+- De même, un citoyen européen ne peut pas participer à l’élection des sénateurs, car ceux-ci votent la loi.
 
-limites : il ne fat pas qu'un citoyen européen ait un pouvoir de décision sur alv e de la nation. Le maire est une autorité déconcentrée de l'état. On peut pas exercer des competences de souveraineté nationale, meme si élu. On peut pas participer à l'election des sénateurs, car ils votent le slois. 
-
-droit de vote au parlement européen : on peut participer aux elections des parlemetnaires eurpéen petu importe pays où on est. En revanche en france y'a des limites à la pariticpation à la democratie nationale.
+En revanche, tout citoyen de l’Union peut participer aux **élections européennes**, et ce quel que soit l’État membre dans lequel il réside. Mais en France, il demeure exclu de la participation à la démocratie nationale au sens strict.
 
 #### Paragraphe 2 : Une dilution des bénéficiaires de droits fondamentaux : l'apparition de titulaires non humaines
 
-ets-ce que l'apparition de tous ces nouveaux titulaires conduit à noyer le titulaire indivudel dans une realité juriidque plsu complexe ? plus on reconait des DLF plus il va falloir les concilier. 
+Est-ce que l'apparition de tous ces nouveaux titulaires conduit à noyer le titulaire individuel dans une réalité juridique plus complexe ? Plus on reconnaît des droits et libertés fondamentaux, plus il devient nécessaire de les concilier.
 
-Ici plus on reocnnait les titluaries plus on multiplie les risques de confrontiations. 
+Ainsi, à mesure que l’on élargit le cercle des titulaires, on multiplie les risques de confrontations entre droits.
 
 ##### A) Les prolongements de la personne humaine
 
-2 problémaitques: la quesiton de l'embryon et la questiond e la famille.
+Deux problématiques principales se posent : la question de l’embryon et celle de la famille.
 
 ###### 1) La famille
 
-c'est plsu une spéficitaiton de l'être humain, c une cellule entre l'état et l'humain, une cellule famiiale. Apres la 2nde guerre modnael; y'a un depassmenet partout en euroep du pur individualisme revolutionnaire, qu'on retrouvait bcp dans la DDHC de 1789 où le sujet c tjrs l'homme, le citoyen.
+C’est plus une **spécification de l’être humain**, une cellule intermédiaire entre l’État et l’individu, une cellule familiale. Après la Seconde Guerre mondiale, on observe partout en Europe un dépassement du pur individualisme révolutionnaire, qu’on retrouvait notamment dans la Déclaration des droits de l’homme et du citoyen de 1789, où le sujet est toujours l’homme, le citoyen.
 
-Après la 2nde guerre mondaiel probleamtique de reocnsturction de l'état qui ont été ravagés par la guerre, apparition des droits economiques et sociaux (les droits créances). On va marteler partout en euorpe et sur scene internaitonale la necessité de reocnnaitre la place de la famille dans la société. Derreire ces bonnes intentions y'a un certain cynisme, pragmatiusme, on a tué des milliosn deperosnnes va fallori les remplacer, faut reproduire de la démographie.  Il faut un cadre adapté : faut des familles. 
+À la suite de la Seconde Guerre mondiale, face au problème de reconstruction des États ravagés par la guerre, apparaissent les **droits économiques et sociaux** (les « droits-créances »). On martèle partout en Europe et sur la scène internationale la nécessité de reconnaître la place de la famille dans la société. Derrière ces bonnes intentions se cache aussi un certain **cynisme pragmatique** : des millions de personnes ont été tuées, il faut les remplacer, il faut relancer la démographie. Il faut donc un cadre adapté : des familles.
 
-pour tout reocnstruire, état va aider la famille à produire de nouveaux individus. les traces en droit français y'a alinéa 10 et 11 du préambule de 1946 "la nationa ssure à individu et à la famille les conditions nécessaires de leur développement".
+Pour tout reconstruire, l’État va aider la famille à produire de nouveaux individus. On en trouve des traces en droit français dans les alinéas 10 et 11 du **Préambule de 1946** : « La Nation assure à l’individu et à la famille les conditions nécessaires à leur développement. »
 
-la familel va etre comprise comme une mini société que l'état doit proteger car elle va produire des enfants. Le fonctionnment ud'n état qui proclame des droits économiques et socaux : faut une pyramide démographique stable, plus d'enfants que de vieux. Etats ont un beosin d'instauraiton d'une démographie positive car on passe dans uen dymanqeu état providence. 
+La famille est comprise comme une mini-société que l’État doit protéger, car elle produit des enfants. Le fonctionnement d’un État qui proclame des droits économiques et sociaux suppose une **pyramide démographique stable** : plus d’enfants que de personnes âgées. Les États ont besoin d’instaurer une démographie positive dans le cadre de la dynamique de l’**État-providence**.
 
-exempel droit comapré : constituion italienen du 22 demcebre 1947 2 artricels qui demoignent de cette novuelel posture de l'état.
+En **droit comparé**, la Constitution italienne du 22 décembre 1947 comporte deux articles qui témoignent de cette nouvelle posture de l’État :
 
-articel 29 prévoit "la républqiue reconnait les droits de la fmaille en tant que société naturelle fondée sur le mariage". 
+- **Article 29** : « La République reconnaît les droits de la famille en tant que société naturelle fondée sur le mariage. »
+- **Article 31** : « La République favorise par des mesures économiques et autres moyens la formation de la famille, et l’accomplissement des devoirs qu’elle comporte. »
 
-articel 31 "la république favorise par des mesures économqiues et autres moyens la formation de la famille, et l'accomplissment des devoirs qu'elle comporte". 
+En **droit international**, on retrouve la même logique :
 
-en droi tinternational, DUDH de 1948 article 16 alinéa 3 "la famille a le droti à la protectiond ela société et de l'état." 
+- **Article 16, alinéa 3, de la DUDH (1948)** : « La famille a droit à la protection de la société et de l’État. »
+- **Article 23 du PIDCP (1966)** : « La famille est l’élément naturel et fondamental de la société et a droit à la protection de la société et de l’État. »
 
-article 23 PIDCP 1966 "famile est l'élément naturel et fondamental de la société et a droit à la protection de la scoiété et de l'état". 
-
-sujet oral : peut etre sur le droit mariage, on peut parler enjex conséquence, l'extension des beneficiaires des DF. Alinéa 10 du préambule de 46. Attention ne pas s'autocensurer : faire un maximum de lien entre les differents pans du cours, et avec autres matières (droit admin, droit pénal), ne pas avoir peur du hors sujet. Il faut juste des arguments de droits article jurisprudence concept etc.
+**Sujet d’oral possible** : la question du droit au mariage. On peut alors évoquer les enjeux et les conséquences, notamment l’extension des bénéficiaires des droits fondamentaux (alinéa 10 du Préambule de 1946). Attention : il ne faut pas s’autocensurer. Il convient de faire un maximum de liens entre les différents pans du cours, mais aussi avec les autres matières (droit administratif, droit pénal, etc.). Le hors-sujet n’est pas à craindre dès lors que l’on mobilise des **arguments de droit (articles, jurisprudence, concepts)**.
 
 - **a) Les droits de la famille**
 
-la famille lorsquo'n considere qu'elle doit être protégée par la société, par l'état, cette famille imlique le droit de ne pas être divisé arbitrairement par une puissance publique, càd lorsqu'on a une famille on bénéfiice d'une sorte de sûreté familiaiel, on ne peut pas détruire arbitrairement la famille. 
+Lorsqu’on considère que la famille doit être protégée par la société et par l’État, cela implique notamment le **droit de ne pas être divisée arbitrairement par une puissance publique**. Autrement dit, lorsqu’on fait partie d’une famille, on bénéficie d’une forme de sûreté familiale : l’État ne peut pas détruire arbitrairement cette cellule.
 
-ça fait écho à 3 choses : 
+Ce principe renvoie à trois aspects essentiels :
 
- a ce que la CEDH appelel le droit a vie familaile noramle, c un droit à vivre avec notre famille. Enormemetn de conseuqnces sur alc ocneption du droti de la famille.  la familel ebeneficie de protecton contre les decisiosn deplacmene tarbitraire, on ne peut pas placer arbirairement enfant d'une famlle quelqeu part. Idem pour daulte ex plcmeent en hoptial psychatrique, ravageur dans europe de l'est, utilisé ocmme excuse par parti communiste poru se debarasser des oppossants. egalement msie sous tutelle et curatelle, régie par des lois qui doient etre repsectueuse des droits fondametnau.  placemnet sont pasinterdits mais doivent etre jusitifé en dorit proproitoné dans les faits déclaré et prises par des autorités competetnes etc. O n fait disparaitre les procedures arbutraire.
+1. **Le droit à une vie familiale normale** reconnu par la CEDH : c’est le droit de vivre avec sa famille. Ce droit a de nombreuses conséquences sur la conception juridique de la famille. Ainsi, la famille bénéficie d’une protection contre les décisions arbitraires de placement. Par exemple, on ne peut pas placer arbitrairement un enfant dans une institution, ni interner un adulte en hôpital psychiatrique sans base légale — pratique qui, dans certains pays d’Europe de l’Est, a été utilisée par des régimes autoritaires pour se débarrasser d’opposants politiques. Il en va de même pour les mesures de tutelle ou de curatelle : elles doivent être encadrées par des lois respectueuses des droits fondamentaux. Les placements ne sont pas interdits, mais ils doivent être **justifiés en droit, proportionnés aux faits, décidés par des autorités compétentes** et encadrés par des procédures légales, afin d’exclure toute forme d’arbitraire.
 
-le droit de ne pas être diviser arbitrament permet évalemetn d'etre protégé ocntre décison d'exupulsion ou décision arbitraire : il va devoir respecter une procédure qui va deovir ocnclier les interets publics et le droit à une vie familliale normale, rappelé par le consiel cons déciosn 86-200-16 DC "le legislatuer losqui'o élabore regle dentrer et de séjour des etrangers doivent tenir compte de cette liberté fodnamentale". 
+    Ce droit protège également contre les décisions d’expulsion ou toute mesure arbitraire portant atteinte à la vie familiale. Le Conseil constitutionnel l’a rappelé dans sa décision n° 86-216 DC : « Le législateur, lorsqu’il élabore les règles d’entrée et de séjour des étrangers, doit tenir compte de cette liberté fondamentale. »
 
-2eme conséquence : c a la familel qu'on reconnait le droit d'elever de enfnats. Conception partiucliere de la famille dans cette ocnsturctiond es droits fodnamentaux. En en faisiant un droi tcréance, c'est létat qui délegue à la famille le droit d'elever les enfnats. La famille ne sera plus souveraine dans l'éucation des enfants. 
+2. **Le droit reconnu à la famille d’élever les enfants.** Cette construction particulière des droits fondamentaux fait de l’éducation un véritable droit-créance : c’est l’État qui délègue à la famille la mission d’élever les enfants. Dès lors, la famille n’est plus totalement souveraine dans l’éducation des enfants. C’est une **autorité parentale déléguée** : juridiquement, ce n’est pas la famille qui détient en propre l’autorité, mais l’État qui la confère aux parents.
+    
+    Cela se traduit par des interventions législatives ou réglementaires dans le contenu même de l’éducation. Par exemple :
+    
+    - Le débat lancé par Emmanuel Macron autour d’un référendum sur l’accès des enfants au numérique.
+        
+    - Le projet de règlement de l’Union européenne visant à lutter contre la pédopornographie en imposant des systèmes d’IA capables de scanner les communications privées. L’objectif est de protéger les mineurs, mais une telle mesure pose de graves problèmes pour d’autres libertés fondamentales, comme la liberté d’expression ou le droit à la vie privée.
+        
+    Dans le même esprit, la loi du **10 juillet 2019 relative à l’interdiction des violences éducatives ordinaires** illustre cette logique. En interdisant la gifle ou la fessée, le législateur fixe les limites de l’autorité parentale. Les violences éducatives « extraordinaires » (relevant du pénal) étaient déjà interdites ; désormais, ce sont même les violences éducatives dites « ordinaires » qui sont proscrites.
 
-ex macron qui voulati referundu sur acces des enfants au nuémriaue.
+3. **La marge de manœuvre du législateur.** Le fait que le législateur détermine le contenu de l’autorité parentale signifie qu’il peut en fixer le niveau dans la société. Dans cette conception, les parents ne disposent pas d’une liberté absolue pour éduquer leurs enfants comme ils l’entendent. Certains y voient une explication sociologique : en restreignant trop la liberté éducative des parents, l’État façonne directement les modes d’éducation et, partant, la société elle-même.
 
-UE veut sortir un novuea reglemetn : objectif est de lutter contre la pédo-pornographie. poru proteger mineurs, UE veut mettre en place une IA qui va scanner les messages etc. Mais poru d'uatre libertés fondametnales c'est moins bien : on va porter attiente à la liberté des indivuds, liberté d'expfression.
+**Le droit de produire des enfants**
 
-loi du 10 juillet 2019 relative à l'interitiond ed iolecnes éducatives ordinaires, norameletn comme la famille est chargée d'eleger les enfants, l'état confrere aux parents uen autorité (qui est uen arutoé aprentale), sau fqu e comme on est dans uen delegation c pas les parents qui possent lautorité c état qui delegue au parents.
+C’est un droit qui tend aujourd’hui à disparaître, en raison notamment des **avancées techniques et médicales** qui permettent la stérilisation. On reconnaît désormais la possibilité pour un individu marié de se faire stériliser sans le consentement de son conjoint.
 
-dans cette ocnception du droi tofndamental l'état ne delegue pas toute souverainté aux parent,s il spossendet pas possibiltié d'éduqer lerus enfnats comme bon leurs semble.
+Dès lors, pourquoi continuer à reconnaître un droit de la famille en matière de procréation ? Ce droit, qui était historiquement conçu comme un **droit conjugal à l’enfant**, est de plus en plus remis en cause dans le droit de la famille.
 
-la loi de 2019 intedit toute violence éducative ordinaire (c pas interictiond s viooences educatives extraodinaires cad ce qui tombe dans le domaien pénal). La gifle, la fessée, c interdit par le legislatuer 
+Cela soulève tout le débat contemporain autour de la **gestation pour autrui (GPA)**, des **bébés-éprouvettes** ou encore du **clonage**. Par exemple, en Ukraine, pendant la guerre, la question du rapatriement des mères porteuses a illustré de manière concrète les tensions juridiques et éthiques autour de ce droit.
 
-le fait de doner cette marge de maneouvre au legilsatuer ca veut dire qu'il decide du niveau d'autorité parentale dans la société, quand on a ce type de decision du legislateur faut pas s'étonner qu'on ait des sociétés de mal elevés.
+**Le droit de propriété et d'assistance**
 
-- **b) Le droti de produire des enfants**
+Le droit de la famille pose en théorie une **conception particulière de la propriété et de l’assistance** au sein de la cellule familiale. Le fait de reconnaître l’existence juridique de la famille et de la protéger constitutionnellement permet au législateur de construire des régimes de solidarité ou de propriété spécifiques à la famille.
 
-c'est un droit qui est etnrain de se faire disparaitre. Adj technique médicale qui permettetn la stéréliation. on reconnati la psosiblité poru un individu marié de se faire stéréliser sans le consentement de son conjoint. 
+Deux exemples illustrent concrètement cette reconnaissance juridique et ce devoir d’assistance :
 
-alors pourquoi reconnaitre un droit à la famille?  C un droit conjgauls i enfant olus en ause dans le droit de la famille.
+- **La loi du 4 mars 2002** relative aux droits des malades et à la qualité du système de santé : elle prévoit l’information du patient et, le cas échéant, de sa famille. On revient ainsi à une logique d’autorité familiale : parfois, c’est la famille qui prend la décision médicale, notamment lorsqu’un individu ne peut plus s’exprimer lui-même.
+- **La propriété familiale** : la reconnaissance de la famille comme entité juridique permet de mettre en place des régimes de préférence fondés sur les liens familiaux. Par exemple, le **pacte Dutreil**, instauré par la loi du 1er août 2003, vise à préserver le caractère familial d’une entreprise. Il met en place divers dispositifs juridiques et fiscaux, notamment en matière de **successions**, afin de faciliter la transmission des entreprises familiales et d’encourager leur maintien dans le cercle familial.
 
-c tout le débat sur la GPA, les bébés éprouvettes, le clonage.  Ex uraine à la guerre on a voulu rapatrier les mère sporteuses.
+- **B) Le droit à la famille**
 
-- **c) Le droit de propriété et d'assiance**
+Il s’agit du **droit de mener une vie familiale normale**, un concept qui a été repris en droit français mais qui trouve son origine dans la jurisprudence de la **CEDH**.
 
-le droti de la familel pose en théroie une coentpion aprtiucleire de la prorpiété et de l'assistance au seind e la famille. le fait de reconnatire l'existence juridque de la famille, de la protéger consitititonellement, ca permet au legislateur de constrire des régimes de solidarité ou de propriété au seind el afamille. 
+- **Article 8 CEDH** : « Toute personne a droit au respect de sa vie privée et familiale. »
+- **Article 12 CEDH** : « À partir de l’âge nubile, l’homme et la femme ont le droit de se marier et de fonder une famille selon les lois nationales régissant l’exercice de ce droit. »  
+    On retrouve une formulation similaire à l’**article 23 du Pacte international relatif aux droits civils et politiques (PIDCP)**.
 
-2 exemples qui concretisnet l'existenc ejuridque d ela famille et le devoir d'assiante e:
-- loi 4 mars 2002 : relative au droit des malades et à la qualitié du systeme de santé.  elle préovit l'informaiton du patient et de sa famille, on reivent à l'autorité familiale, parfois c la famille qui prend la déicison médicale, notammenet lorsqu eindividu ne peut plus s'exprimer. 
-- la prorpiété : lef ait de reocnnaitre la famille comme entité juridque va permettre de mettre en place desrégimes de préférencefondée sur la famille, exemple le pacte du trail instauré par loi du 1er aout 2003 : y'a toout un ensemble de dispositifs juridquesq ui sientà encoruager età preserver le caractre famimail d'une entreprise, y'a des avantages fiscaux notamemnet en successions. 
+En droit interne, le **Conseil d’État** a considéré que ce droit de mener une vie familiale normale découle des **principes généraux du droit** et de l’**alinéa 10 du Préambule de 1946**. Dans l’arrêt **GISTI (1978)**, il a précisé que les étrangers résidant régulièrement en France bénéficient également de ce droit.
 
-##### B) Les droits à la famille
+Le **Conseil constitutionnel** a lui aussi reconnu ce droit dans sa décision n° 93-325 DC. Plus récemment, dans sa **décision n° 2023-1053 DC**, il mobilise explicitement la notion de droit à une vie familiale normale.
 
-c le droit de mener une vie familaile normale, c un concept qui a été repri en droi tfrancais mais qui a initalemtn été dégagé par la CEDH article 8 "toute personne a droit au respect de sa vie privée et familaile " et articel 12"a partide l'age nubile, l'homme et la femme ont le droit de se marier et de fonder uen famille selon les losi nationales reigssant l'exercice de ce droit".  Formulation similaire article 23 du DIDCP.
+Néanmoins, ce droit demeure un **standard juridique**, dont la portée dépend largement de l’interprétation du législateur et du juge constitutionnel, ce qui laisse subsister un certain risque d’arbitraire.
 
-le consiel d'état va considere qure ce droit de mener uen viefamilaiel nroamel réuslte de princiepe generaux du droi tet alinéa 10 du préambule de 46.
+- **C) Le droit au mariage**
 
-dans un arrêt de 1978 GISTI le conseil d'état précise que les étrangers résidant régulierement en france otn le droit de mener une vie familiale normale.
+Reconnu par décision 93-385 DC du Conseil constitutionnel : _« le principe de la liberté du mariage est une composante de la liberté individuelle »_, et cette liberté du mariage est protégée par les articles 2 et 4 de la DDHC.
 
-le conseil cons va reconnaitre ce droit décion 93 DC, et illustration récente décion 2023-1053 DC où il mobilise le droit de mener une vie familaile normale.
+Problème dans cette conception : pourquoi ne pas utiliser le préambule de 1946 pour raccrocher la liberté de se marier à la protection de la famille ?
 
-y'ale droti de meer uen vie famiamie noramel reste un standar juridqie, on peut retrouver l'arbitraire du legislatue et du juge consttutonel. 
-##### C) Le droit au mariage
-reocnnu par déciion 93 385 DC du Conseil consituton "le principe de la liberté du mariage est uen composante de la liberté individuelle", et cette liberté du mariage est protégée par les articels 2 et 4 de la DDHC. 
+Il semble faire une distinction.
 
-prboemed dans cette conception : pq ne pas utiliser le préambule de 46 pour raccroche rla liberté de se marier à la protection de la famille. ? 
+Plusieurs conséquences au droit de se marier.
 
-il semble faire une distinction. 
+Conséquence en droit positif : il s’agit d’une liberté publique encadrée par la loi, les lois vont venir poser un certain nombre de restrictions.
 
-plusieurs conséquences au droit de se marier.
+Interdiction de se marier avec des mineurs, et pour les majeurs incapables le législateur prévoit une procédure au cas par cas.
 
+Deuxième restriction : le mariage religieux doit succéder au mariage civil, afin d’obliger les gens à acter leur situation devant un officier d’état civil. L’État doit avoir une trace officielle de votre union. Aussi querelle très ancienne de séparation de l’Église et de l’État où un bon moyen pour l’État de dominer l’Église est de prendre l’ascendant sur les procédures d’union. Le mariage religieux ne vaut rien. Le mariage est désormais un statut civil.
+
+Autre implication : l’officier d’état civil est tenu de célébrer le mariage, il n’y a pas de marge de manœuvre (ex. : certains maires n’ont pas voulu célébrer de mariages homosexuels). L’officier d’état civil est dans une pure situation recognitive. Si toutes les conditions sont remplies, il doit célébrer le mariage. QPC 2013-253 : le Conseil a dit qu’il n’y a pas de marge de manœuvre pour les maires.
+
+Interdiction de l’inceste : on voit apparaître derrière le droit positif une conception de la reproduction défendue par l’État. On ne peut pas se marier avec des membres de notre famille.
+
+Interdiction de la polygamie : la loi prévoit un statut purement monogame. C’est une conception de l’État, le résultat d’un modèle civilisationnel. C’est une conception étatique de ce que doit être une famille : on impose une lecture monogame, qui a été validée par le Conseil constitutionnel dans la décision 93-325 DC, expliquant que les conditions d’une vie familiale normale sont _« celles qui prévalent en France, pays d’accueil, lesquelles excluent la polygamie »_. Dans cette décision, le Conseil conclut que pour les droits au regroupement familial, on ne peut pas faire valoir ce droit pour tous les époux/épouses. Le Conseil constitutionnel valide cette limite du législateur.
+
+Dans une décision 2013-312 QPC, le Conseil a expliqué que le législateur a le droit de conditionner l’obtention d’un titre de séjour à l’absence de polygamie. Il n’y a pas d’atteinte à la vie familiale normale.
+
+Dernière interdiction qui n’existe plus : l’interdiction initiale du mariage homosexuel. Initialement, le Conseil constitutionnel a appuyé le législateur. Dans la QPC 2010-92, il a expliqué que le droit à une vie familiale normale ne fait pas obstacle aux couples de même sexe de vivre en concubinage ou de bénéficier du cadre juridique du PACS. Le législateur est libre de faire des distinctions et de prévoir différents régimes. Le PACS, initialement, était un statut fait pour les personnes homosexuelles qui souhaitaient s’unir.
+
+Loi du 17 mai 2013 relative au mariage pour tous : cette loi a été immédiatement déférée au Conseil constitutionnel dans un contrôle a priori (2013-669 DC).
+
+Oral : pas besoin de dire _669 DC_. Juste juridiction, année et sujet. Le Conseil constitutionnel a constaté que le législateur a le droit d’étendre le bénéfice d’un régime à différents types de personnes.
+
+Les parlementaires qui ont saisi le Conseil ont mis celui-ci dans une situation difficile, parce qu’ils ont utilisé la notion de PFRLR. Critique des PFRLR : c’est le Conseil qui les reconnaît comme tels, c’est une capacité du juge constitutionnel à interpréter de nouveaux droits fondamentaux.
+
+Les PFRLR sont un outil de gestion des droits fondamentaux, mais qui appartient au juge, donc risque de gouvernement des juges.
+
+_« Considérant, en deuxième lieu, que la tradition républicaine ne saurait être utilement invoquée pour soutenir qu’un texte législatif qui la contredit serait contraire à la Constitution qu’autant que cette tradition aurait donné naissance à un principe fondamental reconnu par les lois de la République au sens du premier alinéa du Préambule de la Constitution de 1946 ; que, si la législation républicaine antérieure à 1946 et les lois postérieures ont, jusqu’à la loi déférée, regardé le mariage comme l’union d’un homme et d’une femme, cette règle qui n’intéresse ni les droits et libertés fondamentaux, ni la souveraineté nationale, ni l’organisation des pouvoirs publics, ne peut constituer un principe fondamental reconnu par les lois de la République au sens du premier alinéa du Préambule de 1946 ; qu’en outre, doit en tout état de cause être écarté le grief tiré de ce que le mariage serait “naturellement” l’union d’un homme et d’une femme »._
+###### 2) L'embryon comme détenteur de droits fondamentaux ?
+
+C’est le droit, pour une femme enceinte, d’accéder à l’avortement (IVG).
+
+En **1975**, le **Conseil constitutionnel** a considéré que l’IVG est constitutionnelle dans les conditions et limites prévues par la loi. Il a précisé qu’il s’agit d’une **liberté publique** et non d’une liberté fondamentale (décision **n°75-54 DC du 15 janvier 1975**).
+
+Dans une autre décision (**n°2001-446 DC**), il a confirmé la possibilité, pour le législateur, d’allonger la période d’avortement à **12 semaines**. Pour le Conseil constitutionnel, les embryons en dessous de 12 semaines ne sont pas encore des personnes : ce sont des **personnes à naître**. Les embryons ne sont donc pas titulaires du droit à la vie.
+
+Cependant, toutes les grossesses ne se valent pas (ex. grossesse issue d’un viol, déni de grossesse, etc.).
+
+En droit des biens et en droit des successions, on considère que « l’enfant est réputé né chaque fois qu’il y va de son intérêt », afin de protéger ses droits patrimoniaux. Mais, pour le juge constitutionnel, en dessous de 12 semaines, l’embryon n’a pas de droit à la vie. Au-delà, notamment lorsque le cœur commence à battre, l’embryon peut être protégé par le droit à la vie.
+
+Un autre domaine concerné est celui des **lois bioéthiques**. L’histoire a montré que l’expérimentation humaine pouvait piétiner les droits fondamentaux (ex. expériences nazies).
+
+Le législateur a donc adopté des lois bioéthiques qui portent atteinte à certains droits fondamentaux (ex. droit de propriété, liberté individuelle) des personnes se livrant volontairement à des expériences scientifiques, parfois contre rémunération.
+
+- **Décisions du Conseil constitutionnel du 27 juillet 1994, n°343/344 DC** : le juge a dû ménager les sujets sur lesquels des expériences biologiques étaient envisageables. Le législateur a autorisé l’utilisation de certains embryons fécondés **in vitro** à des fins de recherche scientifique, en distinguant ces embryons des autres.
+    
+- **Décision du 1er août 2013, n°2013-674 DC (lois bioéthiques 2)** : le législateur a assoupli les modalités de la recherche sur les embryons humains et les cellules souches. Le Conseil constitutionnel a estimé que ces expériences n’étaient pas contraires au principe de dignité de la personne humaine. Les embryons de moins de 12 semaines n’ont donc pas de droit à la vie ni à la dignité humaine.
+    
+
+La **CEDH** adopte une approche similaire : elle tente de ménager les droits de la mère et ceux de l’embryon. Dans sa décision **Vo c. France, 8 juillet 2004**, elle considère que le droit à la vie de l’enfant à naître est limité par les droits et intérêts de la mère, et qu’un équilibre doit être trouvé entre droits fondamentaux.
+
+Dans une autre décision, **Parrillo c. Italie, 27 août 2015**, la CEDH a refusé de qualifier les embryons de biens : en effet, si l’embryon était un bien, il pourrait faire l’objet d’un contrat. Or, un embryon est une **personne future**, il ne peut être assimilé à une chose. La CEDH autorise l’IVG (depuis l’arrêt de 2004), mais considère que le don d’embryons relève de la **vie privée du donneur** et s’oppose fermement à toute **marchandisation de l’embryon**.
+
+Aux **États-Unis**, depuis la Seconde Guerre mondiale, le sujet a évolué au niveau fédéral, bien que ce ne soit pas la compétence première de l’État fédéral. En **2023**, la Cour suprême est revenue à une interprétation stricte de la Constitution américaine : ce n’est pas au niveau fédéral de légiférer sur l’avortement, mais aux **États fédérés** de décider. Cela explique que certains États adoptent des législations qualifiées de « rétrogrades » par les médias.
+
+En **France**, la question a évolué récemment : la **révision constitutionnelle de 2024**, par la voie de l’article 89 (Congrès), a inscrit l’IVG dans la Constitution. L’article 34 précise désormais que :
+
+**« La loi détermine les conditions dans lesquelles s’exerce la liberté garantie à la femme d’avoir recours à une interruption volontaire de grossesse. »**
+
+#### B) Les groupements de personnes
+
+Il y a eu une évolution similaire concernant les groupements de personnes, en prévoyant quel type de personnes morales peuvent avoir des droits fondamentaux.
+
+Il existe une tradition française de crainte à l’égard des corps intermédiaires, qui apparaît dès la Révolution. On redoute une restauration des privilèges. L’Ancien Régime est structuré par une société d’ordres qui repose elle-même sur des privilèges accordés à des statuts, notamment à des personnes morales de droit privé : le clergé dispose de ses propres règles, les corporations et les guildes de métiers s’organisent et s’administrent librement.
+
+Sous l’Ancien Régime, il existait donc tout un ensemble de corps intermédiaires. À la Révolution, on craint que ces corps ne continuent à jouir de certains privilèges et, dans la logique d’abolition de ceux-ci, une série de lois va supprimer les corps intermédiaires. La France mettra du temps à reconstituer ce tissu social. On peut citer tout d’abord la **loi Le Chapelier du 14 juin 1791**, qui interdit toute association professionnelle. Toutefois, toutes les personnes morales ne sont pas proscrites. Le **décret d’Allarde des 2 et 17 mars 1791** s’en prend spécifiquement aux associations, guildes, syndicats, etc.
+
+De 1791 jusqu’au milieu du XIXᵉ siècle, on observe ainsi une conception très individualiste des droits fondamentaux. Il faut attendre la seconde moitié du XIXᵉ et le début du XXᵉ siècle pour voir réapparaître des personnes morales de droit privé autres que les entreprises.
+
+Une étape importante est la **loi de 1864**, qui dépénalise les grèves. En **1884**, les syndicats sont reconnus. Enfin, la consécration vient avec la **loi du 1er juillet 1901 sur la liberté d’association**. Cette loi a deux apports majeurs :
+
+- D’une part, elle reconnaît enfin le droit pour l’individu de s’associer. L’individu peut donc former des groupements intermédiaires, c’est-à-dire des organisations qui s’insèrent entre l’État et les individus. Ces groupements peuvent-ils bénéficier de droits fondamentaux ? La question se pose.
+
+- D’autre part, elle consacre l’existence juridique légale des associations : elles peuvent avoir un patrimoine, exercer une activité, conclure des contrats et agir en justice.
+
+-  **A) Le principe de liberté d'association**
+
+La décision du **Conseil constitutionnel du 16 juillet 1971 (n° 71-44 DC)** est fondamentale car elle érige la liberté d’association au rang constitutionnel et consacre l’existence du **bloc de constitutionnalité**.
+
+En effet, la liberté d’association n’était pas explicitement mentionnée dans les textes constitutionnels en vigueur. Le Conseil va alors s’appuyer sur le premier alinéa du Préambule de 1946, qui renvoie aux **principes fondamentaux reconnus par les lois de la République (PFRLR)**. Sous la IIIᵉ République, il n’existait pas de droits fondamentaux consacrés dans la Constitution.
+
+Le Conseil vérifie donc que la **loi du 1er juillet 1901** a été d’application continue et qu’elle est bien d’origine républicaine, ce qui permet de l’élever au rang constitutionnel. Depuis 1971, la liberté d’association a donc valeur constitutionnelle.
+
+L’enjeu de la décision est clair : une association **existe dès lors que des personnes décident de s’associer**, sans qu’une déclaration préalable ou une autorisation administrative soit nécessaire. La déclaration en préfecture ne conditionne que l’acquisition de la capacité juridique : ester en justice, posséder un patrimoine, notamment immobilier.
+
+(→ Il est utile de lire les six premiers articles de la loi de 1901.)
+
+**Conséquences de la valeur constitutionnelle**
+
+1. **Liberté de former une association** : chacun peut constituer librement une association. Les partis politiques ne disposent pas d’un statut particulier : ce sont de simples associations loi 1901. L’article 4 de la Constitution ne fait que reconnaître leur existence, mais pas un régime spécifique. Les partis peuvent donc apparaître librement.
+
+2. **Liberté de fonctionnement** :
+    - Le professeur souligne la nécessité d’un véritable statut des partis politiques afin de garantir la souveraineté des adhérents, car certains fonctionnent comme de véritables « dictatures internes ».
+    - La liberté de fonctionnement implique une **marge de manœuvre** : selon **Frédéric Rouvillois**, une association doit être libre d’accepter ou de refuser ses membres. L’État ne peut imposer une obligation d’adhésion au nom du principe d’égalité.
+    - L’individu est libre de quitter l’association à tout moment : aucune pression ne doit peser sur les adhérents.
+
+3. **Liberté de fixer l’objet** : l’association choisit librement son objet, dans le respect des limites légales (ordre public, bonnes mœurs, etc.).
+
+4. **Liberté de dissolution** : une association peut disparaître soit par la volonté de ses membres, soit parce qu’elle a atteint son objet.
+
+-  **B) Les limites de la liberté d'assocaiton**
+
+Les **articles 3 et 7 de la loi du 1er juillet 1901** prévoient que si une association a un objet illicite ou exerce des activités illicites, le procureur de la République peut saisir le juge judiciaire afin d’en demander la dissolution.
+
+Le contrôle de cette procédure relève de l’**autorité judiciaire**, gardienne de la liberté individuelle (article 66 de la Constitution).
+
+À cela s’ajoute la **loi du 10 janvier 1936**, adoptée en réaction à la montée des ligues en Allemagne et en Europe. Elle permet de dissoudre certaines associations spécifiques : ligues, groupes de combat ou mouvements contraires à l’ordre républicain et aux valeurs démocratiques.
+
+Ces dispositions ont été intégrées dans le **Code de la sécurité intérieure** : l’**article L.212-1** prévoit désormais la possibilité d’une dissolution administrative, prononcée par décret du Président de la République en Conseil des ministres, pour toute association portant atteinte à la démocratie, à l’ordre public ou aux principes républicains.
+
+C’est donc une limite importante à la liberté d’association. Par exemple, le ministre de l’Intérieur (comme Gérald Darmanin) a déjà utilisé ce mécanisme pour dissoudre des associations dont les membres commettaient régulièrement des violences (« casseurs »).
+
+Ainsi, une association ne peut servir de support à une révolution, à des émeutes ou à un parti politique qui refuserait de respecter les principes démocratiques.
+
+Enfin, une limite plus récente a été introduite dans le **Code du sport** : l’**article L.332-18** prévoit la possibilité de dissoudre administrativement des associations de supporters lorsque leurs comportements nuisent gravement au bon déroulement des activités sportives.
+
+Toutefois, un risque subsiste : celui d’un usage abusif de ce pouvoir de dissolution administrative pour réduire au silence des opposants politiques.
+
+- **C) L'étendue des personnes morales**
+
+Dans la Loi fondamentale allemande, l’article 19, alinéa 3, prévoit que les droits fondamentaux s’appliquent également aux personnes morales nationales, dans la mesure où ils leur sont applicables en raison de leur nature.
+
+En Allemagne, il existe donc une habilitation directe par la norme fondamentale. Toutefois, les personnes morales ne peuvent bénéficier que des droits fondamentaux qui sont en lien avec leur objet social.
+
+En France, il n’y a pas de disposition équivalente. Le juge constitutionnel a dû construire le régime par voie jurisprudentielle. À plusieurs reprises, il a indiqué que le législateur devait respecter les droits et libertés fondamentaux des personnes morales de droit privé.
+
+Le Conseil constitutionnel a d’abord reconnu que le législateur devait respecter les droits fondamentaux des syndicats, puis également ceux des sociétés (décision du 16 juillet 1982). L’idée est que l’on protège les droits fondamentaux de certaines personnes morales de droit privé car elles sont en réalité **« transparentes »** : derrière elles, on retrouve toujours des personnes physiques. Derrière les syndicats, il y a les syndiqués ; derrière les entreprises, les entrepreneurs. On protège donc, indirectement, les personnes physiques à travers les personnes morales.
+
+C’est une conception très française, marquée par un fort individualisme : la reconnaissance des droits fondamentaux des personnes morales n’a de sens que parce qu’elle protège, en dernier ressort, les droits fondamentaux des individus qui se trouvent derrière elles.
+###### 2) Les personnes morales de droit public
+
+La **Cour constitutionnelle allemande** a exclu les personnes publiques du bénéfice des droits fondamentaux. En Allemagne, les personnes publiques ne disposent donc pas de droits fondamentaux : l’État ne peut pas être à la fois débiteur et bénéficiaire des droits et libertés fondamentaux.
+
+Les juges allemands défendent une **logique fonctionnelle** des droits fondamentaux : ceux-ci existent pour protéger l’individu contre l’État. Les Allemands adoptent une approche très pragmatique : **c’est l’individu qui doit primer face à l’État**.
+
+Exemple : si l’État revendiquait la liberté de religion, cela reviendrait à recréer une religion d’État, ce qui porterait atteinte à la liberté de religion des individus.
+
+Dans la **Constitution française**, rien n’est expressément prévu. Le juge constitutionnel identifie, au cas par cas, certains droits reconnus aux personnes morales de droit public, mais uniquement dans la mesure où ces droits **procèdent du bon fonctionnement** de ces personnes. Le **Conseil constitutionnel** a ainsi reconnu :
+- un **droit de propriété** sur le domaine public,
+- la **liberté contractuelle** des personnes publiques,
+- le **droit à un procès équitable**,
+- le **droit à la libre administration** (art. 72 de la Constitution).
+
+Dans le contentieux constitutionnel, lorsqu’il est question des personnes morales de droit public, il s’agit aussi de l’**organisation territoriale du pouvoir**. On retrouve ici un contentieux lié au respect du principe de **décentralisation**.
+###### 3) Les groupements de personnes
+
+Ici se pose la question du **droit des minorités** et du droit des communautés humaines. Une minorité ethnique, religieuse, linguistique ou culturelle peut-elle revendiquer des droits fondamentaux ? Autrement dit, ce ne serait plus l’individu porteur du droit fondamental, ni même une association (personne morale), mais une **entité collective fictive** qui existerait à côté de la Nation : les communautés humaines.
+
+L’**article 1er de la Constitution** prévoit que _« la République assure l’égalité devant la loi de tous les citoyens sans distinction d’origine, de race ou de religion »_. Pour tout ce qui n’est pas outre-mer, cet article consacre le **principe d’unicité du peuple français**, ce qui implique l’interdiction de reconnaître des privilèges particuliers à une communauté.
+
+Dans la **décision n° 91-290 DC, Statut de la Corse**, le Conseil constitutionnel a rappelé que la Constitution évoque les « populations d’outre-mer », mais que la Corse n’est pas une collectivité d’outre-mer. La notion ne renvoie pas aux territoires proches de la métropole mais à des entités situées au-delà des mers. Cette conception est typiquement française, **jacobine**, et fondée sur l’unicité du peuple.
+
+Ainsi, lorsqu’a été créée une **collectivité à statut particulier** pour la Corse (art. 72, alinéa 1 de la Constitution), la loi a tenté de reconnaître l’existence d’une langue corse et d’un « peuple corse ». Le Conseil constitutionnel a censuré ces dispositions : les reconnaître aurait conduit à accorder des droits spécifiques aux Corses (ex. : communication officielle avec l’État en langue corse). Cela aurait été contraire à l’**article 2 de la Constitution**, qui pose les symboles de l’unité républicaine : **un seul drapeau, un seul hymne, une seule devise, une seule langue**.
+
+La question de la langue est également revenue lors de l’examen de la **Charte européenne des langues régionales ou minoritaires**. Dans la **décision n° 99-412 DC**, le Conseil constitutionnel a refusé de considérer que cette charte puisse conférer des droits spécifiques à des groupes de personnes définis selon leur origine, leur culture, leur langue ou leur croyance.
+
+#### C) Les droits fondamentaux et les libertés fondamentales par anthropomorphisme
+
+En France, on a une conception très individualiste des droits fondamentaux : par exemple, **le droit à un environnement sain** est conçu comme **le droit, pour un individu, de vivre dans un environnement non dégradé**.  
+Cependant, en droit comparé, certains systèmes vont beaucoup plus loin, jusqu’à **reconnaître à la nature une personnalité juridique**.
+
+Il s’agit d’un mouvement issu d’une inquiétude scientifique et humanitaire : **la nature devrait-elle, elle-même, avoir des droits fondamentaux ?**
+##### 1) L'animal
+
+Un certain nombre de militants souhaitent passer d’une logique de devoirs de l’homme à l’égard des animaux à une logique de **droits fondamentaux**, c’est-à-dire à la reconnaissance, pour ces animaux, de droits fondamentaux qu’ils pourraient faire valoir contre l’homme, leur propriétaire.
+
+Sur cette question, il n’existe pas encore de dispositions constitutionnelles ou internationales contraignantes. On trouve néanmoins une **Déclaration universelle des droits de l’animal**, élaborée par une ONG en 1978 (la Ligue internationale des droits de l’animal). Cette déclaration n’a pas de valeur contraignante.
+
+- **Article 3** : prohibition des traitements cruels.
+- **Article 4** : droit de l’animal à vivre dans son milieu naturel.
+
+Si l’on appliquait de manière contraignante un tel dispositif, quelle en serait la limite ?
+
+En droit français, il n’existe rien au niveau constitutionnel. En revanche, le législateur s’est emparé du sujet et a produit des lois plutôt « événementielles », peu normatives mais à valeur performative.
+
+Ainsi, l’article **515-14 du Code civil** dispose : _« L’animal est un être vivant doué de sensibilité »._ Cette innovation a agacé certains civilistes : l’animal est-il un bien ou une personne ? La catégorie n’est pas clairement définie. C’est néanmoins un progrès en marche : rien n’impose de maintenir un Code civil binaire, fondé uniquement sur les biens et les personnes. On peut donc imaginer une **catégorie spécifique pour les animaux**, à charge pour le législateur de venir nourrir cette reconnaissance par un régime juridique dédié.
+
+De plus, l’article **521-1 du Code pénal** incrimine les sévices contre les animaux domestiques. Aujourd’hui, de plus en plus d’associations de protection animale agissent en justice, et on reconnaît leur capacité à agir pour défendre l’animal. Le propriétaire encourt désormais des sanctions.
+
+En **droit comparé**, plusieurs constitutions vont beaucoup plus loin :
+
+- Allemagne et Autriche : dispositions constitutionnelles sur la protection de l’animal ;
+- Inde : consécration d’un devoir de compassion (quelle est sa véritable portée normative ?) ;
+- Brésil : interdiction de la cruauté ;
+- Suisse : reconnaissance du respect de la **dignité de la créature**.
+
+Certains juges, en Espagne, en Nouvelle-Zélande, en Inde et en Argentine, ont pu reconnaître, au cas par cas, certains **droits fondamentaux** aux animaux.
+
+Deux points de vue s’opposent :
+
+1. **Par rapport à la définition fonctionnelle des droits fondamentaux** :  
+    Un droit fondamental sert à protéger l’individu contre l’État. Si l’on retient uniquement cette conception, la création de droits fondamentaux pour les animaux risque de diminuer ou de relativiser les droits fondamentaux des individus.
+
+- Exemple : si le chien dispose de droits fondamentaux, alors ce n’est plus uniquement notre propriété. Des tiers pourront agir contre nous, ce qui multipliera les conflits de droits fondamentaux.
+
+- Critique : reconnaître davantage de droits fondamentaux ne signifie pas forcément que l’individu est plus libre, cela peut au contraire altérer la jouissance de ses propres droits.
+
+- Contre-argument : il s’agit d’une avancée en matière de droits fondamentaux. À terme, la Constitution française pourrait être amenée à reconnaître ces droits.
+
+
+2. **La critique anthropologique** :  
+    On exige souvent la preuve que les animaux sont de véritables individus. Or, un individu est généralement défini comme une personne dotée d’un libre arbitre, capable de créer et de poursuivre sa quête du bonheur. Les militants soutiennent que nombre de mammifères possèdent des émotions, une volonté propre et une capacité à s’exprimer.
+
+On constate que certains dressages poussés permettent aux animaux de communiquer. S’ils sont capables de s’exprimer, ils peuvent revendiquer des droits. **De quel droit leur refuserait-on alors la reconnaissance de droits fondamentaux ?** Des orang-outans ont déjà appris à s’exprimer en langue des signes.
+
+Le jour où l’on prouvera qu’un certain nombre de mammifères disposent d’un libre arbitre et sont capables de s’exprimer, il y aura inévitablement un mouvement de contestation du monopole des droits fondamentaux réservé à l’homme.
+
+##### 2) L'environnement
+
+Il faut lire **la Charte de l'environnement**.
+
+Ces nouveaux droits fondamentaux ont une dynamique assez proche de ceux reconnus pour les animaux : on crée des droits qui ne sont pas des droits de première génération. Certains auteurs considèrent même qu’il s’agirait de **droits de troisième génération** s’ils étaient au bénéfice de nouveaux titulaires, c’est-à-dire des animaux ou de l’environnement lui-même. Mais en France, ce n’est pas le cas : ils sont reconnus **au bénéfice de l’homme**.
+
+Il s’agit donc de **droits de deuxième génération**, c’est-à-dire des **droits-créances**, qui permettent aux individus d’exiger de l’État une action positive. Ces droits visent à contraindre les pouvoirs publics à garantir un environnement sain.
+
+Les articles 2 à 4 de la Charte de l’environnement posent deux principes essentiels :
+
+- **Le principe de prévention des risques environnementaux** : il s’applique lorsque le risque est certain. Exemple : un pétrolier coule dans la mer, le risque est évident. Les pouvoirs publics ont alors l’obligation d’agir pour éviter que ce risque se réalise. C’est un des principes qui a suscité le plus de débats.
+- **Le principe de précaution** : il s’applique lorsque le risque est incertain mais probable. Dans ce cas, les pouvoirs publics doivent agir malgré l’incertitude scientifique. Exemple : les OGM ou les pesticides. Ce principe permet d’attenter à certaines libertés fondamentales (liberté de commerce et d’industrie, par exemple) alors même que le risque n’est pas certain.
+
+Le Conseil constitutionnel a adopté une position proche de celle retenue pour le **Préambule de 1946** : tous les alinéas n’ont pas une valeur constitutionnelle opérante. En conséquence, on ne peut pas toujours se prévaloir des dispositions de la Charte, jugées parfois trop imprécises. L’appréciation se fait **au cas par cas**, afin de déterminer quand ces dispositions produisent des effets directs pour les citoyens.
+
+Ainsi :
+- Dans sa décision **2008-264 DC**, le Conseil constitutionnel a jugé que le **principe de précaution s’impose aux pouvoirs publics** : le législateur et l’administration doivent en tenir compte lors de l’élaboration des normes. Ce principe peut donc être invoqué dans le cadre du contrôle a priori des lois.
+- En revanche, dans la décision **2012-283 QPC**, le Conseil constitutionnel a estimé que le principe de précaution et le droit au développement durable **ne peuvent pas être invoqués en QPC**, car ils ne constituent pas des libertés individuelles au sens strict.
+
+Il faut donc distinguer entre :
+- **Les droits-créances**, comme le principe de précaution, qui imposent au législateur de fixer des objectifs, mais qui ne sont pas des droits fondamentaux directement invocables.
+- **Les libertés fondamentales**, qui protègent directement l’individu et peuvent être invoquées en QPC.
+
+Cependant, la QPC peut servir à contester **l’inaction du législateur**. Si celui-ci n’adopte pas les mesures nécessaires pour mettre en œuvre la Charte, on peut invoquer l’**incompétence négative**. Cela a été confirmé par la décision **2012-269 QPC**, qui permet de contester l’absence d’intervention du législateur.
+
+Ces débats révèlent les difficultés posées par les droits fondamentaux issus de la Charte :
+- Qui doit interpréter ces droits ? Le juge, au risque d’un « gouvernement des juges » ?
+- Quelle est leur nature ? De véritables **droits fondamentaux**, ou plutôt des **libertés publiques**, dès lors qu’ils sont imprécis et renvoient constamment à la loi ?
+
+La Charte de l’environnement a été constitutionnalisée en 2005 par révision parlementaire (Congrès), sans que le peuple soit directement consulté, ce qui a relancé les débats sur **qui maîtrise la norme fondamentale**.
+
+Enfin, comme pour les droits relatifs aux animaux, on peut s’interroger :
+- Plus de droits fondamentaux signifient-ils plus de libertés ?
+- Ou au contraire, est-ce que ces nouveaux droits risquent de relativiser la portée des droits traditionnels ?
+
+**À l’oral**, si le professeur vous interroge sur un article de la Charte de l’environnement, il faut utiliser cet article comme **prétexte pour mobiliser l’ensemble du cours** :
+- rappeler que les droits fondamentaux en question sont imprécis,
+- distinguer droits-créances et droits-libertés,
+- montrer le rôle du juge,
+- citer les décisions du Conseil constitutionnel (2008-264 DC, 2012-283 QPC, 2012-269 QPC),
+- et discuter de la valeur réelle de la Charte.
+Exemple de questions possibles :
+- Le principe de précaution protège-t-il l’individu ou la collectivité ?
+- Est-ce un droit-créance ou une liberté fondamentale ?
+- Quelle est la marge de manœuvre du juge ?
