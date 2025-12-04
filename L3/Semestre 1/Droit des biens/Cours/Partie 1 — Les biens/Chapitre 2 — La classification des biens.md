@@ -801,3 +801,303 @@ Problème : la fin de l’usufruit correspond au **décès de l’usufruitier**.
 Exemple : un père décède, laissant à son épouse l’usufruit de la totalité de son patrimoine, et à ses enfants la nue-propriété. La mère dispose d’un compte de 100 000 euros en usufruit. Elle peut le dépenser. Mais, à son décès, l’usufruit prend fin : les enfants récupèrent la nue-propriété, mais la somme initiale a pu disparaître.
 
 Ainsi, dans le cas d’un **quasi-usufruit**, l’usufruitier est pratiquement propriétaire, mais avec une obligation de restitution qui peut rester purement théorique si l’usufruit s’éteint par sa mort.
+
+### Section 2 : La classification des droits
+
+#### Paragraphe 1 : La classification fondée sur la valeur économique des droits
+
+C’est la distinction entre les **droits patrimoniaux** et les **droits extra-patrimoniaux**.
+
+##### A) Les droits patrimoniaux et extra-patrimoniaux
+
+C’est la classification la plus poreuse, la moins certaine.
+
+**Contenu de la distinction :** un droit patrimonial est un droit **évaluable en argent**, qui a donc une valeur économique, une valeur pécuniaire. Il se retrouve, pour cette raison, dans le patrimoine de la personne. Voilà pourquoi on parle de droits patrimoniaux.
+
+Exemple : le droit de propriété d’une chose a une valeur économique et fait partie du patrimoine ; une créance a une valeur économique (ex. : 1 000 euros).
+
+Ces droits sont censés obéir à un régime uniforme, qui tient en quatre points :
+- ils sont **cessibles** : on peut céder une créance, une propriété ;
+- ils sont **transmissibles** : ils se transmettent par voie successorale ;
+- ils sont **saisissables** : un créancier peut les saisir pour les faire vendre aux enchères et se payer sur le prix de vente ;
+- ils sont **prescriptibles** : leur non-usage entraîne leur extinction par prescription (ex. prescription quinquennale).
+
+**À l’opposé**, les droits extra-patrimoniaux sont des droits **non évaluables en argent**, dépourvus de valeur pécuniaire, et qui, pour cette raison, ne font pas partie du patrimoine (d’où leur nom).
+
+Exemple : les droits de la personnalité (droit au nom, droit à la vie privée, droit à l’honneur). Combien vaut votre vie privée ? Nul ne peut le dire.
+
+Ces droits obéissent eux aussi à un régime uniforme :
+- ils sont **incessibles** : on ne peut pas céder sa vie privée ou son honneur ;
+- ils sont **intransmissibles** : ils ne se transmettent pas aux héritiers ;
+- ils sont **insaisissables** : un créancier ne peut pas saisir le droit à la vie privée pour le vendre aux enchères publiques ;
+- ils sont **imprescriptibles** : leur non-exercice ne vaut pas renonciation.
+
+##### B) La distinction
+
+Cette distinction doit être fortement **relativisée**, déjà sur le critère de base : l’évaluation en argent. Est-il exact d’affirmer que le droit à la vie privée, le droit à l’honneur ou le droit au nom sont non évaluables en argent ? C’est discutable : certes, on ne peut pas les vendre, mais on peut y renoncer moyennant une indemnité.
+
+Exemple : une personne célèbre peut autoriser un journal à publier des informations relevant de sa vie privée, soit gratuitement, soit contre rémunération.
+
+De même, la jurisprudence **Bordas (1985)** a admis qu’une personne physique puisse céder son nom de famille à une société et ne puisse plus le récupérer. Ces éléments dits « extra-patrimoniaux » peuvent donc avoir une valeur économique. On ne les cède pas directement, mais on peut conclure des contrats qui aboutissent à leur évaluation économique.
+
+Ainsi, le critère de distinction ne réside peut-être pas dans la valeur économique, puisque tous les droits peuvent être estimés en argent. La distinction se trouve davantage dans **l’aptitude du droit à l’échange** : certains droits peuvent changer de titulaire et donc de patrimoine (ex. droit de propriété), tandis que d’autres restent attachés à la personne (ex. droit à la vie privée).
+
+Il existe donc des droits **dans le commerce juridique** et des droits **hors commerce**, attachés à la personne.
+
+Enfin, sur le régime, il existe des exceptions :
+- exemple : le droit à pension alimentaire est évaluable en argent, mais il est insaisissable, car il est alimentaire. C’est bien un droit patrimonial, mais qui échappe à l’une des règles du régime ;
+- autre exemple : le droit de propriété est patrimonial mais **imprescriptible** : il ne s’éteint pas par le non-usage, alors que la règle générale voudrait le contraire.
+
+Avec l’arrêt Bordas, le **nom**, censé être extra-patrimonial, a pu être cédé. La personne a continué à s’appeler « Bordas », mais la société a pu poursuivre l’utilisation de ce nom.
+
+Ainsi, la distinction existe mais elle est **très relative**.
+
+_(Exemple d’épreuve : aux 24 heures de Serbe, le sujet était « la patrimonialité », ce qui avait déstabilisé les étudiants qui ne voyaient pas clairement où placer la limite.)_
+
+#### Paragraphe 2 : La classification fondée sur l'objet des droits
+
+C’est la distinction entre **droits réels** et **droits personnels**.
+
+##### A) Le contenu de la distinction
+
+###### 1) Les droits réels
+
+Ils sont classiquement définis par la doctrine comme **un pouvoir direct et immédiat d’une personne sur une chose**.
+
+On a donc un sujet (le titulaire du droit) et un objet (la chose).
+
+Les droits réels se divisent en deux grandes catégories : les **droits réels principaux** et les **droits réels accessoires**.
+
+Les **droits réels principaux** sont le **droit de propriété** et ses **démembrements**, que sont l’**usufruit**, le **droit réel de jouissance spéciale (DRJS)**, ainsi que les **droits d’usage et d’habitation**, qui constituent des diminutifs de l’usufruit.  
+Ces derniers portent uniquement sur **l’usage** ou **l’habitation** du bien.  
+S’ajoutent également les **servitudes**.
+
+La **servitude** est une **charge réelle** imposée à un **fonds** dit **fonds servant** (celui qui supporte la charge), au profit d’un autre **fonds**, appelé **fonds dominant**.  
+Elle présente une particularité essentielle : la servitude **n’établit pas un rapport entre deux personnes**, mais **entre deux immeubles**, c’est-à-dire **entre deux parcelles de terrain**.
+
+La **servitude de passage en cas d’enclave** concerne les **fonds enclavés**, c’est-à-dire les terrains **dépourvus d’un accès direct à la voie publique**.
+
+Imaginons par exemple les terrains **A**, **B** et **C** situés en bordure de route, et un terrain **D** placé derrière eux, sans accès à la voie publique.
+
+Lorsqu’un terrain se retrouve **enclavé**, la **loi reconnaît de plein droit** au propriétaire de ce fonds un **droit de passage** sur les terrains voisins afin d’accéder à la voie publique.  
+Cependant, cette servitude **n’est que virtuelle tant que le passage n’a pas été effectivement tracé**.
+
+Deux hypothèses se présentent alors :
+- Si les propriétaires **s’entendent à l’amiable**, la servitude de passage sera **conventionnelle**, c’est-à-dire **contractuelle**, établie **devant notaire**.
+- En cas de **désaccord**, il appartiendra au **juge** de déterminer **sur quel terrain (A, B ou C)** le passage devra s’exercer.  
+    Le juge fixera alors **l’assiette de la servitude**, c’est-à-dire **l’emplacement précis** du passage, en sollicitant souvent un **géomètre-expert**.
+
+La loi prévoit que cette assiette doit être fixée **sur le tracé le moins dommageable pour le fonds servant**, et non nécessairement sur le plus court chemin.
+
+Cette servitude, qu’elle soit **légale** (fixée par le juge) ou **conventionnelle**, **n’est pas un rapport juridique entre deux personnes**, mais **un rapport entre deux fonds**.  
+Ainsi, le **fonds servant** (celui de A) **supporte** la servitude, tandis que le **fonds dominant** (celui de D) **en bénéficie**.
+
+**Conséquence :** la servitude demeure quelle que soit l’identité des propriétaires.  
+Si D vend son terrain à Z, ce dernier **bénéficie automatiquement** du droit de passage.  
+De même, si A vend son terrain à X, X **reste tenu** de cette servitude.  
+La servitude est donc **perpétuelle** et **se transmet aux propriétaires successifs**.
+
+Elle **s’éteint** uniquement dans certains cas :
+- lorsque le **fonds n’est plus enclavé** (par exemple en cas de construction d’une nouvelle voie publique) ;
+- lorsque **D rachète le terrain de A**, ce qui réunit les deux fonds entre les mains d’un même propriétaire ;
+- ou encore lorsque les parties **mettent fin à la servitude par convention**.    
+
+Enfin, cette servitude **n’est pas gratuite** :  
+même si le droit de passage est reconnu de plein droit, **le propriétaire du fonds dominant (D)** doit **verser une indemnité** au **propriétaire du fonds servant (A)**, destinée à **compenser la perte d’utilité** subie par ce dernier.  
+Le **montant de cette indemnité** est fixé **souverainement par le juge**.
+
+Quant à **l’entretien du passage**, il **incombe au propriétaire du fonds dominant**, c’est-à-dire **celui qui utilise la servitude**.
+
+**Article 701 du Code civil** : _« Le propriétaire du fonds servant ne peut rien faire qui tende à diminuer l’usage de la servitude ou à le rendre plus incommode. »_
+
+Il existe une autre **famille de droits réels** : les **droits réels accessoires**.
+
+Ce sont des **droits réels attachés à une créance**, destinés à **en garantir le paiement**.  
+On les appelle **les sûretés réelles**, qui constituent des **garanties de paiement**.
+
+On distingue **deux grandes familles de sûretés** :
+1. **Les sûretés personnelles**, dans lesquelles **une personne s’engage à payer à la place d’une autre**.  
+    Exemple : le **cautionnement**, où la **caution** s’engage à payer la dette si le débiteur principal ne le fait pas.
+2. **Les sûretés réelles**, qui sont des **droits réels accessoires** : elles portent sur **une chose** (meuble ou immeuble) et permettent à leur titulaire **d’exercer des prérogatives sur cette chose en cas de défaut de paiement** du débiteur.
+
+Les deux principales sûretés réelles sont :
+- le **gage**, lorsqu’il porte sur un **bien meuble** (exemple : un véhicule gagé) ;
+- l’**hypothèque**, lorsqu’elle porte sur un **bien immeuble**.
+
+Le **fonctionnement** du gage et de l’hypothèque est **similaire** :  
+le **créancier gagiste** ou **hypothécaire** peut, en cas de non-paiement, **saisir le bien** gagé ou hypothéqué, le **faire vendre aux enchères publiques**, et **se faire payer sur le prix de vente en priorité** par rapport aux autres créanciers du débiteur.
+
+Ce droit réel accessoire confère **deux prérogatives essentielles** :
+
+- **Le droit de préférence**, qui permet au créancier d’être **payé en priorité**.  
+    Exemple : pour une créance de **60 000 €** garantie par une **hypothèque** sur un immeuble, si celui-ci est vendu **100 000 €**, le créancier hypothécaire sera **intégralement payé en premier** (60 000 €), et les **autres créanciers** se partageront les **40 000 € restants**.  
+    Ces derniers, appelés **créanciers chirographaires**, ne disposent d’**aucune garantie** et seront payés **au marc-le-franc**, c’est-à-dire **au prorata de leurs créances**.
+
+- **Le droit de suite**, qui permet au créancier **de suivre le bien gagé ou hypothéqué entre toutes les mains où il se trouve**.  
+    Ainsi, si le propriétaire d’un immeuble hypothéqué vend cet immeuble sans avoir encore remboursé sa dette, le **créancier hypothécaire** (par exemple une banque) **conserve son droit** et peut **faire saisir le bien** même entre les mains du nouvel acquéreur.
+    
+
+En pratique, toutefois, ce droit de suite est **rarement exercé**.  
+En effet, lors de la vente d’un immeuble hypothéqué, on procède à la **purge de l’hypothèque** (articles **2300 et suivants du Code civil**).  
+Concrètement, si l’immeuble est vendu **100 000 €** et que le vendeur doit encore **40 000 €** à la banque, le **notaire prélève directement ces 40 000 €** sur le prix de vente et les **verse à la banque**.  
+Ainsi, le **créancier est désintéressé**, c’est-à-dire **intégralement remboursé**, et **l’hypothèque s’éteint**, puisqu’il n’existe plus de créance à garantir.
+###### 2) Les droits personnels
+
+Le **droit personnel** (ou **droit de créance**) est le **droit en vertu duquel un créancier peut exiger de son débiteur l’exécution d’une prestation**, consistant en un **fait**, une **abstention** ou une **donation** (au sens de “donner quelque chose”).
+
+Il s’agit d’un **rapport juridique entre deux personnes** :
+- d’un côté, le **créancier** (titulaire du droit),
+- de l’autre, le **débiteur** (tenu de l’obligation).
+
+Ce rapport a pour **objet une prestation**, qui peut consister à **faire**, **ne pas faire**, ou **donner**.
+
+Contrairement au droit réel, le droit personnel **ne confère ni droit de suite ni droit de préférence** à son titulaire.  
+Le créancier ne dispose que d’un **droit de gage général** sur le **patrimoine du débiteur**.
+
+L’**article 2284 du Code civil** énonce :
+
+> _« Quiconque s’est obligé personnellement est tenu de remplir son engagement sur tous ses biens mobiliers et immobiliers, présents et à venir. »_
+
+Ainsi, tout débiteur est tenu de payer sa dette **sur l’ensemble des biens composant son patrimoine**, qu’ils soient **meubles ou immeubles**, **présents ou futurs**.
+
+Ce droit de gage général signifie que le créancier pourra, en cas de non-paiement, **faire vendre les biens du débiteur aux enchères publiques** pour tenter d’obtenir le règlement de sa créance.  
+Cependant, **il n’a aucune priorité sur les autres créanciers**, puisqu’il ne bénéficie **d’aucune sûreté**.
+
+On dit alors que ce créancier est un **créancier chirographaire** : il sera **payé au marc-le-franc**, c’est-à-dire **proportionnellement à sa créance** par rapport aux autres.
+
+En résumé, le droit personnel **n’offre aucune garantie particulière**, seulement une **espérance de paiement** fondée sur le **patrimoine du débiteur**.
+
+##### B) La portée de la distinction
+
+Le **premier intérêt**, c’est que le droit réel est assorti d’un **droit de préférence** et d’un **droit de suite**, ce qui n’est pas le cas du droit personnel.
+
+Le **deuxième intérêt** tient à la structure des droits : le titulaire d’un droit réel peut y **renoncer unilatéralement**. En revanche, on ne peut pas en faire de même pour un droit personnel. On ne peut pas unilatéralement renoncer à un droit personnel, car il s’agit d’un rapport entre deux personnes. Il faut donc l’accord des deux. C’est la **force obligatoire du contrat** (art. 1193 du Code civil), y compris dans des situations comme la donation (où il faut l’accord du donataire) ou la remise de dette (le créancier qui dit qu’il n’a plus besoin d’être payé doit obtenir le consentement du débiteur).
+
+Le **troisième intérêt** réside dans le droit de suite dont sont assortis les droits réels. Exemple : la différence entre une **servitude** et une **obligation personnelle**. La servitude se transmet activement ou passivement de plein droit aux propriétaires successifs des fonds servants ou dominants. C’est automatique en cas de cession ou de transmission successorale.  
+En revanche, un rapport d’obligation ne se transmet pas nécessairement aux propriétaires successifs, ni activement ni passivement. Les engagements personnels ne se transmettent pas, ou pas toujours.
+
+**Illustration jurisprudentielle** : arrêt de la Cour de cassation, 2015 (n° 13-27.479).  
+Il concernait une copropriété composée de deux bâtiments : l’un avec des appartements, l’autre avec un parking. Le syndicat des copropriétaires, propriétaire du lot de parking, le vend à EDF en assortissant la vente d’un **engagement perpétuel** : affecter ce lot exclusivement au stationnement, exclure tout parking sur la toiture, et végétaliser cette toiture. EDF revend ensuite l’immeuble à une société, en mentionnant l’engagement dans l’acte. La société acquéreuse ne respecte pas cet engagement et aménage un étage supplémentaire de parking. Le syndicat agit alors en justice.  
+La société soutenait que l’engagement était purement personnel à EDF et ne la liait pas. Mais la Cour de cassation a approuvé les juges du fond d’avoir considéré que cet engagement constituait en réalité une **servitude**, laquelle s’imposait donc aux acquéreurs successifs.
+
+On peut donc interpréter une clause soit comme un **droit personnel** (obligation), soit comme un **droit réel** (servitude). Dans ce dernier cas, elle se transmet passivement aux sous-acquéreurs. Ici, la mention « à titre perpétuel » orientait vers un droit réel, la **servitude** ayant par nature une vocation perpétuelle.
+
+Le **dernier intérêt de la distinction** : classiquement, on enseigne que les droits réels sont en **nombre limité** (numérus clausus), tandis que les droits personnels sont en nombre illimité, car ils découlent de la liberté contractuelle (sous réserve de l’ordre public).  
+Les droits réels ne peuvent être créés que par le législateur. L’article 543 du Code civil dispose : « On peut avoir sur les biens ou un droit de propriété, ou un droit de jouissance, ou une servitude. » La formulation est fermée.  
+La doctrine en déduisait l’impossibilité de créer des droits réels autres que ceux prévus par le Code civil.
+
+Mais cette règle a été bouleversée par l’arrêt **« Maison de poésie » du 31 octobre 2012**.  
+Faits : dans les années 1930, une fondation vend un immeuble tout en se réservant la jouissance d’un étage pour y entreposer des livres. Dans les années 2000, le propriétaire souhaite récupérer la jouissance et assigne la fondation en expulsion. Argument : le droit réservé s’analysait en un **usufruit**, or l’article 619 du Code civil limite à 30 ans la durée d’un usufruit consenti à une personne morale.  
+La Cour de cassation ne suit pas ce raisonnement et décide que le propriétaire d’un bien peut, **sous réserve du respect des règles d’ordre public**, consentir à un tiers un **droit réel de jouissance spéciale** distinct de l’usufruit. Ce droit n’est donc pas soumis au régime de l’usufruit. Conclusion : il n’existe plus de numérus clausus strict des droits réels. Le propriétaire peut en créer, sous réserve de l’ordre public.
+
+Toutefois, ce droit étant une création prétorienne, son régime est incertain. La Cour précise qu’il doit respecter les règles d’ordre public. Mais lesquelles ?  
+Une première limite tient à la **perpétuité**. Les droits réels ne peuvent être perpétuels, pour des raisons historiques. Sous l’Ancien Régime, on admettait le cumul de droits réels perpétuels sur un même bien (propriété éminente du seigneur et propriété utile des tenanciers). Les rédacteurs du Code civil ont aboli ce système féodal en affirmant le caractère absolu et unitaire du droit de propriété. Les démembrements (usufruit, etc.) sont donc nécessairement temporaires : l’usufruit s’éteint au décès de l’usufruitier ou, pour les personnes morales, au bout de 30 ans.
+
+La Cour de cassation a confirmé en 2016 que le **droit réel de jouissance spéciale** ne peut pas être perpétuel. Il est limité à la durée de vie de l’entité titulaire (par exemple, la fondation), et n’est donc pas perpétuel.
+
+**Idée d’approfondissement pour un oral** : analyser les virtualités de ce nouveau droit et les limites encore incertaines posées par la jurisprudence.
+
+##### C) La critique de la distinction
+
+**Critiques passées :** certains auteurs ont pu remettre en cause tant l’existence des droits réels que celle des droits personnels.
+
+Des auteurs ont nié l’existence même des **droits réels**, notamment **Marcel Planiol**, pour qui la structure du droit réel est en réalité identique à celle du droit personnel.  
+
+En effet, selon Planiol, dans un droit réel on retrouve :
+- un **titulaire du droit**,
+- un **objet du droit**,
+- et un **sujet passif** — c’est-à-dire **tous les autres individus**, tenus de respecter le droit réel du titulaire.
+
+L’essence du droit de propriété consiste dans le **pouvoir d’exclure autrui** de la chose. Autrui est donc tenu de respecter ce droit de propriété ainsi que tous les autres droits réels que l’on peut identifier.
+
+Cette pensée de Planiol porte un nom : **l’obligation passive universelle**.  
+
+Il s’agit d’un **rapport d’obligation** :
+- _passif_ car autrui est tenu de respecter le droit,
+- _universel_ car **tous** sont tenus de le respecter.
+
+Planiol affirmait ainsi que les prétendus **droits réels** ne sont en réalité que des **droits personnels**, mais assortis d’un **passif universel**.
+
+**Remarque positive :**  
+Planiol a permis de porter un regard nouveau sur le droit de propriété, différent de la conception classique qui se contente d’identifier le sujet, l’objet et, entre les deux, les attributs **usus**, **fructus** et **abusus**.  
+Pour Planiol, l’essentiel n’est pas la relation entre le **sujet** et l’**objet**, mais la relation entre **l’objet et les autres individus**.
+
+**Côté négatif :**  
+Planiol confond cependant deux notions : il traite, sous la forme d’une **obligation** à la charge d’autrui, ce qui relève en réalité de **l’opposabilité**.  
+Là où Planiol voit un **rapport d’obligation**, il faut plutôt voir un **rapport d’opposabilité** : le droit de propriété est **opposable erga omnes**, à l’égard de tous.  
+Mais tous ne sont pas débiteurs d’une obligation — ils ne sont pas juridiquement tenus de _faire_ ou _ne pas faire_ quelque chose — ils doivent simplement **respecter le droit existant**.
+
+Cette notion d’**opposabilité** n’était d’ailleurs pas encore bien établie en droit à l’époque. Il a fallu plusieurs **thèses doctrinales** pour en préciser la portée et en définir la nature.
+
+**Saleilles** adopte une position exactement inverse de celle de Planiol.  
+Selon lui, **ce sont les droits personnels qui n’existent pas réellement**, car les prétendus droits personnels empruntent en réalité la **structure des droits réels**.
+
+Pour Saleilles, le **créancier d’une obligation** détient un droit sur la **prestation** qui lui est due ; or, un droit sur une chose, c’est un **droit réel**.  
+Ainsi, si un contrat prévoit qu’une personne nous doit **1 000 euros**, nous serions déjà **titulaire d’un droit sur ces 1 000 euros** : autrement dit, les prétendus droits personnels peuvent s’exprimer sous la forme d’un **droit réel sur la prestation due**.
+
+Cependant, ce droit sur la prestation **ne peut pas être exercé directement** : le créancier doit d’abord **demander au débiteur d’exécuter** son obligation.
+
+Aujourd’hui encore, certaines critiques tendent à **relativiser la distinction** entre droits réels et droits personnels.  
+
+Cette distinction, traditionnellement présentée comme nette et rigoureuse, apparaît en réalité **poreuse** : elle **n’est pas parfaitement étanche**.
+
+Il existe en effet des **droits dits “mixtes”**, qui empruntent à la fois aux deux catégories.
+
+**Premier exemple : le bail rural.**  
+Le locataire, ou **fermier**, récolte les fruits de la terre qu’il cultive.  
+En vertu du bail, il reçoit un droit qui **ressemble à un droit réel**, analogue à **l’usufruit**, lui permettant de percevoir les fruits du fonds loué.  
+Certains auteurs considèrent ainsi que le **contrat de bail rural** crée un véritable **droit réel** au profit du fermier, sans qu’il soit nécessaire de recourir à la notion de **fruits industriels**.
+
+**Deuxième exemple : certains baux protecteurs, comme le bail rural ou le bail commercial.**  
+Ces contrats confèrent au locataire un **statut extrêmement privilégié et protecteur**, au point que plusieurs auteurs, depuis plus de cinquante ans, n’hésitent pas à y voir un **véritable droit réel**.  
+Dans le cas particulier du **bail commercial**, la doctrine parle depuis les années 1920 de **« propriété commerciale »** pour désigner ce statut particulier du locataire.
+
+La **Cour de cassation** elle-même a parfois **employé cette expression entre guillemets**, reconnaissant implicitement l’existence d’un **droit personnel d’une intensité quasi réelle**.  
+Ce droit, bien que de nature personnelle, bénéficie d’une **protection équivalente à celle d’un droit de propriété**, notamment **au titre de l’article 1er du Premier Protocole additionnel à la CEDH**.
+
+**Deuxième zone de porosité : les obligations réelles**
+
+C’est une **obligation**, un **rapport entre deux personnes**, mais qui **se rapporte à une chose**, à un bien, et qui **va donc s’imposer aux propriétaires successifs de ce bien, quel qu’il soit**.
+
+Prenons un exemple : un vendeur vend un bien à un acheteur, qui le revend à un sous-acquéreur.  
+En cas de **vice caché**, le sous-acquéreur peut **engager une action en garantie des vices cachés** non seulement contre son vendeur direct, mais aussi contre le **vendeur initial**.  
+Cette solution a été **reconnue par la Cour de cassation dès 1823**.
+
+Lors du premier contrat, l’acheteur intermédiaire disposait d’un droit contre son vendeur, fondé sur la garantie des vices cachés.  
+Il faut considérer que **cette action en garantie des vices cachés est attachée à la chose** : c’est une action dite **“propter rem”** (propre à la chose), également appelée **“intuitu rei”**, c’est-à-dire attachée à la chose elle-même.
+
+Ainsi, lorsque l’acheteur intermédiaire revend la chose, **le droit attaché à la chose se transmet** : le sous-acquéreur reçoit donc le droit que détenait son vendeur.  
+Lorsqu’il agit contre le vendeur initial, il **exerce le droit de son auteur**.  
+C’est bien un **rapport d’obligation attaché à la chose**, quel que soit le propriétaire successif.
+
+La **loi du 8 août 2016** a introduit dans le **Code de l’environnement** les **obligations réelles environnementales (ORE)**, désormais codifiées à **l’article L.132-3 du Code de l’environnement**.
+
+Il s’agit d’une **mesure destinée à favoriser la protection de l’environnement**.  
+Le propriétaire d’un immeuble ou d’une parcelle de terre **s’engage envers une collectivité publique ou une association agréée de protection de l’environnement** à mettre en œuvre des pratiques favorables à la biodiversité ou à limiter les atteintes à l’environnement sur sa propriété.
+
+Concrètement, cela peut concerner :
+- un **agriculteur** qui s’engage à pratiquer une **agriculture raisonnée** ou biologique,
+- un **propriétaire** qui s’engage à **ne pas utiliser de produits polluants**,
+- ou encore à **diversifier les cultures et préserver les haies naturelles**.
+
+L’originalité de cette obligation tient à son **caractère réel** :  
+elle **suit la propriété de la parcelle**, en quelque main qu’elle se trouve.  
+Ainsi, **l’engagement pris par un propriétaire s’impose aux propriétaires successifs**.
+
+Toutefois, comme il s’agit d’une obligation et non d’un droit perpétuel, **elle ne peut être conclue que pour une durée maximale de 99 ans**.  
+Pendant cette période, **l’obligation suit la propriété du bien**.
+
+Ces obligations peuvent s’accompagner **d’avantages fiscaux**, comme une **exonération totale ou partielle de la taxe foncière**, à titre de politique publique en faveur de l’environnement.  
+Cependant, dans les faits, **peu de propriétaires s’y engagent spontanément**, car **les incitations financières restent limitées**.
+
+En pratique, **les ORE fonctionnent surtout dans le cadre de mesures de compensation écologique** : celui qui pollue doit compenser sa pollution en réalisant des actions de restauration environnementale.
+
+À **La Réunion**, la **première ORE** a été conclue en **janvier 2023** entre une **propriétaire d’un terrain de deux hectares à l’Étang de Saint-Paul** et la **réserve naturelle nationale de l’Étang de Saint-Paul**.
+
+Le communiqué de presse ne précise pas les motivations exactes de la propriétaire, mais le contrat prévoit :
+
+- la **plantation de haies agroécologiques**,
+- des **manguiers dont les fruits seront reversés aux écoles locales**,
+- et un **engagement de dix ans** qui **grèvera la propriété de ces deux hectares**.
+
+Ainsi, cette ORE illustre parfaitement la **dimension réelle et environnementale** du mécanisme : un **engagement durable attaché à la chose**, au service de la **protection écologique**.
