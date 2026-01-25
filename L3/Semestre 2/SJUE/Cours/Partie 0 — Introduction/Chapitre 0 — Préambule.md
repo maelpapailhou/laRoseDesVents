@@ -1,0 +1,5 @@
+L’Union européenne est une **idée relativement ancienne**, fondée sur la coopération entre États européens, et qui remonte bien avant la création des Communautés européennes. On en trouve déjà des prémices à l’époque de **l’Empire romain**, qui avait contribué à l’émergence d’une forme de **culture européenne commune**.
+
+Plus proche de nous, l’idée des **« États-Unis d’Europe »** a été formulée par **Victor Hugo** lors de son discours au **Congrès de la paix**. Cette idée a ensuite été reprise en **1946 par Winston Churchill**.
+
+Aujourd’hui, cette expression est toutefois peu utilisée, car elle renvoie trop explicitement à un **modèle fédéral**. Or, aucun État membre ne souhaite véritablement la création d’un **État fédéral européen** : les États demeurent attachés à leur **souveraineté**, même s’ils ont transféré un nombre important de compétences à l’Union européenne.
