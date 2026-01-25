@@ -1,1 +1,1 @@
-Votre master, vous le devez uniquement à moi.
+courage, on est ensemble ! :)
