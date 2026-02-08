@@ -168,3 +168,293 @@ Or, la jurisprudence est venue préciser que **les modalités d’information de
 En tout état de cause, **l’exigence de revendication professionnelle est à l’origine d’un contentieux important**.
 
 Tout d’abord, ce contentieux porte sur **la question de l’opportunité du mouvement de grève** (A). Ensuite, il concerne également **le caractère licite de nombreux mouvements**, notamment **la grève politique** (B), **les grèves de solidarité** (C) et **les grèves d’auto-satisfaction** (D).
+
+
+##### A) L'opportunité du mouvement 
+
+Les juges n’ont pas à apprécier **l’opportunité de la stratégie des salariés** : la teneur des revendications appartient aux seuls grévistes.
+
+Le choix même de recourir à la grève relève de leur liberté. En effet, il n’existe **aucune obligation de négocier avant de décider de faire grève** ; les salariés peuvent donc choisir entre négocier et cesser le travail.
+
+D’ailleurs, les salariés peuvent être en grève tout en négociant avec l’employeur : ces deux modalités **ne sont pas incompatibles** et peuvent être exercées conjointement.
+
+##### B) La grève politique
+
+Au milieu du XXᵉ siècle, la grève politique était perçue comme un **acte révolutionnaire**. C’est dans ce contexte que s’inscrivait la prohibition des grèves politiques. Aujourd’hui, la crainte d’un renversement du pouvoir par la grève générale a disparu.
+
+C’est pourquoi **la Cour de cassation** a considérablement assoupli sa jurisprudence. Désormais, **seules les grèves purement politiques sont interdites**.
+
+Ainsi, la présence de revendications politiques ne suffit pas à rendre le mouvement illicite dès lors qu’elles se rattachent également à **des revendications professionnelles**.
+
+Exemple : sont considérées comme licites les grèves dirigées contre des projets gouvernementaux en matière de retraite.
+
+##### C) Les grèves de solidarité
+
+Les grèves de solidarité peuvent prendre deux formes :
+- les **grèves de solidarité interne** ;
+- les **grèves de solidarité externe**.
+
+Les grèves de solidarité interne sont des mouvements menés au sein d’une entreprise pour s’opposer à une décision individuelle de l’employeur. Elles sont qualifiées de solidarité dès lors que les grévistes ne sont pas personnellement touchés par la décision contestée. Elles sont dites internes car les salariés se mettent en grève **au soutien de leurs collègues**.
+
+En principe, **la Cour de cassation** disqualifie de tels mouvements. Selon elle, il n’existe pas de revendications professionnelles, mais seulement une protestation contre une mesure individuelle prise à l’égard d’un salarié.
+
+Cependant, la prohibition de ces grèves de solidarité interne est loin d’être **absolue**. En effet, la jurisprudence admet parfois que l’existence de motifs individuels n’exclut pas nécessairement celle de revendications professionnelles.
+
+Par exemple, la défense de l’emploi constitue une **revendication collective indirecte** lorsque la grève a pour finalité de contester le licenciement économique d’un ou de plusieurs salariés.
+
+De manière générale, la grève de solidarité interne est admise dès lors qu’elle **n’est pas étrangère à des revendications professionnelles**.
+
+Les grèves de solidarité externe sont, quant à elles, des grèves menées pour soutenir des salariés travaillant dans une autre entreprise. **La Cour européenne des droits de l’homme** laisse aux États la faculté d’autoriser ou non ces mouvements.
+
+En réalité, plusieurs arguments militent en faveur de leur admission.
+
+D’une part, la capacité de l’employeur à satisfaire les revendications **est sans incidence sur la légitimité de la grève**.
+
+D’autre part, **la Cour de cassation** admet déjà les grèves de solidarité interne ainsi que les grèves politiques dès lors que les revendications ne sont pas étrangères à l’activité professionnelle.
+
+Par ailleurs, les grèves de solidarité externe ne sont pas purement altruistes : elles font écho à des inquiétudes également présentes au sein de l’entreprise.
+
+Dès lors, tout semble converger vers la **licéité** de ce type de mouvement.
+
+La crainte d’une généralisation excessive peut toutefois être évoquée.
+
+Ainsi, la grève de solidarité externe ne devrait être **illicite** que dans les hypothèses rares où aucune revendication professionnelle ne peut être identifiée.
+
+##### D) La grève d'auto-satisfaction
+
+La **disqualification des grèves d’auto-satisfaction** date de l’arrêt **Bardot du 23 novembre 1978** rendu par **la Cour de cassation**. En l’espèce, il s’agissait de salariés qui avaient refusé de travailler le samedi matin et revendiquaient précisément de ne plus travailler ce jour-là.
+
+D’une certaine manière, les salariés grévistes **se servent eux-mêmes**, en ce sens que leur mouvement leur procure directement satisfaction.
+
+L’idée est qu’il n’existe pas de **véritable revendication professionnelle** adressée à l’employeur. La solution a été confirmée à de nombreuses reprises, notamment à propos de grèves portant sur des heures supplémentaires et ayant pour unique objet la suppression de ces heures.
+
+Plus récemment, cette solution tend à se fonder sur **l’interdiction faite aux salariés de sélectionner les obligations qu’ils refusent d’exécuter**.
+
+De ce point de vue, l’interdiction des grèves d’auto-satisfaction témoigne du **respect accordé au pouvoir de direction de l’employeur**.
+
+Pour sauver leur mouvement de grève, les salariés disposent de deux possibilités :
+1. Ils peuvent décaler leur arrêt de travail, de sorte que l’auto-satisfaction ne soit plus totale.
+2. Ils peuvent également présenter d’autres revendications professionnelles. Par exemple, les grévistes cessent de travailler le samedi tout en accompagnant leur arrêt de travail d’une revendication relative à de nouvelles embauches.
+
+Néanmoins, ces revendications supplémentaires **ne doivent pas constituer de simples prétextes**. Selon la Cour de cassation, elles doivent être réelles et sérieuses, et ne pas être formulées pour les seuls besoins de la cause. Certains auteurs considèrent toutefois que ces grèves devraient être admises, car elles ne sont pas indolores pour les salariés, lesquels subissent une perte de rémunération.
+
+De manière générale, la condamnation des grèves d’auto-satisfaction est discutable. En effet, les grèves ne sont jamais totalement gratuites : les salariés **ne sont pas rémunérés pendant les heures de grève**, ce qui exclut toute satisfaction purement immédiate.
+
+**Conclusion**
+
+Lorsque les conditions précédentes sont réunies (paragraphes 1, 2 et 3), on est en présence d’une **grève au sens juridique**, donc d’un mouvement licite.
+
+Cependant, certains mouvements peuvent aller trop loin (paragraphe 4).
+
+Il convient enfin de s’interroger : **faut-il apprécier la licéité au regard du mouvement collectif dans son ensemble ou du comportement individuel de certains grévistes ?**  
+Cette distinction est déterminante pour qualifier juridiquement la situation.
+#### Paragraphe 4 : l'abus du droit de grève
+
+la grève abusive est une grève qui répond à la défintion juridique de la grève mais qui constitue un exercice anormal du droit de grève. 
+
+c'est une grève qui va trop loin. la notion de grève abusive est pour l'essentiel vague et inutile.
+
+##### A) La notion de grève abusive
+
+Pour **la chambre sociale de la Cour de cassation**, la grève devient abusive dès lors qu’elle **désorganise l’entreprise**.
+
+Pourtant, dans une certaine mesure, toute grève entraîne nécessairement une désorganisation de l’activité.
+
+La Cour de cassation brouille encore les pistes en distinguant **la désorganisation de l’entreprise** de **la désorganisation de la production**.
+
+Dans cette logique, la désorganisation de l’entreprise serait sanctionnée, tandis que la simple désorganisation de la production resterait admise.
+
+Autrement dit, certaines grèves pourraient perturber fortement la production sans aller jusqu’à désorganiser l’entreprise elle-même.
+
+Par conséquent, les contours de la **grève abusive** demeurent particulièrement flous.
+
+Néanmoins, quelques arrêts permettent de mieux cerner la notion. Ainsi, selon la Cour de cassation, une grève peut rendre l’exploitation très onéreuse ou très dommageable sans pour autant caractériser un abus.
+
+Par ailleurs, la **perte de clientèle** ne suffit pas, à elle seule, à qualifier la grève d’abusive.
+
+En résumé, la notion de grève abusive se laisse difficilement appréhender. En outre, l’intérêt pratique de cette qualification demeure relativement limité pour l’employeur au regard des conséquences juridiques qui y sont attachées.
+
+##### B) Les effets
+
+La caractérisation d’une **grève abusive** ne permet pas, à elle seule, de retenir la **faute lourde** des salariés qui y ont participé.
+
+Par ailleurs, la grève abusive ne permet pas d’engager la **responsabilité civile des syndicats**.
+
+Des comportements illicites (violences, dégradations, séquestrations) ne rendent pas, en eux-mêmes, le mouvement **illicite dans son ensemble**.
+
+De plus, il n’est pas possible de sanctionner les grévistes qui n’ont pas personnellement commis ces agissements.
+
+En revanche, dès lors qu’ils sont **individualisés**, ces comportements peuvent être sanctionnés, dans la mesure où ils constituent une **faute lourde**. Le seuil de la faute est alors rehaussé.
+
+L’abus du droit de grève pourrait également servir à justifier la **fermeture temporaire de l’entreprise**.
+
+En réalité, la notion d’abus n’apporte guère plus que celle, mieux connue, de **situation contraignante**, laquelle permet déjà à l’employeur de fermer l’entreprise lorsque le fonctionnement devient impossible.
+
+De ce point de vue, la notion de grève abusive apparaît donc **relativement peu utile**.
+
+Cependant, elle peut présenter une certaine utilité pratique : elle permettrait à l’employeur d’opérer des **retenues sur salaire supérieures à la stricte durée de l’arrêt de travail**.
+
+Par exemple, cela pourrait inclure le temps nécessaire à la remise en marche des machines.
+
+### Section 2 : Le régime de la grève
+
+Le **droit de grève** fait l’objet d’un **régime protecteur**.
+
+#### Paragraphe 1 : L'interdiction des mesures discriminatoires
+
+L’exercice du droit de grève ne peut donner lieu à **aucune mesure discriminatoire**. C’est ce qui résulte de **l’article L. 2511-1 du Code du travail**.
+
+L’interdiction posée par ce texte a un **champ d’application très large**. Elle concerne, par exemple, le licenciement, la rémunération ou encore les avantages sociaux.
+
+Le principe de non-discrimination ne peut être invoqué par les salariés que si le mouvement constitue **une grève au sens juridique du terme**.
+
+Les mesures discriminatoires **sont annulées**.
+
+Un exemple récent peut être donné avec **trois arrêts rendus par la chambre sociale le 22 novembre 2023**.
+
+Dans ces affaires, plusieurs salariés d’une crèche s’étaient mis en grève et ont **subi**, dès le lendemain, une procédure disciplinaire fondée sur une faute grave en matière d’hygiène.
+
+Mais **la Cour de cassation** a considéré que la concomitance entre les procédures disciplinaires et la grève laissait supposer une discrimination.
+
+L’employeur se justifiait pourtant en invoquant des manquements aux règles d’hygiène apparus plusieurs mois avant l’exercice du droit de grève.
+
+Toutefois, la Cour de cassation considère que ces arguments **ne constituent pas des éléments objectifs étrangers à toute discrimination**.
+
+Par conséquent, les **sanctions disciplinaires doivent être annulées**.
+
+#### Paragraphe 2 : le déclenchement de la grève
+
+S’agissant du secteur privé, **aucun préavis n’est exigé** des salariés avant le début de la grève.
+
+Les **conventions collectives** ne peuvent pas imposer un tel préavis aux salariés.
+
+La seule exigence lors du déclenchement de la grève tient à **l’information de l’employeur concernant les revendications**.
+
+Cette information peut parfaitement coïncider avec le début de la grève.
+
+S’agissant du secteur public (qui comprend les services publics stricto sensu mais aussi les entreprises privées chargées d’un service public), **le législateur est venu apporter certaines limites** au déclenchement de la grève.
+
+En effet, la grève ne peut être déclenchée **qu’à l’expiration d’un préavis déposé par un syndicat représentatif**.
+#### Paragraphe 3 : La perte de salaire
+
+Pendant la grève le salarié n’est pas payé, il s’agit de l’application du mécanisme de **l’exception d’inexécution**. Cependant, la **perte du salarie doit rester strictement proportionnelle** à **l’arrêt** de **travail**. 
+
+Par exemple, si les salariés ont fait grève pendant **3 heures** la **diminution** du salaire doit correspondre à **3 heures** de travail.
+
+Cette règle est appliquée de manière **stricte**, elle **profite** même au salarié dont le temps de travail est décompté à la **journée** ou à la **demi-journée**. 
+
+Par ailleurs, l’employeur ne peut **pas** **prendre en compte le temps de remise en marche des machines**. Même si ces heures sont improductives, la **jurisprudence** estime qu’elles doivent être **payées**. 
+
+La **retenue** **sur salaire** doit donc être **strictement proportionnelle** à la **durée** de **l’arrêt** de travail.
+
+De manière paradoxale, l’employeur doit payer **normalement** le salarié participant à un **mouvement** **qui ne constitue pas juridiquement une grève**. 
+  
+Dans une telle hypothèse, **l’absence** de paiement du salaire constituerait une **sanction** **pécuniaire** **prohibée** par l’**article L.1331-2 Code du Travail**. 
+
+Par ailleurs, l’employeur ne peut **pas réduire ou supprimer** la **prime des gréviste**. 
+
+La CASS estime également que l’attribution d’une **prime exceptionnelle au salarié non-gréviste** a un **caractère discriminatoire**. 
+
+De manière exceptionnelle, les **heures de grève doivent parfois être rémunérées** c’est le cas lorsque la grève est causée par la **faute de l’employeur**. 
+
+La CASS considère qu’en cas de **manquement grave et délibéré de l’employeur à ses obligations**, les grévistes doivent **percevoir** leur **rémunération**. 
+
+Par exemple, la Chambre sociale considère que le **non-paiement des heures supplémentaires** constitue un **manquement grave et délibéré de l’employeur**. ""
+
+#### Paragraphe 4 : La neutralisation du pouvoir de sanction de l’employeur
+
+**Sauf** en cas de **faute lourde du salarié**, le **pouvoir** de **sanction** de l’employeur est **suspendu** pendant la grève. Cette **neutralisation** du pouvoir de l’employeur concerne t**out fait ne pouvant être qualifié de faute lourde**. 
+
+Ainsi, un salarié **ne peut être licencié** pour avoir **incité** ses collègues à se mettre en grève. 
+
+Cette interdiction de toute sanction pendant la période de grève comporte 2 aspects : 
+
+- D’une part le **seul fait de participe**r à une grève n’est **pas** une **faute** pouvant entraîner un **licenciement.**
+
+De plus, un **salarié gréviste** ne peut **pas** être **sanctionné** pour des actes **illicites** commis par **d’autres** grévistes. Nul ne peut être sanctionné **pour l’exercice illicite d’un droit par un tiers**. 
+
+- D’autre part, des comportements pouvant **habituellement** être **punis** ne le sont **plus** en temps de **grève**. Seuls les **comportements** l**es plus grave**s peuvent donner lieux à une **sanction**. 
+
+Ainsi, les juges doivent rechercher **si une faute lourde a été commise** par le salarié. La **jurisprudence** a pu considéré que les **insultes** et les jets de **betteraves** et **d’oeufs** constituent un comportement **acceptable**. 
+
+En revanche, la **faute** **lourde** est caractérisée en cas de violences de **séquestration** ou encore **d’atteinte à la liberté du travail des non-grévistes**. 
+
+L’appréciation de la faute lourde est **individuelle**. L’employeur doit donc caractériser la participation **directe** et **personnelle** du **salarié**. 
+
+En **l’absence** de **faute** **lourde**, la sanction prononcée à l’égard du salarié encourt la **nullité**.
+
+Le **salarié** pourra donc **obtenir** la **réintégration** dans son **emploi** ainsi que **tous** les **salaires** qu’il aurait perçu **entre la date de son licenciement et la réintégration**. 
+
+#### Paragraphe 5 : Le droit d’occupation des locaux de travail
+
+La grève **ne peut se concevoir sans une présence des salariés sur les lieux de travail**. Cependant le droit de grève **ne permet pas de disposer arbitrairement des locaux de l’entreprise**. 
+
+À ce titre, il convient de **distinguer** la situation des **salariés** de celle des **représentants**. 
+
+S’agissant des salariés leur simple **présence** dans les locaux est **tolérée**, cela comprend les **occupations pacifiques**, c’est à dire **sans atteinte au bien ou à la sécurité**. En ce sens, il existe un **droit d’occuper les locaux**. 
+
+Cependant, dès que l’occupation s’accompagne de **violences**, de **séquestrations**, de **sabotage**, ou encore **d’atteinte à la liberté du travail des non-grévistes**, l’employeur peut alors **répliquer**. 
+
+L’occupation constituerait alors un **trouble manifestement illicite**. 
+
+Cela permettrait à **l’employeur** de saisir le j**uge des référés** pour ordonner **l’expulsion** des grévistes.
+
+S’agissant des **représentants**, ils bénéficient en raison de leurs fonctions, d’un **droit de circulation dans l’entreprise**.
+
+## Chapitre 2 : La fermeture de l’entreprise
+
+La question de la fermeture de l’entreprise ou « lock-out » conduit à s’intéresser aux **moyens** **juridiques** qui sont à la **disposition de l’employeur face à la grève**. 
+
+L’employeur peut d’abord **licencier** ceux qui ont **commis une faute lourde** ou ceux qui ont **participé** à un mouvement qui **ne constitue pas juridiquement une grève**. 
+
+Par ailleurs, l’employeur peut **chercher à assurer la continuité de l’activité**. À ce titre, il peut faire **travailler les salariés non-grévistes** ou faire appel à la **sous-traitance**. 
+
+Dans certains cas, l’employeur peut recourir **à la fermeture des lieux de travail.** 
+
+Enfin, il peut saisir la **justice**, notamment pour demander **l’expulsion des occupants** ou pour mettre en **jeu la responsabilité civile des grévistes ou des syndicats** si un syndicat aurait  appelé à **une grève illicite**.
+
+En résumé, **2 options** s’offrent à l’employeur :
+- d’une part **assurer** la **continuation** ou **l’exploitation** du service ;
+- d’autre part de **l’arrêter**.
+
+Dans certains cas, l’employeur peut décider de **fermer complètement certains services** ou **ateliers** voire même l’ensemble de **l’entreprise**. L’un des **enjeux** est alors de ne **pas avoir à rémunérer les non-grévistes**. 
+
+Il convient d’apporter quelques précisions à propos du **travail des non-gréviste**s avant d’envisager  la question de la **fermeture de l’entreprise**. 
+
+L’employeur peut demander aux n**on-grévistes d’exécuter les tâches qui n’entrent pas habituellement dans leurs missions**. Ces non-grévistes **peuvent** **refuser** d’accomplir un travail qui ne correspond pas à leur niveau de qualification. 
+
+Les **grévistes** ne peuvent **pas s’opposer à l’exécution de leurs tâches par d’autres salariés**. 
+
+En effet, ils se rendraient alors **coupables** d’une **faute lourde** pouvant légitimer le **licenciement** même en temps de grève.
+
+Le lock-out consiste en la **fermeture de l’entreprise ou une partie** de l’entreprise à l’occasion d’un **conflit collectif**. Ce contexte conflictuel permet de **différencier** cette hypothèse de celle dans laquelle l’activité serait r**éduite pour des motifs économiques**. 
+
+Le plus souvent, le lock-out est une **pression** de l’employeur sur les **salariés** pour les conduire à **abandonner leurs revendications**. 
+
+Cela peut être également motivé par la volonté de l’employeur **d’éviter de payer des salaires des non-grévistes**. 
+
+D’un point de vue juridique, le **lock-out** constitue une **inexécution du contrat de travail**. Le lock-out est en principe interdit en droit français pour la raison donnée précédemment. 
+
+Ainsi, le lock-out expose l’employeur à des **sanctions indemnitaires**. 
+
+D’une part, il devra payer les **salaires** de ceux qu’il a privé de travail (salariés **non-grévistes**). D’autre part, il devra verser des **dommages et intérêts** aux salariés **grévistes** qui ont été entravés dans leur mouvement.
+
+**À** titre **exceptionnel**, la jurisprudence admet que le recours au **lockout** est **justifié**. La CASS a tout d’abord justifié la fermeture de l’entreprise par le **jeu de l’exception d’inexécution**. Cependant, une telle analyse n’est **pas** **pertinente** car elle ne j**ustifie pas la privation de salaires pour les salariés non-grévistes**. 
+
+C’est ce qui explique que la jurisprudence a **abandonné** ce fondement.
+
+La jurisprudence a pu également s’appuyer sur la notion de **force** **majeur** pour tenter de justifier la fermeture de l’entreprise. Ce fondement était également **critiquable**. Le comportement des grévistes, n’est **pas imprévisible pour l’employeur**. L’employeur a été **informé** des revendications à l’origine de la grève. 
+
+Par ailleurs, la grève ne constitue **pas un évènement extérieur à l’entreprise**. 
+
+Actuellement, la CASS **admet la fermeture de l’entreprise** en s’inspirant du caractère **irrésistible**. La CASS exige une situation **contraignante** qui n’est **pas imputable** à l’employeur et qui rend **impossible** la **fourniture** de **travail** au **salarié**. 
+
+Cette qualification va **au-delà de la simple difficulté**, en ce sens, il ne suffit **pas que le maintien du travail des non-grévistes soit onéreux ou même fait à perte**. Il est nécessaire que **l’employeur** ait fait **tout ce qui était en son pouvoir pour éviter la grève ou y mettre fin**. 
+
+Par exemple, en cas **d’occupation**, l’existence d’une situation **contraignante** suppose que l’employeur **ait sollicité l’évacuation des lieux de travail**. Une décision rendue le 26 mars 2014 par la chambre sociale permet d’illustrer la notion de situation contraignante.
+
+En l’espèce, **l’employeur** n’avait **plus accès aux instruments comptables** de l’entreprise ainsi qu’aux **locaux**. La CASS a estimé que cela caractérisait une situation **contraignante**. 
+
+Il en résulte que l’employeur n’avait commis **aucune faute en transférant son activité dans d’autres locaux**. 
+
+La **charge de la preuve de la justification pèse sur l’employeur**.

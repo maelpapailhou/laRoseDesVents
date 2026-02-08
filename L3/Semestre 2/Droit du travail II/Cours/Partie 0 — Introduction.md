@@ -3,6 +3,7 @@ Dans une relation **individuelle**, le cadre juridique est le **contrat de trava
 Il existe également des **conflits collectifs** : des **représentants** interviennent alors et ces situations peuvent déboucher sur la **conclusion d’accords collectifs**.
 
 ---
+
 Il convient tout d’abord de préciser le sens de la notion de **relation collective**. La relation collective de travail désigne la relation qui est **nouée**, d’une part, **avec un employeur ou un groupement d’employeurs** ; elle peut ainsi dépasser le cadre de l’entreprise. La relation collective peut être **collective des deux côtés** ou **d’un seul côté**, notamment dans le cadre de la grève ou de la négociation collective. Elle implique, d’autre part, **un groupement de salariés**.
 
 En règle générale, les **relations individuelles de travail** sont caractérisées par un **déséquilibre des forces** entre les parties. Ainsi, sur le terrain des relations collectives, les salariés espèrent obtenir des **satisfactions** qu’ils auraient moins de chances d’obtenir dans un cadre individuel.

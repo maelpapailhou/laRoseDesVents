@@ -10,7 +10,7 @@ Lorsqu’on parle d’**entreprise individuelle (EI)**, cela signifie qu’elle 
 
 Celui-ci est donc une **personne physique** (commerçant, artisan, professionnel libéral) et **porte seul son entreprise**. Le législateur n’a, par ailleurs, cessé de multiplier les **statuts professionnels** afin de protéger et de réglementer les entreprises individuelles.
 
-## Chapitre 1 - l’origine 
+## Chapitre 1 : L’origine 
 
 L’**entreprise individuelle** se doit de respecter le **principe d’unicité du patrimoine**, principe créé par **Aubry et Rau**, selon lequel chaque sujet de droit ne peut avoir **qu’un seul patrimoine**.
 
@@ -24,7 +24,7 @@ Une autre étape intervient en **2008**, avec l’extension du dispositif d’in
 
 Ces **mesures ponctuelles** apparaissent néanmoins **insuffisantes**.
 
-## Chapitre 2 - l’EIRL
+## Chapitre 2 : L’EIRL
 
  L’**EIRL** constitue une déclinaison de l’entreprise individuelle, fondée sur le **patrimoine d’affectation**. Elle permettait à l’entrepreneur de créer, au sein de son patrimoine, une partie **affectée à l’activité professionnelle**, tandis que le reste regroupait ses **biens personnels**.
 
@@ -194,7 +194,7 @@ La situation de l’entreprise individuelle a énormément évolué : aujourd’
 
 Quant aux associés, les créanciers ne pourront les poursuivre que s’il s’agit d’associés d’une **société de personnes**, civile ou commerciale.
 
-#### Paragraphe 3 :  Au regard de la vie sociale
+#### Paragraphe 3 : Au regard de la vie sociale
 
 ##### A) La gestion de l'entreprise
 
@@ -269,12 +269,10 @@ Il faut également que la loi n’ait pas prévu que le contrat soit frauduleux.
 
 En ce qui concerne le consentement, il y a trois exigences :
 - **l’existence** ;
-    
 - **la sincérité** ;
-    
 - **l’intégrité**.
 
-- 1) L’existence du consentement
+- **1) L’existence du consentement**
 
 Pour que le contrat soit valable, il faut que les parties aient donné leur consentement pour participer à la société.  
 Or, le droit des sociétés connaît une figure particulière : **la société fictive**.
@@ -282,7 +280,7 @@ Or, le droit des sociétés connaît une figure particulière : **la société f
 Les commerçants peuvent créer des sociétés fictives, mais se comporter comme maîtres de l’affaire.  
 Ces sociétés sont considérées comme **nulles** par la jurisprudence, car le consentement des associés n’était pas réel.
 
-- 2) La sincérité du consentement
+- **2) La sincérité du consentement**
 
 Les personnes consentent, mais affichent un contrat qui ne correspond pas à la réalité : il s’agit d’un **cas de simulation**.
 
@@ -457,7 +455,7 @@ Si la société ne respecte pas ses engagements :
     
 - la mention « société à mission » doit être supprimée de tous les documents.
 
-#### Paragraphe 2 : Les conditions spéciales tirées du droit des sociétés
+##### Paragraphe 2 : Les conditions spéciales tirées du droit des sociétés
 
 Ces conditions découlent de **l’article 1832 du Code civil**.  
 La doctrine a mis en avant plusieurs caractéristiques du contrat de société.
@@ -471,7 +469,7 @@ Ce contrat se caractérise par plusieurs éléments :
     
 - **l’affectio societatis**.
 
-##### A) La pluralité d’associés
+###### A) La pluralité d’associés
 
 Il existe des sociétés qui peuvent n’avoir **qu’un seul associé**.
 
@@ -515,7 +513,7 @@ L’associé unique peut régulariser la situation :
 
 Si aucune régularisation n’intervient, le juge peut prononcer la **dissolution et la liquidation de la société**, mais ce n’est pas une obligation.
 
-##### B) Les apports
+###### B) Les apports
 
 Les apports sont **obligatoires dans toutes les sociétés**, même celles qui n’ont pas la personnalité morale (par exemple la société en participation).  
 
@@ -526,7 +524,6 @@ L’apport se définit comme le bien dont l’associé transfère la propriété
 L’**apport fictif** entraîne la nullité de l’apport et donc la suppression des parts ou actions qui ont été attribuées en contrepartie.
 
 Le droit des sociétés connaît **trois types d’apports**.
-
 
 - **1) L'apport en nature**
 
@@ -564,6 +561,7 @@ Dans les sociétés où la responsabilité des associés est **limitée aux appo
 Dans les **petites SARL**, cette nomination est **facultative**, mais dans les SARL plus importantes, elle devient **obligatoire**.
 
 - **c) Les modalités d'apports en nature** 
+
 L’apport peut se faire **en pleine propriété** : on transfère la propriété du bien de son patrimoine à celui de la société, et on reçoit des parts sociales en contrepartie.  
 La particularité de ce contrat est que, en contrepartie de l’apport, on reçoit des **titres sociaux**.
 
@@ -654,9 +652,9 @@ Simplement, **ils ne figurent pas dans le capital social**.
 
 Ces apports sont également **autorisés dans les sociétés de personnes**, telles que les **sociétés civiles** ou les **sociétés en nom collectif**.
 
-##### C) La participation au résultat
+###### C) La participation au résultat
 
-###### 1) Les notions de bénéfice, d’économie et de perte
+- **1) Les notions de bénéfice, d’économie et de perte**
 
 La Cour de cassation, dans un arrêt du **1er mars 1914, Caisse rurale de Manigod**, a donné la définition du bénéfice :
 
@@ -670,3 +668,467 @@ Mais la société est ici en concurrence avec deux autres groupements : **l’as
 La société peut aussi réaliser des **pertes**, et les associés doivent les supporter.
 
 **Attention : il faut distinguer la contribution aux pertes et la participation aux dettes.**
+
+- **2) Modalités de participation au résultats**
+
+Le **Code civil** prévoit une répartition des résultats **proportionnellement à la participation dans le capital social**.
+
+Cette règle, posée par **l’article 1844 du Code civil**, est **supplétive**, c’est-à-dire qu’il est tout à fait possible pour les associés de retenir des **modalités différentes de répartition des bénéfices**.  
+Il faut alors le prévoir dans les **statuts**, qui préciseront les modalités de répartition des **bénéfices et des pertes**.
+
+Par exemple, il est possible de prévoir une **répartition égalitaire des bénéfices** alors que les apports sont inégalitaires. À l’inverse, il est possible de prévoir une **répartition inégalitaire** alors que les apports sont égaux.  
+Il est aussi possible de modifier en cours de vie sociale cette répartition des résultats (dans certaines formes de sociétés). Dans les sociétés anonymes, il existe notamment des **actions de préférence**, qui permettent de rémunérer davantage certains actionnaires que d’autres.
+
+Ces **actions de préférence** peuvent attribuer des avantages extrêmement variés aux actionnaires. Ce sont les actionnaires qui décident des caractéristiques des actions émises par la société.
+
+En présence d’**apports en industrie**, la règle veut que l’apporteur en industrie soit rémunéré **comme l’associé qui a le moins apporté en numéraire ou en nature**.
+
+Peut-on vraiment faire tout ce que l’on veut ? **Non, il existe une limite.**
+
+Les statuts peuvent aménager la répartition des bénéfices, mais les clauses relatives à cette répartition **ne doivent pas être léonines**.
+
+« Léonin » vient du **lion** : cet aménagement ne doit pas avoir pour effet d’attribuer à un associé **la part du lion**.  
+
+**L’article 1844-1 du Code civil** prohibe les clauses statutaires :
+- qui attribuent **tous les bénéfices** de la société à un seul associé ;
+- ou qui **excluent un associé** de la participation aux bénéfices ou aux pertes.
+
+Sont également prohibées les **clauses du tout ou rien**, ainsi que les **clauses d’intérêts fixes**, c’est-à-dire celles qui prévoient le versement d’un intérêt **indépendamment de l’existence d’un bénéfice**.
+
+Si une clause est qualifiée de **léonine** par le juge, elle est **réputée non écrite**. Dans ce cas, **l’article 1844-1 retrouve application**, avec une **répartition proportionnelle aux apports**.
+
+###### D) L'affectio societatis
+La **quatrième condition** ajoutée par la jurisprudence est l’**affectio societatis**.  
+C’est **l’intention de s’associer**.
+
+Faute de précision légale, la doctrine s’est efforcée de définir cette notion, sans parvenir à une définition totalement satisfaisante, car l’intention de s’associer **varie fortement selon les sociétés**.
+
+Elle n’est pas du tout la même selon les formes sociales :
+- dans certaines sociétés, les associés veulent **travailler ensemble** ;
+    
+- dans d’autres, notamment les grandes multinationales, l’objectif est surtout **financier**.
+    
+
+La doctrine a donc eu du mal à définir l’affectio societatis, qui **n’est pas identique dans toutes les sociétés**.
+
+La jurisprudence retient que l’affectio societatis est une **notion multiforme**, dont le plus petit dénominateur commun est :
+
+> **la volonté des associés de collaborer sur un pied d’égalité au succès de l’entreprise commune.**
+
+La jurisprudence a recouru à cette notion pour **combler un vide juridique**, la loi ne prévoyant pas explicitement cette condition. Elle a donc consacré l’affectio societatis comme **quatrième condition du contrat de société**.
+
+La jurisprudence a utilisé l’affectio societatis pour **révéler l’existence de contrats de société**.  
+Par exemple, des concubins peuvent travailler ensemble pendant des années dans un fonds de commerce sans avoir conclu de contrat de société. Au moment de la séparation, l’un peut saisir le juge pour obtenir une part. Le juge peut alors qualifier la situation de **société créée de fait**, en constatant l’existence d’un **affectio societatis** entre les concubins.
+
+Cela permet le **partage des biens accumulés** pendant l’exploitation de l’entreprise. Le concubin peut alors avoir droit à **la moitié**.
+
+Cette société créée de fait **n’a pas la personnalité morale**, mais le juge constate :
+
+- un **apport**,
+    
+- une **pluralité d’associés**,
+    
+- un **affectio societatis**,
+    
+- une **participation aux résultats**.
+
+
+Deuxième fonction : l’affectio societatis est un **régulateur de la vie sociale**.
+
+1. **Pour débusquer les sociétés fictives** :  
+    Par exemple, un commerçant qui crée une société seul pour dissimuler son patrimoine, sans assemblées, sans véritable associés. Les juges considéraient qu’il n’y avait pas d’affectio societatis et prononçaient la **nullité de la société**.
+
+Aujourd’hui, la situation a évolué, notamment avec la réforme du droit des nullités (2025). La question se pose désormais de savoir si les sociétés fictives peuvent encore être annulées dans les mêmes conditions.
+
+2. **Pour prononcer la dissolution en cas de mésentente des associés** :  
+    Exemple classique : une société avec deux associés à 50 %.  
+    Dans une société familiale, chaque conjoint détient 50 %. En cas de divorce, aucune majorité ne peut se dégager, la société est **bloquée**. Le juge peut alors prononcer la **dissolution de la société** pour disparition de l’affectio societatis.
+
+
+Enfin, l’affectio societatis est un **critère distinctif du contrat de société**.  
+En cas de doute ou de contrat déguisé, le juge peut **requalifier un contrat en contrat de société** s’il constate l’existence d’un affectio societatis. Le juge **n’est jamais lié par la qualification donnée par les parties**.
+
+Par exemple :
+- **Contrat de travail** : s’il existe un lien de subordination, ce n’est pas un contrat de société. Mais si les parties sont sur un **pied d’égalité** et collaborent au succès de l’entreprise, il peut s’agir d’un **contrat de société**.
+- **Contrat de prêt** : une personne prête de l’argent à une autre qui investit dans une activité commune. Un tiers peut soutenir qu’il existe une société si les parties collaborent sur un pied d’égalité avec une intention commune.
+
+Dans ces hypothèses, le juge peut **requalifier le contrat** en contrat de société en raison de l’existence d’un **affectio societatis**.
+##### Paragraphe 3 : Les sanctions applicable en cas de manquement d'une condition de validité
+
+Exemples : défaut de **consentement**, **incapacité** des associés, absence de **pluralité d’associés**, **apports frauduleux**, **clause léonine**, ou absence d’**affectio societatis**.
+
+La nullité s’applique-t-elle ? Si oui, quelles sont les règles relatives à l’action en nullité ?
+###### A) Le domaine des nullités
+
+Le **régime des nullités** a été réformé par une **ordonnance du 12 mars 2025**, applicable à compter du **1er octobre 2025**.
+
+Avant cette réforme très récente, la nullité était encadrée par deux textes :
+- **l’article 1844-10 du Code civil**, qui se référait à la nullité des contrats en général et à la violation des articles 1832 et 1833 du Code civil ;
+- **l’article L. 235-1 du Code de commerce**, qui se référait aux dispositions expresses du Code de commerce et aux lois régissant la nullité des contrats.
+
+De la combinaison de ces deux articles, il résultait que la nullité d’une société pouvait résulter :
+- de la violation d’une disposition concernant le **régime général des contrats** ;
+- de la violation d’une disposition **spéciale régissant le contrat de société** ;
+- de la violation d’une **disposition expresse du livre II du Code de commerce**.
+
+À toutes ces causes de nullité, il fallait ajouter la **fraude**, qui corrompt tout.
+
+Il fallait distinguer les **dispositions impératives** des **dispositions expresses**, rechercher les textes dans le Code civil et le Code de commerce : il en résultait une **grande confusion** et une **forte insécurité juridique**.  
+En effet, la nullité de la société entraînait la nullité des actes réalisés par celle-ci, ce qui pouvait avoir un **impact majeur sur la vie économique**.
+
+La réforme a profondément modifié le droit des sociétés.
+
+Désormais, **toutes les dispositions concernant les nullités des sociétés se trouvent dans le Code civil**.  
+Les dispositions du Code de commerce relatives à la nullité des sociétés ont été **purement et simplement abrogées**.
+
+Les textes sont désormais regroupés aux **articles 1844-10 et suivants du Code civil**.
+
+Le régime de la nullité s’articule aujourd’hui autour de **deux grands volets** :
+- la **nullité de la société** ;
+- la **nullité des apports**.
+
+- **1) La nullité de la société**
+
+Le législateur a **limité à deux cas** la nullité des sociétés.  
+Selon **l’article 1844-10 du Code civil**, la nullité de la société ne peut résulter que :
+
+- de **l’incapacité de tous les fondateurs** ;
+    
+- de **la violation des dispositions fixant un nombre minimum de deux associés**.
+    
+
+Cette limitation des causes de nullité est **d’ordre public**, ce qui signifie qu’**aucune autre cause ne peut être admise**, sauf si une **loi spéciale** en dispose autrement (art. 1834 du Code civil).
+
+On n’est toutefois pas à l’abri de **créations jurisprudentielles** de nouvelles causes de nullité des sociétés.
+
+De ce fait, de nombreuses causes de nullité ont été supprimées, notamment :
+
+- l’absence de réunion des éléments constitutifs de la société ;
+    
+- l’absence des conditions de validité du contrat en général.
+    
+
+Ces situations **ne constituent plus des causes de nullité de la société**.
+
+Cela a des conséquences importantes : par exemple, une **société fictive**, auparavant nulle pour défaut d’affectio societatis, **ne devrait plus être annulée** sur ce fondement.
+
+Auparavant, la loi prévoyait que si une société avait un **objet illicite**, elle pouvait être annulée.  
+Désormais, si l’**objet social statutaire est illicite**, la clause est **réputée non écrite** (art. 1844-10 du Code civil). Or, l’objet social est **obligatoire** pour les sociétés (art. 1833 du Code civil).
+
+Si la clause relative à l’objet social est réputée non écrite, il n’y a plus d’objet social, et comme toute société doit avoir un objet social, **la société sera dissoute**.
+
+Les **vices du consentement** affectant tout ou partie des associés (en dehors de l’incapacité) **ne constituent plus une cause de nullité de la société**.  
+En cas d’erreur, de dol ou de violence, **on ne prononce pas la nullité de la société**, mais la **nullité de l’apport**. Dans ce cas, les parts sont annulées et **l’associé quitte la société**.
+
+Dernière cause d’annulation qui n’existe plus aujourd’hui : la **fraude**, qui n’est pas citée expressément en droit français.  
+Cependant, en droit de l’Union, la **CJUE reconnaît la fraude comme cause de nullité des sociétés**. Par le biais du droit de l’Union, on pourrait donc voir **réapparaître cette cause de nullité en droit interne**.
+
+- **2) La nullité du contrat d'apport**
+
+Le législateur a **restreint les cas de nullité des sociétés**, mais il a **maintenu et précisé la nullité du contrat d’apport**, qui peut être annulé.
+
+La nullité du contrat d’apport **ne peut résulter que des causes mentionnées à l’article 1844-10, alinéa 3, du Code civil**, le législateur procédant par **renvoi**.
+
+Cet alinéa 3 concerne les **décisions sociales**.  
+Les décisions sociales **ne peuvent être annulées** que si elles sont prises en violation :
+- d’une **disposition impérative** du droit des sociétés (disposition obligatoire, même si elle n’est pas expressément écrite) ;
+    
+- sauf celles visées à l’article 1833 concernant les **enjeux sociaux et environnementaux**, qui ne sont pas susceptibles d’annulation.
+    
+
+Il faut donc en déduire que, pour le **contrat d’apport**, celui-ci n’est annulable que :
+- s’il a été conclu en **violation d’une disposition impérative du droit des sociétés** ;
+    
+- ou s’il a été conclu en **violation des conditions de validité des contrats en général**.
+    
+
+Ainsi, on pourra annuler par exemple :
+- les **apports illicites** ;
+    
+- les **apports frauduleux** ;
+    
+- les **apports entachés d’un vice du consentement** (erreur, dol, violence).
+
+Dès lors que l’apport est annulé, cela entraîne **l’annulation des titres reçus en contrepartie**, et l’on procède à une **restitution** (restitution de l’argent ou du bien à l’associé).
+
+Si la nullité touche **tous les apports**, ce n’est pas la nullité de la société qui est prononcée, mais **sa dissolution suivie de sa liquidation**.
+
+###### B) L'action en nullité
+
+On applique les **règles du droit commun** en ce qui concerne les personnes pouvant agir.  
+En ce qui concerne la personne qui peut agir, on retrouve le droit commun : il peut s’agir d’une **nullité relative**, lorsque seul un intérêt particulier est en cause. Dans ce cas, **seule la personne ou le groupe de personnes que la loi a voulu protéger peut agir**.  
+Au contraire, lorsque la nullité sanctionne un **vice d’ordre public**, la nullité est **absolue** et **toute personne justifiant d’un intérêt légitime peut agir**.
+
+Le **défendeur est toujours la société**.
+
+Contrairement au droit commun, la **prescription est très courte** : elle était de **trois ans**, elle est désormais de **deux ans**.
+
+Ce délai, comme toute prescription, peut être **interrompu ou suspendu**.
+
+La question de la **régularisation** ne se pose plus aujourd’hui dans les mêmes termes : les **cas de nullité ont été fortement limités**.  
+Cependant, la règle selon laquelle l’action peut **s’éteindre** continue d’exister.
+
+L’action en nullité est **éteinte dès lors que la cause de nullité a cessé le jour où le juge statue au fond**.
+
+En cas de **vice du consentement**, les autres associés peuvent demander au juge de **racheter les parts de l’associé**. On ne prononcera pas la nullité de l’apport : **l’associé quittera simplement la société**.
+
+###### C) Les effets de la nullité
+
+En droit des sociétés, **contrairement au droit commun**, si la nullité est prononcée, **elle ne produit pas d’effet rétroactif**.
+
+La jurisprudence, puis **l’article 1844-15 du Code civil**, ont consacré cette règle : lorsque la nullité de la société est prononcée, **elle met fin au contrat sans rétroactivité**.  
+Il en va de même pour la **nullité de l’apport**.
+
+Toutes les **décisions prises par l’associé restent valables**.  
+Ce que le législateur veut éviter, ce sont des **remises en cause internes et à l’égard des tiers**.
+#### Sous-section 2 : La personne morale
+
+##### Paragraphe 1 : La notion
+
+Ce n’est pas une personne au sens courant du terme. Comme le disait **Gaston Gèze** : _« Je n’ai jamais déjeuné avec une personne morale »_. **Jean-Claude Soyer** répondait : _« Moi non plus, mais je lui ai souvent fait payer l’addition »_.
+
+**Aubry et Rau** ont affirmé le **principe d’unicité du patrimoine** : toute personne a un patrimoine et tout patrimoine appartient à une personne.
+
+Les juges ont ensuite affirmé l’existence des **personnes morales**. La personne morale vient du **droit public** : le législateur avait reconnu la personnalité morale à l’État et aux collectivités territoriales. Ce n’est qu’à partir du **XIXe siècle** que la jurisprudence a commencé à reconnaître l’existence de personnes morales titulaires d’une capacité juridique.  
+Ce n’est qu’avec les **lois du 24 juillet 1966 et du 4 janvier 1978** que le législateur a reconnu la personnalité morale à la plupart des sociétés.
+
+La personnalité morale permet à la société d’avoir un **patrimoine propre**, mais aussi des **caractères spécifiques** et une **identité propre**. La société a un **nom**, un **siège social**, une **nationalité**. Cette personnalité morale est **plus ou moins forte selon les sociétés** : il existe des sociétés **opaques** et des sociétés **translucides**.
+
+Lorsque la société est **opaque**, on ne va pas chercher les actionnaires derrière ; lorsqu’elle est **translucide**, on peut remonter aux associés.
+
+En droit des sociétés, la question est de savoir si la personnalité morale est **reconnue par la loi** ou **peut être reconnue par le juge** dès lors qu’un groupement présente certains caractères.
+
+Il s’agit donc de savoir si l’on applique la **théorie de la fiction** ou la **théorie de la réalité**.
+
+**Théorie de la fiction** : position de **Savigny** et **Ihering**, qui affirment qu’il n’y a que les personnes physiques qui disposent d’une capacité juridique. Si d’autres personnes disposent de cette capacité, il s’agit d’une **fiction juridique**.
+
+**Théorie de la réalité** : théorie opposée, soutenue notamment par **Gierke**, selon laquelle la personne morale est une **réalité** : elle dispose d’une capacité d’expression, d’une organisation, d’un intérêt propre distinct de celui des associés, et d’organes. Dès lors que le juge constate cette réalité, il peut **reconnaître la personnalité morale**.
+
+C’est ce qui s’est passé en droit du travail avec l’**arrêt Comité d’établissement de Saint-Chamond**, **2e civ., 28 janvier 1954**. La Cour de cassation affirme que :
+
+> _« La personnalité civile n’est pas une création de la loi ; elle appartient en principe à tout groupement pourvu d’une possibilité d’expression collective pour la défense d’intérêts licites dignes d’être juridiquement reconnus et protégés. »_
+
+Dans cet arrêt, la Cour de cassation **opte pour la théorie de la réalité** : ce n’est pas le législateur qui crée les personnes morales, mais le juge.
+
+Cependant, la jurisprudence **ne reconnaît pas la personnalité morale aux sociétés créées de fait** et, de manière générale, n’a jamais reconnu la personnalité morale aux **groupes de sociétés**. Le législateur a en effet affirmé de manière extrêmement claire que la personnalité morale des sociétés **dépend d’une formalité**, à savoir **l’immatriculation au registre du commerce et des sociétés**.
+
+Ainsi :
+
+- soit la société est **immatriculée** et elle a la **personnalité morale** ;
+    
+- soit elle n’est **pas immatriculée** et elle **n’a pas la personnalité morale**.
+    
+
+C’est le cas notamment des **sociétés en participation** et des **sociétés créées de fait**.
+
+##### Paragraphe 2 : La capacité
+
+La **capacité juridique** est l’aptitude d’une personne à être titulaire de droits et à exercer ses droits elle-même.
+
+C’est l’aptitude à disposer de droits garantis par l’ordre juridique. C’est ce qu’on appelle la **capacité de jouissance**.  
+
+Cette capacité de jouissance doit être distinguée de l’**aptitude à exercer ces droits**. On peut être titulaire de droits, mais ne pas être capable de les exercer.
+
+###### A) La capacité de jouissance
+
+Cette capacité a été posée par le **nouvel article 1145 du Code civil**, modifié par l’ordonnance de 2016.
+
+Elle est **limitée par les règles applicables à chacune des personnes**.
+
+###### B) la capacité d'exercice
+
+Elle pose la question de la capacité de la personne à **faire valoir elle-même ses droits** et soulève la question de la **représentation**.
+
+Les incapables, majeurs ou mineurs, peuvent agir en étant **représentés**, et il en est de même des **sociétés**.
+
+C’est le **Code civil** qui précise l’étendue des pouvoirs du représentant.  
+**L’article 1153 du Code civil** dispose que :
+
+> _« Le représentant légal, judiciaire ou conventionnel n’est fondé à agir que dans la limite des pouvoirs qui lui ont été conférés. »_
+
+Ce texte vise **toutes les hypothèses de représentation des sociétés** : le représentant légal, judiciaire ou conventionnel ne peut agir **que dans la limite des pouvoirs qui lui ont été conférés**.
+
+Même si les dirigeants sociaux sont souvent qualifiés de **mandataires sociaux**, le contrat de mandat ne peut pas expliquer à lui seul le pouvoir de représentation des sociétés. Ce pouvoir obéit à des **règles particulières**, propres au droit des sociétés.
+
+C’est la **théorie des organes sociaux** : aujourd’hui, la majorité des auteurs reconnaissent qu’il s’agit d’une **représentation légale** et non contractuelle, et que la situation des dirigeants sociaux est **institutionnelle** plutôt que contractuelle.
+
+Normalement, lorsqu’ils agissent, **leur responsabilité personnelle n’est pas engagée** : c’est **la responsabilité de la société** qui est engagée.  
+Il en va de même en matière pénale : une société peut être poursuivie pénalement ; l’organe a agi pour la société, mais **c’est la société qui supporte la responsabilité pénale**.
+
+C’est par cette **théorie de l’organe** que les actes des dirigeants sont **imputables à la société**.
+
+Si les dirigeants sont plusieurs, il en va de même : les **décisions collégiales** sont les décisions de la société, et non celles du conseil d’administration, du directoire ou du conseil de surveillance pris isolément. Ce sont **les décisions reprises par la société**.  
+La **théorie de l’organe** justifie ainsi que la société puisse agir et être **responsable de ces actes**.
+
+## Chapitre 3 : La classification des sociétés
+
+- **Sociétés civiles** :
+    - **SCI** (société civile immobilière)        
+    - **SCM** (société civile de moyens)
+    - **SCP** (société civile professionnelle)
+    - **SEL** (société d’exercice libéral)
+
+- **Sociétés commerciales** :
+    - **SNC** (société en nom collectif)
+    - **Société en commandite simple**
+    - **Société anonyme (SA)**
+    - **SAS**
+    - **SARL**
+    - **Société en commandite par actions**, avec deux types d’associés :
+        - les **commandités** ;
+        - les **actionnaires (commanditaires)**.
+
+### Section 1 : Les critères liés à la société
+
+#### Paragraphe 1 : Les sociétés avec ou sans personnalité morale
+
+La **majorité des sociétés ont la personnalité morale**, car la plupart des sociétés doivent être **immatriculées**.  
+Cette personnalité morale est **attribuée à partir de leur immatriculation au RCS**.
+
+Il existe **deux types de sociétés qui n’ont pas la personnalité morale** :
+1. **La société créée de fait** : sa formation n’est pas volontaire et elle n’est pas immatriculée. Ce n’est **qu’a posteriori** que le juge reconnaît l’existence de la société créée de fait. En droit des sociétés, c’est la **théorie de la fiction** qui a été consacrée, donc **pas de personnalité morale**.
+2. **La société en participation** : les associés sont engagés **en leur nom propre** et ont fait le choix de **ne pas immatriculer** leur société.
+
+Donc, **si la société a la personnalité morale**, c’est **elle qui est engagée**, et non les associés.  
+
+**Si elle n’a pas la personnalité morale**, ce sont **les règles de l’indivision** qui s’appliquent.
+
+#### Paragraphe 2 : Les sociétés civiles et commerciales
+
+La **majorité des sociétés ont une activité commerciale** (activité industrielle et commerciale).  
+L’essentiel de l’activité économique est réalisé via des **sociétés commerciales**.
+
+Une société commerciale : **l’article L. 210-1 du Code de commerce** dispose que les sociétés sont **commerciales par la forme ou par l’objet**.
+
+Lorsqu’on a une société, il faut regarder **sa forme** : par exemple, **SARL, SA, SAS** sont des sociétés **commerciales par la forme** (elles sont prévues par le Code de commerce).
+
+L’article dispose aussi que la société est commerciale **par son objet** :
+- si son **objet statutaire est commercial**, la société est **commerciale** ;    
+- si son **objet est civil**, la société est **civile**.
+
+Les **sociétés civiles** sont régies par le **Code civil**.  
+Les **sociétés commerciales** sont régies par le **Code de commerce**, mais le **Code civil** reste applicable pour le droit commun.
+
+Pour autant, lorsqu’on regarde les modalités de **constitution, de fonctionnement et de dissolution**, on s’aperçoit que les règles sont **très proches** entre sociétés civiles et commerciales.
+
+Compétence juridictionnelle :
+- **Tribunal judiciaire** pour les sociétés civiles ;
+- **Tribunal de commerce** pour les sociétés commerciales.
+
+Autre intérêt : les **modalités de preuve** :
+- en matière **commerciale**, principe de **liberté de la preuve** ;
+- en matière **civile**, l’**écrit est obligatoire** pour les transactions supérieures à **1 500 euros** (art. 1359 du Code civil).
+
+#### Paragraphe 3 : Les sociétés nationales et les sociétés européennes
+
+Les **sociétés nationales** ont leur **siège en France** et sont **régies par le droit français**.
+
+Il existe aussi une société à l’échelon européen : la **société européenne (SE)**, créée par un **règlement européen** (applicable depuis 2004 en droit français).  
+
+Il faut notamment :
+- au moins **deux sociétés issues de deux États différents**,
+- un **capital social minimum de 120 000 euros**.
+
+Le régime juridique de la société européenne est **très protecteur des travailleurs et salariés**, ce qui explique qu’elle ait été **peu utilisée par les États membres**.  
+
+On compte relativement peu de sociétés européennes, dont un nombre limité en France.
+
+### Section 2 : les critères liés aux associés
+
+#### Paragraphe 1 : Les sociétés pluripersonnelles et unipersonnelles
+
+Il n’y a que **deux sociétés qui peuvent devenir unipersonnelles** :
+- la **SARL**, qui devient une **EURL** ;
+- la **SAS**, qui devient une **SASU**.
+
+**Toutes les autres sociétés nécessitent au moins deux associés.**  
+Si le nombre d’associés est réduit à un seul, il existe un **délai d’un an pour régulariser** la situation. À défaut de régularisation, **la société peut être dissoute**.
+
+#### Paragraphe 2 : Les sociétés dont les associés ont une responsabilité limitée ou illimitée
+
+Il existe **deux catégories d’associés** : ceux qui ont une **responsabilité limitée** et ceux qui ont une **responsabilité illimitée**.
+
+On distingue la **participation aux pertes** de la **contribution aux dettes**.
+
+La **contribution aux dettes** concerne les **rapports entre les créanciers sociaux et la société**.
+
+Si les associés ont une **responsabilité limitée aux apports**, le tiers ne pourra pas agir contre les associés au-delà de ce qu’ils ont apporté. Il pourra agir **uniquement à hauteur des apports effectués** par les associés.
+
+Par exemple, si un associé a apporté **10 euros**, il devra rembourser **au maximum 10 euros**.
+
+Si la responsabilité est **illimitée**, le tiers peut agir contre les associés :
+- en divisant son recours entre eux si la société est **civile** ;
+- ou en agissant contre le **plus solvable** si la société est **commerciale**, car la **solidarité** est alors de mise.
+
+C’est donc une **distinction essentielle du droit des sociétés**, puisque le droit des créanciers sociaux ne sera pas du tout le même.
+
+En ce qui concerne les sociétés dont les associés sont tenus **au-delà de leurs apports** :
+- toutes les **sociétés civiles**,
+- les **sociétés en nom collectif**,
+- et les **commandités dans les sociétés en commandite simple**.
+
+Pour **toutes les autres sociétés**, la **responsabilité est limitée aux apports**.
+#### Paragraphe 3 : Les sociétés de personnes et les sociétés de capitaux
+
+En droit anglo-saxon, on parle de **company** ou de **corporate**. Lorsque l’on emploie ces termes, on vise généralement les **sociétés de capitaux**. Il faut donc bien distinguer les **sociétés de personnes** des **sociétés de capitaux**.
+
+En droit français, la notion de **société de personnes** est **doctrinale** et n’est pas expressément reconnue par la loi. Ce sont des sociétés dans lesquelles la **personnalité des associés est importante**.
+
+On dit que ces sociétés sont constituées **intuitu personae**, c’est-à-dire **en considération de la personne**. Il en est ainsi notamment lorsque **tous les associés répondent des dettes sociales**.
+
+Dans les **sociétés de capitaux**, ce qui importe avant tout est le **financement**, le **capital social**, et non la personnalité des associés.
+
+Les actionnaires ou associés interviennent **très peu dans la vie sociale**.
+
+Dans les sociétés de personnes, les associés détiennent des **parts sociales**. Ces parts sociales sont **difficilement cessibles** : l’entrée et la sortie des associés sont **contrôlées** et soumises à des **clauses d’agrément**.
+
+Ces clauses sont **insérées dans les statuts** et nécessitent l’accord des associés en cas de cession des parts. Ces parts sont également **difficilement cessibles** car elles obéissent à des **conditions de forme beaucoup plus rigoureuses** que celles applicables à la cession d’actions.
+
+Dans les **sociétés de capitaux**, les titres, qui sont des **actions**, sont **très facilement cessibles**.
+
+Autre différence : dans les sociétés de capitaux, les **actionnaires sont responsables à hauteur de leurs apports**, alors que, dans les sociétés de personnes, les **associés sont tenus indéfiniment des dettes sociales**.
+
+Certaines formes sociales sont difficiles à classer dans cette distinction. Par exemple, dans les **sociétés en commandite**, les **commandités** ressemblent aux associés de sociétés de personnes, tandis que les **commanditaires** se rapprochent des associés de sociétés de capitaux.
+
+Les **SARL** posent également difficulté : d’un côté, les associés détiennent des **parts sociales**, mais la considération de la personne est en principe **peu importante**, sauf dans les **SARL familiales**, qui obéissent à un **régime juridique particulier**.
+
+### Section 3 : Les critères liés aux titres
+
+Il y a des **sociétés fermées**, c’est-à-dire qui se financent auprès d’un **cercle restreint d’associés**, et des **sociétés ouvertes**, qui se financent auprès d’un **cercle très étendu** en cherchant à **drainer l’épargne publique**.
+
+#### Paragraphe 1 : Les sociétés ouvertes et fermées
+
+##### A) Sociétés fermées
+
+Les **sociétés fermées** sont des sociétés qui font appel à des associés dans un **cercle familial ou restreint**, notamment grâce à Internet ou en faisant appel à un **intermédiaire financier**, dans la limite d’**1 million d’euros**.
+
+Lorsque ce sont des sociétés fermées, **il n’est pas fait application de la législation concernant les sociétés dites ouvertes**, et elles ne sont pas soumises à l’autorité des marchés financiers.
+
+Certaines sociétés fermées entrent dans le capital social d’autres sociétés fermées parce qu’elles décident de ne pas s’ouvrir, notamment les **sociétés innovantes**. Elles font souvent appel à des **business angels** et à des **capitaux-risqueurs (capital-risque)**.
+
+Ces derniers rencontrent les fondateurs de la société, qui en sont encore au stade initial de leur projet, et vont tenter de les convaincre de les faire entrer dans leur capital social. Les business angels le feront en mettant en avant leur **CV et leurs compétences**. Les capitaux-risqueurs apportent, quant à eux, des **financements importants**. Mais tous deux ont pour particularité de **quitter la société dans un délai d’environ cinq ans**. Ces associés signent souvent un **pacte d’actionnaires**, qui s’ajoute aux statuts de la société et a pour vocation de préciser les **conditions de retrait de ces associés**.
+
+##### B) Sociétés ouvertes
+
+Pour les **sociétés ouvertes**, il faut se tourner vers le **Code monétaire et financier**, notamment **l’article L. 411-1 du Code monétaire et financier**, qui traite des sociétés qui veulent **offrir des titres financiers au public**, c’est-à-dire qui font **appel public à l’épargne**.
+
+Ces sociétés sont soumises à des **dispositions particulières du Code monétaire et financier** et sont surtout soumises au **contrôle de l’Autorité des marchés financiers (AMF)**.
+
+Ces sociétés restent des sociétés ordinaires. À l’intérieur de ces sociétés qui se tournent vers le public pour se financer, il existe une autre catégorie : les sociétés qui veulent **faire admettre leurs titres sur un marché réglementé**.
+
+Ces sociétés sont **cotées en bourse**. Parmi les sociétés qui font appel public à l’épargne, certaines sont cotées en bourse, d’autres non. **Celles qui sont cotées font l’objet d’une réglementation extrêmement stricte**, afin de **protéger les actionnaires**. La réglementation est **très contraignante**.
+
+#### Paragraphe 2 : Les actions et les parts sociales
+
+##### A) Les parts sociales
+
+Une **part sociale** désigne un titre de propriété reçu par un associé d’une **société de personnes** en contrepartie d’un apport, c’est-à-dire dans une **société civile**, une **société en nom collectif**, une **société en commandite simple** (pour les commandités) ou dans une **SARL**. Ici, la SARL ressemble plutôt à une société de personnes, puisque son capital est divisé en parts sociales.
+
+Ces parts sociales ouvrent droit à un **droit de vote** et **ne sont pas cessibles sur un marché organisé**. Au contraire, la procédure de cession des titres obéit à un **formalisme très strict** : il faut un écrit (authentique ou sous seing privé) et, en principe, un **agrément des autres associés**.  
+**L’article 1861 du Code civil** prévoit que la cession des parts sociales dans les sociétés civiles requiert l’agrément de la **majorité des associés**.
+
+Les **actions** sont des titres détenus par les membres des sociétés divisées en actions : c’est le cas des **SA**, des **SAS** et des **sociétés en commandite par actions**. Ces actions donnent les mêmes droits aux parties, notamment le **droit au dividende**.
+
+La différence est que, contrairement aux parts sociales, les actions sont en principe **cessibles sans formalisme lourd**.
+
+Le transfert de propriété des actions se fait par **simple inscription en compte** (mouvement de compte à compte) : il existe des comptes dans lesquels sont inscrites les actions pour en constater la propriété. **La cession se fait librement**, sauf clauses statutaires contraires.

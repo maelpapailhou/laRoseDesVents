@@ -64,7 +64,6 @@ Nouvelle mesure : activation à distance des appareils électroniques, notamment
 IMSI-catcher : valise placée à un endroit qui permet de capter toutes les conversations téléphoniques dans un certain rayon (200 à 300 m).
 
 Il existe plusieurs cadres d’enquête :
-
 - enquête de droit commun
     
 - enquête dérogatoire en présence de criminalité particulièrement grave
