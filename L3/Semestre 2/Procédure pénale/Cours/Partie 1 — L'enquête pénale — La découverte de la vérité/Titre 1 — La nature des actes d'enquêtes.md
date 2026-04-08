@@ -1,585 +1,1545 @@
-Plusieurs enquêtes pénales correspondent à deux phases de la procédure pénale :
-- **l’enquête policière** ;
-- **l’enquête judiciaire**.
+# Chapitre 1 — L'enquête policière
 
-## Chapitre 1 : L’enquête policière
+L'enquête policière est conduite sous l'autorité du procureur de la République.
 
-Les enquêtes policières impliquent d’envisager deux éléments :
-- les acteurs ;
-- les actes d’enquête, c’est-à-dire les pouvoirs d’enquête des enquêteurs.
+## Section 1 : Les acteurs de l'enquête policière
 
-### Section 1 : Les acteurs
+Les acteurs de l'enquête policière se dédoublent : d'un côté, **la police judiciaire**, chargée de réaliser les actes d'enquête ; de l'autre, **le ministère public**, qui en assure la direction.
 
-Ces acteurs se dédoublent :
-- la **police judiciaire**, acteur chargé de réaliser sur le terrain les actes d’enquête ;    
-- le **ministère public**, représenté par le procureur.
+### Paragraphe 1 : La police judiciaire
 
-#### Paragraphe 1 : La police judiciaire
+La police judiciaire est chargée de réaliser et d'exécuter les actes d'enquête. 
 
-Le terme de **police judiciaire** est ambigu, car il renvoie à deux réalités différentes :
-- des **personnes**, c’est-à-dire des **organes** qui exécutent les actes d’enquête (**approche organique** de la police judiciaire) ;
-- une **activité**, c’est-à-dire l’activité réalisée par ces personnes (**approche fonctionnelle** de la police judiciaire).
+Le terme « police judiciaire » est toutefois **ambigu**, car il renvoie à deux réalités distinctes :
 
-##### A) La notion de police judiciaire (approche fonctionnelle)
+- **Une approche organique** : il désigne les personnes et organes qui exécutent concrètement les actes d'enquête (policiers, gendarmes, enquêteurs)
 
-Les mêmes personnes, policiers et gendarmes, peuvent exercer **des fonctions différentes**.
+- **Une approche fonctionnelle** : il désigne l'activité elle-même, c'est-à-dire l'ensemble des missions accomplies par ces personnes.
 
-Il existe deux types de police :
-- la **police administrative** ;
-- la **police judiciaire**.
+#### A) La notion de police judiciaire : l'approche fonctionnelle
 
-Pour distinguer ces fonctions, il convient de raisonner à partir **de leurs missions**, et plus précisément de **la finalité de l’action** (critère finaliste).
+Les mêmes personnes (policiers et gendarmes) exercent deux types de fonctions bien distinctes : la **police administrative** et la **police judiciaire**. 
 
-La **police administrative** a une **fonction préventive** : elle a pour objet la **prévention des atteintes à l’ordre public**.
+Pour les distinguer, on recourt à un **critère finaliste**, fondé sur la finalité de la mission exercée.
 
-La **police judiciaire** a une **fonction répressive**.
+- **La police administrative** a pour objet la **prévention** des atteintes à l'ordre public. Elle intervient _avant_ la commission d'une infraction pénale.
 
-**Critère distinctif entre les deux sortes de police**
+- **La police judiciaire** a une finalité **répressive**. Elle intervient _après_ la commission d'une infraction, afin d'en découvrir les auteurs et de rassembler les preuves.
 
-La police administrative intervient avant la commission d’une infraction pénale.
+**Attention :** La finalité répressive de la police judiciaire ne signifie pas que les enquêteurs prononcent une peine. Leur mission est la **découverte de la vérité** (art. 14 CPP). Ce sont les juges qui répriment ; les enquêteurs, eux, constatent et prouvent.
 
-La police judiciaire intervient après la commission d’une infraction. Sa fonction répressive est toutefois ambiguë, car les autorités d’enquête ne sont pas chargées de réprimer, de prononcer une peine ou d’infliger des sanctions. Elles ont pour mission de constater les infractions, de rassembler les preuves et de rechercher les auteurs afin de découvrir la vérité (article 14 du Code de procédure pénale).
+Le critère de distinction est donc **le moment de l'intervention** et **l'existence d'un soupçon d'infraction**. 
 
-Au cours d’une même activité, un policier ou un gendarme peut passer d’une mission de police administrative à une mission de police judiciaire, et inversement (contrôle d’alcoolémie, ronde de police, contrôle administratif d’identité).
+Au cours d'une même activité, un agent peut passer d'une mission de police administrative à une mission de police judiciaire dès lors qu'une infraction est constatée ou soupçonnée.
 
-Il s’agit ainsi de découvrir les auteurs et de rassembler les preuves s’agissant d’une infraction déjà commise. Il n’est toutefois pas nécessaire que l’infraction soit certaine : une simple suspicion d’infraction pénale peut suffire à conférer aux enquêteurs des pouvoirs de police judiciaire.
+**Exemples illustratifs :**
+- Un contrôle préventif d'alcoolémie relève de la **police administrative**. Si l'éthylotest est positif, l'agent bascule en **police judiciaire** : il constate une infraction et doit conduire l'individu en cellule de dégrisement pour l'interroger.
+- Une ronde de nuit en ville constitue une **présence dissuasive** relevant de la police administrative. Si les agents constatent une entrée par effraction, une consommation de stupéfiants ou entendent une victime crier, ils passent en **police judiciaire** car une infraction est commise ou soupçonnée.
+- Un contrôle administratif d'identité aux abords d'une manifestation (ex. : gilets jaunes) relève de la **police administrative**. Si un individu est dans l'impossibilité de justifier son identité, il existe un soupçon d'infraction : l'agent bascule alors en **police judiciaire**.
 
-### Section 2 : Les actes d'enquête
+**Conséquence importante** : les pouvoirs des enquêteurs sont **considérablement plus étendus** dans le cadre de la police judiciaire. Leur objectif n'est plus de prévenir un risque hypothétique, mais de découvrir la vérité sur une infraction certaine ou quasi certaine, ce qui justifie des pouvoirs d'enquête renforcés.
 
-#### Paragraphe 1 : Le cadre juridique de l'enquête
+#### B) Les membres de la police judiciaire : l'approche organique
 
-Il existe plusieurs **cadres d’enquête**.
+Les membres de la police judiciaire sont essentiellement des **policiers** (compétence urbaine) et des **gendarmes**(compétence rurale et semi-urbaine). 
 
-On distingue les **enquêtes de droit commun** et la **procédure dérogatoire fondée sur la criminalité organisée**.
+Il convient de distinguer deux catégories, dont les pouvoirs d'enquête diffèrent sensiblement.
 
-Lorsqu’on est en présence de certaines infractions relevant de la **criminalité organisée**, les pouvoirs d’enquête peuvent être augmentés, permettant la réalisation d’actes d’enquête plus intrusifs et coercitifs.
-##### A) Enquête de droit commun
+1. **Les Officiers de Police Judiciaire (OPJ)** — art. 16 CPP
 
-**Enquête de flagrance** : les pouvoirs des enquêteurs vont être augmentés car on est certain qu’une infraction vient d’être commise. Il faut aller vite pour éviter le dépérissement des preuves.
-###### 1) Enquête préliminaire
+	Ce sont les agents disposant des pouvoirs les plus étendus. Ils mènent concrètement les enquêtes sous l'autorité du ministère public. Leurs prérogatives comprennent notamment :
+	
+	- **Diriger les perquisitions** ;
+	- **Décider du placement en garde à vue** (GAV) ;
+	- **Recevoir les plaintes des victimes**.
+	
+	Sont notamment OPJ : les commissaires de police, les officiers et les gradés de gendarmerie.
 
-Les pouvoirs sont ici **moindres** pour les enquêteurs. Définie aux **articles 75 et suivants du Code de procédure pénale**.
+2. **Les Agents de Police Judiciaire (APJ)** — art. 20 CPP
 
-- **L'ouverture de l'enquête préliminaire**
+	Les APJ ont des pouvoirs plus limités. Ils **secondent les OPJ** dans l'exécution des actes d'enquête et sont compétents pour :
+	
+	- Constater les infractions mineures sur la voie publique ;
+	- Dresser des procès-verbaux (PV).
+	
+	En revanche, ils **ne peuvent pas** :
+	
+	- Recevoir les plaintes des victimes ;
+	- Décider d'un placement en garde à vue.
 
-**Article 75 du Code de procédure pénale**. Les OPJ procèdent à des enquêtes préliminaires, soit sur les instructions du **procureur de la République**, soit d’office, c’est-à-dire que l’enquête peut être ouverte à l’initiative du procureur ou à l’initiative des OPJ eux-mêmes.
+**Exemple** : si un APJ effectuant une ronde détecte une odeur de cannabis ou surprend une tentative d'effraction, il ne peut pas placer l'individu en garde à vue. Il doit contacter un OPJ et conduire l'individu au commissariat, où l'OPJ décidera seul du placement ou non en GAV.
 
-Les OPJ disposent donc d’un **pouvoir d’initiative**, et décident de leur propre chef d’ouvrir une enquête préliminaire.
+**Les conséquences de l'incompétence d'un APJ**
 
-Ils doivent informer le procureur de l’ouverture de l’enquête, car c’est lui qui contrôle l’enquête.
+Le non-respect des règles de compétence entraîne des **nullités procédurales**, potentiellement en cascade. Si un APJ place un individu en GAV alors qu'il n'en a pas le pouvoir, et que ce dernier avoue des faits lors de cette mesure irrégulière, un avocat pourra obtenir :
 
-Lorsque l’enquête prend une **orientation personnelle**, c’est-à-dire lorsqu’un individu commence à être suspecté, le procureur de la République doit nécessairement être averti afin de donner les orientations à l’enquête, selon la jurisprudence, et pour contrôler les actes d’enquête qui seront réalisés.
+- L'**annulation de la garde à vue** pour incompétence de l'agent ;
+- L'**élimination des aveux** du dossier de procédure, ces derniers ayant été obtenus dans le cadre d'une mesure nulle ;
+- L'**annulation en cascade** de tous les actes subséquents fondés sur ces aveux (ex. : perquisitions ayant conduit à la découverte de stupéfiants ou d'autres preuves).
 
-Comment est-elle ouverte ? Il faut que les autorités soient informées de la commission d’une infraction pénale, selon différentes modalités. Par exemple, une plainte. Ou le constat d’une infraction par les OPJ. Toutefois, dans ce dernier cas, il s’agit en principe d’une **enquête de flagrance**, et non d’une enquête préliminaire.
+### Paragraphe 2 : Le ministère public
 
-Cela peut également résulter d’une **dénonciation** de la victime ou d’un tiers.
+Le ministère public exerce une **double fonction** à l'égard de l'enquête policière :
+- La **direction** de l'enquête ;
+- Le **contrôle** de l'enquête.
 
-Dans ce dernier cas, deux formes de dénonciation existent selon qu’elle est anonyme ou non. Si elle est anonyme, on peut ouvrir une enquête préliminaire sans difficulté, car elle ne confère pas de pouvoirs importants aux OPJ.
+#### A) La direction de l'enquête policière
 
-En revanche, une enquête de flagrance ne peut pas être ouverte sur la seule base d’une dénonciation anonyme, car il s’agit d’un élément invérifiable à ce stade, ce qui ne permet pas de justifier l’octroi de pouvoirs d’enquête importants.
+Cette fonction est consacrée par plusieurs textes du CPP, notamment les **articles 12, 39-3 et 41 CPP**. Le ministère public est le **directeur de l'enquête**. 
 
-- **Les caractères de l’enquête préliminaire**
+Son pouvoir de direction se dédouble en deux niveaux d'instructions.
 
-La différence essentielle avec la flagrance tient au **caractère coercitif** de l’enquête. L’enquête préliminaire est en principe **non coercitive**, alors que l’enquête de flagrance l’est.
+1. **1. Les instructions générales**
 
-Le caractère coercitif signifie que les enquêteurs peuvent se dispenser du consentement de l’intéressé. En flagrance, il est donc possible de réaliser des actes d’enquête même si le suspect n’y consent pas.
+Elles s'inscrivent dans un **système pyramidal** de politique pénale.
 
-À l’inverse, dans l’enquête préliminaire, le **consentement du suspect** est exigé pour un certain nombre d’actes, car on n’est pas toujours certain de l’existence d’une infraction ni de l’identité de son auteur.
+En application de l'**article 30 CPP**, le **ministre de la Justice** conduit la politique pénale déterminée par le gouvernement et veille à la cohérence de son application sur l'ensemble du territoire. À cette fin, il adresse au ministère public des **instructions générales**.
 
-Il n’existe pas de certitude en enquête préliminaire : les éléments à charge ne sont pas suffisants pour justifier l’usage de pouvoirs de contrainte.
+La **politique pénale** désigne les priorités définies à un moment donné en matière pénale. Ces priorités évoluent selon les époques. Les axes actuels sont notamment :
 
-Il faut toutefois relativiser, car il a toujours été admis, même en enquête préliminaire, des **gardes à vue**, durant lesquelles un individu est privé de sa liberté. Il existe donc toujours une part de coercition dans l’enquête préliminaire, notamment à travers la garde à vue.
+- Le **narcotrafic**, en particulier en bande organisée ;
+- Les **violences conjugales** et le **contrôle coercitif** (notion issue des pays anglo-saxons, théorisée par Evan Stark, dont la création d'une infraction pénale spécifique est envisagée) ;
+- La **délinquance juvénile** ;
+- La **cybercriminalité**, notamment les deepfakes à caractère sexuel et les pratiques abusives sur les réseaux (le parquet de Paris a récemment ouvert des investigations concernant la plateforme X).
 
-Mais un certain nombre d’actes requièrent le consentement de l’individu, notamment en matière de **perquisition**.
+La **pyramide des instructions** fonctionne de la manière suivante :
 
-**Article 76, alinéa 1er** : les perquisitions ne peuvent être réalisées sans l’assentiment de la personne chez laquelle l’opération a lieu.
+- Gouvernement (politique pénale)
+- Ministre de la Justice (instructions générales)
+- Procureur de la République (instructions générales et particulières)
+- Police judiciaire
 
-Ainsi, lorsque les soupçons ne sont pas suffisamment importants, la perquisition nécessite l’accord de l’intéressé.
+C'est ainsi le **procureur de la République** qui, au niveau local, met en œuvre les politiques pénales. En application de l'**article 39-3 CPP**, il adresse à son tour des instructions générales aux enquêteurs.
 
-En enquête de flagrance, cet accord n’est pas nécessaire en raison de la gravité des éléments constatés.
+**Exemple** : en matière de violences conjugales, les enquêteurs sont enjoints de **systématiquement recevoir les plaintes des victimes** et d'en informer immédiatement le procureur afin que des poursuites puissent être engagées.
 
-Ce critère tend toutefois à s’estomper, car il est parfois possible, en enquête préliminaire, de se passer du consentement de l’intéressé. L’enquête devient alors plus coercitive, introduisant de la contrainte dans l’enquête préliminaire, laquelle tend à se rapprocher de l’enquête de flagrance. La distinction entre ces deux types d’enquête s’atténue.
+2. **2. Les instructions individuelles**
 
-**Article 76, alinéa 3** : par exception, une perquisition peut être réalisée sans le consentement de l’intéressé. Les OPJ peuvent alors pénétrer dans les lieux sans son accord.
+	Le procureur dispose également d'un **pouvoir d'instruction individuelle**, portant sur des enquêtes spécifiques (art. 39-3 et 41 CPP). Il peut enjoindre aux enquêteurs d'accomplir des **actes d'enquête précis** dans le cadre d'une affaire déterminée.
+	
+	L'**article 41 CPP** précise que le procureur _« procède ou fait procéder »_ à tous les actes nécessaires à la recherche et à la poursuite des infractions. 
+	
+	Il dispose ainsi d'une **faculté de substitution** : il peut soit déléguer les actes aux enquêteurs, soit les accomplir lui-même.
+	
+	En pratique, cette faculté est **rarement exercée** et se limite aux affaires à fort retentissement médiatique. Le procureur dirige en principe l'enquête depuis son bureau.
+	
+	La loi impose néanmoins au procureur d'être **personnellement présent** dans certaines hypothèses, notamment lors de perquisitions dans des **lieux spécialement protégés** :
+	
+	- Domiciles d'élus ;
+	- Lieux abritant des **secrets de la défense nationale** ;
+	- **Cabinets d'avocats**.
 
-**Condition 1** : l’infraction doit présenter une certaine gravité (infraction punie d’au moins trois ans d’emprisonnement).
+**Limite importante** : la faculté de substitution **ne s'applique pas** aux actes relevant des **pouvoirs propres des OPJ**. Le seul acte concerné est le **placement en garde à vue**, qui constitue une prérogative discrétionnaire exclusive de l'OPJ. Le procureur ne peut pas lui-même notifier un placement en GAV à un suspect — il peut seulement **enjoindre à l'OPJ de le faire**.
 
-**Condition 2** : une décision écrite, motivée et préalable du **juge des libertés et de la détention (JLD)** est nécessaire.
+En définitive, la direction de l'enquête par le procureur consiste à la fois à **enjoindre aux enquêteurs d'accomplir des actes d'enquête précis** et à leur **donner les grandes orientations stratégiques** de l'enquête, guidant ainsi leurs recherches vers la manifestation de la vérité.
 
-Les OPJ ne peuvent donc pas pénétrer dans les lieux de leur propre initiative : une autorisation préalable d’un juge du siège est requise.
+#### B) Le contrôle de l'enquête policière
 
-L’organe normalement compétent en matière d’enquête est le procureur, mais en raison de la gravité de l’acte, une décision d’un juge du siège est exigée.
+La seconde fonction du procureur de la République au cours de l'enquête est le **contrôle de sa légalité**.
 
-Le consentement de l’intéressé est ainsi remplacé par celui du juge.
+En application de l'**article 39-3 CPP**, le procureur :
 
-- **La durée de l’enquête préliminaire**
+- contrôle la **légalité** des actes d'enquête ;
+- vérifie leur **proportionnalité** ;
+- veille à ce que les investigations soient menées **à charge et à décharge**, dans le respect des droits de toutes les parties.
 
-Jusqu’à récemment, il n’existait pas de durée maximale pour l’enquête préliminaire. Jusqu’en 2021, le procureur devait fixer une durée prévisionnelle, mais celle-ci pouvait être prolongée sans limite maximale. Une enquête pouvait donc durer très longtemps.
+Il constitue ainsi l'**organe de contrôle de la légalité de l'enquête** et de la protection des libertés individuelles du suspect. 
 
-Cela était admissible à l’époque où l’enquête préliminaire était considérée comme non coercitive, les individus suspectés n’étant pas tenus de subir des actes d’enquête et pouvant les refuser.
+À ce titre, il doit être **informé de tous les actes d'enquête** réalisés par les OPJ, et notamment **immédiatement informé de tout placement en garde à vue**. 
 
-Aujourd’hui, cette absence de limite temporelle est devenue difficilement acceptable. Un individu soupçonné pouvait être contraint de subir des actes d’enquête sans consentement pendant de nombreuses années, ce qui pouvait conduire à des situations d’acharnement.
+S'il estime que les conditions ne sont pas réunies, il peut y mettre fin en enjoignant aux enquêteurs de libérer la personne : il prononce alors la **mainlevée de la mesure**.
 
-Le législateur a donc fixé un cadre temporel en 2021.
+Le procureur de la République est une autorité **très opérationnelle** : des permanences sont organisées en continu, ce qui en fait un interlocuteur **disponible à tout moment** et particulièrement réactif.
 
-**Articles 75-1 et 75-3 du Code de procédure pénale** : l’enquête préliminaire ne peut, par principe, durer plus de **deux ans**. Le point de départ correspond au premier acte de suspicion ou de coercition, par exemple une garde à vue ou une perquisition, qui matérialise un soupçon à l’encontre d’un individu.
+Il est l'**interlocuteur privilégié des enquêteurs** au cours de l'enquête.
 
-L’enquête préliminaire peut être prolongée à **trois ans** par le procureur de la République.
+**L'articulation des compétences entre le procureur et le JLD**
 
-À titre exceptionnel, elle peut être renouvelée pour une durée d’un an, renouvelable une fois (soit cinq ans), et un délai supplémentaire peut encore être ajouté pour certaines infractions relevant de la **criminalité organisée** (terrorisme, trafic de stupéfiants), pouvant aller jusqu’à **sept ans**.
+Toutefois, le contrôle de certains actes particulièrement attentatoires aux libertés **échappe au procureur** et est confié au **juge des libertés et de la détention (JLD)**, magistrat **indépendant du pouvoir exécutif**, contrairement au procureur qui est soumis à l'autorité du ministre de la Justice.
 
-###### 2) Enquête de flagrance
+Cette articulation obéit à une **logique temporelle** : le procureur est compétent dans un premier temps, puis cède la place au JLD au-delà d'un certain seuil.
 
-Les deux types d’enquête se rapprochent par leur **caractère coercitif**.
+| Mesure                                      | Compétence du procureur                         | Relais du JLD                             |
+| ------------------------------------------- | ----------------------------------------------- | ----------------------------------------- |
+| **Garde à vue**                             | 48 premières heures (24h + prolongation de 24h) | Au-delà de 48h                            |
+| **Perquisition nocturne** (entre 21h et 6h) | Aucune                                          | Autorisation préalable obligatoire du JLD |
+| **Géolocalisation**                         | 15 premiers jours                               | Au-delà de 15 jours                       |
 
-- **L’ouverture de l’enquête de flagrance**
+**La question de l'indépendance du procureur**
 
-Les conditions sont exigeantes car cette enquête est coercitive.
+Le procureur de la République **n'est pas indépendant** à l'égard du pouvoir exécutif. 
 
-**Conditions de gravité** : elle ne peut être exercée que pour les **crimes et délits**, et non pour les contraventions, et doit concerner une infraction punie d’une peine d’emprisonnement (**art. 67**).
+Il est soumis à l'autorité du ministre de la Justice, qui dispose à son égard :
+- d'un pouvoir de **nomination** et de gestion des **mutations** ;
+- d'un pouvoir de **rémunération** ;
+- d'un pouvoir de **sanction disciplinaire**.
 
-Les enquêteurs peuvent faire usage de pouvoirs coercitifs en pensant être en présence d’un délit, puis se rendre compte qu’il s’agit en réalité d’une contravention.
+En somme, les membres du parquet sont des magistrats, mais soumis à une **dépendance hiérarchique** à l'égard du ministère de la Justice.
 
-Dans ce cas, la procédure n’est pas annulée. Il convient de vérifier si les OPJ étaient fondés à penser légitimement que l’infraction présentait une gravité délictuelle et était punie d’une peine d’emprisonnement. Il s’agit de la **théorie de la bonne foi des OPJ**, ou de la **croyance légitime en l’existence d’une infraction d’origine délictuelle ou criminelle**.
+Cette situation soulève une tension avec l'**article 66 de la Constitution**, qui dispose que _« l'autorité judiciaire est gardienne des libertés individuelles »_. Or, l'autorité judiciaire comprend à la fois les magistrats du siège et ceux du parquet.
 
-**Les conditions de l’enquête de flagrance**
+Deux positions s'affrontent sur ce point :
 
-**Article 53 du Code de procédure pénale**
+- **Le Conseil constitutionnel** a estimé, dans ses décisions de **1993** et **2011**, puis dans celle du **8 décembre 2017**, que le procureur, malgré son déficit d'indépendance, demeurait compétent pour contrôler la garde à vue, en se fondant sur l'article 66 de la Constitution.
 
-Le premier critère est **temporel** : l’infraction doit être **en train de se commettre** ou **venir de se commettre**. Il existe donc une **concomitance** entre la commission de l’infraction et sa constatation par les policiers.
+- **La CEDH**, à l'inverse, a **condamné à plusieurs reprises** la France pour son régime de garde à vue, au motif que le contrôle exercé par le procureur, dépourvu d'indépendance à l'égard de l'exécutif, était insuffisant pour garantir les libertés individuelles :
 
-La seconde phrase de l’article prévoit l’hypothèse de l’**infraction réputée flagrante**, pour laquelle la condition temporelle est appréciée de manière plus souple. La jurisprudence évoque alors un temps **« très voisin de l’action »**.
+    - _CEDH, 29 mars 2010, Medvediev c/ France_
+    - _CEDH, 23 novembre 2010, Moulin c/ France_
 
-La jurisprudence a parfois admis un délai pouvant aller jusqu’à **quarante-huit heures**, ce qui constitue la limite maximale observée.
+**Évolution des pouvoirs du procureur**
 
-Le second critère est **matériel**.
+Les pouvoirs du procureur au cours de l'enquête ont été **considérablement renforcés** à la suite des attentats de 2015. 
 
-Le texte vise notamment :
-- **l’individu poursuivi par la clameur publique**, c’est-à-dire une personne immédiatement désignée par l’opinion publique comme auteur de l’infraction ;
-- la personne **trouvée en possession d’objets**, ou présentant des **traces ou indices** laissant présumer sa participation à l’infraction.
+Alors qu'il disposait historiquement de pouvoirs inférieurs à ceux du juge d'instruction pendant la phase d'instruction, **leurs prérogatives tendent aujourd'hui à s'aligner**. 
 
-Il faut donc être en présence **d’indices ou de preuves matérielles**.
+Cette évolution alimente la réflexion sur une éventuelle **disparition du juge d'instruction**, au profit d'un système centré sur la seule enquête policière dirigée par le procureur.
 
-La jurisprudence a synthétisé cette exigence dans une formule classique :  
-**« pour agir en flagrance, il doit exister des indices apparents d’un comportement délictueux »**.
+## Section 2 : Les actes d'enquête
 
-Autrement dit, pour bénéficier des pouvoirs plus coercitifs propres à la flagrance, les enquêteurs doivent démontrer l’existence **d’indices apparents** révélant un comportement délictuel.
+### Paragraphe 1 : Le cadre juridique de l'enquête
 
-La jurisprudence opère une distinction essentielle entre **indices objectifs** et **soupçons subjectifs**.
+Il n'existe pas **une** enquête policière, mais **plusieurs cadres d'enquête**, dont les pouvoirs varient en fonction de la nature et de la gravité de l'infraction. 
 
-Les juges exigent des **indices objectifs**, c’est-à-dire des éléments traduisant une apparence concrète de participation à l’infraction, rendant **vraisemblable** l’implication d’un individu.
+On distingue deux grandes catégories :
 
-Il doit exister des **éléments tangibles et matériels**.
+- **Les enquêtes de droit commun** ;
+- **Les enquêtes dérogatoires**, applicables en matière de criminalité organisée, qui confèrent aux enquêteurs des pouvoirs renforcés.
+#### A) Les enquêtes de droit commun
 
-À l’inverse, la flagrance ne peut pas reposer sur de **simples soupçons subjectifs**, fondés uniquement sur l’intuition policière. De tels soupçons ne permettent pas le recours à des actes d’enquête coercitifs.
+Il existe deux types d'enquêtes de droit commun : 
 
-Cette distinction a été consacrée par l’arrêt **Isnard**, chambre criminelle, **22 janvier 1953**, dans lequel la Cour de cassation affirme que **de simples soupçons subjectifs des enquêteurs ne suffisent pas à caractériser la flagrance**.
+- **l'enquête préliminaire** 
+- et **l'enquête de flagrance**.
 
-L’indice objectif est celui qui est **constaté personnellement** par les enquêteurs. Il doit être **perçu directement** par l’OPJ ou l’APJ.
+##### 1) L'enquête préliminaire
 
-Un simple témoignage ou une dénonciation ne suffit pas à eux seuls.
+###### a) L'ouverture de l'enquête
 
-Le soupçon objectif est celui qui **« frappe les sens » de l’OPJ**. L’indice doit être constaté par l’un des cinq sens :
-- la vue (traces de sang) ;
-- le toucher (palpation de sécurité révélant un objet suspect) ;
-- l’odorat (odeur de cannabis) ;
-- l’ouïe (détonations, cris, coups de feu).
+L'enquête préliminaire est régie par les **articles 75 et suivants du CPP**. 
 
-On évoque également l’**indice d’attitude**, correspondant à un comportement suspect face aux enquêteurs, même si la frontière demeure délicate entre indice objectif et simple intuition.
+Les enquêteurs y disposent de **pouvoirs moindres** que dans le cadre de la flagrance.
 
-**Illustration jurisprudentielle — chambre criminelle, 19 août 2009**
+En application de l'**article 75 CPP**, les OPJ peuvent procéder à des enquêtes préliminaires :
 
-Une personne avait été dénoncée anonymement pour trafic de stupéfiants.
+- soit **sur instruction du procureur de la République** ;
+- soit **d'office**, c'est-à-dire de leur propre initiative.
 
-En l’absence de **constat personnel** des OPJ, la situation ne permettait pas de caractériser la flagrance : une dénonciation anonyme constitue un élément **invérifiable** à ce stade. Les enquêteurs ne pouvaient donc pas utiliser de mesures coercitives et devaient agir dans le cadre d’une **enquête préliminaire**.
+Les OPJ disposent donc d'un **pouvoir d'initiative** pour ouvrir une enquête préliminaire sans attendre les instructions du parquet. 
 
-Ils ont alors ouvert une enquête préliminaire et mis en place des **actes de surveillance**. Ne pouvant perquisitionner sans consentement, ils ont organisé une surveillance depuis la voie publique (« planque »), mesure licite car non coercitive et peu intrusive.
+Ils doivent néanmoins en informer le procureur. 
 
-Les enquêteurs ont constaté de nombreux **va-et-vient** dans l’appartement surveillé. Ils ont estimé que ces éléments constituaient des indices objectifs et ont alors agi en flagrance en réalisant une **perquisition sans consentement**. Des produits stupéfiants ont été découverts, saisis, et la personne a été placée en garde à vue avant d’avouer.
+La jurisprudence adopte toutefois une approche souple : l'information du procureur n'est obligatoire que lorsque l'enquête **prend une tournure personnelle**, c'est-à-dire lorsqu'un suspect commence à être identifié.
 
-L’avocat a soulevé la **nullité de la perquisition**, puis de la garde à vue subséquente, en soutenant que les conditions de la flagrance n’étaient pas réunies.
+L'ouverture d'une enquête préliminaire peut résulter :
 
-La Cour de cassation a retenu qu’il ne s’agissait que de **soupçons subjectifs**, aucun **indice matériel déterminant** ne justifiant l’ouverture d’une enquête de flagrance. Les enquêteurs avaient déduit l’existence d’une infraction par un raisonnement hypothétique, et non à partir d’un constat matériel direct.
+- d'une **plainte de la victime** ;
+- d'une **dénonciation d'un tiers**, anonyme ou non.
 
-En conséquence, la flagrance n’était pas caractérisée.
+> **Sur les dénonciations anonymes** : une dénonciation anonyme peut suffire à ouvrir une enquête préliminaire, dans la mesure où celle-ci ne confère pas de pouvoirs coercitifs importants aux enquêteurs. Il en va différemment pour l'**enquête de flagrance**, qui ne peut pas être ouverte sur la seule foi d'une dénonciation anonyme, car celle-ci n'est pas vérifiable et ne constitue pas un indice objectif suffisant.
 
-- **Les caractères de l'enquête de flagrance**
+###### b) Les caractères de l'enquête préliminaire
 
-L’enquête de flagrance se caractérise par son **caractère coercitif**, contrairement à l’enquête préliminaire. Cela signifie que les enquêteurs peuvent, dans de nombreuses hypothèses, **se passer du consentement de l’intéressé**.
+La différence essentielle entre l'enquête préliminaire et l'enquête de flagrance tient à leur **caractère coercitif**.
 
-Ainsi, certaines mesures peuvent être réalisées **sans l’accord de la personne concernée**, notamment les **perquisitions**, qui peuvent être effectuées sans consentement dans le cadre de la flagrance.
+- **L'enquête préliminaire est en principe non coercitive** : pour un certain nombre d'actes d'enquête, le **consentement du suspect est exigé**. En effet, à ce stade, ni l'infraction ni son auteur ne sont établis avec certitude. Le soupçon est encore insuffisant pour justifier la contrainte.
 
-Les **officiers de police judiciaire (OPJ)** disposent donc de **pouvoirs coercitifs étendus**.
+- **L'enquête de flagrance est coercitive** : les enquêteurs peuvent agir sans le consentement de l'intéressé.
 
-Pour un grand nombre d’actes, les OPJ peuvent agir **de leur propre initiative**, sans autorisation préalable du **procureur de la République** ni du **juge des libertés et de la détention (JLD)**.
+**Illustration — les perquisitions :**
 
-Il n’existe donc pas nécessairement de **contrôle a priori**. En revanche, un **contrôle a posteriori** est exercé, principalement par la **chambre de l’instruction**, qui peut prononcer la **nullité des actes d’enquête** si les enquêteurs ont agi en dehors du cadre légal de la flagrance.
+L'**article 76 alinéa 1 CPP** dispose que les perquisitions et saisies **ne peuvent être effectuées sans l'assentiment exprès**de la personne chez qui l'opération a lieu. 
 
-La question centrale devient alors de savoir si les enquêteurs **pouvaient valablement intervenir sous le régime de l’enquête de flagrance**, condition déterminante pour la légalité des actes coercitifs accomplis.
+Cet assentiment doit être **mentionné dans un procès-verbal signé par l'intéressé** (art. 76 al. 2 CPP).
 
-Ce caractère coercitif doit toutefois être **relativisé** : pour certains actes particulièrement attentatoires aux libertés individuelles, une **autorisation préalable du juge des libertés et de la détention** demeure nécessaire.
+> ⚠️ Il convient de nuancer ce principe : même en enquête préliminaire, certains actes coercitifs sont tolérés, notamment la **garde à vue**, qui prive l'individu de sa liberté.
 
-- **La durée de l'enquête de flagrance**
+**L'estompement progressif du critère de distinction**
 
-La durée de principe est de **huit jours**, conformément à **l’article 53, alinéa 2 du Code de procédure pénale**.
+Ce critère traditionnel fondé sur le consentement tend toutefois à **s'estomper** : dans certaines conditions, il est désormais possible de se passer du consentement de l'intéressé même en enquête préliminaire, rapprochant ainsi ce cadre de celui de la flagrance.
 
-Contrairement à l’**enquête préliminaire**, qui peut s’étendre sur une longue période (jusqu’à plusieurs années, environ cinq ans dans certains cas), l’enquête de flagrance est **strictement limitée dans le temps**.
+En matière de perquisitions, l'**article 76 alinéa 3 CPP** prévoit une exception au principe du consentement, sous deux conditions cumulatives :
 
-Cette différence s’explique par la **nature coercitive** de l’enquête de flagrance. Elle permet aux enquêteurs de recourir à des pouvoirs plus attentatoires aux libertés individuelles ; en contrepartie, son usage doit rester **exceptionnel et temporaire**.
+- **Condition de gravité** : l'infraction doit être punie d'au moins **3 ans d'emprisonnement** ;
 
-Le texte prévoit une durée de **« huit jours sans discontinuer »**. Cela signifie que l’enquête doit être **active et continue** durant toute cette période.
+- **Autorisation préalable du JLD** : les OPJ ne peuvent pénétrer dans les lieux de leur propre initiative. Le consentement de l'intéressé est alors **remplacé par l'autorisation d'un juge**, garantissant un contrôle judiciaire de la mesure.
 
-L’idée est celle d’une enquête portée par son propre élan : chaque acte d’enquête constitue un pas supplémentaire vers la manifestation de la vérité, et ces actes doivent **se succéder sans interruption**.
+###### c) La durée de l'enquête préliminaire
 
-Il ne doit donc pas exister de **temps morts**. Par exemple, il ne serait pas conforme à l’esprit de la flagrance d’accomplir un acte d’enquête le premier jour puis un autre seulement le dernier jour.
+Jusqu'en 2021, **aucune durée maximale** n'était fixée pour l'enquête préliminaire. 
 
-Selon la jurisprudence, il doit exister **une activité d’enquête régulière**, généralement interprétée comme **au moins un acte d’enquête toutes les vingt-quatre heures**. À défaut, le cadre de la flagrance disparaît : les enquêteurs cessent alors d’agir en enquête de flagrance et poursuivent leurs investigations dans le cadre d’une **enquête préliminaire**.
+Cette absence de limite était admissible à l'époque où l'enquête préliminaire était entièrement non coercitive : les suspects pouvaient refuser de se soumettre aux actes d'enquête. 
 
-La logique est la suivante : la flagrance repose sur une **situation d’urgence**, destinée notamment à éviter le **dépérissement des preuves**. Si aucun acte n’est accompli pendant plusieurs jours, l’urgence disparaît, ce qui justifie le basculement vers l’enquête préliminaire.
+Avec l'introduction progressive de la coercition dans ce cadre, cette situation n'était **plus tenable** : un individu pouvait subir des actes d'enquête contraignants pendant des années, ouvrant la voie à des formes d'**acharnement policier**.
 
-La durée normale étant de **huit jours**, **l’article 53, alinéa 3** autorise une **prolongation de huit jours supplémentaires**. La durée maximale d’une enquête de flagrance est donc de **seize jours**.
+La loi de 2021 a remédié à cette situation en instaurant un **cadre temporel**, désormais prévu aux **articles 75-1 et 75-3 CPP**.
 
-Cette prolongation obéit aux mêmes exigences de continuité (« sans discontinuer »), impliquant une activité d’enquête régulière. Elle suppose en outre une **condition supplémentaire de gravité** : l’infraction doit être un **crime** ou un **délit puni d’au moins cinq ans d’emprisonnement**.
+Le régime est le suivant :
 
-En revanche, pour **l’ouverture initiale** d’une enquête de flagrance, il suffit que l’infraction soit punie d’**une peine d’emprisonnement**, même d’un an.
+|Durée|Conditions|
+|---|---|
+|**2 ans** (durée de principe)|À compter du premier acte de suspicion ou de coercition (audition libre, GAV, perquisition)|
+|**+ 1 an** (prolongation)|Sur décision motivée du procureur de la République → 3 ans au total|
+|**+ 2 ans** (prolongation exceptionnelle)|À titre exceptionnel → 5 ans au total|
+|**+ 2 ans supplémentaires**|Pour les infractions de criminalité organisée (terrorisme, trafic de stupéfiants) → **7 ans maximum**|
 
-Il convient enfin de distinguer les notions : la **peine d’emprisonnement** concerne les délits et s’exécute en prison, tandis qu’en matière criminelle la peine privative de liberté est la **réclusion criminelle**.
+##### 2) L'enquête de flagrance
 
-##### B) La procédure dérogatoire 
+L'enquête de flagrance suppose qu'une infraction soit constatée **en état de flagrance**. 
 
-Face à une **gravité exceptionnelle**, on aura des **moyens exceptionnels** qui vont **augmenter de manière très significative les pouvoirs policiers**, afin de déceler ce type de **criminalité**.
+Les pouvoirs des enquêteurs y sont considérablement renforcés, car l'infraction vient d'être commise et il est impératif d'agir rapidement pour **éviter le dépérissement des preuves**.
 
-C’est la **même logique que celle de l’article 16 de la Constitution**.
+###### a) L'ouverture de l'enquête de flagrance
 
-La **loi Perben II du 9 mars 2004** vient créer cette **procédure dérogatoire au droit commun**, applicable **en matière de criminalité organisée**.
+L'enquête de flagrance est régie par les **articles 53 et suivants du CPP**. 
 
-Cette loi fait suite **aux attentats de 2001**.
+Son ouverture est soumise à des **conditions strictes**, justifiées par son caractère coercitif.
 
-Aux **États-Unis**, a été adoptée une loi, le **Patriot Act**, visant à lutter contre **le terrorisme** et à créer un **régime procédural dérogatoire**.
+**Condition de gravité de l'infraction**
 
-En **France**, une logique similaire est adoptée, **dans une moindre mesure**.
+L'enquête de flagrance ne peut être ouverte que pour :
 
-À l’origine, en **2004**, cette procédure concernait principalement la **criminalité terroriste**, mais **pas seulement** : la notion de **criminalité organisée** a été **conçue de manière large**.
+- les **crimes** ;
+- les **délits punis d'une peine d'emprisonnement**.
 
-###### 1) Le domaine de la procédure dérogatoire 
+Les contraventions et les délits sans peine d'emprisonnement en sont **exclus** (art. 67 CPP).
 
-La loi n’a pas cherché à **définir** la criminalité organisée. Elle a fait le choix **d’énumérer les infractions** relevant de la criminalité organisée. Ainsi, la loi liste les **infractions** participant à la criminalité organisée et permettant, par conséquent, **d’accroître les pouvoirs policiers**.
+> Si les OPJ agissent en flagrance mais que les faits se révèlent ultérieurement relever d'une qualification moins grave, on applique la **théorie de l'apparence** : on vérifie si les faits _pouvaient légitimement_ être qualifiés d'infraction flagrante au moment de l'intervention. Si tel est le cas, les actes accomplis demeurent valables.
 
-Lorsqu’on est en présence **d’une des infractions limitativement énumérées**, il devient possible d’agir dans le cadre de cette **procédure dérogatoire**, laquelle justifie **une augmentation des pouvoirs policiers**.
+**Conditions tenant à la flagrance de l'infraction**
 
-À l’origine, la liste était **relativement courte**, mais elle s’est progressivement **allongée**. Aujourd’hui, on compte **plus de 33 groupes d’infractions**, représentant **plus d’une centaine d’infractions** relevant du domaine de la criminalité organisée.
+La flagrance repose sur deux critères cumulatifs.
 
-Exemples : **meurtre commis en bande organisée**, **trafic de stupéfiants**, **enlèvement et séquestration**, **proxénétisme**, **vol en bande organisée**, **terrorisme**.
+1. **Le critère temporel**
 
-Le **critère de la nature de l’infraction** n’est pas pertinent, car ces infractions peuvent concerner **les personnes**, **les biens** (comme le vol), mais aussi **l’État** (fausse monnaie, terrorisme).
+	L'article 53 CPP distingue deux situations :
+	
+	- **La flagrance au sens strict** : l'infraction _se commet actuellement_ ou _vient de se commettre_. Il doit exister une **concomitance** entre la commission de l'infraction et sa constatation par les enquêteurs.
+	
+	- **L'infraction réputée flagrante** : la personne soupçonnée est découverte dans un temps _très voisin_ de l'action. La jurisprudence admet traditionnellement un délai pouvant aller jusqu'à **48 heures**, à condition que les investigations aient été continues.
 
-L’idée de criminalité organisée suppose **une pluralité de participants agissant en groupe**.
+2. **Le critère matériel**
 
-Ces infractions sont aggravées par la **circonstance de bande organisée**. Elles supposent l’existence même **d’un groupe délictueux**.
+	Il doit exister des **indices objectifs et apparents** d'un comportement délictueux, matériellement vérifiables et extérieurs à la simple intuition des enquêteurs. 
+	
+	La jurisprudence exige des éléments tangibles traduisant une apparence de participation à l'infraction.
 
-On parle alors **d’infraction collective par circonstance**, c’est-à-dire d’infractions pouvant être réalisées **seul** (par exemple le meurtre), mais qui, dans certaines circonstances, peuvent être commises **à plusieurs**.
+> **Cass. crim., 22 janvier 1953, _Isnard_** : la Cour refuse la flagrance fondée sur un simple **soupçon subjectif**. La conviction personnelle du policier ne suffit pas.
 
-On se trouve en présence d’un **groupe délictueux** planifiant les infractions **à l’avance**, ce qui renvoie à l’idée de **préméditation** et à la notion de **groupe structuré**.
+La distinction entre soupçon et indice est essentielle :
 
-Ce sont les **deux critères essentiels**.
+|Soupçon subjectif|Indice objectif|
+|---|---|
+|Impression personnelle de l'enquêteur|Constaté personnellement par l'OPJ ou l'APJ|
+|Comportement « qui paraît suspect » sans élément concret|Matériellement vérifiable, extérieur à la simple intuition|
+|**Insuffisant** pour ouvrir une enquête de flagrance|**Suffisant** pour justifier la flagrance|
 
-Dans le langage courant, on évoque un **groupe mafieux**.
+Les indices objectifs peuvent être constatés par l'OPJ au moyen de ses cinq sens : traces de sang, odeur de stupéfiants, cris, possession d'objets suspects, etc.
 
-La liste des infractions concernées **ne cesse de s’allonger**. Certains auteurs s’interrogent ainsi sur l’existence d’une véritable **procédure pénale de droit commun bis**, parfois qualifiée de **« procédure pénale bis »**.
+**En l'absence de constat objectif, il ne peut y avoir de flagrance.**
 
-Exemple : le **trafic de déchets** envoyés à l’étranger afin de réduire les coûts de traitement, pratique particulièrement néfaste pour **l’environnement**.
+###### b) Les caractères de l'enquête de flagrance
 
-Ce type de trafic suppose généralement **une coopération internationale**.
+L'enquête de flagrance se distingue par son **caractère coercitif**. 
 
-###### 2) Le régime de la procédure dérogatoire
+Les enquêteurs peuvent accomplir certains actes :
 
-Quels sont les **pouvoirs particuliers** accordés aux enquêteurs dans ce cadre ?
+- **sans le consentement** de la personne concernée ;
+- **sans autorisation préalable** du procureur de la République ;
+- **sans autorisation du JLD** pour les actes ordinaires.
 
-Les **clivages classiques du droit commun** disparaissent en la matière. Autrement dit, on ne distingue plus entre **enquête préliminaire** et **enquête de flagrance**.
+Le contrôle de la légalité des actes s'effectue **a posteriori**, notamment par la chambre de l'instruction. 
 
-Dès lors que l’on se situe dans le cadre de la **procédure dérogatoire**, peu importe l’existence ou non d’une situation de flagrance : ce qui importe est uniquement d’entrer dans le **champ de la criminalité organisée**.
+Certains actes particulièrement attentatoires aux libertés exigent toutefois une **autorisation préalable du JLD**.
 
-Auparavant, une seule distinction subsistait : celle relative aux **perquisitions nocturnes**. Elles ne sont pas autorisées en droit commun, mais seulement dans le cadre de la criminalité organisée.
+###### c) La durée de l'enquête de flagrance
 
-Initialement, la perquisition nocturne en matière de criminalité organisée n’était possible **qu’en situation de flagrance**. En enquête préliminaire, elle demeurait interdite. Cette dernière distinction a disparu en **2016**, puisqu’il est désormais possible de réaliser des **opérations nocturnes** en matière de criminalité organisée **même en dehors d’une situation de flagrance**.
+**Principe :**
 
-Ainsi, peu importe le cadre procédural — flagrance ou enquête préliminaire — les solutions sont désormais **identiques**.
+L'enquête de flagrance dure **8 jours maximum**, et doit se dérouler **sans discontinuité**. 
 
-De même, la distinction entre **enquête policière** et **instruction** s’atténue : les pouvoirs des enquêteurs sont globalement les mêmes dès lors que l’on se trouve dans le champ de la criminalité organisée.
+Les actes d'enquête doivent se succéder sans interruption notable. Une inactivité prolongée peut faire **basculer l'enquête vers le régime de l'enquête préliminaire**.
 
-On est donc en présence d’une **procédure autonome**, échappant largement aux distinctions traditionnelles du droit commun.
+**Prolongation :**
 
-Ce qui varie néanmoins est **l’autorité de contrôle** :
-- en enquête policière, le contrôle relève du **procureur de la République**, parfois du **juge des libertés et de la détention (JLD)** ;
-- en information judiciaire, l’autorité d’autorisation et de contrôle est le **juge d’instruction**.
+Une prolongation de **8 jours supplémentaires** est possible, sur autorisation du procureur de la République, portant la durée maximale à **16 jours**.
 
-Plusieurs actes d’enquête ne peuvent être autorisés **que** dans le cadre de la criminalité organisée, ce qui traduit l’octroi de **pouvoirs d’enquête renforcés**.
+> À comparer avec l'enquête préliminaire, qui peut durer jusqu'à 7 ans dans les cas les plus graves.
 
-Exemples :
-- **perquisitions nocturnes** (entre 21 h et 6 h) ;
-- **sonorisation de lieux** ;
-- **captation d’images** ;
-- **captation de données informatiques**, permettant notamment l’introduction dans un ordinateur afin d’intercepter des correspondances.
+#### B) Les enquêtes dérogatoires : la criminalité organisée
 
-La **géolocalisation** est admise en droit commun, car elle est considérée comme moins intrusive : elle permet simplement de surveiller les déplacements à distance.
+Issue de la **loi Perben II du 9 mars 2004**, cette procédure dérogatoire constitue un **régime autonome** qui dépasse les distinctions classiques entre flagrance, enquête préliminaire et instruction. 
 
-En revanche, l’**infiltration** n’existe pas en droit commun. Un policier peut infiltrer un groupe délictueux sous **identité d’emprunt**, en se faisant passer pour coauteur ou complice. Pour les besoins de sa mission, il peut être autorisé à commettre un **certain nombre d’infractions**.
+Elle s'applique à un domaine déterminé et confère aux enquêteurs des **pouvoirs considérablement renforcés**.
 
-Afin d’assurer sa sécurité, l’enquêteur infiltré bénéficie d’un **anonymat**, destiné à empêcher son identification. Cette pratique soulève toutefois des difficultés au regard du **principe du contradictoire**.
+- **Le domaine d'application**
 
-La procédure dérogatoire permet également un **allongement de la garde à vue**.
+	La loi ne définit pas directement la notion de criminalité organisée, mais en dresse une **liste d'infractions** aux **articles 706-73 et suivants du CPP**. 
+	
+	Cette liste comprend aujourd'hui plus d'une trentaine d'infractions, parmi lesquelles :
+	
+	- le trafic de stupéfiants ;
+	- le terrorisme ;
+	- le proxénétisme aggravé.
+	
+	Les infractions relevant de la criminalité organisée se caractérisent généralement par :
+	
+	- une **pluralité de participants** ;
+	- une **organisation structurée** ;
+	- une **préméditation** et une **planification**.
+	
+	Il peut s'agir soit d'infractions **aggravées par la circonstance de bande organisée**, soit d'infractions **collectives par nature**.
 
-En droit commun, la garde à vue dure **48 heures maximum** (24 heures renouvelables une fois par le procureur de la République). En matière de criminalité organisée, elle peut être portée à **96 heures**.
+- **Le régime dérogatoire**
 
-Au-delà des premières 48 heures, la compétence n’appartient plus au procureur mais au **juge des libertés et de la détention**.
+	Ce régime entraîne un **renforcement significatif des pouvoirs des enquêteurs**. Les principaux actes autorisés sont les suivants :
+	
+	- **Perquisitions nocturnes** (21h–6h), y compris hors flagrance ;
+	- **Sonorisation de lieux** (installation de micros ou caméras, y compris dans des lieux privés) ;
+	- **Captation de données informatiques** ;
+	- **Opérations d'infiltration** (enquêteur agissant sous identité d'emprunt, pouvant participer à certaines infractions) ;
+	- **Techniques spéciales de surveillance** (géolocalisation, captation à distance par smartphone, etc.).
 
-En matière de **terrorisme**, la garde à vue peut atteindre **144 heures** (soit six jours), à condition qu’existe un **risque d’action imminente**, notamment un attentat.
+En matière de **garde à vue** :
 
-On admet également un **aménagement des droits de la défense**, notamment par le **report de l’intervention de l’avocat**.
+|Régime|Durée maximale|
+|---|---|
+|Droit commun|48 heures|
+|Criminalité organisée|**96 heures** (autorisation du JLD)|
+|Terrorisme|**144 heures**|
 
-En droit commun, l’avocat doit être présent dès le début de la garde à vue. En matière de criminalité organisée, sa présence peut être **différée jusqu’à 48 heures**. L’individu peut donc rester seul face aux enquêteurs pendant deux jours. Ce délai peut être porté à **72 heures** en matière de terrorisme, de trafic de stupéfiants ou de proxénétisme.
+En matière de **report de la présence de l'avocat** :
 
-On observe depuis plusieurs années un phénomène d’**extension** : des actes d’enquête initialement réservés à la criminalité organisée ont progressivement pénétré le champ du **droit commun**.
+|Infraction|Durée du report possible|
+|---|---|
+|Criminalité organisée|**48 heures**|
+|Terrorisme, trafic de stupéfiants, proxénétisme|**72 heures**|
 
-Exemples :
-1. le **report de la présence de l’avocat** en garde à vue, désormais admis en droit commun sous conditions strictes ;
-2. l’extension progressive de certaines techniques spéciales d’enquête à d’autres formes de criminalité grave.
+> **Tendance à noter** : on observe un mouvement de **pénétration progressive** de ces techniques dérogatoires dans le droit commun. Des mesures initialement réservées à la criminalité organisée, comme l'activation à distance des appareils électroniques, tendent à être étendues à d'autres cadres d'enquête.
 
-Enfin, un **nouvel acte d’enquête particulièrement intrusif** a été introduit par la **loi de juin 2025 relative à la lutte contre le narcotrafic** : il permet l’**activation à distance d’appareils électroniques** afin de capter **l’image**, **la voix** des individus et leur **localisation**.
+### Paragraphe 2 : Les pouvoirs d'enquête
 
-#### Paragraphe 2 : Les actes d'enquêtes
+#### A) Les contrôles et vérifications d'identité
 
-##### A) Les actes relatifs aux personnes
+##### 1) Les contrôles d'identité
 
-###### 1) Les contrôles et vérifications d'identité
+- **Compétence**
 
-- **Les contrôles d’identité** (articles 78-2 et suivants du Code de procédure pénale)
+	Les contrôles d'identité relèvent en principe de la **compétence exclusive des OPJ**, qui disposent d'un pouvoir propre pour y procéder dans les conditions fixées par la loi.
+	
+	Les **APJ ne disposent pas de pouvoir d'initiative autonome** : ils ne peuvent procéder à un contrôle d'identité que **sur ordre et sous la responsabilité d'un OPJ**. 
+	
+	Cette règle traduit la volonté du législateur de réserver les pouvoirs les plus attentatoires aux libertés aux agents disposant des garanties de formation et de responsabilité les plus élevées.
 
-**Objet du contrôle** : il consiste à demander à un individu de **justifier de son identité**.
+- **Les deux types de contrôle d'identité**
 
-**Compétence** : il s’agit d’une compétence **exclusive des officiers de police judiciaire (OPJ)**. Les **agents de police judiciaire (APJ)** ne peuvent pas procéder, de leur propre initiative, à un contrôle d’identité.
+	Le CPP distingue le **contrôle judiciaire** et le **contrôle administratif**, selon la finalité poursuivie.
 
-**Motifs** : on ne peut y procéder que pour certains motifs, car cette mesure comporte des **risques importants**.
+	1. **Le contrôle d'identité judiciaire**
 
-Les dangers principaux sont :
-- le risque de **discrimination** (contrôles discriminatoires) ;
-- l’atteinte à la **liberté d’aller et venir**.
+		Il a pour finalité la **recherche et la constatation d'infractions**. Il suppose l'existence d'éléments objectifs permettant de soupçonner qu'une personne :
+		
+		- a commis ou tenté de commettre une infraction ;
+		- se prépare à commettre un crime ou un délit ;
+		- est susceptible de fournir des renseignements utiles à une enquête ;
+		- fait l'objet de recherches ordonnées par une autorité judiciaire.
+		
+		Le soupçon doit impérativement reposer sur des **éléments extérieurs et vérifiables**, et non sur une simple impression personnelle.
+		
+		 **Exemples d'indices objectifs** : fuite à la vue de policiers, état d'ivresse manifeste dans un contexte troublé, jet d'un objet lors d'une intervention.
 
-Selon l’alinéa 1er de l’article 78-2, il est légitime de contrôler l’identité d’un individu **en cas de soupçon d’infraction**, de **tentative d’infraction**, ou lorsqu’une personne est **susceptible d’être recherchée**.
+	2. **Le contrôle d'identité administratif**
+	
+		Il répond à une finalité **préventive** : prévenir les atteintes à l'ordre public, indépendamment de toute infraction déjà commise. 
+		
+		Il peut viser **toute personne**, même en l'absence de comportement suspect.
+		
+		Ce contrôle est strictement encadré afin d'éviter toute dérive vers un contrôle généralisé de la population. 
+		
+		Dans certaines hypothèses, notamment pour des contrôles organisés dans des zones déterminées, une **autorisation écrite et préalable du procureur de la République** est exigée. 
+		
+		Cette autorisation doit préciser :
+		
+		- les **lieux** concernés ;
+		- la **période** durant laquelle les contrôles peuvent être effectués ;
+		- les **infractions visées**.
+		
+		À défaut, le contrôle peut être **annulé** et les actes subséquents déclarés irréguliers.
+		
+		Des **règles particulières** s'appliquent également dans les **zones frontalières** et dans les lieux ouverts au trafic international (ports, aéroports, gares internationales), notamment pour lutter contre l'immigration irrégulière et les trafics transnationaux. 
+		
+		Ces contrôles doivent néanmoins respecter les exigences du droit européen et constitutionnel, et ne peuvent être systématiques.
 
-L’enquête présente alors une **nature judiciaire** et non administrative. On parle de **contrôle judiciaire d’identité**, à distinguer du **contrôle administratif d’identité**.
+- **Le risque de contrôle discriminatoire**
 
-Exemples jurisprudentiels :
-- individu déambulant ivre dans un aéroport (ivresse publique) ;
-- personne prenant la fuite à la vue des policiers ;
-- individu jetant un sac dans un fleuve à l’approche des forces de l’ordre.
+	Le contrôle d'identité doit impérativement reposer sur des **éléments objectifs, extérieurs à la personne contrôlée**. 
+	
+	Toute discrimination est strictement prohibée.
+	
+	- **Arrêt du 25 avril 1985** : un contrôle doit être justifié par des circonstances extérieures à la personne.
+	
+	- **Cons. const., 13 août 1993** : les contrôles doivent reposer sur des critères objectifs excluant toute discrimination, notamment fondée sur l'origine réelle ou supposée d'un individu.
+	
+	- **Cour de cassation** : le contrôle doit reposer sur des circonstances extérieures à l'individu.
+	
+	- **CA de Paris, 2015** : la mention « individu de type nord-africain » dans un procès-verbal a été jugée constitutive d'un **contrôle discriminatoire**, entraînant le relâchement de l'individu et une **indemnisation par l'État**.
 
-Dans le cadre du **contrôle administratif d’identité**, il est possible de contrôler **toute personne**, indépendamment de son comportement, même en l’absence de soupçon d’infraction.
+> Un contrôle discriminatoire effectué par un OPJ constitue une **faute grave** susceptible d'engager la responsabilité de l'État et de donner lieu à indemnisation.
 
-On n’est alors plus dans une logique de police judiciaire. La finalité est **préventive**, afin de « **prévenir une atteinte à l’ordre public, notamment à la sécurité des personnes ou des biens** ».
+##### 2) Les vérifications d'identité
 
-Le principal risque est celui d’un **État de police** organisant un contrôle systématique et généralisé de l’identité des personnes, ce que le **Conseil constitutionnel** refuse.
+Les vérifications d'identité constituent la **suite logique du contrôle d'identité** et sont régies par l'**article 78-3 CPP**. 
 
-Ces contrôles doivent donc être **strictement encadrés et ciblés**.
+Elles prennent la forme d'une **mesure de retenue**, c'est-à-dire d'une **mesure privative de liberté** : la personne n'est plus libre de ses mouvements.
 
-L’article 78-2 impose une **réquisition écrite préalable du procureur de la République**. Celui-ci doit déterminer :
-- les **lieux** concernés ;
-- les **périodes** pendant lesquelles les contrôles sont autorisés.
+- **Conditions de la retenue**
 
-Il s’agit de viser des **zones à risques** ou des **lieux criminogènes**, c’est-à-dire des endroits où des infractions sont susceptibles d’être commises.
+	La retenue peut intervenir dans deux hypothèses :
+	
+	- l'individu **refuse de justifier** de son identité ;
+	- l'individu se trouve dans l'**impossibilité de la justifier** (absence de papiers d'identité).
 
-Le procureur doit **motiver** ces contrôles au regard d’éléments concrets démontrant que le lieu concerné présente une criminalité particulière à certaines heures. À défaut, les contrôles seront **annulés** et ne pourront pas être régularisés a posteriori.
+- **Modalités de la retenue**
 
-Le **Conseil constitutionnel** demeure particulièrement vigilant afin d’éviter toute généralisation des contrôles d’identité dans l’espace public.
+	La personne peut être retenue :
+	
+	- **sur place** ;
+	- ou **conduite dans un local de police ou de gendarmerie**.
+	
+	Les autorités procèdent alors à :
+	
+	- des recherches dans les **bases de données** ;
+	- le cas échéant, des **relevés d'empreintes digitales** et des **photographies**.
+	
+	Ces procédés constituent des **méthodes d'identification judiciaire**.
 
-Il existe également des **contrôles liés à l’espace Schengen** : aux frontières, dans les ports, aéroports ou gares ferroviaires ouverts au trafic international, les autorités peuvent contrôler l’identité **de toute personne**, indépendamment de son comportement, en raison des enjeux liés à la circulation internationale.
+- **Droits de la personne retenue**
+	
+	La personne retenue bénéficie de deux droits :
+	
+	1. Le droit de **faire aviser le procureur de la République** — ce qui est logique, le procureur étant l'organe de contrôle de l'enquête et de la protection des libertés individuelles 
+	
+	2. Le droit de **faire prévenir à tout moment un membre de sa famille** ou son employeur.
 
-Un second risque majeur est celui du **contrôle discriminatoire**.
+- **Durée de la retenue**
 
-Un contrôle d’identité, administratif ou judiciaire, ne peut jamais être fondé sur un **critère discriminatoire**, notamment sur des caractéristiques physiques.
+	La retenue est limitée au **temps strictement nécessaire**, sans pouvoir excéder :
+	
+	- **4 heures** en métropole ;
+	- **8 heures** à Mayotte.
 
-La **Cour de cassation** et le **Conseil constitutionnel** l’ont affirmé à plusieurs reprises.
+- **Articulation avec la garde à vue**
 
-La chambre criminelle, dans un arrêt fondateur du **25 avril 1985**, a posé la formule classique :  
-« **Pour être justifié, un contrôle d’identité doit être fondé sur des éléments objectifs déduits de circonstances extérieures à la personne même de l’intéressé.** »
+	Si, à l'issue de la retenue, l'individu est placé en garde à vue ou en rétention administrative, la **durée de la retenue s'impute sur celle de la mesure suivante**. 
+	
+	Ce qui compte est le **début de la privation de liberté**.
 
-Le Conseil constitutionnel adopte une formulation proche dans sa décision du **13 août 1993**, exigeant que le contrôle soit opéré sur la base de **critères objectifs excluant toute discrimination**.
+> **Exemple** : un individu retenu pour vérification d'identité à 8h du matin et placé en garde à vue à 12h — le délai de la garde à vue commence à courir à **8h**, et non à 12h.
 
-Ainsi :
-- un contrôle ne peut jamais être fondé sur la **couleur de peau** d’un individu ;
-- la **langue parlée** ne constitue pas non plus un élément objectif, car elle est inhérente à la personne ; la Cour de cassation considère alors le contrôle comme discriminatoire.
+**Cas particulier — soupçon de terrorisme**
 
-En revanche, certains éléments **extérieurs à la personne** peuvent être retenus, par exemple la circulation sur le territoire français d’un véhicule portant une **plaque d’immatriculation étrangère**.
+Une retenue spécifique de **4 heures** est prévue lorsqu'un individu est soupçonné de participer à une **activité terroriste**. Ce délai permet d'interroger les services de renseignement et de lutte contre le terrorisme avant de décider de la suite à donner.
 
-La **cour d’appel de Paris, 24 juin 2015**, a condamné un contrôle effectué dans un quartier proche d’une gare lorsque le procès-verbal mentionnait le contrôle d’un individu « **de type nord-africain** ». Le contrôle a été jugé **discriminatoire**.
+##### 3) Les auditions
 
-Dans ce cas, l’État peut voir sa responsabilité engagée. Pour que la responsabilité de l’État soit retenue du fait des agents de police judiciaire, la faute doit être **grave**.
+- **Distinction entre audition et interrogatoire**
 
-Un **contrôle d’identité discriminatoire** réalisé par un officier de police judiciaire constitue précisément une **faute lourde**, justifiant l’**indemnisation par l’État**.
+	En principe, le terme **audition** désigne l'acte par lequel les enquêteurs entendent les **témoins et les victimes**. 
+	
+	Le terme **interrogatoire**, quant à lui, n'apparaît formellement qu'au stade de l'**instruction judiciaire**, pour désigner l'audition des personnes mises en examen.
+	
+	Toutefois, dans le cadre de l'enquête policière, le terme d'audition s'applique également aux **suspects**. 
+	
+	Le régime applicable varie selon que le suspect est entendu sous contrainte ou librement.
 
-- **Les vérifications d’identité** (Article 78-3 du Code de procédure pénale)
+- **Le double cadre d'audition des suspects**
 
-Il s’agit de **retenues opérées à l’encontre de personnes**, constituant une **mesure privative de liberté**. Les individus concernés ne sont plus libres de leurs mouvements : il y a atteinte à la **liberté d’aller et venir** et à la **liberté de circulation**.
+	Les suspects peuvent être entendus dans deux cadres juridiques distincts :
+	
+	- **La garde à vue** (art. 62-2 CPP) : le suspect est **privé de sa liberté** et maintenu à la disposition des enquêteurs.
+	- **L'audition libre** (art. 61-1 CPP) : le suspect est entendu **sans privation de liberté**. Il peut quitter les locaux de police à tout moment.
 
-La mesure a pour finalité de **vérifier l’identité d’une personne** dans deux hypothèses :
-1. lorsque l’individu **refuse de justifier de son identité** ;
-2. lorsque l’individu est **dans l’impossibilité de justifier de son identité**, notamment parce qu’il ne possède aucun document établissant celle-ci (passeport, carte nationale d’identité, etc.).
+- **L'évolution du droit à l'avocat : la loi du 27 mai 2014**
 
-**Modalités de la retenue**
+	Pendant longtemps, ce double cadre emportait des **conséquences importantes** en termes de droits de la défense. Avant la loi du 27 mai 2014, le droit à l'assistance d'un avocat n'était reconnu qu'en **garde à vue**. 
+	
+	La personne entendue librement n'en bénéficiait pas.
+	
+	Cette différence de régime **ouvrait la voie à des détournements de procédure** : les enquêteurs pouvaient orienter les suspects vers une audition libre afin de les priver de l'assistance d'un avocat et recueillir plus facilement leurs déclarations.
+	
+	La **loi du 27 mai 2014** a mis fin à cette situation. 
+	
+	Désormais, **tout individu soupçonné a droit à l'assistance d'un avocat**, quel que soit le cadre de son audition, sous contrainte ou librement. 
+	
+	C'est ce que consacre l'article 61-1 CPP, qui prévoit que la personne entendue librement doit être **informée de son droit d'être assistée par un avocat**.
 
-La personne peut être **retenue sur place** ou **conduite dans un local de police ou de gendarmerie**.
+|Avant 2014|Depuis 2014|
+|---|---|
+|Critère : la **privation de liberté**|Critère : le **soupçon**|
+|Droit à l'avocat uniquement en GAV|Droit à l'avocat dès lors qu'il existe un soupçon|
 
-Les enquêteurs procèdent alors à des vérifications, notamment par consultation de **fichiers et bases de données**. Ils peuvent également réaliser des **prises d’empreintes digitales** et des **photographies**, qui relèvent des procédés d’**identification judiciaire**.
+> Ce changement de critère est essentiel : **la nécessité de se défendre naît dès lors qu'un individu est suspecté**, et non seulement lorsqu'il est privé de sa liberté. Il existe désormais un **critère unique d'attribution des droits de la défense**.
 
-La personne peut demander que le **procureur de la République** soit informé, ce qui s’explique par le fait que celui-ci constitue **l’autorité de contrôle de l’enquête**.
+- **L'audition des témoins**
 
-Elle dispose également du **droit de faire prévenir sa famille ou toute personne de son choix**, notamment afin d’éviter que ses proches ne s’inquiètent de sa situation.
+	L'article 62 CPP régit l'audition des personnes à l'encontre desquelles il n'existe **« aucune raison plausible de soupçonner »** une participation à une infraction, c'est-à-dire les **témoins et les victimes**. 
+	
+	Elles sont en principe entendues **sans contrainte**.
+	
+	Par exception, si les nécessités de l'enquête le justifient, un témoin peut être **retenu sous contrainte** pendant une durée maximale de **4 heures**. 
+	
+	Cette mesure vise notamment les **témoins récalcitrants** qui refusent de répondre aux convocations. 
+	
+	Dans ce cas, les OPJ peuvent recourir à la **force publique** pour les contraindre à comparaître, voire se présenter à leur domicile pour les y conduire (art. 62 al. 2 CPP).
 
-**Encadrement temporel**
+- **Le changement de statut en cours d'audition**
 
-La mesure est strictement limitée dans le temps : la loi prévoit une **durée maximale de quatre heures**.
+	Il arrive qu'un individu initialement entendu comme témoin voie apparaître des **soupçons à son encontre** en cours d'audition, au regard de ses déclarations. 
+	
+	L'article 62 alinéas 3 et 4 CPP prévoit cette hypothèse. Deux situations sont alors possibles :
+	
+	- Si l'individu était entendu **librement** (sans contrainte), il peut être entendu :
+	
+	    - soit dans le cadre d'une **audition libre** (art. 61-1 CPP) ;
+	    - soit placé en **garde à vue** (art. 62-2 CPP).
+	
+	- Si l'individu était entendu **sous contrainte** (art. 62 al. 2 CPP), il ne peut être entendu que dans le cadre d'une **garde à vue**.
 
-Si la vérification d’identité est suivie d’un **placement en garde à vue**, se pose la question du point de départ du calcul du temps.
+- **Le risque de détournement de procédure**
 
-Il s’agit de **deux mesures privatives de liberté successives**. Le temps passé en retenue pour vérification d’identité **s’impute sur la durée de la garde à vue** qui lui succède.
+	Un risque demeure : celui d'auditionner un suspect **sous le régime des témoins** afin de lui dissimuler l'existence de soupçons et d'éluder ainsi son droit à l'assistance d'un avocat. 
+	
+	Or, les témoins ne bénéficient pas du droit à l'avocat.
+	
+	C'est la raison pour laquelle **une partie de la doctrine estime que le droit à l'avocat devrait être reconnu à tous les protagonistes de la procédure pénale**, quelle que soit leur qualité formelle, afin de garantir pleinement les droits de la défense dès le stade de l'enquête policière.
 
-Ainsi, pour le calcul de la durée de la garde à vue, ce qui compte est **le début effectif de la privation de liberté**.
 
-**Évolution récente**
+##### 4) La garde à vue
 
-Depuis **2016**, une mesure spécifique de **retenue pour vérification d’identité dans un contexte terroriste** a été instaurée. Elle permet de retenir une personne pendant **quatre heures**, le temps d’interroger les **services de renseignement** et les services spécialisés dans la **lutte contre le terrorisme**, afin de vérifier la situation de l’intéressé.
+La garde à vue est définie à l'**article 62-2 CPP**. Il s'agit d'une **mesure privative de liberté** : l'individu est maintenu à la disposition des enquêteurs et ne peut quitter librement les locaux de police ou de gendarmerie.
 
-###### 2) Les auditions
+> Un auteur a pu parler de **« garde à l'ouïe »** plutôt que de garde à vue, soulignant que la finalité première de la mesure est d'**entendre** le suspect.
 
-Le terme **d’audition** devrait, en principe, concerner uniquement **les témoins et les victimes**, c’est-à-dire les individus **non soupçonnés** d’avoir commis une infraction.
+La garde à vue poursuit plusieurs objectifs :
 
-L’audition d’un **suspect** correspond théoriquement à un **interrogatoire**. Toutefois, le terme d’interrogatoire apparaît plus tard dans la procédure pénale, essentiellement **au stade de l’instruction**.
+- **Entendre l'individu** et recueillir ses déclarations ;
+- **Maintenir l'individu à la disposition de la justice** pour le présenter au procureur de la République en vue de l'engagement de poursuites, et éviter qu'il prenne la fuite ;
+- **Récolter des preuves** et contribuer à la manifestation de la vérité.
 
-Durant l’**enquête policière**, le vocabulaire employé est celui d’**audition**, qui vise aussi bien les **non-suspects** (témoins et victimes) que les **suspects**.
+La **loi du 14 avril 2011** a profondément réformé le régime de la garde à vue en consacrant le **droit à l'assistance d'un avocat** dès le début de la mesure. 
 
-Le cadre juridique de l’audition des suspects est double : ils peuvent être entendus selon **deux régimes distincts**.
-1. **La garde à vue** (art. 62-2 CPP) : lorsque l’individu est **privé de liberté**, c’est-à-dire entendu sous contrainte et privé de sa liberté d’aller et venir.
-2. **L’audition libre** (art. 61-1 CPP) : le suspect peut être entendu **sans privation de liberté**. Il peut quitter les locaux de police **à tout moment** et est entendu en dehors de toute contrainte.
+Cette réforme n'est pas spontanée : le législateur y a été contraint par des **condamnations répétées de la France par la CEDH**.
 
-Pendant très longtemps, jusqu’à la **loi du 27 mai 2014**, l’individu ne bénéficiait du **droit à l’assistance d’un avocat** qu’en garde à vue. À l’inverse, il ne pouvait pas être assisté d’un avocat lors d’une audition libre.
+###### a) Le placement en garde à vue
 
-Cette différence de régime constituait un **terrain favorable aux détournements de procédure**. Les enquêteurs proposaient fréquemment une audition libre (durée maximale de quatre heures) en indiquant que, en cas de refus, une garde à vue serait décidée. Les individus acceptaient alors l’audition libre, ce qui permettait de **contourner les droits de la défense**, notamment la présence d’un avocat.
+- **Les conditions de fond**
 
-La **loi de 2014** a modifié ce régime : le suspect peut désormais être entendu librement **après avoir été informé de son droit d’être assisté par un avocat**.
+Le placement en garde à vue est soumis à **trois conditions cumulatives**.
 
-Désormais, les **droits de la défense du suspect sont identiques**, qu’il soit entendu librement ou placé en garde à vue, ce qui limite les détournements de procédure.
+1. **La condition de gravité de l'infraction**
 
-**Résumé :**
-- **Avant 2014**, le critère d’application des droits de la défense (et notamment la présence de l’avocat) était la **privation de liberté** : la contrainte constituait le critère d’octroi des droits de la défense.
-- **Depuis 2014**, le critère est le **soupçon**.
+	La garde à vue ne peut être décidée que pour les **crimes ou délits punis d'une peine d'emprisonnement**. 
+	
+	Sont exclus :
+	
+	- les contraventions ;
+	- les délits ne comportant pas de peine d'emprisonnement.
+	
+	Cette condition est identique à celle requise pour l'enquête de flagrance.
 
-Cette évolution est cohérente : la nécessité de se défendre naît dès lors que **des soupçons pèsent sur une personne**.
+2. **La condition de soupçon**
 
-**Article 62 du Code de procédure pénale**
+	Il doit exister **une ou plusieurs raisons plausibles** de soupçonner l'individu. 
+	
+	La garde à vue est donc réservée aux **suspects** : les témoins et les victimes en sont exclus. 
+	
+	Par ailleurs, le placement en garde à vue constitue une **faculté** pour les enquêteurs et non une obligation.
 
-Les personnes à l’encontre desquelles **il n’existe aucune raison plausible de soupçonner** qu’elles ont commis ou tenté de commettre une infraction sont entendues **sans faire l’objet d’une mesure de contrainte**.
+3. **La condition de nécessité**
 
-**Article 62, alinéa 2** : par exception, les personnes non suspectes (témoins ou victimes) peuvent être **retenues sous contrainte** le temps strictement nécessaire à leur audition, pour une durée maximale de **quatre heures**. Cette disposition vise notamment les témoins ne répondant pas aux convocations. Les OPJ, sous le contrôle du procureur de la République, peuvent recourir **à la force publique** afin de contraindre une personne à comparaître.
+	La garde à vue doit constituer **l'unique moyen** de parvenir à l'un des **6 objectifs limitativement énumérés** par la loi, qui se répartissent en trois catégories :
 
-Il peut arriver que, lors de l’audition d’un témoin initialement non suspect, **des soupçons apparaissent** à son encontre. Dans ce cas, la procédure doit immédiatement évoluer :
-- soit vers une **audition libre de suspect** ;
-- soit vers un **placement en garde à vue** si une mesure contraignante est nécessaire.
+|Catégorie|Finalités|
+|---|---|
+|**Probatoire**|Permettre les investigations (1°) ; éviter la modification ou la disparition de preuves ou d'indices (3°) ; prévenir la concertation avec les complices ou co-auteurs (5°)|
+|**Poursuites**|Garantir la présentation de l'individu devant le procureur de la République (2°)|
+|**Préventive**|Empêcher les pressions sur les témoins ou les victimes (6°) ; faire cesser le crime ou le délit en cours (4°)|
 
-À l’inverse, une personne entendue sous contrainte ne peut être maintenue dans un cadre ambigu : elle doit être placée dans **un cadre juridique déterminé**, respectueux des droits attachés à sa situation procédurale.
+**L'évolution du contrôle de la nécessité**
 
-**Risque de détournement de procédure**
+Pendant longtemps, la condition de nécessité était réduite à une **formalité** : les enquêteurs se contentaient de viser l'une ou plusieurs de ces finalités, sans être tenus de la justifier au regard des faits concrets. 
 
-Le **droit à l’assistance d’un avocat** n’est pas reconnu aux témoins, alors même que certains peuvent, en réalité, faire l’objet de soupçons implicites.
+Aucun contrôle juridictionnel réel n'était exercé, et la nullité d'une garde à vue pour défaut de nécessité n'était pas admise.
 
-Une partie de la doctrine estime que ce droit devrait être reconnu **non seulement aux suspects**, mais également **aux témoins qui en feraient la demande**.
+**Depuis 2017**, la Cour de cassation exerce un **contrôle juridictionnel effectif** de la nécessité de la mesure.
 
-Toutefois, dans la pratique, un témoin demandant la présence d’un avocat adopte psychologiquement une posture proche de celle d’un suspect.
+> **Illustration** : dans une affaire d'escroquerie, un individu avait été placé en garde à vue sans être auditionné ni présenté au procureur de la République. La garde à vue a été **annulée** et l'intéressé **indemnisé**, au motif que la mesure n'était justifiée ni d'un point de vue probatoire, ni au titre de la garantie de la présentation.
 
-L’objectif de la garde à vue demeure la **recherche des preuves**, et, dans la mesure du possible, l’obtention d’aveux.
+- **Les conditions procédurales**
 
-La **réforme du 14 avril 2011**, adoptée à la suite de plusieurs condamnations de la France par la **CEDH**, a consacré le **droit à l’assistance effective d’un avocat en garde à vue**, droit qui n’était pas pleinement reconnu auparavant.
+Le placement en garde à vue est soumis à des **conditions de forme**, prévues aux **articles 63 et 63-1 CPP**.
 
-###### 3) La garde à vue
+**1. La compétence**
 
-- **Conditions de fond**
+Le placement en garde à vue relève d'un **pouvoir propre de l'OPJ**. Ni les APJ, ni le procureur de la République ne peuvent y procéder directement. 
 
-**Condition de gravité** : sont exclues les **contraventions** ainsi que les **délits non punis d’une peine d’emprisonnement**. Il s’agit de la même condition de gravité que pour la flagrance.
+Le procureur peut toutefois **enjoindre à l'OPJ de placer une personne en garde à vue**.
 
-**Critère du soupçon** : il doit exister **une ou plusieurs raisons plausibles de soupçonner** la participation de la personne à une infraction. Sont donc exclus **les témoins et les victimes**.
+**2. L'information immédiate du procureur de la République**
 
+Dès le début de la mesure, le procureur doit être **immédiatement informé** du placement en garde à vue, par tout moyen (courriel, appel téléphonique, etc.).
 
-La garde à vue doit être **nécessaire à l’un des six objectifs légalement énumérés**.
-1. **Finalité probatoire** : recherche des preuves et des aveux (al. 1), et prévention du **dépérissement des preuves** (al. 3).
-2. **Finalité de poursuite** (al. 2) : maintenir la personne **à la disposition de la justice** et garantir sa présentation devant le procureur afin d’engager des poursuites.
-3. **Finalité préventive** : empêcher les **pressions sur les témoins ou les victimes** (al. 4) et faire cesser le crime ou le délit en train d’être commis (al. 6).
-4. **Finalité essentiellement probatoire** (al. 5) : empêcher une **concertation frauduleuse** avec des complices, des témoins, des victimes ainsi que leurs proches.
+- **Délai** : en principe, l'information doit intervenir dans un délai de **30 minutes maximum**.
+- **Exception** : un délai plus long peut être admis en cas de **circonstance insurmontable** constitutive d'un cas de force majeure.
+- **Sanction** : une information tardive entraîne la **nullité de la garde à vue**.
 
-La garde à vue doit donc être **nécessaire** pour atteindre **l’un de ces six objectifs**.
+**3. L'information du suspect** — art. 63-1 CPP
 
-Pendant longtemps, cette condition de nécessité était réduite à une **exigence purement formelle** : il suffisait, dans le procès-verbal de placement en garde à vue, de viser une ou plusieurs de ces finalités.
+La personne placée en garde à vue doit être **directement informée** dès le début de la mesure. Plusieurs chefs d'information lui sont dus :
 
-Il n’existait **aucun véritable contrôle juridictionnel** : les OPJ n’étaient pas tenus de **motiver concrètement** la finalité au regard des faits. En pratique, il n’y avait presque jamais de nullité de garde à vue au motif que la finalité invoquée n’était pas caractérisée, faute de contrôle par une autorité juridictionnelle sur la nécessité réelle de la mesure.
+- **Sur l'objet de la mesure** : placement en garde à vue, durée, éventuelle prolongation, cadre juridique dans lequel elle sera auditionnée ;
+- **Sur les soupçons pesant sur elle** : la personne doit être informée tant **en droit** (qualification juridique exacte) qu'**en fait** (faits reprochés, date, lieu, circonstances). Cette information est indispensable pour lui permettre d'exercer efficacement sa défense ;
+- **Sur ses droits** : droit au silence, droit à un avocat, droit à un médecin, droit de faire prévenir un proche, etc.
 
-Depuis **2017**, la jurisprudence a évolué : une garde à vue a été censurée car **elle n’était pas justifiée concrètement au regard des faits** et de l’une des six finalités. Dans cette affaire, un **notaire** placé en garde à vue pour escroquerie n’avait fait l’objet d’aucun acte utile pendant la mesure. Il a été indemnisé au motif que la garde à vue **n’était pas nécessaire**. La Cour de cassation exerce désormais un **contrôle juridictionnel effectif de la nécessité de la mesure**.
+> La personne reçoit un **formulaire récapitulatif de ses droits**, qu'elle peut conserver tout au long de la mesure.
 
+La **charge de la preuve** de cette information incombe à **l'OPJ**. Elle est établie par un **procès-verbal signé par le suspect**. En cas de refus de signer, mention en est obligatoirement faite dans le procès-verbal.
 
-**Conditions procédurales**
+Les OPJ sont ainsi tenus à un **double devoir d'information** : à l'égard du **procureur de la République** et à l'égard du **suspect**.
 
-1. **Autorité compétente**
+###### b) Les droits reconnus à la personne placée en garde à vue
 
-Seul un **officier de police judiciaire (OPJ)** est compétent pour placer une personne en garde à vue. Il s’agit d’un **pouvoir propre de l’OPJ**.  
-Le procureur de la République ne peut pas lui-même placer en garde à vue, mais il peut **enjoindre** à l’OPJ de le faire.
+La personne placée en garde à vue bénéficie de nombreux droits.
 
-2. **Avis au procureur de la République**
+1. **Le droit à un interprète** — art. 63-1 CPP
 
-Le procureur doit être **informé dès le début de la mesure**, par tout moyen (aujourd’hui le plus souvent par voie électronique).
+	Si la personne ne comprend pas ou ne parle pas le français, elle a droit à l'assistance d'un interprète pour comprendre les questions qui lui sont posées et communiquer avec les enquêteurs.
 
-Le délai doit être très bref :
-- **45 minutes** ont été jugées excessives ;
-- **30 minutes** peuvent être admises.
+2. **Le droit à l'information**
 
-Le non-respect peut entraîner **la nullité de la garde à vue**, notamment l’irrecevabilité des aveux.
+	Dès le début de la mesure, la personne doit être informée de l'ensemble de ses droits, dans les conditions exposées ci-dessus.
 
-Un délai plus long peut toutefois être admis en cas de **circonstances insurmontables**, assimilables à un cas de force majeure (ex. incendie débutant dans le commissariat).
+3. **Le droit au silence** — art. 63-1 CPP
 
-3. **Information immédiate de la personne gardée à vue**
+	Également appelé **droit de se taire**, ce droit permet à l'individu de choisir librement entre faire des déclarations, répondre aux questions ou garder le silence. 
+	
+	Il participe au **droit de ne pas s'auto-incriminer**, composante essentielle des droits de la défense.
+	
+	Ce droit a connu un **parcours législatif chaotique** :
+	
+	- Reconnu par la **loi du 15 juin 2000** sur la présomption d'innocence ;
+	- Supprimé par une **loi de 2003**, qui prévoyait qu'il n'était pas nécessaire d'en informer le suspect — au motif que cette notification constituerait un frein aux investigations policières ;
+	- La **CEDH** a condamné à plusieurs reprises la France pour cette absence de notification ;
+	- Aujourd'hui, la **notification du droit au silence est obligatoire** dès le début de la mesure.
 
-La personne doit être **immédiatement informée par un OPJ** :
-1. de son **placement en garde à vue**, de la **durée de la mesure** et des **prolongations possibles** ;
-2. de la **nature et de la qualification des faits** qui lui sont reprochés, **en droit et en fait**, ce qui est nécessaire à l’exercice des droits de la défense.
+4. **Le droit à un médecin** — art. 63-3 CPP
 
-La jurisprudence exige une information complète. Exemple : dans une affaire de violences conjugales, le suspect avait été informé uniquement de faits de violences alors que la victime avait également dénoncé un viol. Les enquêteurs n’avaient pas mentionné cette qualification afin de faciliter l’interrogatoire. La garde à vue a été annulée : **toutes les qualifications pénales doivent être portées à la connaissance du suspect**.
+	La personne placée en garde à vue a le droit d'être examinée par un médecin, afin de vérifier son **aptitude physique et psychologique** à subir la mesure. 
+	
+	L'inaptitude peut résulter :
+	
+	- d'affections physiques ;
+	- de fragilités psychologiques faisant craindre un risque suicidaire.
+	
+	L'examen médical doit être réalisé :
+	
+	- **à l'abri des regards et de l'écoute extérieure** ;
+	- **dans un délai maximum de 3 heures** après la demande, et peut être renouvelé si jugé nécessaire.
+	
+	Cet examen poursuit une double finalité : vérifier l'aptitude du suspect, mais aussi permettre de **constater et prouver d'éventuelles brutalités policières**.
 
-3. de **l’ensemble de ses droits**.
+5. **Le droit de faire prévenir un proche** — art. 63-2 CPP
 
-La **charge de la preuve** de cette information pèse sur l’OPJ. Elle est consignée dans un **procès-verbal**, signé par la personne gardée à vue. En cas de refus de signature, ce refus est **mentionné au procès-verbal**.
+	La personne placée en garde à vue a le droit de **faire prévenir** un proche. La formulation est importante : c'est **l'OPJ qui contacte le tiers**, et non le suspect lui-même, afin d'éviter toute concertation frauduleuse.
+	
+	Les personnes pouvant être prévenues sont :
+	
+	- un **membre de la famille** ou un proche ;
+	- l'**employeur**.
+	
+	Ce droit s'exerce **dans un délai de 3 heures**, identique à celui de l'examen médical.
+	
+	**Limites et modulations :**
+	
+	- L'information peut être **différée ou exclue** lorsqu'elle est indispensable pour préserver **l'intégrité des preuves** ou **l'intégrité physique des personnes**, notamment dans l'hypothèse d'une concertation avec un complice (finalité probatoire et préventive).
+	
+	- L'OPJ peut désormais **autoriser la personne à communiquer directement** avec un tiers, s'il estime qu'aucun risque de concertation frauduleuse n'existe. Dans ce cas, l'OPJ détermine **la durée et le moment** de la communication, qui demeure **surveillée**.
 
-- **Les droits du placé en GAV**
+6. **Le droit à l'assistance d'un avocat**
 
-Il a droit à **un interprète**, ainsi qu’au **droit à l’information du suspect** : il doit être **informé de ses droits dès le début de la mesure**.
+	Ce droit est **relativement récent** : il date de la **réforme de la garde à vue du 14 avril 2011**. Avant cette date, l'avocat n'assistait pas aux auditions et interrogatoires du suspect. Il ne bénéficiait que d'un **entretien confidentiel de 30 minutes**au début de la mesure, à l'issue duquel le suspect se retrouvait **seul et livré à lui-même** pendant toute la durée de la garde à vue.
+	
+	Cette situation a évolué sous la double influence :
+	
+	- de la **CEDH**, qui avait condamné la France à plusieurs reprises ;
+	- du **Conseil constitutionnel**, qui avait abrogé le régime antérieur de la garde à vue au motif que le suspect n'avait pas droit à l'assistance d'un avocat pendant toute la durée de la mesure.
+	
+	**Désormais**, l'avocat peut assister son client **pendant toute la durée de la mesure**, y compris au cours des interrogatoires.
+	
+	- **Organisation pratique des auditions**
+	
+		La garde à vue alterne entre des **temps d'interrogatoire** et des **temps de repos**. Plus la mesure est longue, plus les temps d'interrogatoire se réduisent et plus les temps de repos s'allongent. 
+		
+		L'avocat n'est présent que pendant les interrogatoires, il ne reste pas pendant les temps de repos. 
+		
+		En pratique, les enquêteurs établissent un **planning de garde à vue**communiqué aux avocats, précisant les horaires d'interrogatoire et de repos.
+	
+	- **Le principe de présence obligatoire de l'avocat**
+	
+		En application de l'**article 63-4-2 CPP**, **une audition ne peut en principe débuter en dehors de la présence de l'avocat**lorsque le suspect en fait la demande.
+		
+		L'avocat désigné peut être :
+		
+		- l'**avocat choisi** par le suspect ;
+		- un **avocat commis d'office**, si le suspect n'en a pas.
+		
+		En application de l'**article 63-3-1 CPP**, l'avocat désigné est **immédiatement informé** du placement en garde à vue.
+		
+		**Difficulté pratique** : l'avocat désigné peut être injoignable ou dans l'impossibilité de se présenter dans un délai de **2 heures**. 
+		
+		Afin de ne pas retarder inutilement les auditions et pour **éviter les manœuvres dilatoires**(présentation tardive volontaire pour retarder le début des interrogatoires), il est alors procédé à la désignation d'un **avocat commis d'office**, permettant de débuter les auditions sans délai.
+	
+	- **Les exceptions au principe de présence obligatoire de l'avocat**
+	
+		Ce principe connaît deux exceptions.
+		
+		1. **1ère exception — art. 63-4-2 CPP : le report de la présence de l'avocat**
+		
+			La présence de l'avocat peut être **différée** lorsque cela est justifié par :
+			
+			- une raison **probatoire** : éviter de compromettre la procédure ;
+			- une raison **préventive** : prévenir une atteinte aux personnes.
+			
+			Le report peut être décidé :
+			
+			- par le **procureur de la République** : jusqu'à **12 heures** ;
+			- par le **JLD** : au-delà de 12 heures, jusqu'à **24 heures**.
+			
+			Durant ce délai, le suspect est entendu **sans la présence de son avocat**.
+		
+		2.  **2ème exception — art. 63-4-2-1 CPP : l'audition immédiate sans avocat**
+		
+			Une audition **immédiate** peut être conduite sans attendre l'arrivée de l'avocat, à condition de caractériser une **urgence** justifiée par une finalité **probatoire ou préventive**.
+			
+			Si l'avocat arrive **en cours d'audition**, l'interrogatoire est **interrompu** afin de permettre un entretien confidentiel de 30 minutes entre l'avocat et son client (art. 63-4-2 al. 2 CPP).
+	
+	- **L'entretien confidentiel** — art. 63-4 CPP
 
-Il bénéficie également du **droit au silence** (le droit de se taire) : l’individu a le droit de **faire des déclarations, de répondre aux questions posées ou de ne pas répondre**. Il doit être informé de ce droit de se taire. Cela participe **aux droits de la défense**, et plus spécifiquement **au droit de ne pas s’auto-incriminer**.
+		L'entretien confidentiel entre l'avocat et son client intervient :
+		
+		- **au début de la mesure** de garde à vue ;
+		- **au moment de la prolongation** (au bout de 24 heures).
+		
+		Son objectif est de **préparer la défense** du suspect et d'envisager la ligne de défense pour les interrogatoires à venir.
+		
+		En pratique, cet entretien se heurte à **deux difficultés** :
+		
+		- L'avocat connaît l'infraction reprochée à son client, mais **ignore les éléments à charge** recueillis par les enquêteurs et n'a pas accès aux pièces incriminantes du dossier ;
+		
+		- Le suspect peut **ne pas coopérer** ou mentir à son avocat, par défaut de confiance, notamment lorsque l'avocat est commis d'office et ne le connaît pas.
+	
+	- **Le rôle de l'avocat au cours des interrogatoires**
 
-Ce droit au silence a connu un sort particulier en **droit pénal français** : il a été reconnu tardivement en **2000** (loi relative à la **présomption d’innocence**). Par la suite, en **2003**, une loi a prévu que ce droit **n’avait plus à être notifié** au suspect, car il était considéré comme un frein aux investigations policières.
+		Bien qu'il puisse désormais assister aux interrogatoires, le rôle de l'avocat demeure **marginal et essentiellement passif**.
+		
+		En application des articles **63-4-2** et **63-4-3 CPP**, l'avocat peut :
+		
+		- **prendre des notes** ;
+		- **présenter des observations écrites** à l'issue de chaque audition ;
+		- **poser des questions** à l'issue des interrogatoires.
+		
+		Il ne peut toutefois **pas intervenir pendant les interrogatoires** : son rôle est celui d'un **observateur passif**. L'efficacité policière prime sur les droits de la défense à ce stade.
+		
+		Deux mécanismes viennent encore restreindre son rôle :
+		
+		- L'**OPJ peut s'opposer aux questions** posées par l'avocat en fin d'interrogatoire (art. 63-4-3 al. 2 CPP) ;
+		- En cas de difficulté, l'OPJ peut **mettre fin à l'audition** et saisir le procureur afin que le **bâtonnier désigne un autre avocat** — permettant ainsi d'écarter l'avocat jugé « perturbateur » choisi par le suspect (art. 63-4-3 al. 1 CPP).
+		
+		Ces dispositions révèlent que l'avocat est regardé avec une certaine **suspicion** par le système : il est perçu comme un élément potentiellement perturbateur de l'avancement de l'enquête, et des mécanismes ont été prévus pour le cantonner dans un rôle purement passif.
+		
+		**En pratique cependant**, la réalité est très différente : les enquêteurs travaillent en **bonne intelligence** avec les avocats. 
+		
+		Ces mécanismes d'exclusion ou d'opposition sont **quasi inexistants**. 
+		
+		Les enquêteurs admettent généralement que les avocats posent leurs questions, et les avocats, conscients que l'intérêt de leur client commande de ne pas perturber la mesure, adoptent une attitude coopérative.
+	
+	- **L'accès de l'avocat au dossier de procédure**
 
-Depuis **2011**, il est de nouveau obligatoire de **notifier dès le début de la mesure le droit de se taire**.
+		L'accès de l'avocat au dossier est **partiel et limité**. En application de l'**article 63-4-1 CPP**, l'avocat peut uniquement consulter :
+		
+		- le **procès-verbal de placement en garde à vue** ;
+		- le **certificat médical** ;
+		- les **procès-verbaux d'audition** de son client.
+		
+		Il **n'a pas accès** aux éléments de preuve collectés par les enquêteurs, ni aux pièces incriminantes. Dans ces conditions, il lui est **impossible de construire une défense efficace**. Son rôle réel se limite à **vérifier la légalité et la régularité de la procédure**, afin de pouvoir ultérieurement demander la nullité de la garde à vue si les droits de son client n'ont pas été respectés.
+		
+		**Exemples de causes de nullité** : absence d'information du procureur dès le début de la mesure ; défaut d'information du suspect sur ses droits.
+		
+		Cet **accès restreint** a été contesté par les avocats devant la chambre criminelle de la Cour de cassation et devant le Conseil constitutionnel. 
+		
+		Ces deux juridictions ont néanmoins **validé le système**, pour deux motifs :
+		
+		- la procédure pénale garantit un **accès complet au dossier à des stades ultérieurs** (instruction, jugement) ;
+		
+		- les pièces communiquées à ce stade sont **suffisantes pour apprécier la légalité de la détention**.
+		
+		**Appréciation critique** : ce système peut être discuté. 
+		
+		 La nécessité de se défendre est pourtant bien réelle dès le stade de la garde à vue : **95 % des affaires ne font l'objet d'aucune instruction**, de sorte que le dossier pénal se constitue principalement pendant l'enquête policière. 
+		 
+		 Refuser à ce stade la plénitude des droits de la défense constitue donc un **choix politique délibéré**, faisant primer la **découverte de la vérité** et l'**efficacité policière** sur les droits de la défense. 
+		 
+		 C'est, en définitive, l'expression de la tension fondamentale entre **sécurité et liberté** qui anime l'ensemble de la procédure pénale et ici, c'est la sécurité qui l'emporte.
 
-Autre droit : **le droit à un examen médical**. La finalité de ce droit est de **vérifier si l’individu est apte physiquement et psychologiquement à la mesure**, c’est-à-dire son aptitude au maintien en garde à vue. Par exemple, il peut exister un **risque suicidaire**.
+7. **Le droit à la dignité** — art. 63-5 et suivants CPP
 
-Cet **examen** doit être réalisé **dans un délai de trois heures au plus tard**, et **à l’abri de toute personne extérieure**. Il peut être renouvelé si cela est jugé nécessaire.
+	Le droit à la dignité de la personne placée en garde à vue connaît **trois manifestations principales**.
+	
+	**1. Les conditions de détention**
 
-Une autre finalité, non expressément prévue par le texte, existe : l’examen peut présenter **un intérêt probatoire**, notamment pour démontrer d’éventuelles **violences policières**.
+	La garde à vue doit être exécutée dans des **locaux garantissant la dignité de la personne**, qui doivent notamment être **salubres**.
+	
+	La sanction du non-respect de cette exigence est l'**octroi de dommages et intérêts** : la personne détenue dans des conditions indignes est indemnisée de son préjudice. 
+	
+	Cette violation n'entraîne pas la nullité de la procédure, dans la mesure où il n'existe pas de lien de causalité direct entre les conditions de détention et les aveux réalisés.
 
-La personne placée en garde à vue a également **le droit de faire prévenir un tiers**. La finalité est d’éviter que ses proches ne s’inquiètent inutilement (un proche ou l’employeur). Cette information doit intervenir **dans un délai maximal de trois heures**.
+	**2. La conservation des objets nécessaires au respect de la dignité** — art. 63-6 CPP
+	
+	La personne placée en garde à vue a le droit de **conserver les objets participant au respect de sa dignité** : lunettes, signes religieux, vêtements, etc.
+	
+	Une distinction est cependant opérée selon les phases de la garde à vue :
+	
+	- **Pendant les temps de repos** : certains objets peuvent être **retirés pour des raisons de sécurité**, afin de prévenir les risques de suicide ou d'agression. Sont notamment concernés : les lacets, les ceintures, les montres, les soutiens-gorge, les colliers.
+	
+	- **Pendant les auditions** : ces objets doivent être **restitués**, car ils participent à la dignité de l'individu.
+	
+	**3. Les fouilles corporelles** — art. 63-6 et 63-7 CPP
 
-Cette information peut toutefois être **différée**, voire **exclue**, si cela est indispensable :
-- pour prévenir une **atteinte à l’intégrité physique ou à la vie** (finalité préventive) ;
-- ou pour éviter une **concertation frauduleuse**, par exemple avec un complice susceptible de disperser ou faire disparaître des preuves (finalité probatoire).
+	La question des fouilles corporelles est encadrée par un **régime progressif et subsidiaire**, articulé en trois niveaux.
 
-C’est **l’OPJ** qui prévient le tiers, notamment afin d’éviter les risques de collusion ou de concertation frauduleuse.
+	**a) Les mesures de sécurité ordinaires**
 
-Il est désormais possible d’autoriser le **suspect à communiquer directement avec un tiers**, avec l’accord de l’OPJ. Celui-ci **détermine le moment, les modalités et la durée de la communication**, lorsqu’il estime qu’aucun risque de concertation frauduleuse avec l’extérieur n’existe.
+	Les mesures de sécurité ont pour objet de **vérifier que la personne ne détient aucun objet dangereux**, ni pour elle-même ni pour autrui. 
+	
+	Elles consistent en :
+	
+	- une **palpation de sécurité** par-dessus les vêtements, réalisée par une personne **du même sexe** ;
+	- une **détection électronique** (portique de sécurité).
+	
+	Ces mesures **ne peuvent pas consister en une fouille intégrale** impliquant la nudité de la personne.
+	
+	**b) La fouille intégrale**
+	
+	Par exception, une fouille intégrale peut être réalisée lorsqu'elle est **indispensable aux nécessités de l'enquête** — sa finalité est alors **probatoire** : il s'agit de rechercher des éléments de preuve dissimulés.
+	
+	Cette mesure est soumise à un régime strict :
+	
+	- réalisée dans un **espace fermé**, à l'abri des regards ;
+	- par une personne du **même sexe** ;
+	- **mesure subsidiaire** : elle n'est possible que si la palpation et la détection électronique sont insuffisantes.
+	
+	**c) Les investigations corporelles internes**
+	
+	Il est possible d'aller au-delà de la fouille intégrale en procédant à des **investigations corporelles internes**, impliquant une **intrusion à l'intérieur du corps** de la personne gardée à vue.
+	
+	⚠️ Ces mesures sont communément appelées « fouilles intégrales » dans le langage courant, mais il s'agit d'une **erreur à la fois juridique et technique** : elles constituent une catégorie distincte et plus attentatoire.
+	
+	Ces investigations :
+	
+	- ne peuvent être réalisées que par un **médecin** ;
+	- sont principalement envisagées dans l'hypothèse des **« mules »**, c'est-à-dire des personnes soupçonnées d'avoir ingéré ou dissimulé des stupéfiants à l'intérieur de leur corps.
 
+> **Appréciation critique** : il est permis de s'interroger sur la légitimité de ces mesures à des fins probatoires. 
+> 
+> Elles sont **particulièrement attentatoires à la dignité humaine**, et il existe en toute hypothèse des **moyens de détection techniques** (scanner, IRM permettant de parvenir aux mêmes fins sans porter une telle atteinte à l'intégrité corporelle). 
+> 
+> Si ces mesures devaient être admises, ce devrait être uniquement pour des **raisons de sécurité urgentes** (protection du suspect lui-même ou d'autrui) et non à des fins probatoires. 
+> 
+> La préférence devrait être donnée aux procédés techniques non invasifs, qui permettent d'atteindre le même objectif dans le respect de la dignité de la personne.
 
-##### B) Les actes relatifs aux biens
+###### c) La durée de la GAV
 
+- **Le régime de droit commun**
+
+	La garde à vue a une durée initiale de **24 heures**, renouvelable une fois pour **24 heures supplémentaires**, soit une durée maximale de **48 heures** en droit commun. 
+	
+	Ce régime s'applique aussi bien dans le cadre de l'enquête préliminaire que de l'enquête de flagrance.
+	
+	La prolongation au-delà de 24 heures est soumise à deux conditions cumulatives :
+	
+	- une **autorisation écrite et motivée du procureur de la République**, fondée sur les nécessités de l'enquête ;
+	- l'infraction doit être punie d'une peine d'emprisonnement **égale ou supérieure à un an**.
+
+- **Les régimes dérogatoires**
+
+|Infraction|Durée maximale|Autorité compétente au-delà de 48h|
+|---|---|---|
+|**Criminalité organisée**|96 heures|JLD|
+|**Terrorisme** (art. 706-88 CPP)|144 heures|JLD|
+
+- **Le calcul de la durée de la garde à vue**
+
+	**Le point de départ**
+	
+	Le délai de la garde à vue commence à courir **dès que l'individu est privé de sa liberté**. 
+	
+	Ce point de départ peut être fixé à différents moments, selon les circonstances :
+	
+	- **Par principe** : au moment où l'OPJ **notifie** à la personne son placement en garde à vue ;
+	- **En cas d'interpellation préalable** : le délai court dès **l'arrestation** de l'individu, avant même sa conduite au commissariat ;
+	- **En cas de contrôle d'identité préalable** suivi immédiatement d'un placement en garde à vue : le point de départ remonte au **début du contrôle d'identité** ;
+	- **En cas d'audition libre préalable** : le délai peut être fixé au **début de l'audition libre**, lorsque celle-ci a précédé le placement en garde à vue.
+	
+	En définitive, trois points de départ sont possibles :
+	
+	- le début de la **mesure de contrainte** constituant la garde à vue elle-même ;
+	- le début d'une **mesure de contrainte préalable** à la garde à vue ;
+	- le début d'une **audition libre préalable** à la garde à vue.
+
+> Ce qui compte, dans tous les cas, c'est le **début effectif de la privation de liberté**.
+
+- **Le « saucissonnage » de la garde à vue**
+
+	Pour un même fait, il est possible de **fractionner la garde à vue** en plusieurs périodes successives, dont la durée cumulée s'impute sur le maximum légal autorisé.
+	
+	Ce mécanisme permet aux enquêteurs de :
+	
+	- libérer temporairement la personne ;
+	- poursuivre les investigations en cours ;
+	- puis reprendre une nouvelle période de garde à vue.
+	
+	L'intérêt est de **ne pas épuiser d'un seul tenant** l'ensemble de la durée de garde à vue autorisée pour les mêmes faits, et de l'utiliser de manière plus stratégique selon l'avancement de l'enquête.
+
+> ⚠️ Cette règle ne vaut que pour les **mêmes faits**. Si de nouveaux faits distincts apparaissent, une **nouvelle garde à vue** peut être décidée, avec un délai qui repart intégralement de zéro.
+
+#### B) Les investigations matérielles
+
+##### 1) Les perquisitions
+
+La perquisition est un acte d'enquête à **finalité probatoire** : son but est de **découvrir des preuves**. 
+
+Elle suppose la réunion de **deux éléments cumulatifs** :
+
+- une **introduction dans un lieu** ;
+- une **activité de fouille**.
+
+Cette double exigence exclut du régime des perquisitions de nombreux comportements des enquêteurs. 
+
+Ainsi, le simple fait de se présenter au domicile d'un individu sans y pénétrer ni fouiller ne constitue pas une perquisition. 
+
+En revanche, si les enquêteurs aperçoivent depuis l'extérieur des indices apparents d'un comportement délictueux (cannabis visible, arme, etc.), ils peuvent se trouver en situation de flagrance et procéder alors à une perquisition.
+
+- **Les conditions de la perquisition**
+
+	1. **La condition de lieu**
+	
+		La perquisition ne peut porter que sur des **lieux clos**. Cette condition emporte plusieurs conséquences :
+		
+		- Un **jardin clôturé** relève du régime de la perquisition ; un jardin **non clôturé** relève du régime de la **fouille**, qui n'est pas soumise aux conditions d'horaires et peut donc être réalisée de jour comme de nuit.
+		
+		- Un **véhicule stationné sur la voie publique** relève de la fouille ; un véhicule stationné **dans un jardin clôturé**relève de la perquisition.
+		
+		La notion de **domicile** est entendue de manière extensive : il s'agit de tout lieu où une personne **exerce effectivement sa vie privée** et a le droit de se dire chez elle. 
+		
+		Sont notamment concernés :
+		
+		- la résidence principale ou secondaire ;
+		- une caravane habitée ;
+		- un véhicule aménagé dès lors qu'il est établi que la personne y réside effectivement.
+		
+		En revanche, une **maison inhabitée**, dont l'état révèle qu'elle n'est pas apte à recevoir (absence de lit, de mobilier de vie quotidienne), ne bénéficie pas des protections attachées au domicile.
+		
+		La perquisition peut également porter sur des **locaux professionnels**. 
+		
+		Certains d'entre eux bénéficient d'une **protection renforcée** en raison des secrets qu'ils abritent :
+		
+		- cabinets d'**avocats** et locaux des **ordres professionnels** (secret professionnel) ;
+		- cabinets **médicaux** (secret médical) ;
+		- **entreprises de presse** (secret des sources journalistiques) ;
+		- locaux abritant des **secrets de la défense nationale**.
+		
+		Pour ces lieux, des conditions supplémentaires s'imposent :
+		
+		- une **autorisation écrite et préalable** d'un magistrat (procureur de la République pour les lieux sensibles, **JLD** pour les plus protégés) — là où les OPJ disposent normalement d'un pouvoir d'initiative, une autorisation judiciaire est ici indispensable ;
+		
+		- la **présence d'un représentant de l'ordre professionnel** concerné (ex. : le bâtonnier ou son délégué pour un cabinet d'avocat).
+		Pour un cabinet d'avocat, la perquisition n'est possible que s'il existe des **éléments objectifs** permettant de soupçonner que l'avocat a **participé à une infraction pénale**.
+	
+	2. **La condition d'horaire**
+
+		En droit commun, les perquisitions sont **interdites entre 21h et 6h du matin**, afin de protéger la vie privée. 
+		
+		Une perquisition régulièrement commencée avant 21h peut toutefois se **poursuivre au-delà** de cette heure.
+		
+		Les perquisitions nocturnes sont autorisées de manière dérogatoire dans deux hypothèses :
+		
+		- **En matière de criminalité organisée** : elles sont autorisées aussi bien en enquête préliminaire qu'en enquête de flagrance.
+		
+		- **En droit commun** — art. 59-1 CPP : elles peuvent être autorisées à titre exceptionnel pour des finalités **probatoires, de poursuite ou préventives**, sous deux conditions cumulatives :
+		
+		    - être en situation de **flagrance** (cette dérogation ne s'applique pas en enquête préliminaire) ;
+		    
+		    - l'infraction doit être un **crime prévu au Livre II du Code pénal** (infractions contre les personnes : meurtre, traite des personnes, proxénétisme, etc.).
+		
+		Dans tous les cas, en raison du caractère **gravement attentatoire** à la vie privée, les perquisitions nocturnes doivent être **autorisées par le JLD**.
+		
+		La perquisition n'est soumise à **aucune durée maximale**. Sa durée dépend de l'étendue des lieux et de la complexité des investigations : elle peut durer plusieurs jours, voire plusieurs semaines pour de vastes propriétés. Le législateur a estimé qu'une limite temporelle abstraite serait contre-productive ; la seule règle est que la durée ne doit pas excéder ce qui est **strictement nécessaire** à la fouille.
+	
+	3. **La condition de consentement**
+		
+		L'exigence du consentement varie selon le cadre d'enquête :
+		
+		- **En enquête préliminaire** : le consentement est en principe **exigé**, les soupçons étant encore insuffisants pour justifier la contrainte. Par exception, une perquisition sans consentement est possible sur autorisation du JLD, lorsque l'infraction est punie d'au moins **5 ans d'emprisonnement**.
+		- **En enquête de flagrance** : le consentement **n'est pas requis**, la flagrance conférant à la mesure un caractère coercitif.
+	
+	4. **La présence de l'intéressé**
+	
+		Par principe, la perquisition doit se dérouler **en présence de la personne** chez qui elle a lieu. 
+		
+		En pratique, l'effet de surprise conduit fréquemment à ce que l'individu soit absent.
+		
+		Dans ce cas, les enquêteurs peuvent **pénétrer dans les lieux par la force** (recours à un serrurier), mais la perquisition ne peut alors être réalisée qu'en présence de **deux témoins ne se trouvant pas sous l'autorité des OPJ**, en pratique, il s'agit souvent de voisins.
+##### 2) Les saisies
+
+La saisie constitue la **suite logique** de la perquisition, et surtout sa **finalité** : elle poursuit un objectif **probatoire**, consistant à recueillir des éléments de preuve.
+
+- **Distinction avec d'autres mécanismes**
+
+	La saisie pénale doit être distinguée de deux autres notions :
+	
+	- La **saisie-exécution** (droit civil) : 
+	
+		Elle vise à garantir l'exécution d'une créance par un débiteur insolvable. 
+		
+		Sa finalité est une **garantie de paiement**, et non la recherche de preuves.
+	
+	- Les **réquisitions aux fins de communication** (art. 60-1 CPP) : 
+	
+		Il s'agit d'un acte par lequel le ministère public s'adresse à un **tiers** (opérateur téléphonique, banque, sécurité sociale, etc.) pour lui demander de **communiquer** des documents ou des données. 
+		
+		La distinction essentielle tient à l'**absence de fouille** : c'est le tiers qui transmet spontanément les éléments à l'autorité judiciaire, sans intervention directe des OPJ.
+
+> **Exemple** : le procureur peut, par réquisition, obtenir la liste des appels téléphoniques, les données de connexion, ou l'identification des émetteurs et destinataires de communications.
+
+- **L'objet des saisies**
+
+	Les saisies peuvent porter sur **tous types de biens**, quelle qu'en soit la nature :
+	
+	- biens **meubles ou immeubles** ;
+	- biens **corporels ou incorporels** (données informatiques, données de connexion).
+	
+	En pratique, les **ordinateurs et téléphones portables** sont systématiquement saisis lors des perquisitions, puis confiés à des services spécialisés pour exploitation, tant ils sont susceptibles de révéler des informations déterminantes.
+
+- **Les modalités de la saisie**
+
+	- Pour les **biens meubles** : ils sont **placés sous scellés**, étiquetés, répertoriés et conservés dans des locaux dédiés au tribunal.
+	
+	- Pour les **immeubles** : il est procédé à une **apposition de scellés**, interdisant l'accès aux lieux. Le non-respect de cette interdiction constitue le **délit de bris de scellés**.
+
+- **Les saisies incidentes**
+
+	Lors d'une perquisition fondée sur une infraction déterminée, les OPJ peuvent découvrir des objets **sans lien direct** avec cette infraction. 
+	
+	Trois situations sont alors possibles :
+	
+	1. **L'objet trouvé caractérise une situation de flagrance** (ex. : détention illégale d'arme, stupéfiants) → les OPJ peuvent **saisir l'objet sans consentement** et sans difficulté particulière.
+	
+	2. **L'objet trouvé ne caractérise pas une situation de flagrance** → la saisie n'est possible que si l'intéressé donne son **consentement**.
+	
+	3. **Dans tous les cas**, les enquêteurs peuvent **ouvrir une enquête incidente distincte** portant spécifiquement sur les nouveaux faits révélés par la découverte.
+
+# Chapitre 2 — L'enquête judiciaire et l'instruction préparatoire
+
+L'instruction préparatoire est menée par le **juge d'instruction**, magistrat du siège, contrairement au procureur de la République. 
+
+Sa nature **juridictionnelle** emporte une conséquence essentielle : ses décisions peuvent être **contestées** par voie d'appel devant la chambre de l'instruction, voire par un pourvoi en cassation. 
+
+Tel n'est pas le cas au cours de l'enquête policière, où les décisions du procureur de la République ne sont pas susceptibles de recours.
+
+L'expression **« instruction préparatoire »** traduit l'objectif de cette phase : **préparer l'affaire** afin qu'elle soit en état d'être jugée devant la juridiction de jugement. 
+
+En cela, l'instruction se rapproche de l'enquête policière, elle vise également à rassembler les preuves, à rechercher les auteurs et à découvrir la vérité. 
+
+Mais s'en distingue par un objectif supplémentaire : **renvoyer le suspect devant la juridiction de jugement**.
+
+Les trois juridictions de jugement sont :
+
+- le **tribunal de police** (contraventions) ;
+- le **tribunal correctionnel** (délits) ;
+- la **cour d'assises** et les **cours criminelles départementales** (crimes, punissables de 15 à 30 ans de réclusion criminelle).
+
+**— Le caractère facultatif de l'instruction**
+
+L'instruction n'est **obligatoire qu'en matière criminelle**. Elle est **facultative** en matière délictuelle et en pratique quasi inexistante pour les contraventions. 
+
+En matière délictuelle, elle ne concerne qu'environ **5 % des affaires**, généralement les plus complexes.
+
+> **Exemple** : le blanchiment de capitaux est un délit, mais sa complexité peut justifier l'ouverture d'une instruction.
+
+Dans la grande majorité des affaires, la procédure ne comporte donc que **deux phases** : l'enquête policière, suivie directement du jugement. 
+
+C'est le procureur qui saisit alors directement la juridiction de jugement. **L'essentiel de la procédure pénale se joue donc au stade de l'enquête policière.**
+
+**— L'avenir de l'instruction**
+
+Les pouvoirs du juge d'instruction ont été progressivement transférés au procureur de la République, de sorte qu'aujourd'hui leurs prérogatives d'enquête sont largement alignées. **L'instruction semble vouée à disparaître à terme.**
+
+- **Avantages de sa disparition** : meilleur respect des droits de la défense, le suspect aurait accès à l'entier dossier de procédure et pourrait le contester dès le stade de l'enquête.
+- **Inconvénients** : des délais de traitement bien plus longs, parfois un an, voire cinq ans.
+
+Pendant longtemps, on disait que **le juge d'instruction était l'homme le plus puissant de France**. On lui a progressivement retiré des pouvoirs, notamment celui de placer un individu en **détention provisoire**, désormais confié au JLD.
+
+> **L'affaire Outreau** a précipité cette évolution. Dans cette affaire, des enfants témoignaient de façon concordante d'actes de pédophilie commis par des notables locaux (notaires, huissiers, etc.). 
+> 
+> Le juge Burgot, gérant seul l'instruction, a placé l'ensemble des suspects en détention provisoire pendant plusieurs années alors que la majorité d'entre eux étaient innocents. 
+> 
+> Cette affaire a révélé plusieurs dysfonctionnements : 
+> - l'absence de contre-pouvoirs au cours de l'instruction, 
+> - les lacunes dans le recueil de la parole des enfants victimes (désormais confié à des psychiatres et psychologues spécialement formés),
+> - et les failles du mode de recrutement des magistrats.
+
+## Section 1 — Les caractères de l'instruction préparatoire
+
+L'instruction présente un caractère **mixte**, empruntant à la fois au modèle inquisitoire et au modèle accusatoire. Elle se distingue néanmoins nettement de l'enquête policière sur plusieurs points.
+
+1. **Le caractère écrit**
+
+	Comme l'enquête policière, l'instruction est **entièrement écrite** : tous les actes sont consignés dans des procès-verbaux et constituent le dossier de procédure.
+
+2. **Le caractère contradictoire**
+
+	Contrairement à l'enquête policière, où le suspect est cantonné à un rôle passif, l'instruction présente un **caractère contradictoire**, directement lié à sa nature juridictionnelle. 
+	
+	Le suspect y joue un **rôle actif** :
+	
+	- il a accès à **l'intégralité du dossier de procédure** ;
+	- il peut **demander des actes d'instruction** (auditions de témoins, confrontations avec la victime, expertises, etc.) ;
+	- il peut **contester les décisions** du juge d'instruction devant la chambre de l'instruction, voire se pourvoir en cassation.
+	
+	Le juge d'instruction conserve toutefois un pouvoir d'appréciation : il peut refuser les actes demandés s'il les estime inutiles ou non pertinents.
+	
+	L'avocat peut, à ce stade, **construire une véritable stratégie de défense**, disposant d'un accès complet au dossier, contrairement au stade de la garde à vue.
+
+3. **Le caractère secret**
+
+	L'instruction est également **secrète**, en application de l'**article 11 CPP**. 
+	
+	Ce secret poursuit deux finalités :
+	
+	- **protéger la présomption d'innocence** du suspect ;
+	- **garantir l'efficacité de la procédure**, en prévenant notamment le dépérissement des preuves.
+
+> ⚠️ Le secret porte sur **la procédure** elle-même, et non sur les **faits bruts** qui ne sont pas couverts par le secret de l'instruction. 
+> 
+> Par ailleurs, le procureur de la République peut, dans le cadre d'un **impératif d'intérêt public**, notamment pour rétablir une vérité objective lorsque les médias diffusent des informations erronées, communiquer certains éléments factuels, à condition que ceux-ci ne comportent **aucune appréciation sur le bien-fondé des charges** retenues contre les personnes mises en cause. 
+> 
+> C'est ce que l'on appelle une **« fenêtre d'information »**.
+
+**— Le domaine personnel du secret**
+
+Sont soumises au secret de l'instruction **toutes les personnes qui concourent à la procédure** : juges, policiers, gendarmes, greffiers, et plus généralement tous ceux qui réalisent des actes d'enquête ou d'instruction. Les personnes auditionnées peuvent également être considérées comme y concourant.
+
+En revanche, **les parties privées** (suspect, victime) ne sont pas soumises au secret de l'instruction, ce qui leur permet de divulguer des éléments pour les besoins de leur défense. 
+
+C'est ce que l'on appelle parfois un **« secret de Polichinelle »**.
+
+**— Le cas des avocats**
+
+L'avocat ne concourt pas officiellement à la procédure au sens de l'article 11 CPP. Il n'est donc pas soumis au secret de l'instruction à ce titre. Il est néanmoins tenu au secret par ses **obligations déontologiques**, sous peine de sanctions disciplinaires.
+
+**— Le cas des journalistes**
+
+Les journalistes ne concourent pas à la procédure. Toutefois, lorsqu'ils publient des éléments provenant de personnes qui y participent, ils peuvent être poursuivis pour **recel** de violation du secret de l'instruction, la divulgation par la source constituant l'infraction principale. La Cour de cassation a confirmé cette analyse.
+
+Cependant, la **CEDH** a estimé, au nom de la **liberté d'expression** (art. 10 CEDH), que les journalistes **ne peuvent pas être condamnés** pour recel d'informations couvertes par le secret de l'instruction.
+
+> La violation du secret de l'instruction est sanctionnée pénalement par l'**article 434-7-2 du Code pénal** : **3 ans d'emprisonnement**.
+
+## Section 2 — Le déroulement de l'instruction
+
+### §1 — L'ouverture de l'instruction
+
+**— La saisine du juge d'instruction**
+
+Le juge d'instruction **ne peut pas s'auto-saisir** : il doit être saisi. Cette règle est la conséquence du monopole du ministère public sur le déclenchement de l'action publique : seul le procureur de la République peut décider, au nom de la société, d'engager des poursuites pénales.
+
+Le juge d'instruction peut être saisi de deux manières :
+
+- **Par le ministère public** : le procureur saisit le juge d'instruction au moyen d'un **réquisitoire introductif d'instance**, qui déclenche l'action publique et ouvre l'instruction. Le procureur peut également procéder par **citation directe** du prévenu devant la juridiction de jugement, sans passer par l'instruction.
+
+- **Par la victime** : la victime peut saisir le juge d'instruction par une **plainte avec constitution de partie civile**, lui permettant ainsi de passer outre l'inaction du ministère public. Elle peut également procéder par **citation directe**devant la juridiction de jugement.
+
+**— L'objet de la saisine**
+
+Le juge d'instruction est saisi **in rem**, c'est-à-dire des **faits visés dans le réquisitoire** et non **in personam**. 
+
+Il peut donc étendre ses recherches au-delà des personnes nommément désignées, voire ouvrir une information contre **personne non dénommée (X)**.
+
+Il n'est pas lié par les **qualifications juridiques** retenues dans le réquisitoire et dispose d'un **pouvoir de requalification** des faits. 
+
+En revanche, s'il découvre des faits nouveaux non visés dans le réquisitoire, il doit en saisir le procureur de la République afin qu'il prenne un **réquisitoire supplétif** étendant la saisine.
+
+Dans l'attente, le juge d'instruction peut réaliser des **actes conservatoires**, vérifications sommaires destinées à éviter le dépérissement des preuves, mais ceux-ci **ne peuvent pas être coercitifs** (pas de garde à vue, pas de perquisition).
+
+> En pratique, ce blocage est souvent contourné en recourant à l'**enquête de flagrance**, qui est coercitive, et en ouvrant une **procédure incidente** pour les faits nouveaux, afin d'éviter la lourdeur du mécanisme prévu à l'alinéa 3 de l'article 80 CPP.
+
+### §2 — L'exercice de l'instruction
+
+#### I — Les personnes non suspectes
+
+**— La victime**
+
+La victime peut avoir deux statuts au cours de l'instruction :
+
+- **Simple victime** : son statut se rapproche de celui d'un témoin. Elle dispose uniquement d'un **droit à l'information**sur l'avancement de la procédure (art. 10-2 CPP).
+
+- **Partie civile** : en tant que partie au procès pénal, elle dispose de droits bien plus étendus. Elle peut se constituer partie civile soit par **citation directe**, soit par **plainte avec constitution de partie civile**.
+
+La partie civile peut agir de deux manières :
+
+- **Par voie d'action** : en cas de classement sans suite, elle déclenche elle-même le procès pénal par citation directe ;
+
+- **Par voie d'intervention** : elle se greffe à l'action publique déjà engagée par le ministère public.
+
+Dans le procès pénal, trois parties sont alors en présence :
+
+- Le **ministère public** : demandeur à l'action publique ;
+- La **partie civile** : demandeur à l'action civile (réparation du préjudice) ;
+- Le **mis en examen** : défendeur à l'action publique et à l'action civile.
+
+**— Les droits de la partie civile**
+
+Sous l'influence de la CEDH, les droits de la victime ont été progressivement alignés sur ceux du suspect, au nom du **principe d'égalité des armes**. 
+
+La partie civile bénéficie notamment :
+
+- du **droit de déclencher le procès pénal** ;
+- du **droit à l'information** sur l'avancement de la procédure ;
+- du **droit de participer à l'instruction** : elle peut demander des actes (perquisitions, auditions, confrontations) ;
+- du **droit de contestation** : appel devant la chambre de l'instruction, pourvoi en cassation ;
+- du **droit à un avocat**.
+
+> ⚠️ Le droit de contestation de la partie civile est limité : elle ne peut pas contester les décisions relatives à la **condamnation du suspect** ou à sa **liberté**. En pratique néanmoins, devant la cour d'assises, les avocats de parties civiles plaident souvent davantage en faveur de la condamnation du suspect que sur la seule réparation du préjudice.
+
+**— Les témoins**
+
+Le témoin n'a **aucun droit**, mais seulement des **obligations**, au nombre de trois :
+
+1. **L'obligation de comparaître** : s'il est cité à comparaître et ne se présente pas, il peut y être contraint par la force publique.
+
+2. **L'obligation de prêter serment** : le témoin prête serment et s'expose, en cas de faux témoignage, à des poursuites pénales. Le suspect, lui, ne prête pas serment, de même que ses proches (conjoint, frères et sœurs, parents, ascendants et descendants).
+
+3. **L'obligation de déposer** : le témoin ne peut pas garder le silence, contrairement au suspect. Il existe toutefois des exceptions liées au **secret professionnel**, dont la jurisprudence distingue deux catégories :
+
+    - **Secret absolu** : médecins, avocats, notaires, ils peuvent refuser de déposer.
+    - **Secret relatif** : infirmières, éducateurs spécialisés, ils sont tenus de déposer, l'objectif de découverte de la vérité primant sur leur secret professionnel.
+
+> Même lorsque le secret est absolu, certains professionnels peuvent être tenus de **dénoncer des faits**impliquant des personnes vulnérables. 
+> 
+> Le médecin se trouve alors face à une tension entre son **obligation de secret** et son **obligation de dénonciation** : il dispose d'une **liberté de conscience**. 
+> 
+> S'il dénonce, il ne sera pas poursuivi pour violation du secret professionnel.
+> 
+> S'il ne dénonce pas, il ne sera pas poursuivi pour non-dénonciation de crime. Il en va de même pour les **ministres du culte**.
+
+#### II — Le suspect
+
+Le suspect peut avoir **deux statuts** au cours de l'instruction.
+
+- **Mis en examen** (MEX) : statut applicable lorsque les soupçons sont graves. C'est un statut **protecteur**, qui confère la plénitude des droits de la défense, mais également **stigmatisant** (le terme « inculpé », utilisé jusqu'en 1993, tirait sa racine du latin _culpa_ (faute) et a été abandonné pour son incompatibilité avec la présomption d'innocence).
+
+- **Témoin assisté** : statut intermédiaire, applicable lorsque les soupçons existent mais sont moins intenses. C'est un statut **plus favorable** pour le suspect sur le plan de l'image, mais plus limité en termes de droits.
+
+La différence entre les deux statuts est significative. 
+
+Le mis en examen est **partie à la procédure** et bénéficie de la **plénitude des droits de la défense** : il dispose du droit de contester les décisions du juge d'instruction devant la chambre de l'instruction et peut, à l'issue de l'instruction, être **renvoyé devant la juridiction de jugement**. 
+
+Le témoin assisté, quant à lui, **n'est pas partie à la procédure** : s'il peut se défendre et demander des actes d'instruction, il ne dispose ni du **droit de contestation**, ni de la possibilité d'être renvoyé devant la juridiction de jugement.
+
+> Ce cadre peut conduire à une situation paradoxale : le témoin assisté peut parfois avoir **intérêt à demander sa mise en examen**, notamment lorsqu'il souhaite accéder au droit de contestation des décisions du juge d'instruction, ce qui illustre bien le caractère **protecteur** du statut de mis en examen, en dépit de son effet stigmatisant.
+
+##### A — La décision de mise en examen
+
+La mise en examen est un statut à **double effet** : il est **protecteur** (plénitude des droits de la défense) mais **stigmatisant** (présomption de culpabilité dans l'opinion publique). 
+
+C'est pourquoi le législateur cherche à éviter à la fois les mises en examen **trop précoces** (effet stigmatisant injustifié) et les mises en examen **trop tardives** (privation injustifiée des droits de la défense).
+
+###### 1 — **Les conditions de fond**
+
+Deux textes organisent les conditions de la mise en examen, selon une logique de **seuil de soupçon** :
+
+**Art. 81-1 CPP — mise en examen facultative**
+
+Il suffit d'**indices graves _ou_ concordants**. Les conditions sont **alternatives** : la présence de l'un ou l'autre suffit. Ce seuil plus bas traduit la lutte contre les mises en examen trop précoces.
+
+**Art. 105 CPP — mise en examen obligatoire**
+
+Il faut des **indices graves _et_ concordants**. Les conditions sont **cumulatives** : lorsque ce seuil est atteint, le juge d'instruction est **obligé** de conférer au suspect le statut protecteur de mis en examen, afin d'éviter les mises en examen trop tardives destinées à éluder les droits de la défense.
+
+> **Distinction entre les deux types d'indices :**
+> 
+> - Un **indice grave** : se suffit à lui-même pour établir un soupçon fort.
+> - Des **indices concordants** : individuellement insuffisants, ils permettent ensemble d'établir la culpabilité. Ils impliquent nécessairement une **pluralité** d'éléments.
+> 
+> ⚠️ La rédaction légale « indices graves _ou_ concordants » aurait dû être « indices graves _ou_ indices concordants entre eux », car un seul indice concordant ne suffit pas, il en faut plusieurs. En pratique, l'appréciation de ces seuils est difficile à contrôler, ce qui confère au juge d'instruction **un pouvoir discrétionnaire important**.
+
+###### 2 — **La condition de subsidiarité**
+
+La mise en examen n'est possible que s'il **n'est pas possible de recourir** au statut de témoin assisté (art. 81-1 al. 3 CPP). 
+
+Elle présente néanmoins des intérêts que le statut de témoin assisté ne peut offrir :
+
+- permettre de **soumettre l'individu à un régime restrictif de liberté** (contrôle judiciaire, détention provisoire) ;
+- **seule une personne préalablement mise en examen** peut être renvoyée devant la juridiction de jugement. Le témoin assisté ne peut pas l'être.
+
+###### 3 — **Les conditions de forme**
+
+Avant de placer un individu en examen, le juge d'instruction doit le convoquer à un **interrogatoire de première comparution (IPC)** (art. 81-1 al. 2 CPP). 
+
+Au cours de cet interrogatoire, le juge envisage la mise en examen et, le cas échéant, décide d'une mesure restrictive de liberté ou du renvoi devant la juridiction de jugement. 
+
+Le non-respect des conditions formelles de l'IPC peut entraîner son **annulation** et celle de tous les actes qui en découlent.
+
+##### B — Les effets de la mise en examen
+
+La mise en examen produit des effets à un **double égard** : 
+- du côté du suspect ;
+- et du côté de l'accusation.
+
+**Du côté du suspect**, la mise en examen est un statut **protecteur**. Dès lors qu'il est mis en examen, le suspect acquiert la qualité de **partie au procès pénal** et accède à la **plénitude des droits de la défense** :
+
+- il a accès à **l'ensemble du dossier de procédure** ;
+- il peut **contester les décisions** du juge d'instruction devant la chambre de l'instruction ;
+- il peut **demander des actes d'instruction** au juge d'instruction (auditions, confrontations, expertises, etc.).
+
+Le témoin assisté, en revanche, n'est pas partie au procès pénal : s'il peut se défendre et demander des actes, il ne dispose **ni du droit d'appel, ni du droit de contestation**.
+
+**Du côté de l'accusation**, la mise en examen est un préalable indispensable à deux égards :
+
+- elle est nécessaire pour **restreindre ou priver le suspect de liberté** au cours de l'instruction ;
+- **seul un individu préalablement mis en examen** peut être renvoyé devant la juridiction de jugement. Le témoin assisté ne peut pas l'être.
+
+##### C — La liberté du mise en examen
+
+L'**article 137 CPP** pose le principe fondamental : **toute personne mise en examen est présumée innocente et demeure libre**. 
+
+Par exception, sa liberté peut être restreinte ou supprimée, selon un régime **progressif allant de la mesure la moins contraignante à la plus contraignante**.
+
+###### 1 — Le contrôle judiciaire
+
+C'est la **mesure la moins restrictive**. 
+
+Il est soumis à deux conditions :
+
+- une **condition de gravité** : l'infraction suspectée doit être punie d'une peine d'emprisonnement ;
+- une **condition de subsidiarité** : la mesure doit être nécessaire.
+
+Le contrôle judiciaire se traduit par des **obligations de faire ou de ne pas faire**, parmi lesquelles :
+
+- pointer régulièrement au commissariat ou à la gendarmerie ;
+- remettre son passeport (interdiction de quitter le territoire) ;
+- ne pas approcher certains lieux ou certaines personnes (victime, témoins) ;
+- suivre un traitement médical ou une injonction de soins.
+
+Le non-respect de ces obligations peut entraîner directement un placement en **détention provisoire**.
+###### 2 — L'assignation à résidence sous surveillance électronique (ARSE)
+
+Cette mesure est applicable lorsque l'infraction est punie d'au moins **2 ans d'emprisonnement**. Elle est **privative de liberté** : le mis en examen est cantonné à son domicile. 
+
+Elle peut être :
+
+- **fixe** : l'individu ne peut pas quitter son domicile ;
+- **mobile** : l'individu peut sortir à certaines heures déterminées, notamment pour travailler.
+
+L'ARSE poursuit un double objectif : **éviter la désocialisation** de l'individu et **lutter contre la surpopulation carcérale**.
+
+###### 3 — La détention provisoire
+
+La détention provisoire est prévue à l'**alinéa 3 de l'article 137 CPP**. 
+
+Il s'agit d'une **mesure privative de liberté**, à caractère **exceptionnel**, applicable aux personnes placées en **maison d'arrêt** (pour les peines inférieures à 2 ans).
+
+Elle est soumise à **trois conditions cumulatives** de fond :
+
+1. **Condition de gravité** — art. 143-1 CPP :
+	
+	- l'infraction doit être un **crime** ;
+	- ou un délit puni d'au moins **3 ans d'emprisonnement** ;
+	- ou, à titre subsidiaire, lorsque le mis en examen se soustrait volontairement aux obligations d'un contrôle judiciaire ou d'une ARSE.
+
+2. **Condition de subsidiarité** : la détention provisoire ne peut être ordonnée que si le contrôle judiciaire ou l'ARSE sont **insuffisants** pour atteindre les objectifs visés.
+
+3. **Condition de nécessité** — art. 144 CPP : la détention provisoire doit constituer **l'unique moyen** de parvenir à l'un des **7 objectifs** suivants :
+
+| Finalité       | Objectifs                                                                                                                                                                                                                                              |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Probatoire** | Conserver les preuves ou indices matériels (1°) ; empêcher une concertation frauduleuse avec les coauteurs ou complices (3°)                                                                                                                           |
+| **Préventive** | Empêcher des pressions sur les témoins ou les victimes (2°) ; protéger la personne mise en examen elle-même (4°) ; mettre fin à l'infraction ou prévenir son renouvellement (6°)                                                                       |
+| **Poursuites** | Garantir le maintien du mis en examen à la disposition de la justice (5°) ; mettre fin au trouble exceptionnel et persistant à l'ordre public, uniquement en matière criminelle, ce trouble ne pouvant résulter du seul retentissement médiatique (7°) |
+- Quant aux **conditions** **de** **forme** :
+
+	La détention provisoire est ordonnée par le **JLD**, saisi par une ordonnance motivée du **juge d'instruction**, accompagnée des réquisitions du procureur de la République (art. 137-1 CPP). 
+	
+	En pratique, le JLD suit quasi systématiquement l'avis du juge d'instruction.
+	
+	En cas de **refus du juge d'instruction** de saisir le JLD, le procureur de la République dispose d'une faculté de **saisine directe du JLD**, mais uniquement pour les infractions punies d'au moins **10 ans d'emprisonnement** (art. 137-4 CPP). 
+	
+	C'est ce que l'on appelle la **procédure du double regard**.
+
+- **La durée de la détention provisoire**
+
+	La durée varie selon la nature de l'infraction :
+	
+	- _En matière correctionnelle_ — art. 145-1 CPP :
+
+		- **4 mois** en principe ;
+		- prolongeable par périodes de 4 mois, dans la limite d'**1 an** au total ;
+		- **2 ans** maximum dans certains cas graves (faits commis hors du territoire national, trafic de stupéfiants, proxénétisme, extorsion de fonds, bande organisée avec peine égale à 10 ans) ;
+		- prolongation exceptionnelle de 4 mois supplémentaires par la chambre de l'instruction en cas de risque particulier pour la sécurité des personnes et des biens.
+
+	- _En matière criminelle_ — art. 145-2 CPP :
+		
+		- **1 an** en principe, renouvelable ;
+		- **2 ans** maximum si la peine encourue est inférieure à 20 ans de réclusion ;
+		- **3 ans** maximum si la peine est supérieure à 20 ans ;
+		- **4 ans** maximum en matière de terrorisme, crimes en bande organisée, ou faits commis hors du territoire national ;
+		- prolongation exceptionnelle de 4 mois par la chambre de l'instruction, renouvelable une fois.
+
+> **La durée maximale absolue de la détention provisoire est donc de 4 ans.**
+
+- **Le contentieux de la détention provisoire**
+
+	- La personne détenue peut former une **demande de mise en liberté**, jugée dans un bref délai ;
+	- Elle peut former un **appel devant la chambre de l'instruction**, qui doit statuer dans un délai de **10 jours** ;
+	- Elle peut également saisir le **président de la chambre de l'instruction** via le mécanisme du **référé liberté**, qui doit statuer dans un délai de **3 jours**.
+
+- **L'indemnisation de la détention provisoire injuste**
+
+	En application de l'**article 149 CPP**, la personne ayant fait l'objet d'une détention provisoire au cours d'une procédure terminée par : 
+	- une **décision de non-lieu, 
+	- de relaxe ou d'acquittement** devenue définitive a droit, à sa demande ;
+	- à une **réparation intégrale de son préjudice** moral, matériel et financier (notamment la perte d'emploi).
+	
+	Cette réparation n'est pas due dans certains cas, notamment lorsque la décision est fondée sur l'irresponsabilité pénale pour trouble mental, sur une amnistie, ou lorsque la personne s'est faussement accusée.
+
+> Lorsque la décision de non-lieu, de relaxe ou d'acquittement est notifiée, la personne est **avisée de son droit à réparation**.
+
+- **La réalisation des actes d'instruction et la clôture**
+
+	Au cours de l'instruction, ce sont les **OPJ** qui réalisent concrètement les actes d'enquête, sous la direction du juge d'instruction, **sur commission rogatoire**. Le juge d'instruction peut également délivrer un **mandat d'amener** ou un **mandat de dépôt** (incarcération).
+
+	Les décisions du juge d'instruction prennent la forme d'**ordonnances**, contestables devant la **chambre de l'instruction**.
+	
+	**La clôture de l'instruction** donne lieu à deux types d'ordonnances :
+	
+	- **L'ordonnance de non-lieu** : le juge d'instruction estime que les charges sont insuffisantes pour renvoyer l'individu devant la juridiction de jugement. 
+	
+		Le non-lieu peut être fondé :
+		
+	    - **en droit** : raison juridique s'opposant au renvoi (irresponsabilité pénale pour trouble mental, prescription de l'action publique, etc.). Depuis 2008, lorsque le non-lieu est fondé sur l'irresponsabilité pénale, un **mini-procès public** est organisé pour établir la matérialité des faits, afin de ne pas laisser les victimes sans réponse ;
+	    
+	    - **en fait** : insuffisance des éléments à charge.
+	    
+	- **L'ordonnance de renvoi** : le juge d'instruction estime les charges suffisantes et renvoie l'individu devant la juridiction de jugement compétente, en précisant les faits reprochés et leurs qualifications pénales. Lorsque le renvoi s'effectue devant la **cour d'assises** pour un crime, l'ordonnance prend le nom d'**ordonnance de mise en accusation**, l'individu reçoit alors le statut d'**accusé**
+
+Avant la clôture, les parties peuvent **formuler des observations** et demander des actes complémentaires dans un délai d'**1 mois** si le mis en examen est en détention provisoire, et de **3 mois** dans le cas contraire.
