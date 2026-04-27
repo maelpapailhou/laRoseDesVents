@@ -1,7 +1,3 @@
-Introduction rappel** 
-
-  
-
 L’état ou les collectivité territoriale peuvent exploiter des entreprise soit dans le cadre de cette activité administrative, ici on ne créer pas de personne morale c'est simplement un administrateur de l’état qui vont exploiter l’entreprise. Par exemple les piscine de la municipalité qui est un SPIC. À coté de ça on a les EPIC qui sont des entité, établissement doté d cela personnalité morale et donc leurs object est là encore d’exploiter des entreprise c'est le cas de théâtre municipaux. 
 
   
